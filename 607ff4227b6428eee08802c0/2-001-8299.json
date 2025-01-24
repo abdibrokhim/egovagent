@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859814ee4af88f66e58cdf"
-    },
-    {
         "Hudud": "Khorezm",
         "UMUMIYREJAGA": "22639",
         "MCHILTIBSUGRISHG": "19696",
@@ -15,6 +12,8 @@
         "SHUNDANSABZAVOTGA": "240",
         "SHUNDANOZUQABOPEKINLARGA": "203",
         "DISKRETSUGORISHGA": "1000",
-        "SHUNDANPAXTAGAa": "1000"
+        "SHUNDANPAXTAGAa": "1000",
+        "path_id": "63859814ee4af88f66e58cdf",
+        "ID": "1"
     }
 ]

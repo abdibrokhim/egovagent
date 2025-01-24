@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "63859902ee4af88f66e58d05"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "NASOSSTNTSIYALARISNIDN": "273",
         "NASOSGRGTLARISNIDN": "599",
-        "BIRIKTIRILGNMYDNMINGG": "182.2"
+        "BIRIKTIRILGNMYDNMINGG": "182.2",
+        "path_id": "63859902ee4af88f66e58d05",
+        "ID": "1"
     }
 ]

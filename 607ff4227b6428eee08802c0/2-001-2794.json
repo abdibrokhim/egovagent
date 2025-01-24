@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371e3fc206a79bd4ad0bef1"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "JAMIKANALLARUZUNLIGIKM": "3869",
         "SHUJUMLADANTUPROQOZANLI": "3781",
@@ -16,6 +13,8 @@
         "SHUJUMLADNKVDUK": "37",
         "SHUJUMLADNKOPRIK": "108",
         "SHUJUMLADNBSHQLR": "251",
-        "GIDROPOST": "1018"
+        "GIDROPOST": "1018",
+        "path_id": "6371e3fc206a79bd4ad0bef1",
+        "ID": "1"
     }
 ]

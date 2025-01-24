@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371d33b206a79bd4ad0be20"
-    },
-    {
         "Nomi": "Republic\r\nof Karakalpakstan",
         "Olchovbirligi": "Units",
         "haydovtraktorlarsoni": "719",
@@ -17,6 +14,8 @@
         "Kultivatorlar": "1544",
         "Donekishseyalkasi": "52",
         "Chigitekishseyalkasi": "902",
-        "Yertekislagich": "126"
+        "Yertekislagich": "126",
+        "path_id": "6371d33b206a79bd4ad0be20",
+        "ID": "1"
     }
 ]

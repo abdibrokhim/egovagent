@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371d36c206a79bd4ad0be22"
-    },
-    {
         "Nomi": "Khorezm",
         "Olchovbirligi": "Units",
         "haydovtraktorlarsoni": "892",
@@ -17,6 +14,8 @@
         "Kultivatorlar": "1550",
         "Donekishseyalkasi": "25",
         "Chigitekishseyalkasi": "1014",
-        "Yertekislagich": "838"
+        "Yertekislagich": "838",
+        "path_id": "6371d36c206a79bd4ad0be22",
+        "ID": "1"
     }
 ]

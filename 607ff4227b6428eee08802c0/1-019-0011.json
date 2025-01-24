@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "610803422a2e256d868e87a3"
-    },
-    {
         "ID": "1",
         "viloyatlar": "Republic Of Karakalpakstan",
         "Jamisugoriladiganmaydonlarminggektar": "508.6",
@@ -10,7 +7,8 @@
         "Jamishorlanganmaydonminggektar": "383.1",
         "Kamshorlanganminggektar": "152.2",
         "Ortashorlanganminggektar": "189.6",
-        "Kuchlishorlanganminggektar": "41.3"
+        "Kuchlishorlanganminggektar": "41.3",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "2",
@@ -20,7 +18,8 @@
         "Jamishorlanganmaydonminggektar": "7.6",
         "Kamshorlanganminggektar": "3.2",
         "Ortashorlanganminggektar": "4.4",
-        "Kuchlishorlanganminggektar": "0"
+        "Kuchlishorlanganminggektar": "0",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "3",
@@ -30,7 +29,8 @@
         "Jamishorlanganmaydonminggektar": "236.3",
         "Kamshorlanganminggektar": "170.7",
         "Ortashorlanganminggektar": "59.1",
-        "Kuchlishorlanganminggektar": "6.5"
+        "Kuchlishorlanganminggektar": "6.5",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "4",
@@ -40,7 +40,8 @@
         "Jamishorlanganmaydonminggektar": "233.2",
         "Kamshorlanganminggektar": "150.9",
         "Ortashorlanganminggektar": "76.9",
-        "Kuchlishorlanganminggektar": "5.4"
+        "Kuchlishorlanganminggektar": "5.4",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "5",
@@ -50,7 +51,8 @@
         "Jamishorlanganmaydonminggektar": "230.5",
         "Kamshorlanganminggektar": "175.6",
         "Ortashorlanganminggektar": "43.6",
-        "Kuchlishorlanganminggektar": "11.4"
+        "Kuchlishorlanganminggektar": "11.4",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "6",
@@ -60,7 +62,8 @@
         "Jamishorlanganmaydonminggektar": "100.5",
         "Kamshorlanganminggektar": "87.8",
         "Ortashorlanganminggektar": "11.9",
-        "Kuchlishorlanganminggektar": "0.8"
+        "Kuchlishorlanganminggektar": "0.8",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "7",
@@ -70,7 +73,8 @@
         "Jamishorlanganmaydonminggektar": "23.4",
         "Kamshorlanganminggektar": "16.5",
         "Ortashorlanganminggektar": "6.2",
-        "Kuchlishorlanganminggektar": "0.7"
+        "Kuchlishorlanganminggektar": "0.7",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "8",
@@ -80,7 +84,8 @@
         "Jamishorlanganmaydonminggektar": "4.6",
         "Kamshorlanganminggektar": "4.3",
         "Ortashorlanganminggektar": "0.3",
-        "Kuchlishorlanganminggektar": "0"
+        "Kuchlishorlanganminggektar": "0",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "9",
@@ -90,7 +95,8 @@
         "Jamishorlanganmaydonminggektar": "98.7",
         "Kamshorlanganminggektar": "69.6",
         "Ortashorlanganminggektar": "28.1",
-        "Kuchlishorlanganminggektar": "1"
+        "Kuchlishorlanganminggektar": "1",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "10",
@@ -100,7 +106,8 @@
         "Jamishorlanganmaydonminggektar": "280.7",
         "Kamshorlanganminggektar": "230.2",
         "Ortashorlanganminggektar": "45.9",
-        "Kuchlishorlanganminggektar": "4.6"
+        "Kuchlishorlanganminggektar": "4.6",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "11",
@@ -110,7 +117,8 @@
         "Jamishorlanganmaydonminggektar": "10.7",
         "Kamshorlanganminggektar": "8.9",
         "Ortashorlanganminggektar": "1.7",
-        "Kuchlishorlanganminggektar": "0"
+        "Kuchlishorlanganminggektar": "0",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "12",
@@ -120,7 +128,8 @@
         "Jamishorlanganmaydonminggektar": "125.2",
         "Kamshorlanganminggektar": "102.5",
         "Ortashorlanganminggektar": "20.8",
-        "Kuchlishorlanganminggektar": "1.9"
+        "Kuchlishorlanganminggektar": "1.9",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "13",
@@ -130,7 +139,8 @@
         "Jamishorlanganmaydonminggektar": "265.4",
         "Kamshorlanganminggektar": "152.2",
         "Ortashorlanganminggektar": "81.3",
-        "Kuchlishorlanganminggektar": "31.9"
+        "Kuchlishorlanganminggektar": "31.9",
+        "path_id": "610803422a2e256d868e87a3"
     },
     {
         "ID": "14",
@@ -140,6 +150,7 @@
         "Jamishorlanganmaydonminggektar": "2000",
         "Kamshorlanganminggektar": "1324.6",
         "Ortashorlanganminggektar": "569.9",
-        "Kuchlishorlanganminggektar": "105.5"
+        "Kuchlishorlanganminggektar": "105.5",
+        "path_id": "610803422a2e256d868e87a3"
     }
 ]

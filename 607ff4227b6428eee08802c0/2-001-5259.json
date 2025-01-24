@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371e484206a79bd4ad0bef5"
-    },
-    {
         "Hudud": " Bukhara",
         "JAMIKANALLARUZUNLIGIKM": "1764",
         "SHUJUMLADANTUPROQOZANLI": "1003",
@@ -16,6 +13,8 @@
         "SHUJUMLADNKVDUK": "168",
         "SHUJUMLADNKOPRIK": "36",
         "SHUJUMLADNBSHQLR": "381",
-        "GIDROPOST": "1101"
+        "GIDROPOST": "1101",
+        "path_id": "6371e484206a79bd4ad0bef5",
+        "ID": "1"
     }
 ]

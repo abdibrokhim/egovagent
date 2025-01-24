@@ -1,26 +1,26 @@
 [
     {
-        "path_id": "6107f6622a2e256d868e8796"
-    },
-    {
         "ID": "1",
         "OzbekistonRespublikasiQishloqXojaligiVazirligi": "Central Department of the Ministry of Agriculture of the Republic of Uzbekistan",
         "Vakantlavizimi": "Deputy Head of the Department for Implementation of Agricultural Development Strategy and Introduction of Innovations - Head of the Department of Investments and Foreign Grants",
         "Shtatsoni": "1",
-        "Manzili": "Tashkent region, Kibray district, st. Universitet 2."
+        "Manzili": "Tashkent region, Kibray district, st. Universitet 2.",
+        "path_id": "6107f6622a2e256d868e8796"
     },
     {
         "ID": "2",
         "OzbekistonRespublikasiQishloqXojaligiVazirligi": "Central Department of the Ministry of Agriculture of the Republic of Uzbekistan",
         "Vakantlavizimi": "Leading specialist of the Department of Investments and Foreign Grants",
         "Shtatsoni": "1",
-        "Manzili": "Tashkent region, Kibray district, st. Universitet 2."
+        "Manzili": "Tashkent region, Kibray district, st. Universitet 2.",
+        "path_id": "6107f6622a2e256d868e8796"
     },
     {
         "ID": "3",
         "OzbekistonRespublikasiQishloqXojaligiVazirligi": "Central Department of the Ministry of Agriculture of the Republic of Uzbekistan",
         "Vakantlavizimi": "Head of the Department for the Development of Bio-Farming in the Conditions of Global Climate Change",
         "Shtatsoni": "1",
-        "Manzili": "Tashkent region, Kibray district, st. Universitet 2."
+        "Manzili": "Tashkent region, Kibray district, st. Universitet 2.",
+        "path_id": "6107f6622a2e256d868e8796"
     }
 ]

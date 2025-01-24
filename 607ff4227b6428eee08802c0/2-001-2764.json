@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "6371db02206a79bd4ad0be38"
-    },
-    {
         "Hudud": " Bukhara",
         "JAMISUGORILADIGANMAYDONLAR": "274.9",
         "SHORLANMAGANMAYDON": "38.6",
         "JAMISHORLANGANMAYDON": "236.3",
         "KAMSHORLANGAN": "170.7",
         "ORTASHORLANGAN": "59.1",
-        "KUCHLISHORLANGAN": "6.5"
+        "KUCHLISHORLANGAN": "6.5",
+        "path_id": "6371db02206a79bd4ad0be38",
+        "ID": "1"
     }
 ]

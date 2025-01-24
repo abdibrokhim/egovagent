@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371dd0b206a79bd4ad0be40"
-    },
-    {
         "Hudud": " Bukhara",
         "2022YILNINGNOSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "2165.8",
         "SHUJUMLDNSUGRISHG": "2077.3",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSANOATGA": "3",
         "SHUJUMLDNKMMUNLOJLIGIG": "74",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "11",
-        "SHUJUMLDNBSHQSHLRG": "0.6"
+        "SHUJUMLDNBSHQSHLRG": "0.6",
+        "path_id": "6371dd0b206a79bd4ad0be40",
+        "ID": "1"
     }
 ]

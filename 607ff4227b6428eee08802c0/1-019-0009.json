@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "610802982a2e256d868e879f"
-    },
-    {
         "ID": "1",
         "viloyatlar": "Republic Of Karakalpakstan",
         "Haydov traktorlar soni": "719",
@@ -17,7 +14,8 @@
         "Kultivatorlar ": "1544",
         "Don ekish seyalkasi ": "52",
         "Chigit ekish seyalkasi": "902",
-        "Yer tekislagich": "126"
+        "Yer tekislagich": "126",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "2",
@@ -34,7 +32,8 @@
         "Kultivatorlar ": "1586",
         "Don ekish seyalkasi ": "15",
         "Chigit ekish seyalkasi": "914",
-        "Yer tekislagich": "194"
+        "Yer tekislagich": "194",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "3",
@@ -51,7 +50,8 @@
         "Kultivatorlar ": "2618",
         "Don ekish seyalkasi ": "113",
         "Chigit ekish seyalkasi": "297",
-        "Yer tekislagich": "120"
+        "Yer tekislagich": "120",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "4",
@@ -68,7 +68,8 @@
         "Kultivatorlar ": "1411",
         "Don ekish seyalkasi ": "73",
         "Chigit ekish seyalkasi": "447",
-        "Yer tekislagich": "127"
+        "Yer tekislagich": "127",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "5",
@@ -85,7 +86,8 @@
         "Kultivatorlar ": "2051",
         "Don ekish seyalkasi ": "28",
         "Chigit ekish seyalkasi": "1245",
-        "Yer tekislagich": "79"
+        "Yer tekislagich": "79",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "6",
@@ -102,7 +104,8 @@
         "Kultivatorlar ": "565",
         "Don ekish seyalkasi ": "37",
         "Chigit ekish seyalkasi": "254",
-        "Yer tekislagich": "71"
+        "Yer tekislagich": "71",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "7",
@@ -119,7 +122,8 @@
         "Kultivatorlar ": "1389",
         "Don ekish seyalkasi ": "46",
         "Chigit ekish seyalkasi": "588",
-        "Yer tekislagich": "95"
+        "Yer tekislagich": "95",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "8",
@@ -136,7 +140,8 @@
         "Kultivatorlar ": "1560",
         "Don ekish seyalkasi ": "27",
         "Chigit ekish seyalkasi": "962",
-        "Yer tekislagich": "59"
+        "Yer tekislagich": "59",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "9",
@@ -153,7 +158,8 @@
         "Kultivatorlar ": "1345",
         "Don ekish seyalkasi ": "119",
         "Chigit ekish seyalkasi": "704",
-        "Yer tekislagich": "87"
+        "Yer tekislagich": "87",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "10",
@@ -170,7 +176,8 @@
         "Kultivatorlar ": "585",
         "Don ekish seyalkasi ": "24",
         "Chigit ekish seyalkasi": "453",
-        "Yer tekislagich": "136"
+        "Yer tekislagich": "136",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "11",
@@ -187,7 +194,8 @@
         "Kultivatorlar ": "682",
         "Don ekish seyalkasi ": "93",
         "Chigit ekish seyalkasi": "305",
-        "Yer tekislagich": "28"
+        "Yer tekislagich": "28",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "12",
@@ -204,7 +212,8 @@
         "Kultivatorlar ": "1519",
         "Don ekish seyalkasi ": "17",
         "Chigit ekish seyalkasi": "704",
-        "Yer tekislagich": "325"
+        "Yer tekislagich": "325",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "13",
@@ -221,7 +230,8 @@
         "Kultivatorlar ": "1550",
         "Don ekish seyalkasi ": "25",
         "Chigit ekish seyalkasi": "1014",
-        "Yer tekislagich": "838"
+        "Yer tekislagich": "838",
+        "path_id": "610802982a2e256d868e879f"
     },
     {
         "ID": "14",
@@ -238,6 +248,7 @@
         "Kultivatorlar ": "18405",
         "Don ekish seyalkasi ": "669",
         "Chigit ekish seyalkasi": "8789",
-        "Yer tekislagich": "2285"
+        "Yer tekislagich": "2285",
+        "path_id": "610802982a2e256d868e879f"
     }
 ]

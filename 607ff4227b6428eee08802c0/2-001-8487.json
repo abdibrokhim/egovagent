@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385ac83ee4af88f66e59211"
-    },
-    {
         "Hudud": " Khorezm",
         "Olchovbirligi": "Thousand heads",
-        "2021yanvaroktabr": "5994.8"
+        "2021yanvaroktabr": "5994.8",
+        "path_id": "6385ac83ee4af88f66e59211",
+        "ID": "1"
     }
 ]

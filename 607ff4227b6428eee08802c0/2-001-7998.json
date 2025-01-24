@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63845ba4ee4af88f66e581e6"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "Olchovbirligi": "in %",
         "2022yanvar": "107.2685",
@@ -16,6 +13,8 @@
         "2022yanvarsentabr": "109.4",
         "2022yanvaroktabr": "109.1",
         "2022yanvarnoyabr": "109.1",
-        "2022yanvardekabr": "109"
+        "2022yanvardekabr": "109",
+        "path_id": "63845ba4ee4af88f66e581e6",
+        "ID": "1"
     }
 ]

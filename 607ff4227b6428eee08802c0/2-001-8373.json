@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859e74ee4af88f66e59085"
-    },
-    {
         "Hudud": " Khorezm",
         "2020YILNINGSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "2610",
         "SUGRISHG": "2520",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSNTG": "-",
         "SHUJUMLDNKMMUNLOJLIGIG": "50",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "40",
-        "SHUJUMLDNBSHQSHLRG": "-"
+        "SHUJUMLDNBSHQSHLRG": "-",
+        "path_id": "63859e74ee4af88f66e59085",
+        "ID": "1"
     }
 ]

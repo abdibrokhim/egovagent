@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385cf11ee4af88f66e593c2"
-    },
-    {
         "Hudud": "Khorezm",
         "Olchovbirligi": "Ton",
-        "2020Y": "0"
+        "2020Y": "0",
+        "path_id": "6385cf11ee4af88f66e593c2",
+        "ID": "1"
     }
 ]

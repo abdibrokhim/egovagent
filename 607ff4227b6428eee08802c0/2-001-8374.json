@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "63859e8bee4af88f66e59087"
-    },
-    {
         "Hudud": "Navoi",
         "Olchovbirligi": "hectare",
         "2018Y": "1.415",
         "2019Y": "1.363",
-        "2020Y": "1.31"
+        "2020Y": "1.31",
+        "path_id": "63859e8bee4af88f66e59087",
+        "ID": "1"
     }
 ]

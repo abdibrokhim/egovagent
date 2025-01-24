@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "6371e139206a79bd4ad0bec4"
-    },
-    {
         "Hudud": " Navoi",
         "UMUMIYSUGRILDIGNMYDNMINGG": "123.1",
         "SHORLNMGNYRLRMINGG": "27.5",
         "UMUMIYSHORLNGNYRLRMINGG": "95.6",
         "SHUJUMLDNKUCHLISHORLNGNMINGG": "0.7",
         "SHUJUMLDNORTCHSHORLNGNMINGG": "10.1",
-        "SHUJUMLDNKMSHORLNGNMINGG": "84.8"
+        "SHUJUMLDNKMSHORLNGNMINGG": "84.8",
+        "path_id": "6371e139206a79bd4ad0bec4",
+        "ID": "1"
     }
 ]

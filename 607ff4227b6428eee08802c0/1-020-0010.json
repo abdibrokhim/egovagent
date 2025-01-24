@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "61092ee11a64fdd0373a8deb"
-    },
-    {
         "ID": "1",
         "Hududlarnomi": " Republic of Karakalpakstan",
         "Jmiknllruzunligikm": "18933",
@@ -17,7 +14,8 @@
         "Shujumladnkvduk": "38",
         "Shujumladnkoprik": "201",
         "Shujumladnbshqlr": "506",
-        "Gidrpst": "2939"
+        "Gidrpst": "2939",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "2",
@@ -34,7 +32,8 @@
         "Shujumladnkvduk": "283",
         "Shujumladnkoprik": "1037",
         "Shujumladnbshqlr": "813",
-        "Gidrpst": "3561"
+        "Gidrpst": "3561",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "3",
@@ -51,7 +50,8 @@
         "Shujumladnkvduk": "106",
         "Shujumladnkoprik": "472",
         "Shujumladnbshqlr": "1114",
-        "Gidrpst": "4349"
+        "Gidrpst": "4349",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "4",
@@ -68,7 +68,8 @@
         "Shujumladnkvduk": "0",
         "Shujumladnkoprik": "43",
         "Shujumladnbshqlr": "15",
-        "Gidrpst": "386"
+        "Gidrpst": "386",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "5",
@@ -85,7 +86,8 @@
         "Shujumladnkvduk": "125",
         "Shujumladnkoprik": "317",
         "Shujumladnbshqlr": "2073",
-        "Gidrpst": "4495"
+        "Gidrpst": "4495",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "6",
@@ -102,7 +104,8 @@
         "Shujumladnkvduk": "118",
         "Shujumladnkoprik": "168",
         "Shujumladnbshqlr": "56",
-        "Gidrpst": "701"
+        "Gidrpst": "701",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "7",
@@ -119,7 +122,8 @@
         "Shujumladnkvduk": "58",
         "Shujumladnkoprik": "881",
         "Shujumladnbshqlr": "340",
-        "Gidrpst": "4139"
+        "Gidrpst": "4139",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "8",
@@ -136,7 +140,8 @@
         "Shujumladnkvduk": "0",
         "Shujumladnkoprik": "0",
         "Shujumladnbshqlr": "117",
-        "Gidrpst": "856"
+        "Gidrpst": "856",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "9",
@@ -153,7 +158,8 @@
         "Shujumladnkvduk": "101",
         "Shujumladnkoprik": "244",
         "Shujumladnbshqlr": "161",
-        "Gidrpst": "3634"
+        "Gidrpst": "3634",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "10",
@@ -170,7 +176,8 @@
         "Shujumladnkvduk": "57",
         "Shujumladnkoprik": "77",
         "Shujumladnbshqlr": "410",
-        "Gidrpst": "4974"
+        "Gidrpst": "4974",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "11",
@@ -187,7 +194,8 @@
         "Shujumladnkvduk": "124",
         "Shujumladnkoprik": "611",
         "Shujumladnbshqlr": "1478",
-        "Gidrpst": "3783"
+        "Gidrpst": "3783",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "12",
@@ -204,7 +212,8 @@
         "Shujumladnkvduk": "98",
         "Shujumladnkoprik": "512",
         "Shujumladnbshqlr": "603",
-        "Gidrpst": "6922"
+        "Gidrpst": "6922",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "13",
@@ -221,7 +230,8 @@
         "Shujumladnkvduk": "331",
         "Shujumladnkoprik": "2949",
         "Shujumladnbshqlr": "40",
-        "Gidrpst": "391"
+        "Gidrpst": "391",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "14",
@@ -238,7 +248,8 @@
         "Shujumladnkvduk": "245",
         "Shujumladnkoprik": "64",
         "Shujumladnbshqlr": "282",
-        "Gidrpst": "532"
+        "Gidrpst": "532",
+        "path_id": "61092ee11a64fdd0373a8deb"
     },
     {
         "ID": "15",
@@ -255,6 +266,7 @@
         "Shujumladnkvduk": "1684",
         "Shujumladnkoprik": "7576",
         "Shujumladnbshqlr": "8008",
-        "Gidrpst": "41662"
+        "Gidrpst": "41662",
+        "path_id": "61092ee11a64fdd0373a8deb"
     }
 ]

@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859ce1ee4af88f66e58da2"
-    },
-    {
         "Hudud": "Republic\r\nof Karakalpakstan",
         "JMIZVURTRMQLRIKM": "20614.8",
         "BYUDJTHISBIDGITUMNLRRZVURLR": "1393.9",
@@ -10,6 +7,8 @@
         "BYUDJTHISBIDGIYOPIQQUVURLR": "-",
         "BUDJTHISBIDGIYOPIQYOTIQDRNJLR": "-",
         "XOJLIKLRHISBIDGIICHKIZVURLR": "16058",
-        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "430.4"
+        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "430.4",
+        "path_id": "63859ce1ee4af88f66e58da2",
+        "ID": "1"
     }
 ]

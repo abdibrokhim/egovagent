@@ -1,65 +1,92 @@
 [
     {
-        "path_id": "6113afa2db32b99538e088e5"
-    },
-    {
         "Hududlar": " Republic of Uzbekistan *",
-        "tonna": "22746.34"
+        "tonna": "22746.34",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "1"
     },
     {
         "Hududlar": "Republic of Karakalpakstan",
-        "tonna": "752.4"
+        "tonna": "752.4",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "2"
     },
     {
         "Hududlar": "Andijan",
-        "tonna": "0"
+        "tonna": "0",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "3"
     },
     {
         "Hududlar": "Bukhara",
-        "tonna": "2912.59"
+        "tonna": "2912.59",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "4"
     },
     {
         "Hududlar": "Jizzakh",
-        "tonna": "2385.4"
+        "tonna": "2385.4",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "5"
     },
     {
         "Hududlar": "Kashkadarya",
-        "tonna": "753.58"
+        "tonna": "753.58",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "6"
     },
     {
         "Hududlar": "Navoi",
-        "tonna": "2141.62"
+        "tonna": "2141.62",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "7"
     },
     {
         "Hududlar": "Namangan",
-        "tonna": "957.29"
+        "tonna": "957.29",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "8"
     },
     {
         "Hududlar": "Samarkand",
-        "tonna": "1989.4"
+        "tonna": "1989.4",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "9"
     },
     {
         "Hududlar": "Surkhandarya",
-        "tonna": "2952.2"
+        "tonna": "2952.2",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "10"
     },
     {
         "Hududlar": "Syrdarya",
-        "tonna": "1715"
+        "tonna": "1715",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "11"
     },
     {
         "Hududlar": "Tashkent",
-        "tonna": "623.79"
+        "tonna": "623.79",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "12"
     },
     {
         "Hududlar": "Ferghana",
-        "tonna": "1558"
+        "tonna": "1558",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "13"
     },
     {
         "Hududlar": "Khorezm",
-        "tonna": "2118.46"
+        "tonna": "2118.46",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "14"
     },
     {
         "Hududlar": "Tashkent  city",
-        "tonna": "1886.61"
+        "tonna": "1886.61",
+        "path_id": "6113afa2db32b99538e088e5",
+        "ID": "15"
     }
 ]

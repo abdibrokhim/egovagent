@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385b118ee4af88f66e592d5"
-    },
-    {
         "Hudud": " Navoi",
         "Olchovbirligi": "Thousand heads",
-        "2020Y": "365.00000000000006"
+        "2020Y": "365.00000000000006",
+        "path_id": "6385b118ee4af88f66e592d5",
+        "ID": "1"
     }
 ]

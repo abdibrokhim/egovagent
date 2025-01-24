@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "63859c5aee4af88f66e58d88"
-    },
-    {
         "Hudud": " Khorezm",
         "UMUMIYSUGRILDIGNMYDNMINGG": "267.6",
         "SHORLNMGNYRLRMINGG": "1.2",
         "UMUMIYSHORLNGNYRLRMINGG": "264.3",
         "SHUJUMLDNKUCHLISHORLNGNMINGG": "27.7",
         "SHUJUMLDNORTCHSHORLNGNMINGG": "75.8",
-        "SHUJUMLDNKMSHORLNGNMINGG": "160.9"
+        "SHUJUMLDNKMSHORLNGNMINGG": "160.9",
+        "path_id": "63859c5aee4af88f66e58d88",
+        "ID": "1"
     }
 ]

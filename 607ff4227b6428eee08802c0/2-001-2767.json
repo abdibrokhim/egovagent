@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371dcd6206a79bd4ad0be3e"
-    },
-    {
         "Hudud": " Khorezm",
         "2022YILNINGNOSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "1055",
         "SHUJUMLDNSUGRISHG": "1015",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSANOATGA": " ",
         "SHUJUMLDNKMMUNLOJLIGIG": "30",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "10",
-        "SHUJUMLDNBSHQSHLRG": " "
+        "SHUJUMLDNBSHQSHLRG": " ",
+        "path_id": "6371dcd6206a79bd4ad0be3e",
+        "ID": "1"
     }
 ]

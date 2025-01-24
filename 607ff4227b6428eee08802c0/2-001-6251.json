@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "6385db2dee4af88f66e594b4"
-    },
-    {
         "Hudud": " Khorezm",
         "Olchovbirligi": "Ton",
         "2018Y": "1.985",
         "2019Y": "2.884",
-        "2020Y": "3.805"
+        "2020Y": "3.805",
+        "path_id": "6385db2dee4af88f66e594b4",
+        "ID": "1"
     }
 ]

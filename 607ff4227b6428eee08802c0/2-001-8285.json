@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "638593c6ee4af88f66e58c90"
-    },
-    {
         "Hudud": " Bukhara",
         "UMUMIYSUGRILDIGNMYDNMINGG": "276.3",
         "SHORLNMGNYRLRMINGG": "41.2",
         "UMUMIYSHORLNGNYRLRMINGG": "235.1",
         "SHUJUMLDNKUCHLISHORLNGNMINGG": "5.9",
         "SHUJUMLDNORTCHSHORLNGNMINGG": "57.1",
-        "SHUJUMLDNKMSHORLNGNMINGG": "172.1"
+        "SHUJUMLDNKMSHORLNGNMINGG": "172.1",
+        "path_id": "638593c6ee4af88f66e58c90",
+        "ID": "1"
     }
 ]

@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "61092bb11a64fdd0373a8ddb"
-    },
-    {
         "ID": "1",
         "Lvzimi": "Minister",
         "FISh": "Xamrayev Shavkat Raximovich",
@@ -10,7 +7,8 @@
         "Faks": "(71) 202-47-01",
         "Email": "",
         "Qbulvqti": "The first monday of each month: 10:00 a.m. to 12:30 p.m.",
-        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11",
+        "path_id": "61092bb11a64fdd0373a8ddb"
     },
     {
         "ID": "2",
@@ -20,7 +18,8 @@
         "Faks": "(71) 202-47-02",
         "Email": "",
         "Qbulvqti": "The second monday of each month: 10:00 a.m. to 12:30 p.m.",
-        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11",
+        "path_id": "61092bb11a64fdd0373a8ddb"
     },
     {
         "ID": "3",
@@ -30,7 +29,8 @@
         "Faks": "(71) 202-47-32",
         "Email": "",
         "Qbulvqti": "The fourth monday of each month from 10:00 a.m. to 12:30 p.m.",
-        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11",
+        "path_id": "61092bb11a64fdd0373a8ddb"
     },
     {
         "ID": "4",
@@ -40,7 +40,8 @@
         "Faks": "(71) 202-47-97",
         "Email": "",
         "Qbulvqti": "The third monday of each month from 10:00 a.m. to 12:30 p.m.",
-        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11",
+        "path_id": "61092bb11a64fdd0373a8ddb"
     },
     {
         "ID": "5",
@@ -50,6 +51,7 @@
         "Faks": "(71) 202-47-32",
         "Email": "",
         "Qbulvqti": "The first monday of each month: 10:00 a.m. to 12:30 p.m.",
-        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+        "nzil": "Tashkent city, Mirzo Ulugbek district, Karasu, 11",
+        "path_id": "61092bb11a64fdd0373a8ddb"
     }
 ]

@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "63845c5dee4af88f66e581ec"
-    },
-    {
         "Hudud": " Bukhara",
         "Olchovbirligi": "in %",
         "2022yanvardekabr": "103.7",
-        "2023yanvarmart": "102.9"
+        "2023yanvarmart": "102.9",
+        "path_id": "63845c5dee4af88f66e581ec",
+        "ID": "1"
     }
 ]

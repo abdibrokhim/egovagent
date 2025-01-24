@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "610b85f91a64fdd0373a8f2e"
-    },
-    {
         "name": "METHODICAL MANUAL FOR OSTRICH CARE",
         "Dateofpublication": "2019-08-26",
-        "link": "http://my.vetgov.uz/opendata/4.pdf"
+        "link": "http://my.vetgov.uz/opendata/4.pdf",
+        "path_id": "610b85f91a64fdd0373a8f2e",
+        "ID": "1"
     }
 ]

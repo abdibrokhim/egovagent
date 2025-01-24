@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859dbeee4af88f66e59065"
-    },
-    {
         "Hudud": " Khorezm",
         "JAMIKANALLARUZUNLIGIKM": "2213",
         "SHUJUMLADANTUPROQOZANLI": "1900",
@@ -16,6 +13,8 @@
         "SHUJUMLADNKVDUK": "88",
         "SHUJUMLADNKOPRIK": "131",
         "SHUJUMLADNBSHQLR": "126",
-        "GIDROPOST": "238"
+        "GIDROPOST": "238",
+        "path_id": "63859dbeee4af88f66e59065",
+        "ID": "1"
     }
 ]

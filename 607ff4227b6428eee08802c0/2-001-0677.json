@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6113b6ffdb32b99538e08953"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
         "1991Yil": "-",
         "1992Yil": "-",
@@ -33,7 +30,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "12",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "1"
     },
     {
         "Hududningnomi": " Republic of Karakalpakstan",
@@ -66,7 +65,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
@@ -99,7 +100,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
@@ -132,7 +135,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
@@ -165,7 +170,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
@@ -198,7 +205,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
@@ -231,7 +240,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
@@ -264,7 +275,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "12",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
@@ -297,7 +310,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
@@ -330,7 +345,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
@@ -363,7 +380,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -396,7 +415,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
@@ -429,7 +450,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
@@ -462,7 +485,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent city",
@@ -495,6 +520,8 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b6ffdb32b99538e08953",
+        "ID": "15"
     }
 ]

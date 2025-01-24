@@ -1,15 +1,14 @@
 [
     {
-        "path_id": "611112bbdb32b99538e08230"
-    },
-    {
         "Hududlarnomi": "Қорақалпоғистон                                      Республикаси",
         "Otkazilganjaminazorattadbirlarisoni": "3506",
         "Aniqlanganqonunbuzilishlarsoni": "3450",
         "Ogohnomalarsoni": "3634",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "156",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "1"
     },
     {
         "Hududlarnomi": "Андижон",
@@ -18,7 +17,9 @@
         "Ogohnomalarsoni": "10606",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "372",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "2"
     },
     {
         "Hududlarnomi": "Бухоро",
@@ -27,7 +28,9 @@
         "Ogohnomalarsoni": "3958",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "587",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "3"
     },
     {
         "Hududlarnomi": "Жиззах",
@@ -36,7 +39,9 @@
         "Ogohnomalarsoni": "7722",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "316",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "4"
     },
     {
         "Hududlarnomi": "Қашқадарё",
@@ -45,7 +50,9 @@
         "Ogohnomalarsoni": "815",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "562",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "5"
     },
     {
         "Hududlarnomi": "Навоий",
@@ -54,7 +61,9 @@
         "Ogohnomalarsoni": "1881",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "237",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "6"
     },
     {
         "Hududlarnomi": "Наманган",
@@ -63,7 +72,9 @@
         "Ogohnomalarsoni": "11345",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "733",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "7"
     },
     {
         "Hududlarnomi": "Самарқанд",
@@ -72,7 +83,9 @@
         "Ogohnomalarsoni": "5344",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "1214",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "8"
     },
     {
         "Hududlarnomi": "Сурхондарё ",
@@ -81,7 +94,9 @@
         "Ogohnomalarsoni": "5448",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "327",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "9"
     },
     {
         "Hududlarnomi": "Сирдарё",
@@ -90,7 +105,9 @@
         "Ogohnomalarsoni": "3354",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "347",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "10"
     },
     {
         "Hududlarnomi": "Тошкент",
@@ -99,7 +116,9 @@
         "Ogohnomalarsoni": "11",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "510",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "11"
     },
     {
         "Hududlarnomi": "Фарғона",
@@ -108,7 +127,9 @@
         "Ogohnomalarsoni": "8768",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "410",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "12"
     },
     {
         "Hududlarnomi": "Хоразм",
@@ -117,7 +138,9 @@
         "Ogohnomalarsoni": "2864",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "358",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "13"
     },
     {
         "Hududlarnomi": "ЖАМИ",
@@ -126,6 +149,8 @@
         "Ogohnomalarsoni": "65750",
         "Rasmiylashtirilganmamuriybayonnomalarsoni": "6129",
         "latitude": "41.32374",
-        "longitude": "62.20996"
+        "longitude": "62.20996",
+        "path_id": "611112bbdb32b99538e08230",
+        "ID": "14"
     }
 ]

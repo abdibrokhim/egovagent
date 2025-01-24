@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "63859f22ee4af88f66e5909f"
-    },
-    {
         "Hudud": " Republic of Karakalpakstan",
         "Olchovbirligi": "hectare",
         "2018Y": "3.067",
         "2019Y": "4.24",
-        "2020Y": "4.381"
+        "2020Y": "4.381",
+        "path_id": "63859f22ee4af88f66e5909f",
+        "ID": "1"
     }
 ]

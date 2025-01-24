@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63845b5eee4af88f66e581e4"
-    },
-    {
         "Hudud": " Khorezm",
         "Olchovbirligi": "in %",
         "2022yanvar": "105.8226",
@@ -16,6 +13,8 @@
         "2022yanvarsentabr": "107",
         "2022yanvaroktabr": "107",
         "2022yanvarnoyabr": "106.9",
-        "2022yanvardekabr": "106.9"
+        "2022yanvardekabr": "106.9",
+        "path_id": "63845b5eee4af88f66e581e4",
+        "ID": "1"
     }
 ]

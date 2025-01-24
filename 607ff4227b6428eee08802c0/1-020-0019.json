@@ -1,11 +1,9 @@
 [
     {
-        "path_id": "610931881a64fdd0373a8dfd"
-    },
-    {
         "ID": "1",
         "Annualamountoffreshwater": "42847",
         "toindustry": "854",
-        "procent": "1.99"
+        "procent": "1.99",
+        "path_id": "610931881a64fdd0373a8dfd"
     }
 ]

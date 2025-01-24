@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6384595eee4af88f66e581e0"
-    },
-    {
         "Hudud": " Navoi",
         "Olchovbirligi": "in %",
         "2022yanvar": "109.5827",
@@ -16,6 +13,8 @@
         "2022yanvarsentabr": "117.4",
         "2022yanvaroktabr": "116.2",
         "2022yanvarnoyabr": "116.2",
-        "2022yanvardekabr": "111.1"
+        "2022yanvardekabr": "111.1",
+        "path_id": "6384595eee4af88f66e581e0",
+        "ID": "1"
     }
 ]

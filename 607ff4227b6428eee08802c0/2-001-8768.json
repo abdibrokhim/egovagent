@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385e932ee4af88f66e596b9"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "Olchovbirligi": "thousand heads",
-        "2020Y": "2977.7000000000003"
+        "2020Y": "2977.7000000000003",
+        "path_id": "6385e932ee4af88f66e596b9",
+        "ID": "1"
     }
 ]

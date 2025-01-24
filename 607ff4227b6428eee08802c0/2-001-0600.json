@@ -1,61 +1,86 @@
 [
     {
-        "path_id": "6113a83ddb32b99538e08881"
-    },
-    {
         "Hududningnomi": " Republic of Uzbekistan *",
-        "2020yilyanvardekabr": "250250.6"
+        "2020yilyanvardekabr": "250250.6",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "1"
     },
     {
         "Hududningnomi": "Republic of Karakalpakstan",
-        "2020yilyanvardekabr": "9751.6"
+        "2020yilyanvardekabr": "9751.6",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
-        "2020yilyanvardekabr": "26096.1"
+        "2020yilyanvardekabr": "26096.1",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
-        "2020yilyanvardekabr": "23876"
+        "2020yilyanvardekabr": "23876",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
-        "2020yilyanvardekabr": "16352.8"
+        "2020yilyanvardekabr": "16352.8",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
-        "2020yilyanvardekabr": "23777.8"
+        "2020yilyanvardekabr": "23777.8",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
-        "2020yilyanvardekabr": "11309.7"
+        "2020yilyanvardekabr": "11309.7",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
-        "2020yilyanvardekabr": "17913.1"
+        "2020yilyanvardekabr": "17913.1",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
-        "2020yilyanvardekabr": "32158"
+        "2020yilyanvardekabr": "32158",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
-        "2020yilyanvardekabr": "19424"
+        "2020yilyanvardekabr": "19424",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
-        "2020yilyanvardekabr": "8002"
+        "2020yilyanvardekabr": "8002",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
-        "2020yilyanvardekabr": "23875.1"
+        "2020yilyanvardekabr": "23875.1",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
-        "2020yilyanvardekabr": "21455.5"
+        "2020yilyanvardekabr": "21455.5",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
-        "2020yilyanvardekabr": "16258.9"
+        "2020yilyanvardekabr": "16258.9",
+        "path_id": "6113a83ddb32b99538e08881",
+        "ID": "14"
     }
 ]

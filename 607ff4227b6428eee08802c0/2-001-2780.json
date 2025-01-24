@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371df66206a79bd4ad0be8c"
-    },
-    {
         "Hudud": " Bukhara",
         "UMUMIYREJAGA": "24929",
         "MCHILTIBSUGRISHG": "21439",
@@ -15,6 +12,8 @@
         "SHUNDANSABZAVOTGA": "200",
         "SHUNDANOZUQABOPEKINLARGA": "190",
         "DISKRETSUGORISHGA": "1500",
-        "SHUNDANPAXTAGAa": "1500"
+        "SHUNDANPAXTAGAa": "1500",
+        "path_id": "6371df66206a79bd4ad0be8c",
+        "ID": "1"
     }
 ]
