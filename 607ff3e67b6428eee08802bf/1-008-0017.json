@@ -1,35 +1,42 @@
 [
     {
-        "path_id": "612092bc5b3dbbf13b3361f7"
-    },
-    {
         "raqam": "1",
         "Jinoyatlartasnifi": "Ijtimoiy xavfi katta bo'lmagan jinoyatlar / Преступления, не представляющие большой общественной опасности / Crimes that do not pose a great public danger",
         "HisobotyilidasodiretilganjinoyatlarJamisoni": "36995",
-        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "27352"
+        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "27352",
+        "path_id": "612092bc5b3dbbf13b3361f7",
+        "ID": "1"
     },
     {
         "raqam": "2",
         "Jinoyatlartasnifi": "Uncha og'ir bo'lmagan jinoyatlar / Менее тяжкие преступления / Less serious crimes",
         "HisobotyilidasodiretilganjinoyatlarJamisoni": "18276",
-        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "14464"
+        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "14464",
+        "path_id": "612092bc5b3dbbf13b3361f7",
+        "ID": "2"
     },
     {
         "raqam": "3",
         "Jinoyatlartasnifi": "Og'ir jinoyatlar / Тяжкие преступления / Serious crimes",
         "HisobotyilidasodiretilganjinoyatlarJamisoni": "71670",
-        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "13739"
+        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "13739",
+        "path_id": "612092bc5b3dbbf13b3361f7",
+        "ID": "3"
     },
     {
         "raqam": "4",
         "Jinoyatlartasnifi": "O'ta og'ir jinoyatlar / Особо тяжкие преступления / Especially grave crimes",
         "HisobotyilidasodiretilganjinoyatlarJamisoni": "5357",
-        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "4396"
+        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "4396",
+        "path_id": "612092bc5b3dbbf13b3361f7",
+        "ID": "4"
     },
     {
         "raqam": "5",
         "Jinoyatlartasnifi": "Jsmi / общий / general",
         "HisobotyilidasodiretilganjinoyatlarJamisoni": "132298",
-        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "59951"
+        "Jinoyatsodiretilishidaaniqlanganshaxslarsoni": "59951",
+        "path_id": "612092bc5b3dbbf13b3361f7",
+        "ID": "5"
     }
 ]

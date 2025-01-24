@@ -1,69 +1,98 @@
 [
     {
-        "path_id": "6107bda12a2e256d868e8684"
-    },
-    {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Jami maʼmuriy javobgarlikka tortilgan shaxslar / Общая административная ответственность лица / General administrative responsibility of a person",
-        "soni": "5210772"
+        "soni": "5210772",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "1"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Fuqarolarning huquq va erkinliklariga tajovuz qiladigan huquqbuzarliklar uchun maʼmuriy javobgarlik (40-51 pr. 1 moddalar) / Административная ответственность за нарушение прав и свобод граждан (статьи 40-51 пу. 1) / Administrative liability for violations of the rights and freedoms of citizens (articles 40-51pа. 1)",
-        "soni": "211958"
+        "soni": "211958",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "2"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Saylov va referendumni tashkil etish hamda oʼtkazish sohasidagi huquqbuzarliklar uchun maʼmuriy javobgarlik (51 pr. 2-51 pr. 9 moddalar) / Административная ответственность за нарушения при организации и проведении выборов и референдумов (статьи 51 пу. 2-51 пу. 9) / Administrative liability for violations in the organization and conduct of elections and referenda (articles 51 pа. 2-51 pа. 9)",
-        "soni": "7"
+        "soni": "7",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "3"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Аholi sogʼligʼini saqlash sohasidagi huquqbuzarliklar uchun maʼmuriy javobgarlik (52-59 pr.1 moddalar) / Административная ответственность за правонарушения, связанные с общественным здоровьем (статьи 52-59 пу. 1) / Administrative liability for public health offenses (articles 52-59 pа. 1)",
-        "soni": "387864"
+        "soni": "387864",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "4"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Mulkka tajovuz qiluvchi huquqbuzarliklar uchun maʼmuriy javobgarlik (60-64 moddalar) / Административная ответственность за посягательство на имущество (статьи 60-64) / Administrative liability for encroachment on property (articles 60-64)",
-        "soni": "62655"
+        "soni": "62655",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "5"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Ekologiya, atrof-muhitni muhofaza qilish va tabiatdan foydalanish sohasidagi huquqbuzarliklar uchun maʼmuriy javobgarlik (65-96 moddalar) / Административная ответственность за нарушения в области экологии, охраны окружающей среды и природопользования (статьи 65-96) / Administrative liability for violations in the field of ecology, environmental protection and nature management (articles 65-96)",
-        "soni": "83645"
+        "soni": "83645",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "6"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Sanoatdagi, qurilishdagi va issiqlik hamda elektr energiyasidan foydalanish sohasidagi huquqbuzarliklar uchun maʼmuriy javobgarlik (97-103 moddalar) / Административная ответственность за нарушения в промышленности, строительстве и использовании тепловой и электрической энергии (статьи 97-103) / Administrative liability for violations in industry, construction and use of heat and electricity (articles 97-103)",
-        "soni": "41283"
+        "soni": "41283",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "7"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Qishloq xoʼjaligidagi huquqbuzarlik, veterinariya, veterinariya-sanitariya qoidalari va normalarini buzganlik uchun maʼmuriy javobgarlik (104-112 moddalar) / Административная ответственность за правонарушения в сфере сельского хозяйства, ветеринарии, нарушение ветеринарно-санитарных правил и норм (статьи 104-112) / Administrative liability for agricultural offenses, veterinary, violation of veterinary and sanitary rules and regulations (articles 104-112)",
-        "soni": "32150"
+        "soni": "32150",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "8"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Transportdagi, yoʼl xoʼjaligi va aloqa sohalaridagi huquqbuzarliklar uchun maʼmuriy javobgarlik (113-156 moddalar) / Административная ответственность за правонарушения в области транспорта, дорог и связи (статьи 113-156) / Administrative liability for violations in the field of transport, roads and communications (articles 113-156)",
-        "soni": "2119425"
+        "soni": "2119425",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "9"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Fuqarolarning turar joy huquqlariga taalluqli, kommunal xizmat va obodonlashtirish sohasidagi huquqbuzarliklar uchun maʼmuriy javobgarlik (157-163 pr.2 moddalar) / Административная ответственность за нарушение прав граждан на жилищно-коммунальные услуги и благоустройство территории (статьи 157-163 пу. 2) / Administrative liability for violations of the rights of citizens to housing, utilities and landscaping (articles 157-163 pа. 2)",
-        "soni": "121125"
+        "soni": "121125",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "10"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Savdo, tadbirkorlik va moliya sohalaridagi huquqbuzarliklar uchun maʼmuriy javobgarlik (164-179 pr. 5 moddalar) / Административная ответственность за нарушения в сфере торговли, предпринимательства и финансов (статьи 164-179 пу. 5) / Administrative liability for violations in the field of trade, entrepreneurship and finance (articles 164-179 pа. 5)",
-        "soni": "481422"
+        "soni": "481422",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "11"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Odil sudlovga tajovuz qiluvchi huquqbuzarliklar uchun maʼmuriy javobgarlik (180-182 moddalar) / Административная ответственность за нарушение правосудия (статьи 180-182) / Administrative liability for violations of justice (articles 180-182)",
-        "soni": "34"
+        "soni": "34",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "12"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Jamoat tartibiga tajovuz qiluvchi huquqbuzarliklar uchun maʼmuriy javobgarlik (183-192 pr.1 moddalar) / Административная ответственность за нарушение общественного порядка (статьи 183-192 пу. 1) / Administrative liability for violations of public order (Articles 183-192 pа. 1)",
-        "soni": "501260"
+        "soni": "501260",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "13"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Boshqaruvning belgilangan tartibiga tajovuz qiluvchi huquqbuzarliklar uchun maʼmuriy javobgarlik (193-241 moddalar) / Административная ответственность за нарушение установленного порядка управления (статьи 193-241) / Administrative liability for violations of the established order of management (articles 193-241)",
-        "soni": "1167164"
+        "soni": "1167164",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "14"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Tadbirkorlik faoliyatiga toʼsqinlik qilganlik, qonunga xilof ravishda aralashganlik hamda xoʼjalik yurituvchi subʼektlarning huquqlari va qonuniy manfaatlariga tajovuz qiladigan boshqa huquqbuzarliklar uchun maʼmuriy javobgarlik (241 pr.1-241 pr.11 moddalar) Административная ответственность за воспрепятствование предпринимательской деятельности, незаконное вмешательство и другие нарушения прав и законных интересов субъектов предпринимательства (статьи 241, пу. 1-241, пу. 11) / Administrative liability for obstruction of business activity, unlawful interference and other violations of the rights and legitimate interests of business entities (Articles 241, pa. 1-241, pa. 11)",
-        "soni": "780"
+        "soni": "780",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "15"
     },
     {
         "MamuriyJavobgarlikTogrisidagiKodeksiningMaxsusQismiBoblariBoyicha": "Izoh: Koʼrsatib oʼtilgan maʼlumotlar \"Yagona markazlashtirilgan axborot tizimi\"ga kiritilgan maʼlumotlar asosida shakllantirilgan. / Примечание: Данные основаны на данных, введенных в Единую централизованную информационную систему. / Note: The data are based on data entered into the Unified Centralized Information System.",
-        "soni": "0"
+        "soni": "0",
+        "path_id": "6107bda12a2e256d868e8684",
+        "ID": "16"
     }
 ]

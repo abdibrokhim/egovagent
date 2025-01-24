@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107dba12a2e256d868e8718"
-    },
-    {
         "ID": "1",
         "sanasi": "13.11.2020 y",
         "FIO": "Marshanskaya Olga Petrovna",
@@ -10,7 +7,8 @@
         "turi": "Forensic-medical examination",
         "sertifikati": "17.09.2020 y №010",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "2",
@@ -20,7 +18,8 @@
         "turi": "1. Forensic medical examination, 2. Forensic medical examination of fibrous materials and products from them.",
         "sertifikati": "17.09.2020 y  №012 17.09.2020 y  №011",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "3",
@@ -30,7 +29,8 @@
         "turi": "1. Forensic medical examination, 2. Forensic medical examination of documents.",
         "sertifikati": "17.09.2020 y №007 17.09.2020 y  №008",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "4",
@@ -40,7 +40,8 @@
         "turi": "Forensic economic expertise",
         "sertifikati": "17.09.2020 y  №009",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "5",
@@ -50,7 +51,8 @@
         "turi": "1. Forensic examination of fibrous materials and products from them, 2. Forensic examination of special markers (indicators). \"",
         "sertifikati": "17.09.2020 y  №013 17.09.2020 y №014",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "6",
@@ -60,7 +62,8 @@
         "turi": "Forensic construction and technical expertise",
         "sertifikati": "12.11.2020 y №015",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "7",
@@ -70,7 +73,8 @@
         "turi": "Forensic structural and technical expertise \"",
         "sertifikati": "12.11.2020 y №016",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "8",
@@ -80,7 +84,8 @@
         "turi": "Forensic transport-traceological examination \"",
         "sertifikati": "15.12.2020 y №017",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "9",
@@ -90,7 +95,8 @@
         "turi": "Forensic transport and appraisal expertise /Forensic transport and traceology expertise",
         "sertifikati": "12.01.2021 y №018 / 12.01.2021 y №019",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "10",
@@ -100,7 +106,8 @@
         "turi": "Forensic transport and appraisal expertise",
         "sertifikati": "19.07.2021-y №024 ",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "11",
@@ -110,7 +117,8 @@
         "turi": "Forensic transport and traceology expertise",
         "sertifikati": "19.07.2021-y №004 ",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     },
     {
         "ID": "12",
@@ -120,6 +128,7 @@
         "turi": "Forensic transport and appraisal expertise /Forensic transport and traceology expertise",
         "sertifikati": "19.07.2021-y №005 /19.07.2021-y №006",
         "reestrdanchiqarilgan": "-",
-        "Qoshimchamalumotlar": "-"
+        "Qoshimchamalumotlar": "-",
+        "path_id": "6107dba12a2e256d868e8718"
     }
 ]

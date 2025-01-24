@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "6110bfc0db32b99538e0816b"
-    },
-    {
         "Qonunlar": "29",
         "Prezidentqarori": "58",
         "Prezidentfarmoni": "26",
         "VazirlarMahkamasiqarori": "159",
         "Idoraviy": "11",
         "Farmoyishlar": "16",
-        "Jami": "299"
+        "Jami": "299",
+        "path_id": "6110bfc0db32b99538e0816b",
+        "ID": "1"
     }
 ]

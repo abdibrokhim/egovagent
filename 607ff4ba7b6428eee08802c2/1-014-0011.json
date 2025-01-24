@@ -1,1769 +1,2207 @@
 [
     {
+        "ID": "1",
+        "nomi": "Davlat va jamiyat qurilishi hamda korrupsiyaga qarshi kurashish sohasi boʻyicha savollar",
         "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "-",
-        "nomi": "Davlat va jamiyat qurilishi hamda korrupsiyaga qarshi kurashish sohasi boʻyicha savollar"
+        "ID": "2",
+        "nomi": "Fuqarolarning shaxsiy huquq va erkinliklariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "1 ",
-        "nomi": "Fuqarolarning shaxsiy huquq va erkinliklariga tavsif bering."
+        "ID": "3",
+        "nomi": "Fuqarolarning siyosiy huquqlari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "2 ",
-        "nomi": "Fuqarolarning siyosiy huquqlari nimalardan iborat?"
+        "ID": "4",
+        "nomi": "Fuqarolarning iqtisodiy, ijtimoiy, madaniy va ekologik huquqlarni izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "3 ",
-        "nomi": "Fuqarolarning iqtisodiy, ijtimoiy, madaniy va ekologik huquqlarni izohlab bering."
+        "ID": "5",
+        "nomi": "Oʻzbekiston Respublikasi fuqarolarining konstitutsiyaviy burchlariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "4 ",
-        "nomi": "Oʻzbekiston Respublikasi fuqarolarining konstitutsiyaviy burchlariga tavsif bering."
+        "ID": "6",
+        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasida jamoat birlashmalari va fuqarolik jamiyatining boshqa institutlari haqida qanday normalar belgilangan?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "5 ",
-        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasida jamoat birlashmalari va fuqarolik jamiyatining boshqa institutlari haqida qanday normalar belgilangan?"
+        "ID": "7",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining birgalikdagi vakolatlari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "6 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining birgalikdagi vakolatlari nimalardan iborat?"
+        "ID": "8",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlari va ularni saylash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "7 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlari va ularni saylash tartibi."
+        "ID": "9",
+        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudining vazifalari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "8 ",
-        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudining vazifalari nimalardan iborat?"
+        "ID": "10",
+        "nomi": "Oʻzbekiston iqtisodiyotining negizini nima tashkil etadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "9 ",
-        "nomi": "Oʻzbekiston iqtisodiyotining negizini nima tashkil etadi?"
+        "ID": "11",
+        "nomi": "Oʻzbekiston Respublikasida sud hokimiyatini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "10 ",
-        "nomi": "Oʻzbekiston Respublikasida sud hokimiyatini yoritib bering."
+        "ID": "12",
+        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasining asosiy prinsiplariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "11 ",
-        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasining asosiy prinsiplariga tavsif bering."
+        "ID": "13",
+        "nomi": "Konstitutsiya va qonunning ustunligi deganda nimani tushunasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "12 ",
-        "nomi": "Konstitutsiya va qonunning ustunligi deganda nimani tushunasiz?"
+        "ID": "14",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining mutlaq vakolatlariga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "13 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining mutlaq vakolatlariga nimalar kiradi?"
+        "ID": "15",
+        "nomi": "Oʻzbekiston tashqi siyosatni amalga oshirishda qanday prinsiplarga amal qiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "14 ",
-        "nomi": "Oʻzbekiston tashqi siyosatni amalga oshirishda qanday prinsiplarga amal qiladi?"
+        "ID": "16",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Senatining mutlaq vakolatlariga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "15 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisi Senatining mutlaq vakolatlariga nimalar kiradi?"
+        "ID": "17",
+        "nomi": "Oʻzbekiston Respublikasi Bosh vaziri qanday tartibda lavozimiga tayinlanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "16 ",
-        "nomi": "Oʻzbekiston Respublikasi Bosh vaziri qanday tartibda lavozimiga tayinlanadi?"
+        "ID": "18",
+        "nomi": "Inson huquqlari va erkinliklarining kafolatlari deganda nimani tushunasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "17 ",
-        "nomi": "Inson huquqlari va erkinliklarining kafolatlari deganda nimani tushunasiz?"
+        "ID": "19",
+        "nomi": "Mahalliy davlat hokimiyati organlari qanday vakolatlarga ega?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "18 ",
-        "nomi": "Mahalliy davlat hokimiyati organlari qanday vakolatlarga ega?"
+        "ID": "20",
+        "nomi": "Oʻzbekiston Respublikasi Bosh vaziriga nisbatan ishonchsizlik votumini bildirish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "19 ",
-        "nomi": "Oʻzbekiston Respublikasi Bosh vaziriga nisbatan ishonchsizlik votumini bildirish tartibi qanday?"
+        "ID": "21",
+        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga oʻzgartirish kiritish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "20 ",
-        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga oʻzgartirish kiritish tartibi qanday?"
+        "ID": "22",
+        "nomi": "Oʻzbekiston Respublikasi Prezidenti va uning vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "21 ",
-        "nomi": "Oʻzbekiston Respublikasi Prezidenti va uning vakolatlari."
+        "ID": "23",
+        "nomi": "Qoraqalpogʻiston Respublikasining konstitutsiyaviy maqomi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "22 ",
-        "nomi": "Qoraqalpogʻiston Respublikasining konstitutsiyaviy maqomi."
+        "ID": "24",
+        "nomi": "Oʻzbekiston Respublikasida qanday siyosiy partiyalar hamda jamoat birlashmalarining tuzilishi va faoliyati taqiqlanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "23 ",
-        "nomi": "Oʻzbekiston Respublikasida qanday siyosiy partiyalar hamda jamoat birlashmalarining tuzilishi va faoliyati taqiqlanadi?"
+        "ID": "25",
+        "nomi": "Oʻzbekiston Respublikasida saylov tizimini yoritib bering?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "24 ",
-        "nomi": "Oʻzbekiston Respublikasida saylov tizimini yoritib bering?"
+        "ID": "26",
+        "nomi": "Hokimiyatlar boʻlinishi prinsipining mazmun-mohiyatini ifodalab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "25 ",
-        "nomi": "Hokimiyatlar boʻlinishi prinsipining mazmun-mohiyatini ifodalab bering."
+        "ID": "27",
+        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining huquqiy maqomi va uning vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "26 ",
-        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining huquqiy maqomi va uning vakolatlari."
+        "ID": "28",
+        "nomi": "Oʻzbekiston Respublikasida soliq tizimi hamda soliqlarni joriy qilishga vakolatli davlat organlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "27 ",
-        "nomi": "Oʻzbekiston Respublikasida soliq tizimi hamda soliqlarni joriy qilishga vakolatli davlat organlari."
+        "ID": "29",
+        "nomi": "Oʻzbekiston Respublikasining maʼmuriy-hududiy tuzilishi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "28 ",
-        "nomi": "Oʻzbekiston Respublikasining maʼmuriy-hududiy tuzilishi qanday?"
+        "ID": "30",
+        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga asosan Oʻzbekiston Respublikasida moliya, pul va bank tizimi tizimi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "29 ",
-        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga asosan Oʻzbekiston Respublikasida moliya, pul va bank tizimi tizimi qanday?"
+        "ID": "31",
+        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga asosan kimlar saylash va saylanish huquqiga ega emas?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "30 ",
-        "nomi": "Oʻzbekiston Respublikasi Konstitutsiyasiga asosan kimlar saylash va saylanish huquqiga ega emas?"
+        "ID": "32",
+        "nomi": "Qonunchilik tashabbusi huquqi va uning subyektlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "31 ",
-        "nomi": "Qonunchilik tashabbusi huquqi va uning subyektlari."
+        "ID": "33",
+        "nomi": "Qonunni qabul qilish jarayonini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "32 ",
-        "nomi": "Qonunni qabul qilish jarayonini tushuntirib bering."
+        "ID": "34",
+        "nomi": "Korrupsiyaga qarshi kurashishning asosiy prinsiplarini ayting.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "33 ",
-        "nomi": "Korrupsiyaga qarshi kurashishning asosiy prinsiplarini ayting."
+        "ID": "35",
+        "nomi": "Korrupsiyaga qarshi kurashish sohasidagi davlat siyosatining asosiy yoʻnalishlarini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "34 ",
-        "nomi": "Korrupsiyaga qarshi kurashish sohasidagi davlat siyosatining asosiy yoʻnalishlarini izohlab bering."
+        "ID": "36",
+        "nomi": "Oʻzbekiston Respublikasining Korrupsiyaga qarshi kurashish boʻyicha milliy kengashi va uning hududiy kengashlariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "35 ",
-        "nomi": "Oʻzbekiston Respublikasining Korrupsiyaga qarshi kurashish boʻyicha milliy kengashi va uning hududiy kengashlariga tavsif bering."
+        "ID": "37",
+        "nomi": "Ommaviy axborot vositalarining korrupsiyaga qarshi kurashishda ishtirok etishi haqida maʼlumot bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "36 ",
-        "nomi": "Ommaviy axborot vositalarining korrupsiyaga qarshi kurashishda ishtirok etishi haqida maʼlumot bering."
+        "ID": "38",
+        "nomi": "Ijtimoiy-iqtisodiy rivojlanish va tadbirkorlik sohasida korrupsiyaning oldini olishga doir chora-tadbirlar haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "37 ",
-        "nomi": "Ijtimoiy-iqtisodiy rivojlanish va tadbirkorlik sohasida korrupsiyaning oldini olishga doir chora-tadbirlar haqida nimalarni bilasiz?"
+        "ID": "39",
+        "nomi": "Davlat boshqaruvi sohasida korrupsiyaning oldini olishga doir chora-tadbirlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "38 ",
-        "nomi": "Davlat boshqaruvi sohasida korrupsiyaning oldini olishga doir chora-tadbirlar."
+        "ID": "40",
+        "nomi": "Korrupsiya va manfaatlar toʻqnashuvi tushunchalariga izoh bering?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "39 ",
-        "nomi": "Korrupsiya va manfaatlar toʻqnashuvi tushunchalariga izoh bering?"
+        "ID": "41",
+        "nomi": "Manfaatlar toʻqnashuvining oldini olish va uni bartaraf etishga doir qanday chora-tadbirlar amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "40 ",
-        "nomi": "Manfaatlar toʻqnashuvining oldini olish va uni bartaraf etishga doir qanday chora-tadbirlar amalga oshiriladi?"
+        "ID": "42",
+        "nomi": "Oʻzbekiston Respublikasi saylov huquqining prinsiplariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "41 ",
-        "nomi": "Oʻzbekiston Respublikasi saylov huquqining prinsiplariga tavsif bering."
+        "ID": "43",
+        "nomi": "Markaziy saylov komissiyasini tuzish tartibini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "42 ",
-        "nomi": "Markaziy saylov komissiyasini tuzish tartibini yoritib bering."
+        "ID": "44",
+        "nomi": "Markaziy saylov komissiyasining vakolatlari",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "43 ",
-        "nomi": "Markaziy saylov komissiyasining vakolatlari"
+        "ID": "45",
+        "nomi": "Huquq normalarini sharhlashning ahamiyati va uning turlarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "44 ",
-        "nomi": "Huquq normalarini sharhlashning ahamiyati va uning turlarini yoritib bering."
+        "ID": "46",
+        "nomi": "Normativ-huquqiy hujjat va uning turlarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "45 ",
-        "nomi": "Normativ-huquqiy hujjat va uning turlarini yoritib bering."
+        "ID": "47",
+        "nomi": "Normativ-huquqiy hujjatning orqaga qaytish kuchini tushuntiring.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "46 ",
-        "nomi": "Normativ-huquqiy hujjatning orqaga qaytish kuchini tushuntiring."
+        "ID": "48",
+        "nomi": "Normativ-huquqiy hujjatlar eʼlon qilinadigan rasmiy manbalar haqida maʼlumot bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "47 ",
-        "nomi": "Normativ-huquqiy hujjatlar eʼlon qilinadigan rasmiy manbalar haqida maʼlumot bering."
+        "ID": "49",
+        "nomi": "Normativ-huquqiy hujjatning vaqt boʻyicha amal qilishini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "48 ",
-        "nomi": "Normativ-huquqiy hujjatning vaqt boʻyicha amal qilishini izohlab bering."
+        "ID": "50",
+        "nomi": "Normativ-huquqiy hujjatlarning oʻzaro nisbati tushunchasini izohlang.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "49 ",
-        "nomi": "Normativ-huquqiy hujjatlarning oʻzaro nisbati tushunchasini izohlang."
+        "ID": "51",
+        "nomi": "Normativ-huquqiy hujjat qabul qilish vakolatiga ega davlat organlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "50 ",
-        "nomi": "Normativ-huquqiy hujjat qabul qilish vakolatiga ega davlat organlari."
+        "ID": "52",
+        "nomi": "Oʻzbekiston Respublikasi Prezidentining Xalq qabulxonalari va Virtual qabulxonasining huquqiy maqomi va vazifalari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "51 ",
-        "nomi": "Oʻzbekiston Respublikasi Prezidentining Xalq qabulxonalari va Virtual qabulxonasining huquqiy maqomi va vazifalari."
+        "ID": "53",
+        "nomi": "Davlat hokimiyati va boshqaruvi organlari faoliyati ochiqligining qanday prinsiplari mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "52 ",
-        "nomi": "Davlat hokimiyati va boshqaruvi organlari faoliyati ochiqligining qanday prinsiplari mavjud?"
+        "ID": "54",
+        "nomi": "Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini taʼminlashning usullarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "53 ",
-        "nomi": "Davlat hokimiyati va boshqaruvi organlari faoliyatining ochiqligini taʼminlashning usullarini yoritib bering."
+        "ID": "55",
+        "nomi": "Shaxsga doir maʼlumotlar hamda ushbu maʼlumotlardan foydalanish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "54 ",
-        "nomi": "Shaxsga doir maʼlumotlar hamda ushbu maʼlumotlardan foydalanish."
+        "ID": "56",
+        "nomi": "Oʻzbekiston Respublikasida jamoatchilik nazoratining asosiy prinsiplarini sanab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "55 ",
-        "nomi": "Oʻzbekiston Respublikasida jamoatchilik nazoratining asosiy prinsiplarini sanab bering."
+        "ID": "57",
+        "nomi": "Jamoatchilik nazorati subyektlarini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "56 ",
-        "nomi": "Jamoatchilik nazorati subyektlarini izohlab bering."
+        "ID": "58",
+        "nomi": "“Elektron hukumat” tizimiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "57 ",
-        "nomi": "“Elektron hukumat” tizimiga tavsif bering."
+        "ID": "59",
+        "nomi": "Davlat xizmatlari nima va undan qachon, qay tartibda foydalanish mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "58 ",
-        "nomi": "Davlat xizmatlari nima va undan qachon, qay tartibda foydalanish mumkin?"
+        "ID": "60",
+        "nomi": "“regulation.gov.uz” veb-saytining maqsad va vazifalari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "59 ",
-        "nomi": "“regulation.gov.uz” veb-saytining maqsad va vazifalari nimalardan iborat?"
+        "ID": "61",
+        "nomi": "Davlat-xususiy sheriklikning asosiy prinsiplari",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "60 ",
-        "nomi": "Davlat-xususiy sheriklikning asosiy prinsiplari"
+        "ID": "62",
+        "nomi": "Ijtimoiy sheriklikka tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "61 ",
-        "nomi": "Ijtimoiy sheriklikka tavsif bering."
+        "ID": "63",
+        "nomi": "Maʼmuriy ishlarning taalluqliligiga tavsif bering..",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "62 ",
-        "nomi": "Maʼmuriy ishlarning taalluqliligiga tavsif bering.."
+        "ID": "64",
+        "nomi": "Maʼmuriy ish yuritishda huquqiy vorislik nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "63 ",
-        "nomi": "Maʼmuriy ish yuritishda huquqiy vorislik nima?"
+        "ID": "65",
+        "nomi": "Maʼmuriy tartib-taomillarning ishonchning himoya qilinishi prinsipiga izoh bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "64 ",
-        "nomi": "Maʼmuriy tartib-taomillarning ishonchning himoya qilinishi prinsipiga izoh bering."
+        "ID": "66",
+        "nomi": "Siyosiy partiya tushunchasi va uni tuzish tartibini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "65 ",
-        "nomi": "Siyosiy partiya tushunchasi va uni tuzish tartibini yoritib bering."
+        "ID": "67",
+        "nomi": "Davlat fuqarolik xizmati nima va uning asosiy prinsiplarini sanab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "66 ",
-        "nomi": "Davlat fuqarolik xizmati nima va uning asosiy prinsiplarini sanab bering."
+        "ID": "68",
+        "nomi": "Davlat mulkini xususiylashtirish usullari va ularni tanlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "67 ",
-        "nomi": "Davlat mulkini xususiylashtirish usullari va ularni tanlash tartibi."
+        "ID": "69",
+        "nomi": "Siyosiy partiyaning faoliyatini toʻxtatib turish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "68 ",
-        "nomi": "Siyosiy partiyaning faoliyatini toʻxtatib turish tartibi."
+        "ID": "70",
+        "nomi": "Siyosiy partiyalarning huquqlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "69 ",
-        "nomi": "Siyosiy partiyalarning huquqlari."
+        "ID": "71",
+        "nomi": "Maʼmuriy tartib-taomillarning asosiy prinsiplarini sanab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "70 ",
-        "nomi": "Maʼmuriy tartib-taomillarning asosiy prinsiplarini sanab bering."
+        "ID": "72",
+        "nomi": "Maʼmuriy tartib-taomillarning mazmunan qamrab olish prinsipiga izoh bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "71 ",
-        "nomi": "Maʼmuriy tartib-taomillarning mazmunan qamrab olish prinsipiga izoh bering."
+        "ID": "73",
+        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq, Oʻzbekiston Respublikasi Oliy Majlisiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "72 ",
-        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq, Oʻzbekiston Respublikasi Oliy Majlisiga tavsif bering."
+        "ID": "74",
+        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq, Oʻzbekiston Respublikasida prokuratura faoliyati.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "73 ",
-        "nomi": "Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq, Oʻzbekiston Respublikasida prokuratura faoliyati."
+        "ID": "75",
+        "nomi": "Voyaga yetmagan shaxslarning murojaatlarini koʻrib chiqishning oʻziga xos xususiyatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "74 ",
-        "nomi": "Voyaga yetmagan shaxslarning murojaatlarini koʻrib chiqishning oʻziga xos xususiyatlari."
+        "ID": "76",
+        "nomi": "Murojaatlarni koʻrmay qoldirish va tugatish tartibiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "75 ",
-        "nomi": "Murojaatlarni koʻrmay qoldirish va tugatish tartibiga tavsif bering."
+        "ID": "77",
+        "nomi": "Normativ-huquqiy hujjatlar loyihalarining jamoatchilik muhokamasi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "76 ",
-        "nomi": "Normativ-huquqiy hujjatlar loyihalarining jamoatchilik muhokamasi."
+        "ID": "78",
+        "nomi": "Normativ-huquqiy hujjatlar loyihalarini kelishish tartibi va muddatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "77 ",
-        "nomi": "Normativ-huquqiy hujjatlar loyihalarini kelishish tartibi va muddatlari."
+        "ID": "79",
+        "nomi": "Normativ-huquqiy hujjatning amal qilishini toʻxtatib turish va tugatish holatlarini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "78 ",
-        "nomi": "Normativ-huquqiy hujjatning amal qilishini toʻxtatib turish va tugatish holatlarini tushuntirib bering."
+        "ID": "80",
+        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining normativ-huquqiy hujjatlar ijrosini tashkil etish va taʼminlashga doir vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "79 ",
-        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining normativ-huquqiy hujjatlar ijrosini tashkil etish va taʼminlashga doir vakolatlari."
+        "ID": "81",
+        "nomi": "Referendumni oʻtkazish tashabbusi va uni amalga oshirish tartibini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "80 ",
-        "nomi": "Referendumni oʻtkazish tashabbusi va uni amalga oshirish tartibini yoritib bering."
+        "ID": "82",
+        "nomi": "Oʻzbekiston Respublikasi Hisob palatasining huquqiy maqomi va asosiy vazifalari haqida maʼlumot bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "81 ",
-        "nomi": "Oʻzbekiston Respublikasi Hisob palatasining huquqiy maqomi va asosiy vazifalari haqida maʼlumot bering."
+        "ID": "83",
+        "nomi": "“Hukumat soati” tushunchasiga izoh bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "82 ",
-        "nomi": "“Hukumat soati” tushunchasiga izoh bering."
+        "ID": "84",
+        "nomi": "Parlament nazorati subyektlari haqida maʼlumot bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "83 ",
-        "nomi": "Parlament nazorati subyektlari haqida maʼlumot bering."
+        "ID": "85",
+        "nomi": "Parlament nazorati shakllarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "84 ",
-        "nomi": "Parlament nazorati shakllarini yoritib bering."
+        "ID": "86",
+        "nomi": "Parlament soʻroviga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "85 ",
-        "nomi": "Parlament soʻroviga tavsif bering."
+        "ID": "87",
+        "nomi": "Referendumni oʻtkazish tashabbusi va tartibini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "86 ",
-        "nomi": "Referendumni oʻtkazish tashabbusi va tartibini yoritib bering."
+        "ID": "88",
+        "nomi": "Oʻzbekiston Respublikasining referendumi va uni oʻtkazishning asosiy prinsiplarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "87 ",
-        "nomi": "Oʻzbekiston Respublikasining referendumi va uni oʻtkazishning asosiy prinsiplarini yoritib bering."
+        "ID": "89",
+        "nomi": "Jamoatchilik nazoratining shakllarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "88 ",
-        "nomi": "Jamoatchilik nazoratining shakllarini yoritib bering."
+        "ID": "90",
+        "nomi": "Jamoatchilik muhokamasi va uni oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "89 ",
-        "nomi": "Jamoatchilik muhokamasi va uni oʻtkazish tartibi."
+        "ID": "91",
+        "nomi": "Korrupsiyaga qarshi kurashish boʻyicha faoliyatni amalga oshiruvchi davlat organlari qaysilar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "90 ",
-        "nomi": "Korrupsiyaga qarshi kurashish boʻyicha faoliyatni amalga oshiruvchi davlat organlari qaysilar."
+        "ID": "92",
+        "nomi": "Oʻzbekiston Respublikasi Korrupsiyaga qarshi kurashish agentligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "91 ",
-        "nomi": "Oʻzbekiston Respublikasi Korrupsiyaga qarshi kurashish agentligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "93",
+        "nomi": "Oʻzbekiston Respublikasi Bosh prokuraturasining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "92 ",
-        "nomi": "Oʻzbekiston Respublikasi Bosh prokuraturasining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "94",
+        "nomi": "Oʻzbekiston Respublikasi Davlat xavfsizlik xizmatining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "93 ",
-        "nomi": "Oʻzbekiston Respublikasi Davlat xavfsizlik xizmatining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "95",
+        "nomi": "Oʻzbekiston Respublikasi Ichki ishlar vazirligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "94 ",
-        "nomi": "Oʻzbekiston Respublikasi Ichki ishlar vazirligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "96",
+        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "95 ",
-        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "97",
+        "nomi": "Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamentining korrupsiyaga qarshi kurashish sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "96 ",
-        "nomi": "Oʻzbekiston Respublikasi Bosh prokuraturasi huzuridagi Iqtisodiy jinoyatlarga qarshi kurashish departamentining korrupsiyaga qarshi kurashish sohasidagi vakolatlari."
+        "ID": "98",
+        "nomi": "Fuqarolar oʻzini oʻzi boshqarish organlarining, nodavlat notijorat tashkilotlarining va fuqarolarning korrupsiyaga qarshi kurashishda ishtirok etishini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "97 ",
-        "nomi": "Fuqarolar oʻzini oʻzi boshqarish organlarining, nodavlat notijorat tashkilotlarining va fuqarolarning korrupsiyaga qarshi kurashishda ishtirok etishini yoritib bering."
+        "ID": "99",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi Spikeri va uning oʻrinbosarlarini saylash tartibini va Qonunchilik palatasi Spikerining vakolatlarini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "98 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi Spikeri va uning oʻrinbosarlarini saylash tartibini va Qonunchilik palatasi Spikerining vakolatlarini tushuntirib bering."
+        "ID": "100",
+        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Senat Raisi va uning oʻrinbosarlarini saylash tartibini va Senat Raisining vakolatlarini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "99 ",
-        "nomi": "Oʻzbekiston Respublikasi Oliy Majlisining Senat Raisi va uning oʻrinbosarlarini saylash tartibini va Senat Raisining vakolatlarini tushuntirib bering."
+        "ID": "101",
+        "nomi": "Shaxsga doir maʼlumotlarga ishlov berish shartlari qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "100 ",
-        "nomi": "Shaxsga doir maʼlumotlarga ishlov berish shartlari qanday?"
+        "ID": "102",
+        "nomi": "Fuqarolik huquqi boʻyicha savollar",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "-",
-        "nomi": "Fuqarolik huquqi boʻyicha savollar"
+        "ID": "103",
+        "nomi": "Fuqarolik qonun hujjatlari nimalarga asoslanadi, ular bilan qanday munosabatlar tartibga solinadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "1 ",
-        "nomi": "Fuqarolik qonun hujjatlari nimalarga asoslanadi, ular bilan qanday munosabatlar tartibga solinadi?"
+        "ID": "104",
+        "nomi": "Qaysi hollarda fuqarolik-huquqiy munosabatlarni tartibga solishda analogiya (oʻxshashlik) qoʻllaniladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "2 ",
-        "nomi": "Qaysi hollarda fuqarolik-huquqiy munosabatlarni tartibga solishda analogiya (oʻxshashlik) qoʻllaniladi?"
+        "ID": "105",
+        "nomi": "Fuqarolik huquq va burchlari vujudga kelishining qanday asoslari mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "3 ",
-        "nomi": "Fuqarolik huquq va burchlari vujudga kelishining qanday asoslari mavjud?"
+        "ID": "106",
+        "nomi": "Zararni qoplash deganda nimani tushunasiz? Davlat organlari va fuqarolarning oʻzini oʻzi boshqarish organlari tomonidan yetkazilgan zarar kim tomonidan toʻlanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "4 ",
-        "nomi": "Zararni qoplash deganda nimani tushunasiz? Davlat organlari va fuqarolarning oʻzini oʻzi boshqarish organlari tomonidan yetkazilgan zarar kim tomonidan toʻlanadi?"
+        "ID": "107",
+        "nomi": "Vasiylik va homiylik. Vasiylik va homiylik organlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "5 ",
-        "nomi": "Vasiylik va homiylik. Vasiylik va homiylik organlari."
+        "ID": "108",
+        "nomi": "Fuqaroning bedarak yoʻqolgan deb topilishi, oqibatlari va fuqaroni bedarak yoʻqolgan deb topish haqidagi qarorning bekor qilinishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "6 ",
-        "nomi": "Fuqaroning bedarak yoʻqolgan deb topilishi, oqibatlari va fuqaroni bedarak yoʻqolgan deb topish haqidagi qarorning bekor qilinishi."
+        "ID": "109",
+        "nomi": "Yuridik shaxs tushunchasi va turlari. Yuridik shaxsning huquq layoqati.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "7 ",
-        "nomi": "Yuridik shaxs tushunchasi va turlari. Yuridik shaxsning huquq layoqati."
+        "ID": "110",
+        "nomi": "Yuridik shaxslarning tashkil etilishi, taʼsis hujjatlari va davlat roʻyxatidan oʻtkazilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "8 ",
-        "nomi": "Yuridik shaxslarning tashkil etilishi, taʼsis hujjatlari va davlat roʻyxatidan oʻtkazilishi."
+        "ID": "111",
+        "nomi": "Yuridik shaxslarni qayta tashkil etishda huquqiy vorislik qanday tartibda amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "9 ",
-        "nomi": "Yuridik shaxslarni qayta tashkil etishda huquqiy vorislik qanday tartibda amalga oshiriladi?"
+        "ID": "112",
+        "nomi": "Masʼuliyati cheklangan jamiyat nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "10 ",
-        "nomi": "Masʼuliyati cheklangan jamiyat nima?"
+        "ID": "113",
+        "nomi": "Aksiyadorlik jamiyatlari, ularning ustav fondi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "11 ",
-        "nomi": "Aksiyadorlik jamiyatlari, ularning ustav fondi."
+        "ID": "114",
+        "nomi": "Davlatning fuqarolik-huquqiy munosabatlar ishtirokchisi sifatidagi roli. Davlat va yuridik shaxslar javobgarligi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "12 ",
-        "nomi": "Davlatning fuqarolik-huquqiy munosabatlar ishtirokchisi sifatidagi roli. Davlat va yuridik shaxslar javobgarligi."
+        "ID": "115",
+        "nomi": "Fuqarolik huquqlari obyektlari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "13 ",
-        "nomi": "Fuqarolik huquqlari obyektlari nimalardan iborat?"
+        "ID": "116",
+        "nomi": "Koʻchmas mol-mulkni davlat roʻyxatidan oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "14 ",
-        "nomi": "Koʻchmas mol-mulkni davlat roʻyxatidan oʻtkazish tartibi."
+        "ID": "117",
+        "nomi": "Qimmatli qogʻozlar deganda nima tushuniladi? Qimmatli qogʻozlarga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "15 ",
-        "nomi": "Qimmatli qogʻozlar deganda nima tushuniladi? Qimmatli qogʻozlarga nimalar kiradi?"
+        "ID": "118",
+        "nomi": "Bitimlar tushunchasiga taʼrif bering. Bitimlarning qanday turlari mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "16 ",
-        "nomi": "Bitimlar tushunchasiga taʼrif bering. Bitimlarning qanday turlari mavjud?"
+        "ID": "119",
+        "nomi": "Bitimlarning shakllari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "17 ",
-        "nomi": "Bitimlarning shakllari."
+        "ID": "120",
+        "nomi": "Bitimning notarial shakliga va uni roʻyxatdan oʻtkazish talabiga rioya qilmaslikning oqibatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "18 ",
-        "nomi": "Bitimning notarial shakliga va uni roʻyxatdan oʻtkazish talabiga rioya qilmaslikning oqibatlari."
+        "ID": "121",
+        "nomi": "Emansipatsiya nima? Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar tomonidan bitimlarni tuzish shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "19 ",
-        "nomi": "Emansipatsiya nima? Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar tomonidan bitimlarni tuzish shartlari."
+        "ID": "122",
+        "nomi": "Vakillik. Muomalaga layoqatli va muomalaga layoqatsiz shaxslar nomidan vakillik qilishni tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "20 ",
-        "nomi": "Vakillik. Muomalaga layoqatli va muomalaga layoqatsiz shaxslar nomidan vakillik qilishni tushuntirib bering."
+        "ID": "123",
+        "nomi": "Ishonchnoma tushunchasi va uning shakli. Qanday ishonchnomalar notarial tasdiqlangan ishonchnomalarga tenglashtiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "21 ",
-        "nomi": "Ishonchnoma tushunchasi va uning shakli. Qanday ishonchnomalar notarial tasdiqlangan ishonchnomalarga tenglashtiriladi?"
+        "ID": "124",
+        "nomi": "Ishonchnoma boʻyicha vakolatlarni boshqa shaxsga berish (boshqa shaxsga oʻtkazish).",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "22 ",
-        "nomi": "Ishonchnoma boʻyicha vakolatlarni boshqa shaxsga berish (boshqa shaxsga oʻtkazish)."
+        "ID": "125",
+        "nomi": "Yuridik shaxs tomonidan beriladigan ishonchnomaning tuzilishi tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "23 ",
-        "nomi": "Yuridik shaxs tomonidan beriladigan ishonchnomaning tuzilishi tartibi."
+        "ID": "126",
+        "nomi": "Muddatlar belgilash, vaqt davri bilan belgilangan muddatning boshlanishi va tugashi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "24 ",
-        "nomi": "Muddatlar belgilash, vaqt davri bilan belgilangan muddatning boshlanishi va tugashi."
+        "ID": "127",
+        "nomi": "Mulk huquqi tushunchasi. Mulk huquqi subyektlari va obyektlari haqida gapirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "25 ",
-        "nomi": "Mulk huquqi tushunchasi. Mulk huquqi subyektlari va obyektlari haqida gapirib bering."
+        "ID": "128",
+        "nomi": "Aksiyadorlik jamiyatida aksiyadorlar umumiy yigʻilishining vakolatlari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "26 ",
-        "nomi": "Aksiyadorlik jamiyatida aksiyadorlar umumiy yigʻilishining vakolatlari nimalardan iborat?"
+        "ID": "129",
+        "nomi": "Masʼuliyati cheklangan jamiyatning ishtirokchilari umumiy yigʻilishining vakolatlariga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "27 ",
-        "nomi": "Masʼuliyati cheklangan jamiyatning ishtirokchilari umumiy yigʻilishining vakolatlariga nimalar kiradi?"
+        "ID": "130",
+        "nomi": "Umumiy mulk tushunchasi va uning vujudga kelish asoslari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "28 ",
-        "nomi": "Umumiy mulk tushunchasi va uning vujudga kelish asoslari nimalardan iborat?"
+        "ID": "131",
+        "nomi": "Ulushli mulkdagi ulushlar qanday aniqlanadi? Ulushli mulklarni imtiyozli sotib olish huquqi haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "29 ",
-        "nomi": "Ulushli mulkdagi ulushlar qanday aniqlanadi? Ulushli mulklarni imtiyozli sotib olish huquqi haqida nimalarni bilasiz?"
+        "ID": "132",
+        "nomi": "Vindikatsiya deganda nimani tushunasiz? Mol-mulkni insofli egallovchidan talab qilib olish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "30 ",
-        "nomi": "Vindikatsiya deganda nimani tushunasiz? Mol-mulkni insofli egallovchidan talab qilib olish tartibi."
+        "ID": "133",
+        "nomi": "Majburiyat tushunchasi. Majburiyatni bajarish muddati. Majburiyatning bajarilishi qanday usullar bilan taʼminlanishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "31 ",
-        "nomi": "Majburiyat tushunchasi. Majburiyatni bajarish muddati. Majburiyatning bajarilishi qanday usullar bilan taʼminlanishi mumkin?"
+        "ID": "134",
+        "nomi": "Garov deganda nimani tushunasiz? Garov narsasi sifatida nimalar muomalada boʻlishi mumkin? Garovning qanday turlari mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "32 ",
-        "nomi": "Garov deganda nimani tushunasiz? Garov narsasi sifatida nimalar muomalada boʻlishi mumkin? Garovning qanday turlari mavjud?"
+        "ID": "135",
+        "nomi": "Garov shartnomasining mazmuni va shakli. Garov huquqi qachon vujudga kelgan deb hisoblanadi? Garov huquqi qaysi hollarda bekor boʻladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "33 ",
-        "nomi": "Garov shartnomasining mazmuni va shakli. Garov huquqi qachon vujudga kelgan deb hisoblanadi? Garov huquqi qaysi hollarda bekor boʻladi?"
+        "ID": "136",
+        "nomi": "Navbatdagi garov deganda nimani tushunasiz? Garov narsasini almashtirish va tiklash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "34 ",
-        "nomi": "Navbatdagi garov deganda nimani tushunasiz? Garov narsasini almashtirish va tiklash."
+        "ID": "137",
+        "nomi": "Undiruvni garovga qoʻyilgan mol-mulkka qaratishning asoslari va tartibi. Garovga qoʻyilgan mol-mulkni sotish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "35 ",
-        "nomi": "Undiruvni garovga qoʻyilgan mol-mulkka qaratishning asoslari va tartibi. Garovga qoʻyilgan mol-mulkni sotish tartibi."
+        "ID": "138",
+        "nomi": "Kafillik shartnomasi nima? Kafillik shartnomasiga asosan kafilning qanday javobgarligi bor?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "36 ",
-        "nomi": "Kafillik shartnomasi nima? Kafillik shartnomasiga asosan kafilning qanday javobgarligi bor?"
+        "ID": "139",
+        "nomi": "Kafolat tushunchasi, kuchga kirishi va bekor boʻlish shartlari haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "37 ",
-        "nomi": "Kafolat tushunchasi, kuchga kirishi va bekor boʻlish shartlari haqida nimalarni bilasiz?"
+        "ID": "140",
+        "nomi": "Zakalat nima? Zakalat pulini qaytarish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "38 ",
-        "nomi": "Zakalat nima? Zakalat pulini qaytarish."
+        "ID": "141",
+        "nomi": "Majburiyatni buzganlik uchun javobgarlik asoslarini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "39 ",
-        "nomi": "Majburiyatni buzganlik uchun javobgarlik asoslarini tushuntirib bering."
+        "ID": "142",
+        "nomi": "Shartnoma tushunchasini izohlab bering. Shartnoma tuzish erkinligi deganda nima nazarda tutilgan?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "40 ",
-        "nomi": "Shartnoma tushunchasini izohlab bering. Shartnoma tuzish erkinligi deganda nima nazarda tutilgan?"
+        "ID": "143",
+        "nomi": "Haq evaziga va tekinga tuziladigan shartnomalarga taʼrif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "41 ",
-        "nomi": "Haq evaziga va tekinga tuziladigan shartnomalarga taʼrif bering."
+        "ID": "144",
+        "nomi": "Uchinchi shaxs foydasiga tuziladigan shartnomalar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "42 ",
-        "nomi": "Uchinchi shaxs foydasiga tuziladigan shartnomalar."
+        "ID": "145",
+        "nomi": "Bino, inshoot yoki boshqa koʻchmas mulk sotilganida ular joylashgan yer uchastkasiga boʻlgan huquq.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "43 ",
-        "nomi": "Bino, inshoot yoki boshqa koʻchmas mulk sotilganida ular joylashgan yer uchastkasiga boʻlgan huquq."
+        "ID": "146",
+        "nomi": "Koʻchmas mulkni sotish shartnomasi va uning shakli. Uy-joy binolarini sotishning xususiyatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "44 ",
-        "nomi": "Koʻchmas mulkni sotish shartnomasi va uning shakli. Uy-joy binolarini sotishning xususiyatlari."
+        "ID": "147",
+        "nomi": "Korxonaga mulk huquqining boshqa shaxsga oʻtishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "45 ",
-        "nomi": "Korxonaga mulk huquqining boshqa shaxsga oʻtishi."
+        "ID": "148",
+        "nomi": "Ayirboshlash shartnomasi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "46 ",
-        "nomi": "Ayirboshlash shartnomasi."
+        "ID": "149",
+        "nomi": "Lizing shartnomasi, uni tuzish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "47 ",
-        "nomi": "Lizing shartnomasi, uni tuzish tartibi."
+        "ID": "150",
+        "nomi": "Hadya shartnomasi. Hadyani bekor qilish mumkin boʻlgan holatlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "48 ",
-        "nomi": "Hadya shartnomasi. Hadyani bekor qilish mumkin boʻlgan holatlar."
+        "ID": "151",
+        "nomi": "Hadya shartnomasining shakli haqida nimalar bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "49 ",
-        "nomi": "Hadya shartnomasining shakli haqida nimalar bilasiz?"
+        "ID": "152",
+        "nomi": "Umrbod taʼminlash sharti bilan uy-joy (kvartira)ni boshqa shaxsga berish shartnomasi, uning shakli va shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "50 ",
-        "nomi": "Umrbod taʼminlash sharti bilan uy-joy (kvartira)ni boshqa shaxsga berish shartnomasi, uning shakli va shartlari."
+        "ID": "153",
+        "nomi": "Mulk ijarasining obyektlari va ularni tasarruf etish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "51 ",
-        "nomi": "Mulk ijarasining obyektlari va ularni tasarruf etish."
+        "ID": "154",
+        "nomi": "Mulk ijarasi shartnomasini bekor qilish va mol-mulkni ijaraga beruvchiga qaytarish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "52 ",
-        "nomi": "Mulk ijarasi shartnomasini bekor qilish va mol-mulkni ijaraga beruvchiga qaytarish tartibi."
+        "ID": "155",
+        "nomi": "Transport vositasini ijaraga berish shartnomasi va uning shakli.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "53 ",
-        "nomi": "Transport vositasini ijaraga berish shartnomasi va uning shakli."
+        "ID": "156",
+        "nomi": "Bino yoki inshootni ijaraga berish shartnomasi, uning shakli va davlat roʻyxatidan oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "54 ",
-        "nomi": "Bino yoki inshootni ijaraga berish shartnomasi, uning shakli va davlat roʻyxatidan oʻtkazish tartibi."
+        "ID": "157",
+        "nomi": "Uy-joyni ijaraga berish shartnomasi, muddati va bekor qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "55 ",
-        "nomi": "Uy-joyni ijaraga berish shartnomasi, muddati va bekor qilish tartibi."
+        "ID": "158",
+        "nomi": "Uy-joyni tekin foydalanishga berish shartnomasining shakli.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "56 ",
-        "nomi": "Uy-joyni tekin foydalanishga berish shartnomasining shakli."
+        "ID": "159",
+        "nomi": "Qarz va kredit shartnomalari. Ushbu shartnomalarning shakli.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "57 ",
-        "nomi": "Qarz va kredit shartnomalari. Ushbu shartnomalarning shakli."
+        "ID": "160",
+        "nomi": "Sugʻurtaning asosiy turlari, sugʻurta shartnomasining shakli va sugʻurta siri.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "58 ",
-        "nomi": "Sugʻurtaning asosiy turlari, sugʻurta shartnomasining shakli va sugʻurta siri."
+        "ID": "161",
+        "nomi": "Intellektual mulk obyektlari va ularni huquqiy muhofaza qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "59 ",
-        "nomi": "Intellektual mulk obyektlari va ularni huquqiy muhofaza qilish."
+        "ID": "162",
+        "nomi": "Intellektual mulk obyektlariga nisbatan mutlaq huquqlarni himoya qilish qanday usullarda amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "60 ",
-        "nomi": "Intellektual mulk obyektlariga nisbatan mutlaq huquqlarni himoya qilish qanday usullarda amalga oshiriladi?"
+        "ID": "163",
+        "nomi": "Tekin foydalanish shartnomasi tushunchasi va shartnomani muddatidan oldin bekor qilish shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "61 ",
-        "nomi": "Tekin foydalanish shartnomasi tushunchasi va shartnomani muddatidan oldin bekor qilish shartlari."
+        "ID": "164",
+        "nomi": "Vositachilik shartnomasi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "62 ",
-        "nomi": "Vositachilik shartnomasi."
+        "ID": "165",
+        "nomi": "Mol-mulkni ishonchli boshqarish shartnomasi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "63 ",
-        "nomi": "Mol-mulkni ishonchli boshqarish shartnomasi."
+        "ID": "166",
+        "nomi": "Mualliflik huquqi obyektlari hisoblanmaydigan materiallar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "64 ",
-        "nomi": "Mualliflik huquqi obyektlari hisoblanmaydigan materiallar."
+        "ID": "167",
+        "nomi": "Hammualliflik nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "65 ",
-        "nomi": "Hammualliflik nima?"
+        "ID": "168",
+        "nomi": "Mualliflik huquqining amal qilish muddati.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "66 ",
-        "nomi": "Mualliflik huquqining amal qilish muddati."
+        "ID": "169",
+        "nomi": "Sugʻurta shartnomasining muhim shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "67 ",
-        "nomi": "Sugʻurta shartnomasining muhim shartlari."
+        "ID": "170",
+        "nomi": "Turdosh huquqlar obyektlari va subyektlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "68 ",
-        "nomi": "Turdosh huquqlar obyektlari va subyektlari."
+        "ID": "171",
+        "nomi": "Intellektual mulk obyektlariga shaxsiy nomulkiy va mulkiy huquqlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "69 ",
-        "nomi": "Intellektual mulk obyektlariga shaxsiy nomulkiy va mulkiy huquqlar."
+        "ID": "172",
+        "nomi": "Intellektual mulk obyektlariga nisbatan mutlaq huquqlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "70 ",
-        "nomi": "Intellektual mulk obyektlariga nisbatan mutlaq huquqlar."
+        "ID": "173",
+        "nomi": "Renta shartnomasi va shakli haqida gapirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "71 ",
-        "nomi": "Renta shartnomasi va shakli haqida gapirib bering."
+        "ID": "174",
+        "nomi": "Doimiy va umrbod renta oluvchilarga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "72 ",
-        "nomi": "Doimiy va umrbod renta oluvchilarga tavsif bering."
+        "ID": "175",
+        "nomi": "Korxonani ijaraga berish shartnomasi va uning shakli.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "73 ",
-        "nomi": "Korxonani ijaraga berish shartnomasi va uning shakli."
+        "ID": "176",
+        "nomi": "Kontraktatsiya shartnomasi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "74 ",
-        "nomi": "Kontraktatsiya shartnomasi."
+        "ID": "177",
+        "nomi": "Ushlab qolish asoslari haqida gapirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "75 ",
-        "nomi": "Ushlab qolish asoslari haqida gapirib bering."
+        "ID": "178",
+        "nomi": "Neustoyka tushunchasi va shakllari haqida gapirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "76 ",
-        "nomi": "Neustoyka tushunchasi va shakllari haqida gapirib bering."
+        "ID": "179",
+        "nomi": "Ulushli mulkdagi mol-mulkni taqsimlash va undan ulush ajratish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "77 ",
-        "nomi": "Ulushli mulkdagi mol-mulkni taqsimlash va undan ulush ajratish tartibi."
+        "ID": "180",
+        "nomi": "Oʻzganing yer uchastkasidan cheklangan tarzda foydalanish (servitut) huquqi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "78 ",
-        "nomi": "Oʻzganing yer uchastkasidan cheklangan tarzda foydalanish (servitut) huquqi."
+        "ID": "181",
+        "nomi": "Mulkdorning mol-mulkini bevosita olib qoʻyishga qaratmagan holda mulk huquqining bekor qilinishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "79 ",
-        "nomi": "Mulkdorning mol-mulkini bevosita olib qoʻyishga qaratmagan holda mulk huquqining bekor qilinishi."
+        "ID": "182",
+        "nomi": "Natsionalizatsiya va Rekvizitsiya nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "80 ",
-        "nomi": "Natsionalizatsiya va Rekvizitsiya nima?"
+        "ID": "183",
+        "nomi": "Egalik qilish huquqini vujudga keltiruvchi muddat.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "81 ",
-        "nomi": "Egalik qilish huquqini vujudga keltiruvchi muddat."
+        "ID": "184",
+        "nomi": "Qanday hollarda daʼvo muddatining oʻtishi toʻxtatiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "82 ",
-        "nomi": "Qanday hollarda daʼvo muddatining oʻtishi toʻxtatiladi?"
+        "ID": "185",
+        "nomi": "Daʼvo muddati joriy qilinmaydigan talablar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "83 ",
-        "nomi": "Daʼvo muddati joriy qilinmaydigan talablar."
+        "ID": "186",
+        "nomi": "Ishonchnomaning bekor boʻlishi haqida gapirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "84 ",
-        "nomi": "Ishonchnomaning bekor boʻlishi haqida gapirib bering."
+        "ID": "187",
+        "nomi": "Ishonchnomaning bekor boʻlganligi haqida shaxslarga xabar berish va Ishonchnoma olgan shaxsning ishonchnoma bekor boʻlganidan keyin qilgan harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "85 ",
-        "nomi": "Ishonchnomaning bekor boʻlganligi haqida shaxslarga xabar berish va Ishonchnoma olgan shaxsning ishonchnoma bekor boʻlganidan keyin qilgan harakatlari."
+        "ID": "188",
+        "nomi": "Oʻzboshimchalik bilan imorat qurish va uning oqibatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "86 ",
-        "nomi": "Oʻzboshimchalik bilan imorat qurish va uning oqibatlari."
+        "ID": "189",
+        "nomi": "Bitimlar haqiqiy emasligining oqibatlari toʻgʻrisidagi umumiy qoidalar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "87 ",
-        "nomi": "Bitimlar haqiqiy emasligining oqibatlari toʻgʻrisidagi umumiy qoidalar."
+        "ID": "190",
+        "nomi": "Oʻz harakatlarining ahamiyatini tushuna olmaydigan yoki ularni boshqara olmaydigan fuqaro tomonidan tuzilgan bitimning haqiqiy emasligi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "88 ",
-        "nomi": "Oʻz harakatlarining ahamiyatini tushuna olmaydigan yoki ularni boshqara olmaydigan fuqaro tomonidan tuzilgan bitimning haqiqiy emasligi."
+        "ID": "191",
+        "nomi": "Aldash, zoʻrlik, qoʻrqitish, bir taraf vakilining ikkinchi taraf bilan yomon niyatda kelishishi yoki ogʻir holatlar yuz berishi taʼsirida tuzilgan bitimning haqiqiy emasligi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "89 ",
-        "nomi": "Aldash, zoʻrlik, qoʻrqitish, bir taraf vakilining ikkinchi taraf bilan yomon niyatda kelishishi yoki ogʻir holatlar yuz berishi taʼsirida tuzilgan bitimning haqiqiy emasligi."
+        "ID": "192",
+        "nomi": "Vakolatsiz vakillik nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "90 ",
-        "nomi": "Vakolatsiz vakillik nima?"
+        "ID": "193",
+        "nomi": "Qoʻshimcha masʼuliyatli jamiyat nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "91 ",
-        "nomi": "Qoʻshimcha masʼuliyatli jamiyat nima?"
+        "ID": "194",
+        "nomi": "Vafot etgan deb eʼlon qilingan fuqaro qaytib kelishining oqibatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "92 ",
-        "nomi": "Vafot etgan deb eʼlon qilingan fuqaro qaytib kelishining oqibatlari."
+        "ID": "195",
+        "nomi": "Fuqaroni vafot etgan deb eʼlon qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "93 ",
-        "nomi": "Fuqaroni vafot etgan deb eʼlon qilish."
+        "ID": "196",
+        "nomi": "Yuridik shaxsning javobgarligi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "94 ",
-        "nomi": "Yuridik shaxsning javobgarligi."
+        "ID": "197",
+        "nomi": "Yuridik shaxsni qayta tashkil etish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "95 ",
-        "nomi": "Yuridik shaxsni qayta tashkil etish tartibi."
+        "ID": "198",
+        "nomi": "Yuridik shaxsni tugatish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "96 ",
-        "nomi": "Yuridik shaxsni tugatish tartibi."
+        "ID": "199",
+        "nomi": "Fuqarolik huquqlarini himoya qilish usullari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "97 ",
-        "nomi": "Fuqarolik huquqlarini himoya qilish usullari."
+        "ID": "200",
+        "nomi": "Fuqaroni muomalaga layoqatsiz deb topish va muomala layoqatini cheklashga izoh bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "98 ",
-        "nomi": "Fuqaroni muomalaga layoqatsiz deb topish va muomala layoqatini cheklashga izoh bering."
+        "ID": "201",
+        "nomi": "Oʻn toʻrt yoshga toʻlmagan voyaga yetmaganlarning muomala layoqatiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "99 ",
-        "nomi": "Oʻn toʻrt yoshga toʻlmagan voyaga yetmaganlarning muomala layoqatiga tavsif bering."
+        "ID": "202",
+        "nomi": "Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlarning muomala layoqatiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "100 ",
-        "nomi": "Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlarning muomala layoqatiga tavsif bering."
+        "ID": "203",
+        "nomi": "Notariat sohasi boʻyicha savollar",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "-",
-        "nomi": "Notariat sohasi boʻyicha savollar"
+        "ID": "204",
+        "nomi": "Notariusning huquqlari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "1 ",
-        "nomi": "Notariusning huquqlari nimalardan iborat?"
+        "ID": "205",
+        "nomi": "Notariusning majburiyatlari va uning kasbiy majburiyatlarini bajarishga toʻsqinlik qilish oqibatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "2 ",
-        "nomi": "Notariusning majburiyatlari va uning kasbiy majburiyatlarini bajarishga toʻsqinlik qilish oqibatlari."
+        "ID": "206",
+        "nomi": "Notarial ish yuritish qoidalari, notarial hujjatlarni saqlash muddatlari va tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "3 ",
-        "nomi": "Notarial ish yuritish qoidalari, notarial hujjatlarni saqlash muddatlari va tartibi."
+        "ID": "207",
+        "nomi": "Notarial harakatlarning maxfiyligi haqida nimalarni bilasiz? Amalga oshirilgan notarial harakatlar toʻgʻrisidagi maʼlumotnomalar (maʼlumotlar) kimlarga berilishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "4 ",
-        "nomi": "Notarial harakatlarning maxfiyligi haqida nimalarni bilasiz? Amalga oshirilgan notarial harakatlar toʻgʻrisidagi maʼlumotnomalar (maʼlumotlar) kimlarga berilishi mumkin?"
+        "ID": "208",
+        "nomi": "Notarial harakatlarni amalga oshirishni toʻxtatib turish va kechiktirish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "5 ",
-        "nomi": "Notarial harakatlarni amalga oshirishni toʻxtatib turish va kechiktirish."
+        "ID": "209",
+        "nomi": "Qaysi holatlarda notarial harakatni amalga oshirish rad etiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "6 ",
-        "nomi": "Qaysi holatlarda notarial harakatni amalga oshirish rad etiladi?"
+        "ID": "210",
+        "nomi": "Notariuslar tomonidan Internet jahon axborot tarmogʻidagi faktlarni tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "7 ",
-        "nomi": "Notariuslar tomonidan Internet jahon axborot tarmogʻidagi faktlarni tasdiqlash."
+        "ID": "211",
+        "nomi": "Er-xotinning umumiy mol-mulkidagi ulushga boʻlgan mulk huquqi toʻgʻrisidagi guvohnoma berish va er-xotinning mulkini boʻlish haqidagi shartnomani tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "8 ",
-        "nomi": "Er-xotinning umumiy mol-mulkidagi ulushga boʻlgan mulk huquqi toʻgʻrisidagi guvohnoma berish va er-xotinning mulkini boʻlish haqidagi shartnomani tasdiqlash."
+        "ID": "212",
+        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazishni taqiqlab qoʻyish va taqiqni bekor qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "9 ",
-        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazishni taqiqlab qoʻyish va taqiqni bekor qilish tartibi."
+        "ID": "213",
+        "nomi": "Chet el fuqarolari va fuqaroligi boʻlmagan shaxslarga Toshkent shahrida joylashgan koʻchmas mulkni boshqa shaxsga oʻtkazish bilan bogʻliq boʻlgan bitimlar va koʻchmas mulkni garovga (ipotekaga) qoʻyish shartnomalarini notarial tasdiqlash xususiyatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "10 ",
-        "nomi": "Chet el fuqarolari va fuqaroligi boʻlmagan shaxslarga Toshkent shahrida joylashgan koʻchmas mulkni boshqa shaxsga oʻtkazish bilan bogʻliq boʻlgan bitimlar va koʻchmas mulkni garovga (ipotekaga) qoʻyish shartnomalarini notarial tasdiqlash xususiyatlari."
+        "ID": "214",
+        "nomi": "Er-xotinning umumiy birgalikdagi mulki boʻlgan koʻchmas mulkni boshqa shaxsga oʻtkazish boʻyicha bitim tuzishda notariusning harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "11 ",
-        "nomi": "Er-xotinning umumiy birgalikdagi mulki boʻlgan koʻchmas mulkni boshqa shaxsga oʻtkazish boʻyicha bitim tuzishda notariusning harakatlari."
+        "ID": "215",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatidan chiqarish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "12 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatidan chiqarish tartibi."
+        "ID": "216",
+        "nomi": "Axborot-kommunikatsiya texnologiyalari orqali notarius qabuliga navbatga yozilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "13 ",
-        "nomi": "Axborot-kommunikatsiya texnologiyalari orqali notarius qabuliga navbatga yozilish."
+        "ID": "217",
+        "nomi": "Notariuslar tomonidan hujjatlarning dublikatlarini berish asoslari va tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "14 ",
-        "nomi": "Notariuslar tomonidan hujjatlarning dublikatlarini berish asoslari va tartibi."
+        "ID": "218",
+        "nomi": "Notarial shahodatlantirish mumkin boʻlmagan hujjatlarga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "15 ",
-        "nomi": "Notarial shahodatlantirish mumkin boʻlmagan hujjatlarga nimalar kiradi?"
+        "ID": "219",
+        "nomi": "Hujjatlarning bir tildan boshqa tilga toʻgʻri tarjima qilinganligini va hujjatlardagi imzoning haqiqiyligini shahodatlash qanday amalga oshiriladi? Undiriladigan davlat boji.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "16 ",
-        "nomi": "Hujjatlarning bir tildan boshqa tilga toʻgʻri tarjima qilinganligini va hujjatlardagi imzoning haqiqiyligini shahodatlash qanday amalga oshiriladi? Undiriladigan davlat boji."
+        "ID": "220",
+        "nomi": "Jismoniy va yuridik shaxslarning arizalarini boshqa jismoniy va yuridik shaxslarga topshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "17 ",
-        "nomi": "Jismoniy va yuridik shaxslarning arizalarini boshqa jismoniy va yuridik shaxslarga topshirish tartibi."
+        "ID": "221",
+        "nomi": "Pul summalari va qimmatli qogʻozlarni depozitga qabul qilish tartibi. Notarius tomonidan depozitga qabul qilingan pul summalarining saqlanish muddati.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "18 ",
-        "nomi": "Pul summalari va qimmatli qogʻozlarni depozitga qabul qilish tartibi. Notarius tomonidan depozitga qabul qilingan pul summalarining saqlanish muddati."
+        "ID": "222",
+        "nomi": "Ijro xatlarini yozish tartibi. Undiriladigan davlat boji.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "19 ",
-        "nomi": "Ijro xatlarini yozish tartibi. Undiriladigan davlat boji."
+        "ID": "223",
+        "nomi": "Fuqaroning kasalligi, nogironligi sababli notarial idoraga kela olmaydigan holatda yoki kar-soqovlik nuqsoni bor fuqarolar ishtirokida notarial harakatni amalga oshirish va davlat boji undirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "20 ",
-        "nomi": "Fuqaroning kasalligi, nogironligi sababli notarial idoraga kela olmaydigan holatda yoki kar-soqovlik nuqsoni bor fuqarolar ishtirokida notarial harakatni amalga oshirish va davlat boji undirish tartibi."
+        "ID": "224",
+        "nomi": "Voyaga yetmagan, muomala layoqati cheklangan va muomalaga layoqatsiz shaxslar ishtirokida bitimlarni tasdiqlash tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "21 ",
-        "nomi": "Voyaga yetmagan, muomala layoqati cheklangan va muomalaga layoqatsiz shaxslar ishtirokida bitimlarni tasdiqlash tartibi qanday?"
+        "ID": "225",
+        "nomi": "Umrbod taʼminlash sharti bilan uy, kvartira, uyning, kvartiraning bir qismini boshqa shaxsga berish shartnomasini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "22 ",
-        "nomi": "Umrbod taʼminlash sharti bilan uy, kvartira, uyning, kvartiraning bir qismini boshqa shaxsga berish shartnomasini tasdiqlash."
+        "ID": "226",
+        "nomi": "Korxonani sotish shartnomasini rasmiylashtirishning oʻziga xos xususiyatlari. Shartnomani tasdiqlashda qanday hujjatlar talab etiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "23 ",
-        "nomi": "Korxonani sotish shartnomasini rasmiylashtirishning oʻziga xos xususiyatlari. Shartnomani tasdiqlashda qanday hujjatlar talab etiladi?"
+        "ID": "227",
+        "nomi": "Turar joyni almashtirishga yoʻl qoʻyilmaydigan shart-sharoitlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "24 ",
-        "nomi": "Turar joyni almashtirishga yoʻl qoʻyilmaydigan shart-sharoitlar."
+        "ID": "228",
+        "nomi": "Nikoh shartnomasini rasmiylashtirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "25 ",
-        "nomi": "Nikoh shartnomasini rasmiylashtirish tartibi."
+        "ID": "229",
+        "nomi": "Notarial harakatni amalga oshirishda chet davlat organlari yoki mansabdor shaxslari tomonidan berilgan hujjatlarning qabul qilinishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "26 ",
-        "nomi": "Notarial harakatni amalga oshirishda chet davlat organlari yoki mansabdor shaxslari tomonidan berilgan hujjatlarning qabul qilinishi."
+        "ID": "230",
+        "nomi": "Konsullik legalizatsiyasida notariusning ishtirokini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "27 ",
-        "nomi": "Konsullik legalizatsiyasida notariusning ishtirokini tushuntirib bering."
+        "ID": "231",
+        "nomi": "Aliment toʻlash toʻgʻrisidagi kelishuvni notarial tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "28 ",
-        "nomi": "Aliment toʻlash toʻgʻrisidagi kelishuvni notarial tasdiqlash tartibi."
+        "ID": "232",
+        "nomi": "Tugatilayotgan yuridik shaxsga tegishli boʻlgan mol-mulkni uning muassislari (ishtirokchilari) oʻrtasida taqsimlash (boʻlish) toʻgʻrisidagi shartnomani tasdiqlashda qanday hujjatlar talab etiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "29 ",
-        "nomi": "Tugatilayotgan yuridik shaxsga tegishli boʻlgan mol-mulkni uning muassislari (ishtirokchilari) oʻrtasida taqsimlash (boʻlish) toʻgʻrisidagi shartnomani tasdiqlashda qanday hujjatlar talab etiladi?"
+        "ID": "233",
+        "nomi": "Notariuslar tomonidan shartnomani bekor qilish toʻgʻrisidagi kelishuv shartnomalarini tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "30 ",
-        "nomi": "Notariuslar tomonidan shartnomani bekor qilish toʻgʻrisidagi kelishuv shartnomalarini tasdiqlash tartibi."
+        "ID": "234",
+        "nomi": "Fuqarolik ishlari boʻyicha xalqaro huquqiy yordam va huquqiy munosabatlarni amalga oshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "31 ",
-        "nomi": "Fuqarolik ishlari boʻyicha xalqaro huquqiy yordam va huquqiy munosabatlarni amalga oshirish tartibi."
+        "ID": "235",
+        "nomi": "Notarial harakatlarni amalga oshirishda chet el huquqi normalarining qoʻllanilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "32 ",
-        "nomi": "Notarial harakatlarni amalga oshirishda chet el huquqi normalarining qoʻllanilishi."
+        "ID": "236",
+        "nomi": "Apostil toʻgʻrisida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "33 ",
-        "nomi": "Apostil toʻgʻrisida nimalarni bilasiz?"
+        "ID": "237",
+        "nomi": "Yuridik shaxsning rahbar organi tomonidan qaror qabul qilinganligi faktini tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "34 ",
-        "nomi": "Yuridik shaxsning rahbar organi tomonidan qaror qabul qilinganligi faktini tasdiqlash tartibi."
+        "ID": "238",
+        "nomi": "Notarial harakatlarni amalga oshirish uchun taqdim etiladigan hujjatlarga qoʻyiladigan talablar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "35 ",
-        "nomi": "Notarial harakatlarni amalga oshirish uchun taqdim etiladigan hujjatlarga qoʻyiladigan talablar."
+        "ID": "239",
+        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan notarial idoralar ichki nazoratining maqsad va vazifalari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "36 ",
-        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan notarial idoralar ichki nazoratining maqsad va vazifalari nimalardan iborat?"
+        "ID": "240",
+        "nomi": "Notarius tomonidan mediatsiyani qoʻllashning tugatilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "37 ",
-        "nomi": "Notarius tomonidan mediatsiyani qoʻllashning tugatilishi."
+        "ID": "241",
+        "nomi": "Notarius tomonidan notariatning faol modeli doirasida “yagona darcha” tamoyili asosida notarial harakatlarni tasdiqlash tartibini tushuntirib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "38 ",
-        "nomi": "Notarius tomonidan notariatning faol modeli doirasida “yagona darcha” tamoyili asosida notarial harakatlarni tasdiqlash tartibini tushuntirib bering."
+        "ID": "242",
+        "nomi": "Notariatning yagona avtomatlashtirilgan axborot tizimi orqali xususiylashtirishga rozilik bergan shaxslar haqida maʼlumot olishda notarius va Davlat aktivlarini boshqarish agentligi organlarining oʻzaro hamkorlik qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "39 ",
-        "nomi": "Notariatning yagona avtomatlashtirilgan axborot tizimi orqali xususiylashtirishga rozilik bergan shaxslar haqida maʼlumot olishda notarius va Davlat aktivlarini boshqarish agentligi organlarining oʻzaro hamkorlik qilish tartibi."
+        "ID": "243",
+        "nomi": "Notarial faoliyat ustidan amalga oshiriladigan nazorat haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "40 ",
-        "nomi": "Notarial faoliyat ustidan amalga oshiriladigan nazorat haqida nimalarni bilasiz?"
+        "ID": "244",
+        "nomi": "Xususiy notarial faoliyatni amalga oshirishda litsenziya talablari va shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "41 ",
-        "nomi": "Xususiy notarial faoliyatni amalga oshirishda litsenziya talablari va shartlari."
+        "ID": "245",
+        "nomi": "Xususiy notarial faoliyat bilan shugʻullanish huquqini beruvchi litsenziyaning amal qilishini toʻxtatib turish asoslari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "42 ",
-        "nomi": "Xususiy notarial faoliyat bilan shugʻullanish huquqini beruvchi litsenziyaning amal qilishini toʻxtatib turish asoslari."
+        "ID": "246",
+        "nomi": "Notarial harakatlar asosida koʻchmas mulkka nisbatan vujudga keladigan mulk huquqi va boshqa ashyoviy huquqlarni davlat roʻyxatidan oʻtkazish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "43 ",
-        "nomi": "Notarial harakatlar asosida koʻchmas mulkka nisbatan vujudga keladigan mulk huquqi va boshqa ashyoviy huquqlarni davlat roʻyxatidan oʻtkazish tartibi qanday?"
+        "ID": "247",
+        "nomi": "Koʻchmas mulkka boʻlgan mulk huquqini tasdiqlovchi hujjatlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "44 ",
-        "nomi": "Koʻchmas mulkka boʻlgan mulk huquqini tasdiqlovchi hujjatlar."
+        "ID": "248",
+        "nomi": "Oʻzbekiston Respublikasi Notarial palatasining huquqiy maqomi va asosiy vazifalari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "45 ",
-        "nomi": "Oʻzbekiston Respublikasi Notarial palatasining huquqiy maqomi va asosiy vazifalari."
+        "ID": "249",
+        "nomi": "Videokonferensaloqa rejimida bitimlarni notarial tasdiqlash",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "46 ",
-        "nomi": "Videokonferensaloqa rejimida bitimlarni notarial tasdiqlash"
+        "ID": "250",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyatini sugʻurta qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "47 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyatini sugʻurta qilish."
+        "ID": "251",
+        "nomi": "Notarial tasdiqlangan ishonchnomalarga tenglashtirilgan ishonchnomalarni tasdiqlashning oʻziga xos xususiyatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "48 ",
-        "nomi": "Notarial tasdiqlangan ishonchnomalarga tenglashtirilgan ishonchnomalarni tasdiqlashning oʻziga xos xususiyatlari."
+        "ID": "252",
+        "nomi": "Notarial harakatlarni rasmiylashtirishda notariuslar tomonidan amalga oshiriladigan huquqiy va texnik tusdagi qoʻshimcha harakatlar turlari hamda ular uchun toʻlov undirish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "49 ",
-        "nomi": "Notarial harakatlarni rasmiylashtirishda notariuslar tomonidan amalga oshiriladigan huquqiy va texnik tusdagi qoʻshimcha harakatlar turlari hamda ular uchun toʻlov undirish tartibi qanday?"
+        "ID": "253",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyatini tashkil etishning qanday minimal talablari mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "50 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyatini tashkil etishning qanday minimal talablari mavjud?"
+        "ID": "254",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyati va uni moliyalashtirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "51 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notarius faoliyati va uni moliyalashtirish tartibi."
+        "ID": "255",
+        "nomi": "Notariuslar tomonidan jismoniy shaxslar oʻrtasida avtomototransport vositalarini boshqa shaxsga oʻtkazish haqidagi bitimlarni tasdiqlashda qanday hujjatlar talab qilinadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "52 ",
-        "nomi": "Notariuslar tomonidan jismoniy shaxslar oʻrtasida avtomototransport vositalarini boshqa shaxsga oʻtkazish haqidagi bitimlarni tasdiqlashda qanday hujjatlar talab qilinadi?"
+        "ID": "256",
+        "nomi": "Mualliflik va turdosh huquq obyekti taqdim etilgan vaqtni tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "53 ",
-        "nomi": "Mualliflik va turdosh huquq obyekti taqdim etilgan vaqtni tasdiqlash."
+        "ID": "257",
+        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 4-apreldagi 199-son qarori bilan tasdiqlangan Xususiy amaliyot bilan shugʻullanuvchi notariuslarning fuqarolik javobgarligini majburiy sugʻurta qilish qoidalariga asosan sugʻurta obyekti va subyektiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "54 ",
-        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 4-apreldagi 199-son qarori bilan tasdiqlangan Xususiy amaliyot bilan shugʻullanuvchi notariuslarning fuqarolik javobgarligini majburiy sugʻurta qilish qoidalariga asosan sugʻurta obyekti va subyektiga tavsif bering."
+        "ID": "258",
+        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 4-apreldagi 199-son qarori bilan tasdiqlangan Xususiy amaliyot bilan shugʻullanuvchi notariuslarning fuqarolik javobgarligini majburiy sugʻurta qilish qoidalariga asosan sugʻurta qildiruvchining huquq va majburiyatlari haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "55 ",
-        "nomi": "Oʻzbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 4-apreldagi 199-son qarori bilan tasdiqlangan Xususiy amaliyot bilan shugʻullanuvchi notariuslarning fuqarolik javobgarligini majburiy sugʻurta qilish qoidalariga asosan sugʻurta qildiruvchining huquq va majburiyatlari haqida nimalarni bilasiz?"
+        "ID": "259",
+        "nomi": "Hujjatlarni saqlash uchun qabul qilib olish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "56 ",
-        "nomi": "Hujjatlarni saqlash uchun qabul qilib olish."
+        "ID": "260",
+        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, viloyatlar va Toshkent shahar adliya boshqarmalarining notariat sohasidagi vakolatlari haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "57 ",
-        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, viloyatlar va Toshkent shahar adliya boshqarmalarining notariat sohasidagi vakolatlari haqida nimalarni bilasiz?"
+        "ID": "261",
+        "nomi": "Mulk huquqini tasdiqlovchi hujjatlarning asl nusxalari notarial idorada qoldirilmaydigan holatlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "58 ",
-        "nomi": "Mulk huquqini tasdiqlovchi hujjatlarning asl nusxalari notarial idorada qoldirilmaydigan holatlar."
+        "ID": "262",
+        "nomi": "Oʻzbekiston Respublikasi Notarial palatasi huzuridagi fondlar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "59 ",
-        "nomi": "Oʻzbekiston Respublikasi Notarial palatasi huzuridagi fondlar."
+        "ID": "263",
+        "nomi": "Notariatning yagona avtomatlashtirilgan axborot tizimi va unda ishlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "60 ",
-        "nomi": "Notariatning yagona avtomatlashtirilgan axborot tizimi va unda ishlash tartibi."
+        "ID": "264",
+        "nomi": "Ishonchnomani oʻzgartirish va bekor qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "61 ",
-        "nomi": "Ishonchnomani oʻzgartirish va bekor qilish tartibi."
+        "ID": "265",
+        "nomi": "Qanday hollarda notarius litsenziyasining amal qilishini tugatish maʼmuriy sud qaroriga asosan amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "62 ",
-        "nomi": "Qanday hollarda notarius litsenziyasining amal qilishini tugatish maʼmuriy sud qaroriga asosan amalga oshiriladi?"
+        "ID": "266",
+        "nomi": "Qanday hollarda notarius litsenziyasining amal qilishini tugatish Qoraqalpogʻiston Respublikasi Adliya vazirligining, adliya boshqarmasining qarori bilan amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "63 ",
-        "nomi": "Qanday hollarda notarius litsenziyasining amal qilishini tugatish Qoraqalpogʻiston Respublikasi Adliya vazirligining, adliya boshqarmasining qarori bilan amalga oshiriladi?"
+        "ID": "267",
+        "nomi": "Notarial okrugni izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "64 ",
-        "nomi": "Notarial okrugni izohlab bering."
+        "ID": "268",
+        "nomi": "Kimlar notarius xodimlari boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "65 ",
-        "nomi": "Kimlar notarius xodimlari boʻlishi mumkin?"
+        "ID": "269",
+        "nomi": "Oʻzbekiston Respublikasida kimlar notarius boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "66 ",
-        "nomi": "Oʻzbekiston Respublikasida kimlar notarius boʻlishi mumkin?"
+        "ID": "270",
+        "nomi": "Notariuslar “Notarius” avtomatlashtirilgan axborot tizimidan foydalanishdagi majburiyatlariga nimalar iradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "67 ",
-        "nomi": "Notariuslar “Notarius” avtomatlashtirilgan axborot tizimidan foydalanishdagi majburiyatlariga nimalar iradi?"
+        "ID": "271",
+        "nomi": "Fuqaroning tirik ekanligi faktini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "68 ",
-        "nomi": "Fuqaroning tirik ekanligi faktini tasdiqlash."
+        "ID": "272",
+        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, adliya boshqarmalari huzuridagi malaka komissiyalari haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "69 ",
-        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, adliya boshqarmalari huzuridagi malaka komissiyalari haqida nimalarni bilasiz?"
+        "ID": "273",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatiga olish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "70 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatiga olish tartibi."
+        "ID": "274",
+        "nomi": "Notarial ish yuritish va hisobdorlik.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "71 ",
-        "nomi": "Notarial ish yuritish va hisobdorlik."
+        "ID": "275",
+        "nomi": "Elektron hujjatning qogʻoz shaklidagi hujjat bilan bir xil yuridik kuchga ega ekanligini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "72 ",
-        "nomi": "Elektron hujjatning qogʻoz shaklidagi hujjat bilan bir xil yuridik kuchga ega ekanligini tasdiqlash."
+        "ID": "276",
+        "nomi": "Notariuslar faoliyatida rejali tekshirish oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "73 ",
-        "nomi": "Notariuslar faoliyatida rejali tekshirish oʻtkazish tartibi."
+        "ID": "277",
+        "nomi": "Notariuslar faoliyatida qisqa muddatli tekshirish oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "74 ",
-        "nomi": "Notariuslar faoliyatida qisqa muddatli tekshirish oʻtkazish tartibi."
+        "ID": "278",
+        "nomi": "Hujjatlarning notarial idorada saqlanishi va notarial arxivlarga topshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "75 ",
-        "nomi": "Hujjatlarning notarial idorada saqlanishi va notarial arxivlarga topshirish tartibi."
+        "ID": "279",
+        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining notariat sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "76 ",
-        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining notariat sohasidagi vakolatlari."
+        "ID": "280",
+        "nomi": "Mansabdor shaxslar tomonidan tasdiqlangan vasiyatnomalarni va ishonchnomalarni notarial idoraga berish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "77 ",
-        "nomi": "Mansabdor shaxslar tomonidan tasdiqlangan vasiyatnomalarni va ishonchnomalarni notarial idoraga berish tartibi."
+        "ID": "281",
+        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazish taqiqlab yoki xatlab qoʻyil(ma)ganligini tekshirish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "78 ",
-        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazish taqiqlab yoki xatlab qoʻyil(ma)ganligini tekshirish tartibi qanday?"
+        "ID": "282",
+        "nomi": "Qanday holatlar notariusning bir marta qoʻpol ravishda qoidabuzarlik sodir etilganligi deb hisoblanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "79 ",
-        "nomi": "Qanday holatlar notariusning bir marta qoʻpol ravishda qoidabuzarlik sodir etilganligi deb hisoblanadi?"
+        "ID": "283",
+        "nomi": "“Notariat toʻgʻrisida”gi Qonunga muvofiq, notarius faoliyatidagi cheklovlar nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "80 ",
-        "nomi": "“Notariat toʻgʻrisida”gi Qonunga muvofiq, notarius faoliyatidagi cheklovlar nimalardan iborat?"
+        "ID": "284",
+        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan ichki nazorat tizimini tashkil etish nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "81 ",
-        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan ichki nazorat tizimini tashkil etish nimalardan iborat?"
+        "ID": "285",
+        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan mijozni lozim darajada tekshirishning kuchaytirilgan chora-tadbirlariga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "82 ",
-        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan mijozni lozim darajada tekshirishning kuchaytirilgan chora-tadbirlariga nimalar kiradi?"
+        "ID": "286",
+        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslar ishtirokida bitimni tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "83 ",
-        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslar ishtirokida bitimni tasdiqlash tartibi."
+        "ID": "287",
+        "nomi": "Bitimni taraflar tomonidan imzolash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "84 ",
-        "nomi": "Bitimni taraflar tomonidan imzolash tartibi."
+        "ID": "288",
+        "nomi": "Notariusning chet elda tuzilgan hujjatlarni qabul qilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "85 ",
-        "nomi": "Notariusning chet elda tuzilgan hujjatlarni qabul qilishi."
+        "ID": "289",
+        "nomi": "Hujjatlarni qabul qilish, roʻyxatdan oʻtkazish va rasmiylashtirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "86 ",
-        "nomi": "Hujjatlarni qabul qilish, roʻyxatdan oʻtkazish va rasmiylashtirish tartibi."
+        "ID": "290",
+        "nomi": "Hujjatlarning ijro etilishi ustidan nazorat.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "87 ",
-        "nomi": "Hujjatlarning ijro etilishi ustidan nazorat."
+        "ID": "291",
+        "nomi": "Hujjatlar yigʻmajildlari nomenklaturasini tuzish va yigʻmajildlarni shakllantirish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "88 ",
-        "nomi": "Hujjatlar yigʻmajildlari nomenklaturasini tuzish va yigʻmajildlarni shakllantirish."
+        "ID": "292",
+        "nomi": "Dalillarni taʼminlash nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "89 ",
-        "nomi": "Dalillarni taʼminlash nima?"
+        "ID": "293",
+        "nomi": "Notariusning javobgarligi haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "90 ",
-        "nomi": "Notariusning javobgarligi haqida nimalarni bilasiz?"
+        "ID": "294",
+        "nomi": "Davlat notarial idoralari va xususiy notarial faoliyatini moliyalashtirish manbalari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "91 ",
-        "nomi": "Davlat notarial idoralari va xususiy notarial faoliyatini moliyalashtirish manbalari nimalardan iborat?"
+        "ID": "295",
+        "nomi": "Notarial harakatlarni amalga oshirish huquqini cheklashlar",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "92 ",
-        "nomi": "Notarial harakatlarni amalga oshirish huquqini cheklashlar"
+        "ID": "296",
+        "nomi": "Notarial tasdiqlangan hujjatlarga tenglashtiriladigan vasiyatnomalar, ishonchnomalar va arizalar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "93 ",
-        "nomi": "Notarial tasdiqlangan hujjatlarga tenglashtiriladigan vasiyatnomalar, ishonchnomalar va arizalar."
+        "ID": "297",
+        "nomi": "Bitimni amalga oshirishni soʻrab murojaat qiluvchilarning shaxsi qanday hujjatlarga asosan aniqlanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "94 ",
-        "nomi": "Bitimni amalga oshirishni soʻrab murojaat qiluvchilarning shaxsi qanday hujjatlarga asosan aniqlanadi?"
+        "ID": "298",
+        "nomi": "Notarial harakatlarni amalga oshirish joyi va tili haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "95 ",
-        "nomi": "Notarial harakatlarni amalga oshirish joyi va tili haqida nimalarni bilasiz?"
+        "ID": "299",
+        "nomi": "Qanday hujjatlar korxonani sotish shartnomasi tasdiqlanayotganda, mulk huquqini tasdiqlovchi hujjat boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "96 ",
-        "nomi": "Qanday hujjatlar korxonani sotish shartnomasi tasdiqlanayotganda, mulk huquqini tasdiqlovchi hujjat boʻlishi mumkin?"
+        "ID": "300",
+        "nomi": "Notariusning muhri, shtamplari, ish qogʻozlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "97 ",
-        "nomi": "Notariusning muhri, shtamplari, ish qogʻozlari."
+        "ID": "301",
+        "nomi": "Notarius maqomiga ega boʻlish. Notariusni lavozimga tayinlash va lavozimdan ozod etish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "98 ",
-        "nomi": "Notarius maqomiga ega boʻlish. Notariusni lavozimga tayinlash va lavozimdan ozod etish."
+        "ID": "302",
+        "nomi": "Notarial idora xodimlarining ijtimoiy taʼminoti.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "99 ",
-        "nomi": "Notarial idora xodimlarining ijtimoiy taʼminoti."
+        "ID": "303",
+        "nomi": "Fuqaroning muayyan joyda ekanligi faktini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "100 ",
-        "nomi": "Fuqaroning muayyan joyda ekanligi faktini tasdiqlash."
+        "ID": "304",
+        "nomi": "Notarial okrugni izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "64 ",
-        "nomi": "Notarial okrugni izohlab bering."
+        "ID": "305",
+        "nomi": "Kimlar notarius xodimlari boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "65 ",
-        "nomi": "Kimlar notarius xodimlari boʻlishi mumkin?"
+        "ID": "306",
+        "nomi": "Oʻzbekiston Respublikasida kimlar notarius boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "66 ",
-        "nomi": "Oʻzbekiston Respublikasida kimlar notarius boʻlishi mumkin?"
+        "ID": "307",
+        "nomi": "Notariuslar “Notarius” avtomatlashtirilgan axborot tizimidan foydalanishdagi majburiyatlariga nimalar iradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "67 ",
-        "nomi": "Notariuslar “Notarius” avtomatlashtirilgan axborot tizimidan foydalanishdagi majburiyatlariga nimalar iradi?"
+        "ID": "308",
+        "nomi": "Fuqaroning tirik ekanligi faktini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "68 ",
-        "nomi": "Fuqaroning tirik ekanligi faktini tasdiqlash."
+        "ID": "309",
+        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, adliya boshqarmalari huzuridagi malaka komissiyalari haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "69 ",
-        "nomi": "Qoraqalpogʻiston Respublikasi Adliya vazirligi, adliya boshqarmalari huzuridagi malaka komissiyalari haqida nimalarni bilasiz?"
+        "ID": "310",
+        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatiga olish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "70 ",
-        "nomi": "Xususiy amaliyot bilan shugʻullanuvchi notariusni hisob roʻyxatiga olish tartibi."
+        "ID": "311",
+        "nomi": "Notarial ish yuritish va hisobdorlik.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "71 ",
-        "nomi": "Notarial ish yuritish va hisobdorlik."
+        "ID": "312",
+        "nomi": "Elektron hujjatning qogʻoz shaklidagi hujjat bilan bir xil yuridik kuchga ega ekanligini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "72 ",
-        "nomi": "Elektron hujjatning qogʻoz shaklidagi hujjat bilan bir xil yuridik kuchga ega ekanligini tasdiqlash."
+        "ID": "313",
+        "nomi": "Notariuslar faoliyatida rejali tekshirish oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "73 ",
-        "nomi": "Notariuslar faoliyatida rejali tekshirish oʻtkazish tartibi."
+        "ID": "314",
+        "nomi": "Notariuslar faoliyatida qisqa muddatli tekshirish oʻtkazish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "74 ",
-        "nomi": "Notariuslar faoliyatida qisqa muddatli tekshirish oʻtkazish tartibi."
+        "ID": "315",
+        "nomi": "Hujjatlarning notarial idorada saqlanishi va notarial arxivlarga topshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "75 ",
-        "nomi": "Hujjatlarning notarial idorada saqlanishi va notarial arxivlarga topshirish tartibi."
+        "ID": "316",
+        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining notariat sohasidagi vakolatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "76 ",
-        "nomi": "Oʻzbekiston Respublikasi Adliya vazirligining notariat sohasidagi vakolatlari."
+        "ID": "317",
+        "nomi": "Mansabdor shaxslar tomonidan tasdiqlangan vasiyatnomalarni va ishonchnomalarni notarial idoraga berish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "77 ",
-        "nomi": "Mansabdor shaxslar tomonidan tasdiqlangan vasiyatnomalarni va ishonchnomalarni notarial idoraga berish tartibi."
+        "ID": "318",
+        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazish taqiqlab yoki xatlab qoʻyil(ma)ganligini tekshirish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "78 ",
-        "nomi": "Mol-mulkni boshqa shaxsga oʻtkazish taqiqlab yoki xatlab qoʻyil(ma)ganligini tekshirish tartibi qanday?"
+        "ID": "319",
+        "nomi": "Qanday holatlar notariusning bir marta qoʻpol ravishda qoidabuzarlik sodir etilganligi deb hisoblanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "79 ",
-        "nomi": "Qanday holatlar notariusning bir marta qoʻpol ravishda qoidabuzarlik sodir etilganligi deb hisoblanadi?"
+        "ID": "320",
+        "nomi": "“Notariat toʻgʻrisida”gi Qonunga muvofiq, notarius faoliyatidagi cheklovlar nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "80 ",
-        "nomi": "“Notariat toʻgʻrisida”gi Qonunga muvofiq, notarius faoliyatidagi cheklovlar nimalardan iborat?"
+        "ID": "321",
+        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan ichki nazorat tizimini tashkil etish nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "81 ",
-        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan ichki nazorat tizimini tashkil etish nimalardan iborat?"
+        "ID": "322",
+        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan mijozni lozim darajada tekshirishning kuchaytirilgan chora-tadbirlariga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "82 ",
-        "nomi": "Notarial idoralar jinoiy faoliyatdan olingan daromadlarni legallashtirishga, terrorizmni moliyalashtirishga va ommaviy qirgʻin qurolini tarqatishni moliyalashtirishga qarshi kurashish boʻyicha ichki nazorat qoidalariga asosan mijozni lozim darajada tekshirishning kuchaytirilgan chora-tadbirlariga nimalar kiradi?"
+        "ID": "323",
+        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslar ishtirokida bitimni tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "83 ",
-        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslar ishtirokida bitimni tasdiqlash tartibi."
+        "ID": "324",
+        "nomi": "Bitimni taraflar tomonidan imzolash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "84 ",
-        "nomi": "Bitimni taraflar tomonidan imzolash tartibi."
+        "ID": "325",
+        "nomi": "Notariusning chet elda tuzilgan hujjatlarni qabul qilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "85 ",
-        "nomi": "Notariusning chet elda tuzilgan hujjatlarni qabul qilishi."
+        "ID": "326",
+        "nomi": "Hujjatlarni qabul qilish, roʻyxatdan oʻtkazish va rasmiylashtirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "86 ",
-        "nomi": "Hujjatlarni qabul qilish, roʻyxatdan oʻtkazish va rasmiylashtirish tartibi."
+        "ID": "327",
+        "nomi": "Hujjatlarning ijro etilishi ustidan nazorat.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "87 ",
-        "nomi": "Hujjatlarning ijro etilishi ustidan nazorat."
+        "ID": "328",
+        "nomi": "Hujjatlar yigʻmajildlari nomenklaturasini tuzish va yigʻmajildlarni shakllantirish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "88 ",
-        "nomi": "Hujjatlar yigʻmajildlari nomenklaturasini tuzish va yigʻmajildlarni shakllantirish."
+        "ID": "329",
+        "nomi": "Dalillarni taʼminlash nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "89 ",
-        "nomi": "Dalillarni taʼminlash nima?"
+        "ID": "330",
+        "nomi": "Notariusning javobgarligi haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "90 ",
-        "nomi": "Notariusning javobgarligi haqida nimalarni bilasiz?"
+        "ID": "331",
+        "nomi": "Davlat notarial idoralari va xususiy notarial faoliyatini moliyalashtirish manbalari nimalardan iborat?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "91 ",
-        "nomi": "Davlat notarial idoralari va xususiy notarial faoliyatini moliyalashtirish manbalari nimalardan iborat?"
+        "ID": "332",
+        "nomi": "Notarial harakatlarni amalga oshirish huquqini cheklashlar",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "92 ",
-        "nomi": "Notarial harakatlarni amalga oshirish huquqini cheklashlar"
+        "ID": "333",
+        "nomi": "Notarial tasdiqlangan hujjatlarga tenglashtiriladigan vasiyatnomalar, ishonchnomalar va arizalar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "93 ",
-        "nomi": "Notarial tasdiqlangan hujjatlarga tenglashtiriladigan vasiyatnomalar, ishonchnomalar va arizalar."
+        "ID": "334",
+        "nomi": "Bitimni amalga oshirishni soʻrab murojaat qiluvchilarning shaxsi qanday hujjatlarga asosan aniqlanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "94 ",
-        "nomi": "Bitimni amalga oshirishni soʻrab murojaat qiluvchilarning shaxsi qanday hujjatlarga asosan aniqlanadi?"
+        "ID": "335",
+        "nomi": "Notarial harakatlarni amalga oshirish joyi va tili haqida nimalarni bilasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "95 ",
-        "nomi": "Notarial harakatlarni amalga oshirish joyi va tili haqida nimalarni bilasiz?"
+        "ID": "336",
+        "nomi": "Qanday hujjatlar korxonani sotish shartnomasi tasdiqlanayotganda, mulk huquqini tasdiqlovchi hujjat boʻlishi mumkin?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "96 ",
-        "nomi": "Qanday hujjatlar korxonani sotish shartnomasi tasdiqlanayotganda, mulk huquqini tasdiqlovchi hujjat boʻlishi mumkin?"
+        "ID": "337",
+        "nomi": "Notariusning muhri, shtamplari, ish qogʻozlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "97 ",
-        "nomi": "Notariusning muhri, shtamplari, ish qogʻozlari."
+        "ID": "338",
+        "nomi": "Notarius maqomiga ega boʻlish. Notariusni lavozimga tayinlash va lavozimdan ozod etish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "98 ",
-        "nomi": "Notarius maqomiga ega boʻlish. Notariusni lavozimga tayinlash va lavozimdan ozod etish."
+        "ID": "339",
+        "nomi": "Notarial idora xodimlarining ijtimoiy taʼminoti.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "99 ",
-        "nomi": "Notarial idora xodimlarining ijtimoiy taʼminoti."
+        "ID": "340",
+        "nomi": "Fuqaroning muayyan joyda ekanligi faktini tasdiqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "100 ",
-        "nomi": "Fuqaroning muayyan joyda ekanligi faktini tasdiqlash."
+        "ID": "341",
+        "nomi": "Vorislik huquqi boʻyicha savollar",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "-",
-        "nomi": "Vorislik huquqi boʻyicha savollar"
+        "ID": "342",
+        "nomi": "Vorislik instituti.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "1 ",
-        "nomi": "Vorislik instituti."
+        "ID": "343",
+        "nomi": "Meros tarkibiga nimalar kiradi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "2 ",
-        "nomi": "Meros tarkibiga nimalar kiradi?"
+        "ID": "344",
+        "nomi": "Umumiy birgalikdagi mulk boʻlgan mol-mulkni meros qilib olish xususiyatlarini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "3 ",
-        "nomi": "Umumiy birgalikdagi mulk boʻlgan mol-mulkni meros qilib olish xususiyatlarini yoritib bering."
+        "ID": "345",
+        "nomi": "Merosning ochilishi tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "4 ",
-        "nomi": "Merosning ochilishi tushunchasiga tavsif bering."
+        "ID": "346",
+        "nomi": "Merosning ochilish joyi tushunchasini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "5 ",
-        "nomi": "Merosning ochilish joyi tushunchasini izohlab bering."
+        "ID": "347",
+        "nomi": "Vasiyat va qonun boʻyicha merosxoʻr boʻlishlari mumkin boʻlgan shaxslar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "6 ",
-        "nomi": "Vasiyat va qonun boʻyicha merosxoʻr boʻlishlari mumkin boʻlgan shaxslar."
+        "ID": "348",
+        "nomi": "Vasiyatnoma boʻyicha ham, qonun boʻyicha ham meros olish huquqiga ega boʻlmagan shaxslar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "7 ",
-        "nomi": "Vasiyatnoma boʻyicha ham, qonun boʻyicha ham meros olish huquqiga ega boʻlmagan shaxslar."
+        "ID": "349",
+        "nomi": "Qanday hollarda ota-onalar (farzandlikka oluvchilar) va voyaga yetgan bolalar (farzandlikka olinganlar) qonun boʻyicha vorislik qilish huquqidan chetlatiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "8 ",
-        "nomi": "Qanday hollarda ota-onalar (farzandlikka oluvchilar) va voyaga yetgan bolalar (farzandlikka olinganlar) qonun boʻyicha vorislik qilish huquqidan chetlatiladi?"
+        "ID": "350",
+        "nomi": "Vasiyat boʻyicha vorislik tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "9 ",
-        "nomi": "Vasiyat boʻyicha vorislik tushunchasiga tavsif bering."
+        "ID": "351",
+        "nomi": "Shartli vasiyatnoma nima?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "10 ",
-        "nomi": "Shartli vasiyatnoma nima?"
+        "ID": "352",
+        "nomi": "Vasiyat qiluvchi tomonidan boshqa merosxoʻrning (vorisdan keyingi vorisning) tayinlanishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "11 ",
-        "nomi": "Vasiyat qiluvchi tomonidan boshqa merosxoʻrning (vorisdan keyingi vorisning) tayinlanishi."
+        "ID": "353",
+        "nomi": "Mol-mulkning vasiyat qilinmagan qismini meros qilib olish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "12 ",
-        "nomi": "Mol-mulkning vasiyat qilinmagan qismini meros qilib olish."
+        "ID": "354",
+        "nomi": "Vasiyatnomaning shakliga doir qanday umumiy qoidalar mavjud?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "13 ",
-        "nomi": "Vasiyatnomaning shakliga doir qanday umumiy qoidalar mavjud?"
+        "ID": "355",
+        "nomi": "Vasiyat qiluvchining oʻrniga boshqa shaxs tomonidan vasiyatnomaning imzolanishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "14 ",
-        "nomi": "Vasiyat qiluvchining oʻrniga boshqa shaxs tomonidan vasiyatnomaning imzolanishi."
+        "ID": "356",
+        "nomi": "Maxfiy vasiyatnomani tasdiqlash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "15 ",
-        "nomi": "Maxfiy vasiyatnomani tasdiqlash tartibi."
+        "ID": "357",
+        "nomi": "Qanday vasiyatnomalar notarial tasdiqlangan vasiyatnomalarga tenglashtiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "16 ",
-        "nomi": "Qanday vasiyatnomalar notarial tasdiqlangan vasiyatnomalarga tenglashtiriladi?"
+        "ID": "358",
+        "nomi": "Vasiyatnomani bekor qilish va oʻzgartirish tushunchalariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "17 ",
-        "nomi": "Vasiyatnomani bekor qilish va oʻzgartirish tushunchalariga tavsif bering."
+        "ID": "359",
+        "nomi": "Vasiyatnomani bekor qilish va oʻzgartirish tushunchalariga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "18 ",
-        "nomi": "Vasiyatnomani bekor qilish va oʻzgartirish tushunchalariga tavsif bering."
+        "ID": "360",
+        "nomi": "Vasiyatni talqin qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "19 ",
-        "nomi": "Vasiyatni talqin qilish."
+        "ID": "361",
+        "nomi": "Vasiyatnomani ijro etish tushunchasini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "20 ",
-        "nomi": "Vasiyatnomani ijro etish tushunchasini izohlab bering."
+        "ID": "362",
+        "nomi": "Vasiyat majburiyati tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "21 ",
-        "nomi": "Vasiyat majburiyati tushunchasiga tavsif bering."
+        "ID": "363",
+        "nomi": "Vasiyat boʻyicha merosxoʻr zimmasiga majburiyat yuklash deganda nimani tushunasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "22 ",
-        "nomi": "Vasiyat boʻyicha merosxoʻr zimmasiga majburiyat yuklash deganda nimani tushunasiz?"
+        "ID": "364",
+        "nomi": "Vorislik tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "23 ",
-        "nomi": "Vorislik tushunchasiga tavsif bering."
+        "ID": "365",
+        "nomi": "Qonun boʻyicha vorislar navbatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "24 ",
-        "nomi": "Qonun boʻyicha vorislar navbatlari."
+        "ID": "366",
+        "nomi": "Qonun boʻyicha vorislik tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "25 ",
-        "nomi": "Qonun boʻyicha vorislik tushunchasiga tavsif bering."
+        "ID": "367",
+        "nomi": "Taqdim qilish huquqi boʻyicha vorislikning vujudga kelishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "26 ",
-        "nomi": "Taqdim qilish huquqi boʻyicha vorislikning vujudga kelishi."
+        "ID": "368",
+        "nomi": "Merosni qabul qilib olish huquqining oʻtishi (meros transmissiyasi) tushunchasini yoritib bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "27 ",
-        "nomi": "Merosni qabul qilib olish huquqining oʻtishi (meros transmissiyasi) tushunchasini yoritib bering."
+        "ID": "369",
+        "nomi": "Kimlar meros qoldiruvchining mehnatga qobiliyatsiz boqimlari hisoblanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "28 ",
-        "nomi": "Kimlar meros qoldiruvchining mehnatga qobiliyatsiz boqimlari hisoblanadi?"
+        "ID": "370",
+        "nomi": "Kimlar merosdan majburiy ulush olish huquqiga ega? Merosdan majburiy ulush olish huquqiga ega shaxslarga nisbatan meros ulushining taqsimlanishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "29 ",
-        "nomi": "Kimlar merosdan majburiy ulush olish huquqiga ega? Merosdan majburiy ulush olish huquqiga ega shaxslarga nisbatan meros ulushining taqsimlanishi."
+        "ID": "371",
+        "nomi": "Meros olishda erning (xotinning) huquqi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "30 ",
-        "nomi": "Meros olishda erning (xotinning) huquqi."
+        "ID": "372",
+        "nomi": "Qonun boʻyicha meros olinganida merosni muhofaza qilish va uni boshqarish tushunchalarini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "31 ",
-        "nomi": "Qonun boʻyicha meros olinganida merosni muhofaza qilish va uni boshqarish tushunchalarini izohlab bering."
+        "ID": "373",
+        "nomi": "Merosni egallash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "32 ",
-        "nomi": "Merosni egallash."
+        "ID": "374",
+        "nomi": "Meros tarkibiga nimalar kirmaydi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "33 ",
-        "nomi": "Meros tarkibiga nimalar kirmaydi?"
+        "ID": "375",
+        "nomi": "Merosdan voz kechish huquqi. Merosdan voz kechish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "34 ",
-        "nomi": "Merosdan voz kechish huquqi. Merosdan voz kechish tartibi."
+        "ID": "376",
+        "nomi": "Merosdan voz kechish huquqining cheklanishi tushunchasini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "35 ",
-        "nomi": "Merosdan voz kechish huquqining cheklanishi tushunchasini izohlab bering."
+        "ID": "377",
+        "nomi": "Vasiyat majburiyatini qabul qilib olishdan voz kechish huquqi deganda nimani tushunasiz?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "36 ",
-        "nomi": "Vasiyat majburiyatini qabul qilib olishdan voz kechish huquqi deganda nimani tushunasiz?"
+        "ID": "378",
+        "nomi": "Merosning taqsimlanish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "37 ",
-        "nomi": "Merosning taqsimlanish tartibi."
+        "ID": "379",
+        "nomi": "Hozir boʻlmagan merosxoʻrlar qanday huquqlarga ega?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "38 ",
-        "nomi": "Hozir boʻlmagan merosxoʻrlar qanday huquqlarga ega?"
+        "ID": "380",
+        "nomi": "Korxonaga nisbatan vorislik qanday tartibda amalga oshiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "39 ",
-        "nomi": "Korxonaga nisbatan vorislik qanday tartibda amalga oshiriladi?"
+        "ID": "381",
+        "nomi": "Meros tarkibiga kiradigan mol-mulkka nisbatan imtiyozli huquq.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "40 ",
-        "nomi": "Meros tarkibiga kiradigan mol-mulkka nisbatan imtiyozli huquq."
+        "ID": "382",
+        "nomi": "Meros ulushlarining ortishi tushunchasiga taʼrif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "41 ",
-        "nomi": "Meros ulushlarining ortishi tushunchasiga taʼrif bering."
+        "ID": "383",
+        "nomi": "Marhum erdan (xotindan) keyin beva qolgan xotiniga (eriga) merosga boʻlgan huquq toʻgʻrisida guvohnoma berishda notariusning xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "42 ",
-        "nomi": "Marhum erdan (xotindan) keyin beva qolgan xotiniga (eriga) merosga boʻlgan huquq toʻgʻrisida guvohnoma berishda notariusning xatti-harakatlari."
+        "ID": "384",
+        "nomi": "Kreditorlarning meros qoldiruvchining qarzlarini undirib olishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "43 ",
-        "nomi": "Kreditorlarning meros qoldiruvchining qarzlarini undirib olishi."
+        "ID": "385",
+        "nomi": "Meros mulkining egasiz qolgan mol-mulk deb topilishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "44 ",
-        "nomi": "Meros mulkining egasiz qolgan mol-mulk deb topilishi."
+        "ID": "386",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berganlik uchun davlat bojini undirish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "45 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berganlik uchun davlat bojini undirish."
+        "ID": "387",
+        "nomi": "Fermer xoʻjaligi boshligʻi vafot etsa, yer uchastkasini ijaraga olish huquqi va meros mulklari qanday tartibda rasmiylashtiriladi? Bunda davlat boji qanday undiriladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "46 ",
-        "nomi": "Fermer xoʻjaligi boshligʻi vafot etsa, yer uchastkasini ijaraga olish huquqi va meros mulklari qanday tartibda rasmiylashtiriladi? Bunda davlat boji qanday undiriladi?"
+        "ID": "388",
+        "nomi": "Merosxoʻrlar tomonidan meros qabul qilib olingunga qadar xarajatlarni toʻlash haqidagi notariusning farmoyishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "47 ",
-        "nomi": "Merosxoʻrlar tomonidan meros qabul qilib olingunga qadar xarajatlarni toʻlash haqidagi notariusning farmoyishi."
+        "ID": "389",
+        "nomi": "Bankka qoʻyilgan omonat va qimmatli qogʻozlar meros tarkibi obyekti boʻlganda notariusning harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "48 ",
-        "nomi": "Bankka qoʻyilgan omonat va qimmatli qogʻozlar meros tarkibi obyekti boʻlganda notariusning harakatlari."
+        "ID": "390",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma matnida nimalar koʻrsatilishi kerak?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "49 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma matnida nimalar koʻrsatilishi kerak?"
+        "ID": "391",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "50 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi."
+        "ID": "392",
+        "nomi": "Meros qoldiruvchining oxirgi yashagan joyi Oʻzbekiston Respublikasi hududidan tashqarida boʻlgan taqdirda merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "51 ",
-        "nomi": "Meros qoldiruvchining oxirgi yashagan joyi Oʻzbekiston Respublikasi hududidan tashqarida boʻlgan taqdirda merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi qanday?"
+        "ID": "393",
+        "nomi": "Merosxoʻrlardan biri yoki uning vakili meros ochilgan joydagi notariusga murojaat etganda notariusning xati-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "52 ",
-        "nomi": "Merosxoʻrlardan biri yoki uning vakili meros ochilgan joydagi notariusga murojaat etganda notariusning xati-harakatlari."
+        "ID": "394",
+        "nomi": "Merosdan voz kechish arizalarini tasdiqlashda notariusning xati-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "53 ",
-        "nomi": "Merosdan voz kechish arizalarini tasdiqlashda notariusning xati-harakatlari."
+        "ID": "395",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berishda notarius qanday hujjatlarni talab qiladi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "54 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berishda notarius qanday hujjatlarni talab qiladi?"
+        "ID": "396",
+        "nomi": "Notarial tasdiqlangan vasiyatnomalarga tenglashtirilgan vasiyatnomalar.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "55 ",
-        "nomi": "Notarial tasdiqlangan vasiyatnomalarga tenglashtirilgan vasiyatnomalar."
+        "ID": "397",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berish uchun toʻlovlarni amalga oshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "56 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani berish uchun toʻlovlarni amalga oshirish tartibi."
+        "ID": "398",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomaga oʻzgartirish va qoʻshimchalar kiritish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "57 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomaga oʻzgartirish va qoʻshimchalar kiritish tartibi."
+        "ID": "399",
+        "nomi": "Vasiyatnomani ijro etuvchining huquq va majburiyatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "58 ",
-        "nomi": "Vasiyatnomani ijro etuvchining huquq va majburiyatlari."
+        "ID": "400",
+        "nomi": "Qonun boʻyicha merosxoʻr(lar) vorislikka chaqirishga asos boʻladigan munosabatlar mavjudligini isbotlaydigan hujjatlarni taqdim etish imkoniyatiga ega boʻlmaganda notariusning xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "59 ",
-        "nomi": "Qonun boʻyicha merosxoʻr(lar) vorislikka chaqirishga asos boʻladigan munosabatlar mavjudligini isbotlaydigan hujjatlarni taqdim etish imkoniyatiga ega boʻlmaganda notariusning xatti-harakatlari."
+        "ID": "401",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida qoʻshimcha guvohnoma berish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "60 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida qoʻshimcha guvohnoma berish tartibi."
+        "ID": "402",
+        "nomi": "Voyaga yetmagan, muomala layoqati cheklangan va muomalaga layoqatsiz shaxslarning merosga boʻlgan huquq toʻgʻrisida guvohnoma olish uchun murojaat qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "61 ",
-        "nomi": "Voyaga yetmagan, muomala layoqati cheklangan va muomalaga layoqatsiz shaxslarning merosga boʻlgan huquq toʻgʻrisida guvohnoma olish uchun murojaat qilish tartibi."
+        "ID": "403",
+        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslarning merosga boʻlgan huquq toʻgʻrisida guvohnoma olish uchun murojaat qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "62 ",
-        "nomi": "Kar-soqovlik nuqsoni va koʻzi ojiz boʻlgan shaxslarning merosga boʻlgan huquq toʻgʻrisida guvohnoma olish uchun murojaat qilish tartibi."
+        "ID": "404",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berish notarial idora binosidan tashqarida bajarilganda notariusning xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "63 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berish notarial idora binosidan tashqarida bajarilganda notariusning xatti-harakatlari."
+        "ID": "405",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani imzolash tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "64 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani imzolash tartibi."
+        "ID": "406",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani tasdiqlashni rad qilish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "65 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnomani tasdiqlashni rad qilish tartibi."
+        "ID": "407",
+        "nomi": "Hadya vaʼda qilinganida huquqiy vorislik.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "66 ",
-        "nomi": "Hadya vaʼda qilinganida huquqiy vorislik."
+        "ID": "408",
+        "nomi": "Meros mol-mulkni saqlaganlik uchun taqdirlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "67 ",
-        "nomi": "Meros mol-mulkni saqlaganlik uchun taqdirlash."
+        "ID": "409",
+        "nomi": "Meros mol-mulkning qoʻriqlanishiga doir chora-tadbirlarni toʻxtatish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "68 ",
-        "nomi": "Meros mol-mulkning qoʻriqlanishiga doir chora-tadbirlarni toʻxtatish."
+        "ID": "410",
+        "nomi": "Meros mol-mulk hisobidan xarajatlarni toʻlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "69 ",
-        "nomi": "Meros mol-mulk hisobidan xarajatlarni toʻlash."
+        "ID": "411",
+        "nomi": "Merosxoʻrlarni meros ochilganligi haqida xabardor qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "70 ",
-        "nomi": "Merosxoʻrlarni meros ochilganligi haqida xabardor qilish."
+        "ID": "412",
+        "nomi": "Meros qoldiruvchining kreditorlaridan daʼvolarni qabul qilish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "71 ",
-        "nomi": "Meros qoldiruvchining kreditorlaridan daʼvolarni qabul qilish."
+        "ID": "413",
+        "nomi": "Meros mol-mulkni qoʻriqlash.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "72 ",
-        "nomi": "Meros mol-mulkni qoʻriqlash."
+        "ID": "414",
+        "nomi": "Meros mol-mulkning qoʻriqlanishiga doir chora-tadbirlar koʻrish toʻgʻrisida topshiriq berish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "73 ",
-        "nomi": "Meros mol-mulkning qoʻriqlanishiga doir chora-tadbirlar koʻrish toʻgʻrisida topshiriq berish."
+        "ID": "415",
+        "nomi": "Meros mol-mulkni roʻyxatga olish va uni saqlash uchun topshirish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "74 ",
-        "nomi": "Meros mol-mulkni roʻyxatga olish va uni saqlash uchun topshirish."
+        "ID": "416",
+        "nomi": "Qonun boʻyicha merosga boʻlgan huquq toʻgʻrisida guvohnoma berishning shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "75 ",
-        "nomi": "Qonun boʻyicha merosga boʻlgan huquq toʻgʻrisida guvohnoma berishning shartlari."
+        "ID": "417",
+        "nomi": "Vasiyatnoma boʻyicha merosga boʻlgan huquq toʻgʻrisida guvohnoma berish shartlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "76 ",
-        "nomi": "Vasiyatnoma boʻyicha merosga boʻlgan huquq toʻgʻrisida guvohnoma berish shartlari."
+        "ID": "418",
+        "nomi": "Meros transmissiyasi vujudga kelish shartlarini sanab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "77 ",
-        "nomi": "Meros transmissiyasi vujudga kelish shartlarini sanab bering."
+        "ID": "419",
+        "nomi": "Fuqarolik kodeksining 1141-moddasi qoidalariga koʻra, vorislik amalga oshirilganda, mehnatga qobiliyatsiz shaxslar kimlar hisoblanadi?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "78 ",
-        "nomi": "Fuqarolik kodeksining 1141-moddasi qoidalariga koʻra, vorislik amalga oshirilganda, mehnatga qobiliyatsiz shaxslar kimlar hisoblanadi?"
+        "ID": "420",
+        "nomi": "Meros ishlari hujjatlarni notarial idorada saqlash va notarial arxivga topshirish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "79 ",
-        "nomi": "Meros ishlari hujjatlarni notarial idorada saqlash va notarial arxivga topshirish tartibi."
+        "ID": "421",
+        "nomi": "Notarial tasdiqlangan merosga boʻlgan huquq toʻgʻrisida guvohnoma sud tomonidan bekor qilinganidan yoki haqiqiy emas deb topilganidan keyingi notariusning xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "80 ",
-        "nomi": "Notarial tasdiqlangan merosga boʻlgan huquq toʻgʻrisida guvohnoma sud tomonidan bekor qilinganidan yoki haqiqiy emas deb topilganidan keyingi notariusning xatti-harakatlari."
+        "ID": "422",
+        "nomi": "Noloyiq merosxoʻrlari merosdan chetlatish.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "81 ",
-        "nomi": "Noloyiq merosxoʻrlari merosdan chetlatish."
+        "ID": "423",
+        "nomi": "Notarial tasdiqlangan vasiyatnomaga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "82 ",
-        "nomi": "Notarial tasdiqlangan vasiyatnomaga tavsif bering."
+        "ID": "424",
+        "nomi": "Vasiyatnomaning sir saqlanishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "83 ",
-        "nomi": "Vasiyatnomaning sir saqlanishi."
+        "ID": "425",
+        "nomi": "Topshiriq shartnomasida huquqiy vorislik.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "84 ",
-        "nomi": "Topshiriq shartnomasida huquqiy vorislik."
+        "ID": "426",
+        "nomi": "Zarar yetkazgan shaxsning merosxoʻrlari tomonidan zararning qoplanishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "85 ",
-        "nomi": "Zarar yetkazgan shaxsning merosxoʻrlari tomonidan zararning qoplanishi."
+        "ID": "427",
+        "nomi": "Vasiyatnomaning haqiqiy emasligi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "86 ",
-        "nomi": "Vasiyatnomaning haqiqiy emasligi."
+        "ID": "428",
+        "nomi": "Ayrim merosxoʻrlarning meros tarkibiga kiradigan mol-mulkka nisbatan imtiyozli huquqi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "87 ",
-        "nomi": "Ayrim merosxoʻrlarning meros tarkibiga kiradigan mol-mulkka nisbatan imtiyozli huquqi."
+        "ID": "429",
+        "nomi": "Vasiyat qiluvchi tomonidan vasiyatnoma oʻz qoʻli bilan imzolanmaganda vasiyatnomani imzolanish tartibi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "88 ",
-        "nomi": "Vasiyat qiluvchi tomonidan vasiyatnoma oʻz qoʻli bilan imzolanmaganda vasiyatnomani imzolanish tartibi."
+        "ID": "430",
+        "nomi": "Maxfiy vasiyatnomani rasmiylashtirish tartibi va notarius xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "89 ",
-        "nomi": "Maxfiy vasiyatnomani rasmiylashtirish tartibi va notarius xatti-harakatlari."
+        "ID": "431",
+        "nomi": "Vasiyatnomani tasdiqlagan mansabdor shaxsning vasiyatnomani tasdiqlagandan keyingi xatti-harakatlari qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "90 ",
-        "nomi": "Vasiyatnomani tasdiqlagan mansabdor shaxsning vasiyatnomani tasdiqlagandan keyingi xatti-harakatlari qanday?"
+        "ID": "432",
+        "nomi": "Qoʻshimcha merosga boʻlgan huquq toʻgʻrisida guvohnomani berishda notarius xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "91 ",
-        "nomi": "Qoʻshimcha merosga boʻlgan huquq toʻgʻrisida guvohnomani berishda notarius xatti-harakatlari."
+        "ID": "433",
+        "nomi": "Meros mol-mulki mulkiy kompleks sifatida korxona yoki meros qoldiruvchining yuridik shaxslar ustav kapitalidagi (fondidagi) ulushdan iborat boʻlganda notarius xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "92 ",
-        "nomi": "Meros mol-mulki mulkiy kompleks sifatida korxona yoki meros qoldiruvchining yuridik shaxslar ustav kapitalidagi (fondidagi) ulushdan iborat boʻlganda notarius xatti-harakatlari."
+        "ID": "434",
+        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berishni soʻrab vakil tomonidan murojaat etilganda notarius xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "93 ",
-        "nomi": "Merosga boʻlgan huquq toʻgʻrisida guvohnoma berishni soʻrab vakil tomonidan murojaat etilganda notarius xatti-harakatlari."
+        "ID": "435",
+        "nomi": "Oʻzini meros qoldiruvchining qaramogʻida boʻlgan deb hisoblayotgan shaxs guvohnoma berilishini soʻrab murojaat etganda notarius xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "94 ",
-        "nomi": "Oʻzini meros qoldiruvchining qaramogʻida boʻlgan deb hisoblayotgan shaxs guvohnoma berilishini soʻrab murojaat etganda notarius xatti-harakatlari."
+        "ID": "436",
+        "nomi": "Ov miltigʻining meros qilib olish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "95 ",
-        "nomi": "Ov miltigʻining meros qilib olish tartibi qanday?"
+        "ID": "437",
+        "nomi": "Meros qoldiruvchining oxirgi yashagan joyi Oʻzbekiston Respublikasi hududidan tashqarida boʻlgan taqdirda merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi qanday?",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "96 ",
-        "nomi": "Meros qoldiruvchining oxirgi yashagan joyi Oʻzbekiston Respublikasi hududidan tashqarida boʻlgan taqdirda merosga boʻlgan huquq toʻgʻrisida guvohnomani berish tartibi qanday?"
+        "ID": "438",
+        "nomi": "Merosning ochilishi tushunchasiga tavsif bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "97 ",
-        "nomi": "Merosning ochilishi tushunchasiga tavsif bering."
+        "ID": "439",
+        "nomi": "Merosning ochilish joyi tushunchasini izohlab bering.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "98 ",
-        "nomi": "Merosning ochilish joyi tushunchasini izohlab bering."
+        "ID": "440",
+        "nomi": "Marhum erdan (xotindan) keyin beva qolgan xotiniga (eriga) merosga boʻlgan huquq toʻgʻrisida guvohnoma berishda notariusning xatti-harakatlari.",
+        "path_id": "6107d3102a2e256d868e86ee"
     },
     {
-        "ID": "99 ",
-        "nomi": "Marhum erdan (xotindan) keyin beva qolgan xotiniga (eriga) merosga boʻlgan huquq toʻgʻrisida guvohnoma berishda notariusning xatti-harakatlari."
-    },
-    {
-        "ID": "100 ",
-        "nomi": "Kreditorlarning meros qoldiruvchining qarzlarini undirib olishi."
+        "ID": "441",
+        "nomi": "Kreditorlarning meros qoldiruvchining qarzlarini undirib olishi.",
+        "path_id": "6107d3102a2e256d868e86ee"
     }
 ]

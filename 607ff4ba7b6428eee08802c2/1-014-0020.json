@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107d6072a2e256d868e8708"
-    },
-    {
         "ID": "1",
         "turi": "Legislative acts",
         "shakli": "The procedure",
@@ -13,10 +10,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "2",
         "turi": "Legislative acts",
         "shakli": "The rules",
         "Soni": "3",
@@ -26,10 +24,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "3",
         "turi": "Legislative acts",
         "shakli": "The charter",
         "Soni": "3",
@@ -39,10 +38,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "4",
         "turi": "Legislative acts",
         "shakli": "Code",
         "Soni": "91",
@@ -52,10 +52,11 @@
         "Inglizcha": "11",
         "Amalda": "69",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "22"
+        "Kuchiniyoqotgan": "22",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "5",
         "turi": "Legislative acts",
         "shakli": "Law",
         "Soni": "3733",
@@ -65,10 +66,11 @@
         "Inglizcha": "107",
         "Amalda": "2953",
         "Yangitahrirda": "163",
-        "Kuchiniyoqotgan": "617"
+        "Kuchiniyoqotgan": "617",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "6",
         "turi": "Legislative acts",
         "shakli": "Resolution",
         "Soni": "10027",
@@ -78,10 +80,11 @@
         "Inglizcha": "6",
         "Amalda": "9601",
         "Yangitahrirda": "3",
-        "Kuchiniyoqotgan": "423"
+        "Kuchiniyoqotgan": "423",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "7",
         "turi": "Legislative acts",
         "shakli": "Constitution",
         "Soni": "7",
@@ -91,10 +94,11 @@
         "Inglizcha": "1",
         "Amalda": "7",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "8",
         "turi": "Legislative acts",
         "shakli": "Doctrine",
         "Soni": "3",
@@ -104,10 +108,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "9",
         "turi": "Legislative acts",
         "shakli": "Declaration",
         "Soni": "3",
@@ -117,10 +122,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "10",
         "turi": "Legislative acts",
         "shakli": "Program",
         "Soni": "3",
@@ -130,10 +136,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "2",
+        "ID": "11",
         "turi": "Acts of the President",
         "shakli": "The command",
         "Soni": "282",
@@ -143,10 +150,11 @@
         "Inglizcha": "---",
         "Amalda": "234",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "48"
+        "Kuchiniyoqotgan": "48",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "12",
         "turi": "Acts of the President",
         "shakli": "Resolution",
         "Soni": "7862",
@@ -156,10 +164,11 @@
         "Inglizcha": "21",
         "Amalda": "6181",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "1681"
+        "Kuchiniyoqotgan": "1681",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "13",
         "turi": "Acts of the President",
         "shakli": "Decree",
         "Soni": "5915",
@@ -169,10 +178,11 @@
         "Inglizcha": "24",
         "Amalda": "4326",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "1589"
+        "Kuchiniyoqotgan": "1589",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "3",
+        "ID": "14",
         "turi": "Government Decisions",
         "shakli": "The command",
         "Soni": "199",
@@ -182,10 +192,11 @@
         "Inglizcha": "---",
         "Amalda": "175",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "24"
+        "Kuchiniyoqotgan": "24",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "15",
         "turi": "Government Decisions",
         "shakli": "Resolution",
         "Soni": "29098",
@@ -195,10 +206,11 @@
         "Inglizcha": "21",
         "Amalda": "17088",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "12010"
+        "Kuchiniyoqotgan": "12010",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "4",
+        "ID": "16",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The order",
         "Soni": "7942",
@@ -208,10 +220,11 @@
         "Inglizcha": "2",
         "Amalda": "5663",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "2279"
+        "Kuchiniyoqotgan": "2279",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "17",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Regulation",
         "Soni": "836",
@@ -221,10 +234,11 @@
         "Inglizcha": "---",
         "Amalda": "65",
         "Yangitahrirda": "9",
-        "Kuchiniyoqotgan": "762"
+        "Kuchiniyoqotgan": "762",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "18",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Rules",
         "Soni": "225",
@@ -234,10 +248,11 @@
         "Inglizcha": "---",
         "Amalda": "27",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "198"
+        "Kuchiniyoqotgan": "198",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "19",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The instruction",
         "Soni": "525",
@@ -247,10 +262,11 @@
         "Inglizcha": "---",
         "Amalda": "35",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "490"
+        "Kuchiniyoqotgan": "490",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "20",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The indications",
         "Soni": "27",
@@ -260,10 +276,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "27"
+        "Kuchiniyoqotgan": "27",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "21",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Solution",
         "Soni": "6",
@@ -273,10 +290,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "22",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The procedure",
         "Soni": "619",
@@ -286,10 +304,11 @@
         "Inglizcha": "---",
         "Amalda": "36",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "583"
+        "Kuchiniyoqotgan": "583",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "23",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The index",
         "Soni": "32",
@@ -299,10 +318,11 @@
         "Inglizcha": "---",
         "Amalda": "14",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "18"
+        "Kuchiniyoqotgan": "18",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "24",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The rules",
         "Soni": "6",
@@ -312,10 +332,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "25",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The list",
         "Soni": "15",
@@ -325,10 +346,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "15"
+        "Kuchiniyoqotgan": "15",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "26",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The charter",
         "Soni": "30",
@@ -338,10 +360,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "27"
+        "Kuchiniyoqotgan": "27",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "27",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The methodical indications",
         "Soni": "30",
@@ -351,10 +374,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "30"
+        "Kuchiniyoqotgan": "30",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "28",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The standard",
         "Soni": "81",
@@ -364,10 +388,11 @@
         "Inglizcha": "---",
         "Amalda": "36",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "45"
+        "Kuchiniyoqotgan": "45",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "29",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The standard contract",
         "Soni": "24",
@@ -377,10 +402,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "21"
+        "Kuchiniyoqotgan": "21",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "30",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Standard regulation",
         "Soni": "27",
@@ -390,10 +416,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "21"
+        "Kuchiniyoqotgan": "21",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "31",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The letter",
         "Soni": "30",
@@ -403,10 +430,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "24"
+        "Kuchiniyoqotgan": "24",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "32",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The explain letter",
         "Soni": "63",
@@ -416,10 +444,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "60"
+        "Kuchiniyoqotgan": "60",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "33",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Limiting norms",
         "Soni": "9",
@@ -429,10 +458,11 @@
         "Inglizcha": "---",
         "Amalda": "1",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "8"
+        "Kuchiniyoqotgan": "8",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "34",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "The standard prospectus of issue",
         "Soni": "12",
@@ -442,10 +472,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "12"
+        "Kuchiniyoqotgan": "12",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "35",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Resolution",
         "Soni": "11358",
@@ -455,10 +486,11 @@
         "Inglizcha": "---",
         "Amalda": "5285",
         "Yangitahrirda": "1",
-        "Kuchiniyoqotgan": "6072"
+        "Kuchiniyoqotgan": "6072",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "36",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Concept",
         "Soni": "3",
@@ -468,10 +500,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "37",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Protocol",
         "Soni": "18",
@@ -481,10 +514,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "12"
+        "Kuchiniyoqotgan": "12",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "38",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "System",
         "Soni": "3",
@@ -494,10 +528,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "39",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Explanation",
         "Soni": "75",
@@ -507,10 +542,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "72"
+        "Kuchiniyoqotgan": "72",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "40",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Norms",
         "Soni": "6",
@@ -520,10 +556,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "41",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Guidance Document",
         "Soni": "9",
@@ -533,10 +570,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "42",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Basic conditions",
         "Soni": "3",
@@ -546,10 +584,11 @@
         "Inglizcha": "---",
         "Amalda": "1",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "2"
+        "Kuchiniyoqotgan": "2",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "43",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Inter-industry instruction",
         "Soni": "3",
@@ -559,10 +598,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "44",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Terms and Conditions",
         "Soni": "6",
@@ -572,10 +612,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "45",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Building regulations",
         "Soni": "3",
@@ -585,10 +626,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "46",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Requirements",
         "Soni": "18",
@@ -598,10 +640,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "18"
+        "Kuchiniyoqotgan": "18",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "47",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Changes and additions",
         "Soni": "683",
@@ -611,10 +654,11 @@
         "Inglizcha": "---",
         "Amalda": "57",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "626"
+        "Kuchiniyoqotgan": "626",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "48",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Chart of accounts",
         "Soni": "3",
@@ -624,10 +668,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "3",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "49",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Criteria",
         "Soni": "3",
@@ -637,10 +682,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "50",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Restrictions",
         "Soni": "3",
@@ -650,10 +696,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "51",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Classification",
         "Soni": "6",
@@ -663,10 +710,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "52",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Plan",
         "Soni": "6",
@@ -676,10 +724,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "53",
         "turi": "Acts of ministries, state committees and departments",
         "shakli": "Compilation",
         "Soni": "3",
@@ -689,10 +738,11 @@
         "Inglizcha": "---",
         "Amalda": "---",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "5",
+        "ID": "54",
         "turi": "Decisions of public authorities in the field",
         "shakli": "Solution",
         "Soni": "13774",
@@ -702,10 +752,11 @@
         "Inglizcha": "---",
         "Amalda": "9488",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "4286"
+        "Kuchiniyoqotgan": "4286",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "6",
+        "ID": "55",
         "turi": "Acts of the courts",
         "shakli": "Resolution",
         "Soni": "796",
@@ -715,10 +766,11 @@
         "Inglizcha": "---",
         "Amalda": "583",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "213"
+        "Kuchiniyoqotgan": "213",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "56",
         "turi": "Acts of the courts",
         "shakli": "Decision (of the Constitutional Court)",
         "Soni": "55",
@@ -728,10 +780,11 @@
         "Inglizcha": "---",
         "Amalda": "55",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "57",
         "turi": "Acts of the courts",
         "shakli": "Definition",
         "Soni": "9",
@@ -741,10 +794,11 @@
         "Inglizcha": "---",
         "Amalda": "9",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "7",
+        "ID": "58",
         "turi": "International acts",
         "shakli": "Regulation",
         "Soni": "3",
@@ -754,10 +808,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "59",
         "turi": "International acts",
         "shakli": "The instruction",
         "Soni": "3",
@@ -767,10 +822,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "60",
         "turi": "International acts",
         "shakli": "Solution",
         "Soni": "21",
@@ -780,10 +836,11 @@
         "Inglizcha": "---",
         "Amalda": "21",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "61",
         "turi": "International acts",
         "shakli": "The rules",
         "Soni": "10",
@@ -793,10 +850,11 @@
         "Inglizcha": "1",
         "Amalda": "10",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "62",
         "turi": "International acts",
         "shakli": "The charter",
         "Soni": "13",
@@ -806,10 +864,11 @@
         "Inglizcha": "1",
         "Amalda": "13",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "63",
         "turi": "International acts",
         "shakli": "The standard",
         "Soni": "3",
@@ -819,10 +878,11 @@
         "Inglizcha": "1",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "64",
         "turi": "International acts",
         "shakli": "Declaration",
         "Soni": "18",
@@ -832,10 +892,11 @@
         "Inglizcha": "---",
         "Amalda": "18",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "65",
         "turi": "International acts",
         "shakli": "Program",
         "Soni": "48",
@@ -845,10 +906,11 @@
         "Inglizcha": "---",
         "Amalda": "30",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "18"
+        "Kuchiniyoqotgan": "18",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "66",
         "turi": "International acts",
         "shakli": "Protocol",
         "Soni": "485",
@@ -858,10 +920,11 @@
         "Inglizcha": "11",
         "Amalda": "482",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "67",
         "turi": "International acts",
         "shakli": "Convention",
         "Soni": "469",
@@ -871,10 +934,11 @@
         "Inglizcha": "8",
         "Amalda": "469",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "68",
         "turi": "International acts",
         "shakli": "Agreement",
         "Soni": "2766",
@@ -884,10 +948,11 @@
         "Inglizcha": "32",
         "Amalda": "2721",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "45"
+        "Kuchiniyoqotgan": "45",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "69",
         "turi": "International acts",
         "shakli": "Memorandum",
         "Soni": "289",
@@ -897,10 +962,11 @@
         "Inglizcha": "1",
         "Amalda": "283",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "70",
         "turi": "International acts",
         "shakli": "Act",
         "Soni": "48",
@@ -910,10 +976,11 @@
         "Inglizcha": "---",
         "Amalda": "48",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "71",
         "turi": "International acts",
         "shakli": "Treaty",
         "Soni": "266",
@@ -923,10 +990,11 @@
         "Inglizcha": "2",
         "Amalda": "251",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "15"
+        "Kuchiniyoqotgan": "15",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "72",
         "turi": "International acts",
         "shakli": "Document",
         "Soni": "6",
@@ -936,10 +1004,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "73",
         "turi": "International acts",
         "shakli": "Statement",
         "Soni": "9",
@@ -949,10 +1018,11 @@
         "Inglizcha": "---",
         "Amalda": "9",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "74",
         "turi": "International acts",
         "shakli": "Amendment",
         "Soni": "12",
@@ -962,10 +1032,11 @@
         "Inglizcha": "---",
         "Amalda": "12",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "75",
         "turi": "International acts",
         "shakli": "Arrangement",
         "Soni": "9",
@@ -975,10 +1046,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "6"
+        "Kuchiniyoqotgan": "6",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "76",
         "turi": "International acts",
         "shakli": "Carta",
         "Soni": "6",
@@ -988,10 +1060,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "77",
         "turi": "International acts",
         "shakli": "Pact",
         "Soni": "6",
@@ -1001,10 +1074,11 @@
         "Inglizcha": "---",
         "Amalda": "6",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "78",
         "turi": "International acts",
         "shakli": "Communique",
         "Soni": "3",
@@ -1014,10 +1088,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "79",
         "turi": "International acts",
         "shakli": "Note",
         "Soni": "3",
@@ -1027,10 +1102,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "80",
         "turi": "International acts",
         "shakli": "International Code",
         "Soni": "3",
@@ -1040,10 +1116,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "8",
+        "ID": "81",
         "turi": "Acts of the Kengashes of the Chambers of Oliy Majlis (Kengash of the Oliy Majlis, Presidium of the Supreme Council)",
         "shakli": "Resolution",
         "Soni": "5046",
@@ -1053,10 +1130,11 @@
         "Inglizcha": "---",
         "Amalda": "4953",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "93"
+        "Kuchiniyoqotgan": "93",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "9",
+        "ID": "82",
         "turi": "Technical Documents",
         "shakli": "The order",
         "Soni": "136",
@@ -1066,10 +1144,11 @@
         "Inglizcha": "---",
         "Amalda": "136",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "83",
         "turi": "Technical Documents",
         "shakli": "Regulation",
         "Soni": "8",
@@ -1079,10 +1158,11 @@
         "Inglizcha": "---",
         "Amalda": "8",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "84",
         "turi": "Technical Documents",
         "shakli": "Rules",
         "Soni": "403",
@@ -1092,10 +1172,11 @@
         "Inglizcha": "---",
         "Amalda": "385",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "18"
+        "Kuchiniyoqotgan": "18",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "85",
         "turi": "Technical Documents",
         "shakli": "The instruction",
         "Soni": "336",
@@ -1105,10 +1186,11 @@
         "Inglizcha": "---",
         "Amalda": "297",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "39"
+        "Kuchiniyoqotgan": "39",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "86",
         "turi": "Technical Documents",
         "shakli": "The indications",
         "Soni": "16",
@@ -1118,10 +1200,11 @@
         "Inglizcha": "---",
         "Amalda": "16",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "87",
         "turi": "Technical Documents",
         "shakli": "The procedure",
         "Soni": "3",
@@ -1131,10 +1214,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "88",
         "turi": "Technical Documents",
         "shakli": "The standard",
         "Soni": "1661",
@@ -1144,10 +1228,11 @@
         "Inglizcha": "---",
         "Amalda": "1660",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "1"
+        "Kuchiniyoqotgan": "1",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "89",
         "turi": "Technical Documents",
         "shakli": "Norms",
         "Soni": "556",
@@ -1157,10 +1242,11 @@
         "Inglizcha": "---",
         "Amalda": "545",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "11"
+        "Kuchiniyoqotgan": "11",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "90",
         "turi": "Technical Documents",
         "shakli": "Requirements",
         "Soni": "81",
@@ -1170,10 +1256,11 @@
         "Inglizcha": "---",
         "Amalda": "78",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "3"
+        "Kuchiniyoqotgan": "3",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "91",
         "turi": "Technical Documents",
         "shakli": "Criteria",
         "Soni": "7",
@@ -1183,10 +1270,11 @@
         "Inglizcha": "---",
         "Amalda": "7",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "92",
         "turi": "Technical Documents",
         "shakli": "Events",
         "Soni": "3",
@@ -1196,10 +1284,11 @@
         "Inglizcha": "---",
         "Amalda": "3",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "10",
+        "ID": "93",
         "turi": "Judicial practice",
         "shakli": "Resolution",
         "Soni": "1320",
@@ -1209,10 +1298,11 @@
         "Inglizcha": "---",
         "Amalda": "1320",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "94",
         "turi": "Judicial practice",
         "shakli": "Definition",
         "Soni": "9",
@@ -1222,10 +1312,11 @@
         "Inglizcha": "---",
         "Amalda": "9",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "95",
         "turi": "Judicial practice",
         "shakli": "Sentence",
         "Soni": "1",
@@ -1235,10 +1326,11 @@
         "Inglizcha": "---",
         "Amalda": "1",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "96",
         "turi": "Judicial practice",
         "shakli": "Judicial practice",
         "Soni": "63",
@@ -1248,10 +1340,11 @@
         "Inglizcha": "---",
         "Amalda": "63",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "11",
+        "ID": "97",
         "turi": "Acts of Central Election Commission of the Republic of Uzbekistan",
         "shakli": "Resolution",
         "Soni": "102",
@@ -1261,10 +1354,11 @@
         "Inglizcha": "---",
         "Amalda": "102",
         "Yangitahrirda": "---",
-        "Kuchiniyoqotgan": "---"
+        "Kuchiniyoqotgan": "---",
+        "path_id": "6107d6072a2e256d868e8708"
     },
     {
-        "ID": "-",
+        "ID": "98",
         "turi": "-",
         "shakli": "total",
         "Soni": "108867",
@@ -1274,6 +1368,7 @@
         "Inglizcha": "250",
         "Amalda": "76029",
         "Yangitahrirda": "179",
-        "Kuchiniyoqotgan": "32659"
+        "Kuchiniyoqotgan": "32659",
+        "path_id": "6107d6072a2e256d868e8708"
     }
 ]

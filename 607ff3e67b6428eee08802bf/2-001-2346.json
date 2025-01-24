@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "61a8738fd55f9d038bc48f80"
-    },
-    {
         "Hudud": " Republic of Uzbekistan *",
         "2018Yil": "-",
         "2019Yil": "-",
-        "2020Yil": "-"
+        "2020Yil": "-",
+        "path_id": "61a8738fd55f9d038bc48f80",
+        "ID": "1"
     }
 ]

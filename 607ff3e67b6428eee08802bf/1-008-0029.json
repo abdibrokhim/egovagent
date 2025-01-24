@@ -1,110 +1,137 @@
 [
     {
-        "path_id": "62cfac600f4de3c96a235572"
-    },
-    {
         "tartib": "1",
         "yil": "2010",
         "Umumiysoni": "38234",
         "Erkaklarsoni": "36319",
-        "Ayollarsoni": "1915"
+        "Ayollarsoni": "1915",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "1"
     },
     {
         "tartib": "2",
         "yil": "2011",
         "Umumiysoni": "41286",
         "Erkaklarsoni": "39078",
-        "Ayollarsoni": "2208"
+        "Ayollarsoni": "2208",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "2"
     },
     {
         "tartib": "3",
         "yil": "2012",
         "Umumiysoni": "44543",
         "Erkaklarsoni": "42218",
-        "Ayollarsoni": "2325"
+        "Ayollarsoni": "2325",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "3"
     },
     {
         "tartib": "4",
         "yil": "2013",
         "Umumiysoni": "42333",
         "Erkaklarsoni": "39995",
-        "Ayollarsoni": "2338"
+        "Ayollarsoni": "2338",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "4"
     },
     {
         "tartib": "5",
         "yil": "2014",
         "Umumiysoni": "37712",
         "Erkaklarsoni": "35862",
-        "Ayollarsoni": "1850"
+        "Ayollarsoni": "1850",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "5"
     },
     {
         "tartib": "6",
         "yil": "2015",
         "Umumiysoni": "39206",
         "Erkaklarsoni": "37229",
-        "Ayollarsoni": "1977"
+        "Ayollarsoni": "1977",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "6"
     },
     {
         "tartib": "7",
         "yil": "2016",
         "Umumiysoni": "37026",
         "Erkaklarsoni": "35181",
-        "Ayollarsoni": "1845"
+        "Ayollarsoni": "1845",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "7"
     },
     {
         "tartib": "8",
         "yil": "2017",
         "Umumiysoni": "36152",
         "Erkaklarsoni": "34333",
-        "Ayollarsoni": "1819"
+        "Ayollarsoni": "1819",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "8"
     },
     {
         "tartib": "9",
         "yil": "2018",
         "Umumiysoni": "31095",
         "Erkaklarsoni": "29548",
-        "Ayollarsoni": "1547"
+        "Ayollarsoni": "1547",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "9"
     },
     {
         "tartib": "10",
         "yil": "2019",
         "Umumiysoni": "26577",
         "Erkaklarsoni": "25392",
-        "Ayollarsoni": "1185"
+        "Ayollarsoni": "1185",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "10"
     },
     {
         "tartib": "11",
         "yil": "2020",
         "Umumiysoni": "24167",
         "Erkaklarsoni": "23141",
-        "Ayollarsoni": "1026"
+        "Ayollarsoni": "1026",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "11"
     },
     {
         "tartib": "12",
         "yil": "2021",
         "Umumiysoni": "23667",
         "Erkaklarsoni": "22612",
-        "Ayollarsoni": "1055"
+        "Ayollarsoni": "1055",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "12"
     },
     {
         "tartib": "13",
         "yil": "2022",
         "Umumiysoni": "27784",
         "Erkaklarsoni": "26400",
-        "Ayollarsoni": "1384"
+        "Ayollarsoni": "1384",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "13"
     },
     {
         "tartib": "14",
         "yil": "2023",
         "Umumiysoni": "28648",
         "Erkaklarsoni": "27213",
-        "Ayollarsoni": "1435"
+        "Ayollarsoni": "1435",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "14"
     },
     {
         "tartib": "15",
         "yil": "2024-12-30",
         "Umumiysoni": "33249",
         "Erkaklarsoni": "31435",
-        "Ayollarsoni": "1814"
+        "Ayollarsoni": "1814",
+        "path_id": "62cfac600f4de3c96a235572",
+        "ID": "15"
     }
 ]

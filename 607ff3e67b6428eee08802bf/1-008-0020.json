@@ -1,117 +1,146 @@
 [
     {
-        "path_id": "612093755b3dbbf13b336200"
-    },
-    {
         "Hududlar": "Toshkent shahri / Город ташкент / City of Tashkent",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "60",
         "Erkaklartomonidansodiretilgan": "55",
         "Ayollartomonidansodiretilgan": "5",
-        "Voyagayetmaganlartomonidansodiretilgan": "1"
+        "Voyagayetmaganlartomonidansodiretilgan": "1",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "1"
     },
     {
         "Hududlar": "Toshkent viloyati / Ташкентская область / Tashkent region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "51",
         "Erkaklartomonidansodiretilgan": "46",
         "Ayollartomonidansodiretilgan": "5",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "2"
     },
     {
         "Hududlar": "Samarqand viloyati / Самаркандская область / Samarkand region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "36",
         "Erkaklartomonidansodiretilgan": "32",
         "Ayollartomonidansodiretilgan": "4",
-        "Voyagayetmaganlartomonidansodiretilgan": "1"
+        "Voyagayetmaganlartomonidansodiretilgan": "1",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "3"
     },
     {
         "Hududlar": "Sirdaryo viloyati / Сырдарьинская область / Sirdaryo region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "8",
         "Erkaklartomonidansodiretilgan": "7",
         "Ayollartomonidansodiretilgan": "1",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "4"
     },
     {
         "Hududlar": "Jizzax viloyati / Джизакская область / Jizzakh region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "12",
         "Erkaklartomonidansodiretilgan": "12",
         "Ayollartomonidansodiretilgan": "0",
-        "Voyagayetmaganlartomonidansodiretilgan": "1"
+        "Voyagayetmaganlartomonidansodiretilgan": "1",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "5"
     },
     {
         "Hududlar": "Buxoro viloyati / Бухарская область / Bukhara region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "19",
         "Erkaklartomonidansodiretilgan": "19",
         "Ayollartomonidansodiretilgan": "0",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "6"
     },
     {
         "Hududlar": "Navoiy viloyati / Навоийская область / Navoiy region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "12",
         "Erkaklartomonidansodiretilgan": "9",
         "Ayollartomonidansodiretilgan": "3",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "7"
     },
     {
         "Hududlar": "Farg'ona viloyati / Ферганская область / Fergana region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "33",
         "Erkaklartomonidansodiretilgan": "31",
         "Ayollartomonidansodiretilgan": "2",
-        "Voyagayetmaganlartomonidansodiretilgan": "2"
+        "Voyagayetmaganlartomonidansodiretilgan": "2",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "8"
     },
     {
         "Hududlar": "Andijon viloyati / Андижанская область / Andijan region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "28",
         "Erkaklartomonidansodiretilgan": "26",
         "Ayollartomonidansodiretilgan": "2",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "9"
     },
     {
         "Hududlar": "Namangan viloyati / Наманганская область / Namangan region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "36",
         "Erkaklartomonidansodiretilgan": "32",
         "Ayollartomonidansodiretilgan": "4",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "10"
     },
     {
         "Hududlar": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "23",
         "Erkaklartomonidansodiretilgan": "23",
         "Ayollartomonidansodiretilgan": "0",
-        "Voyagayetmaganlartomonidansodiretilgan": "1"
+        "Voyagayetmaganlartomonidansodiretilgan": "1",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "11"
     },
     {
         "Hududlar": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "23",
         "Erkaklartomonidansodiretilgan": "22",
         "Ayollartomonidansodiretilgan": "1",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "12"
     },
     {
         "Hududlar": "Xorazm viloyati / Хорезмская область / Khorezm region",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "12",
         "Erkaklartomonidansodiretilgan": "11",
         "Ayollartomonidansodiretilgan": "1",
-        "Voyagayetmaganlartomonidansodiretilgan": "1"
+        "Voyagayetmaganlartomonidansodiretilgan": "1",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "13"
     },
     {
         "Hududlar": "Qoraqolpog'iston Respublikasi / Республика Каракалпакистан / Republic of Karakalpakstan",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "11",
         "Erkaklartomonidansodiretilgan": "9",
         "Ayollartomonidansodiretilgan": "2",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "14"
     },
     {
         "Hududlar": "Transport sohasi / Транспортная сфера / Sphere of transport",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "0",
         "Erkaklartomonidansodiretilgan": "0",
         "Ayollartomonidansodiretilgan": "0",
-        "Voyagayetmaganlartomonidansodiretilgan": "0"
+        "Voyagayetmaganlartomonidansodiretilgan": "0",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "15"
     },
     {
         "Hududlar": "Respublika bo'yicha / По республике / In the republic",
         "HisobotyilidasodiretilganqotillikjinoyatlarSoni": "364",
         "Erkaklartomonidansodiretilgan": "334",
         "Ayollartomonidansodiretilgan": "30",
-        "Voyagayetmaganlartomonidansodiretilgan": "7"
+        "Voyagayetmaganlartomonidansodiretilgan": "7",
+        "path_id": "612093755b3dbbf13b336200",
+        "ID": "16"
     }
 ]

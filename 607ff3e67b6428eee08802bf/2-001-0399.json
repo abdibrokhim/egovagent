@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "610cd32c1a64fdd0373a9090"
-    },
-    {
         "Korsatkichlar": "Total recorded crimes",
         "2000Y": "73904",
         "2001Y": "74314",
@@ -25,7 +22,9 @@
         "2018Y": "49011",
         "2019Y": "46089",
         "2020Y": "62081",
-        "2021Y": "111082"
+        "2021Y": "111082",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "1"
     },
     {
         "Korsatkichlar": "Intentional homicide and attempted murder",
@@ -50,7 +49,9 @@
         "2018Y": "432",
         "2019Y": "359",
         "2020Y": "406",
-        "2021Y": "426"
+        "2021Y": "426",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "2"
     },
     {
         "Korsatkichlar": "of them willful",
@@ -75,7 +76,9 @@
         "2018Y": "345",
         "2019Y": "300",
         "2020Y": "359",
-        "2021Y": "422"
+        "2021Y": "422",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "3"
     },
     {
         "Korsatkichlar": "willful bodily injury",
@@ -100,7 +103,9 @@
         "2018Y": "1171",
         "2019Y": "952",
         "2020Y": "1076",
-        "2021Y": "1319"
+        "2021Y": "1319",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "4"
     },
     {
         "Korsatkichlar": "theft",
@@ -125,7 +130,9 @@
         "2018Y": "7850",
         "2019Y": "5367",
         "2020Y": "8164",
-        "2021Y": "19732"
+        "2021Y": "19732",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "5"
     },
     {
         "Korsatkichlar": "robbery and robbery",
@@ -150,7 +157,9 @@
         "2018Y": "589",
         "2019Y": "401",
         "2020Y": "534",
-        "2021Y": "1344"
+        "2021Y": "1344",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "6"
     },
     {
         "Korsatkichlar": "fraud",
@@ -175,7 +184,9 @@
         "2018Y": "6483",
         "2019Y": "6321",
         "2020Y": "10496",
-        "2021Y": "24554"
+        "2021Y": "24554",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "7"
     },
     {
         "Korsatkichlar": "drug-related crimes",
@@ -200,7 +211,9 @@
         "2018Y": "3172",
         "2019Y": "3347",
         "2020Y": "3775",
-        "2021Y": "4722"
+        "2021Y": "4722",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "8"
     },
     {
         "Korsatkichlar": "hooliganism",
@@ -225,7 +238,9 @@
         "2018Y": "1007",
         "2019Y": "1073",
         "2020Y": "1565",
-        "2021Y": "3024"
+        "2021Y": "3024",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "9"
     },
     {
         "Korsatkichlar": "violations of traffic rules and the operation of vehicles (fatal)",
@@ -250,7 +265,9 @@
         "2018Y": "2044",
         "2019Y": "1940",
         "2020Y": "1689",
-        "2021Y": "2199"
+        "2021Y": "2199",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "10"
     },
     {
         "Korsatkichlar": "against the fundamentals of the economy, in the sphere of economic activity, against the order of the functioning of government bodies",
@@ -275,6 +292,8 @@
         "2018Y": "6704",
         "2019Y": "7538",
         "2020Y": "10005",
-        "2021Y": "33959"
+        "2021Y": "33959",
+        "path_id": "610cd32c1a64fdd0373a9090",
+        "ID": "11"
     }
 ]

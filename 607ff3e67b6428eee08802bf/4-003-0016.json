@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "674087fd8f55e7be2f46f8a2"
-    },
-    {
         "OzbekistonRespublikasiOliyMajlisigataqdimetilganhisobotlar": "1",
         "QoraqalpogistonRespublikasiJoqorgiKengesigataqdimqilinganhisobotlar": "1",
         "ViloyatlarToshkentshaharxalqdeputatlarikengashigataqdimqilinganhisobotlar": "24",
-        "Tumanshaharxalqdeputatlarikengashigataqdimqilinganhisobotlar": "391"
+        "Tumanshaharxalqdeputatlarikengashigataqdimqilinganhisobotlar": "391",
+        "path_id": "674087fd8f55e7be2f46f8a2",
+        "ID": "1"
     }
 ]

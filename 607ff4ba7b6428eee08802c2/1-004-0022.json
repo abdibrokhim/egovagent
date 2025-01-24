@@ -1,125 +1,137 @@
 [
     {
-        "path_id": "6102703f2a2e256d868e8322"
-    },
-    {
-        "ID": "-",
+        "ID": "1",
         "Ҳудудлар": "Total",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "18807",
         "Aniqlanganqonunbuzilishlarsoni": "49488",
         "Berilganyozmakorsatmalarsoni": "7598",
-        "Kiritilgantaqdimnomalarsoni": "268"
+        "Kiritilgantaqdimnomalarsoni": "268",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "1",
+        "ID": "2",
         "Ҳудудлар": "Republic of Karakalpakstan",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "838",
         "Aniqlanganqonunbuzilishlarsoni": "4760",
         "Berilganyozmakorsatmalarsoni": "192",
-        "Kiritilgantaqdimnomalarsoni": "14"
+        "Kiritilgantaqdimnomalarsoni": "14",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "2",
+        "ID": "3",
         "Ҳудудлар": "Andijan",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1984",
         "Aniqlanganqonunbuzilishlarsoni": "3951",
         "Berilganyozmakorsatmalarsoni": "447",
-        "Kiritilgantaqdimnomalarsoni": "34"
+        "Kiritilgantaqdimnomalarsoni": "34",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "3",
+        "ID": "4",
         "Ҳудудлар": "Bukhara",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1330",
         "Aniqlanganqonunbuzilishlarsoni": "4515",
         "Berilganyozmakorsatmalarsoni": "825",
-        "Kiritilgantaqdimnomalarsoni": "6"
+        "Kiritilgantaqdimnomalarsoni": "6",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "4",
+        "ID": "5",
         "Ҳудудлар": "Djizzakh",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "622",
         "Aniqlanganqonunbuzilishlarsoni": "1927",
         "Berilganyozmakorsatmalarsoni": "338",
-        "Kiritilgantaqdimnomalarsoni": "51"
+        "Kiritilgantaqdimnomalarsoni": "51",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "5",
+        "ID": "6",
         "Ҳудудлар": "Kashkadarya",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "4021",
         "Aniqlanganqonunbuzilishlarsoni": "9991",
         "Berilganyozmakorsatmalarsoni": "588",
-        "Kiritilgantaqdimnomalarsoni": "9"
+        "Kiritilgantaqdimnomalarsoni": "9",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "6",
+        "ID": "7",
         "Ҳудудлар": "Navoi",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1627",
         "Aniqlanganqonunbuzilishlarsoni": "2524",
         "Berilganyozmakorsatmalarsoni": "614",
-        "Kiritilgantaqdimnomalarsoni": "63"
+        "Kiritilgantaqdimnomalarsoni": "63",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "7",
+        "ID": "8",
         "Ҳудудлар": "Namangan",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "927",
         "Aniqlanganqonunbuzilishlarsoni": "2510",
         "Berilganyozmakorsatmalarsoni": "488",
-        "Kiritilgantaqdimnomalarsoni": "5"
+        "Kiritilgantaqdimnomalarsoni": "5",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "8",
+        "ID": "9",
         "Ҳудудлар": "Samarkand",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "855",
         "Aniqlanganqonunbuzilishlarsoni": "3448",
         "Berilganyozmakorsatmalarsoni": "723",
-        "Kiritilgantaqdimnomalarsoni": "15"
+        "Kiritilgantaqdimnomalarsoni": "15",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "9",
+        "ID": "10",
         "Ҳудудлар": "Surkhandarya",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1826",
         "Aniqlanganqonunbuzilishlarsoni": "2862",
         "Berilganyozmakorsatmalarsoni": "498",
-        "Kiritilgantaqdimnomalarsoni": "24"
+        "Kiritilgantaqdimnomalarsoni": "24",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "10",
+        "ID": "11",
         "Ҳудудлар": "Sirdarya",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "427",
         "Aniqlanganqonunbuzilishlarsoni": "2752",
         "Berilganyozmakorsatmalarsoni": "415",
-        "Kiritilgantaqdimnomalarsoni": "15"
+        "Kiritilgantaqdimnomalarsoni": "15",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "11",
+        "ID": "12",
         "Ҳудудлар": "Tashkent reg.",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1313",
         "Aniqlanganqonunbuzilishlarsoni": "3037",
         "Berilganyozmakorsatmalarsoni": "1292",
-        "Kiritilgantaqdimnomalarsoni": "6"
+        "Kiritilgantaqdimnomalarsoni": "6",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "12",
+        "ID": "13",
         "Ҳудудлар": "Ferghana",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1116",
         "Aniqlanganqonunbuzilishlarsoni": "3790",
         "Berilganyozmakorsatmalarsoni": "334",
-        "Kiritilgantaqdimnomalarsoni": "11"
+        "Kiritilgantaqdimnomalarsoni": "11",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "13",
+        "ID": "14",
         "Ҳудудлар": "Khorezm",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "903",
         "Aniqlanganqonunbuzilishlarsoni": "1304",
         "Berilganyozmakorsatmalarsoni": "95",
-        "Kiritilgantaqdimnomalarsoni": "7"
+        "Kiritilgantaqdimnomalarsoni": "7",
+        "path_id": "6102703f2a2e256d868e8322"
     },
     {
-        "ID": "14",
+        "ID": "15",
         "Ҳудудлар": "Tashkent city",
         "Jamiotkazilgantekshirishvaorganishlarsoni": "1018",
         "Aniqlanganqonunbuzilishlarsoni": "2117",
         "Berilganyozmakorsatmalarsoni": "749",
-        "Kiritilgantaqdimnomalarsoni": "8"
+        "Kiritilgantaqdimnomalarsoni": "8",
+        "path_id": "6102703f2a2e256d868e8322"
     }
 ]

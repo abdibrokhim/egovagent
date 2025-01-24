@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "612092f65b3dbbf13b3361f9"
-    },
-    {
         "raqam": "1",
         "Hududlar": "Toshkent shahri / город ташкент / City of Tashkent",
         "Jamiaholisoni": "3,040,786",
@@ -15,7 +12,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "8.906",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "292.9",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "5.732",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "188.5"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "188.5",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "1"
     },
     {
         "raqam": "2",
@@ -30,7 +29,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "5.598",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "183.4",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "3.397",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "111.3"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "111.3",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "2"
     },
     {
         "raqam": "3",
@@ -45,7 +46,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "3.926",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "93.3",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "2.06",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "48.9"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "48.9",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "3"
     },
     {
         "raqam": "4",
@@ -60,7 +63,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "937",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "102.5",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.112",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "121.7"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "121.7",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "4"
     },
     {
         "raqam": "5",
@@ -75,7 +80,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "1.307",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "86.7",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "896",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "59.4"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "59.4",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "5"
     },
     {
         "raqam": "6",
@@ -90,7 +97,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "2.415",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "118.1",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.305",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "63.8"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "63.8",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "6"
     },
     {
         "raqam": "7",
@@ -105,7 +114,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "1.289",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "119.9",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.021",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "95.0"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "95.0",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "7"
     },
     {
         "raqam": "8",
@@ -120,7 +131,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "6.475",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "159.4",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "3.419",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "84.2"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "84.2",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "8"
     },
     {
         "raqam": "9",
@@ -135,7 +148,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "2.968",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "87.4",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "2.256",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "66.5"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "66.5",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "9"
     },
     {
         "raqam": "10",
@@ -150,7 +165,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "3.669",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "119.7",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.653",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "53.9"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "53.9",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "10"
     },
     {
         "raqam": "11",
@@ -165,7 +182,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "2.27",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "78.9",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.179",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "41.0"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "41.0",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "11"
     },
     {
         "raqam": "12",
@@ -180,7 +199,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "2.774",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "77.9",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "1.523",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "42.8"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "42.8",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "12"
     },
     {
         "raqam": "13",
@@ -195,7 +216,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "1.091",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "54.7",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "998",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "50.0"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "50.0",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "13"
     },
     {
         "raqam": "14",
@@ -210,7 +233,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "1.701",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "84.9",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "827",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "41.3"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "41.3",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "14"
     },
     {
         "raqam": "15",
@@ -225,7 +250,9 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "219",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "0",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "575",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "0"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "0",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "15"
     },
     {
         "raqam": "16",
@@ -240,6 +267,8 @@
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar": "45.545",
         "Hisobotyilidasodiretilganoldiniolishmumkinbolganjinoyatlar100mingaholiganisbatan": "123.8",
         "HisobotyilidasodiretilganAniqlanadiganjinoyatlar": "27.953",
-        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "76.0"
+        "HisobotyilidasodiretilganAniqlanadiganjinoyatlar100mingaholiganisbatan": "76.0",
+        "path_id": "612092f65b3dbbf13b3361f9",
+        "ID": "16"
     }
 ]

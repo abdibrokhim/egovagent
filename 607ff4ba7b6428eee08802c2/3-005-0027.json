@@ -1,13 +1,12 @@
 [
     {
-        "path_id": "6110c01adb32b99538e0816d"
-    },
-    {
         "Televideniya": "0",
         "radio": "0",
         "Gazeta": "0",
         "Vebsayt": "6",
         "Ogzaki": "2",
-        "Jami": "8"
+        "Jami": "8",
+        "path_id": "6110c01adb32b99538e0816d",
+        "ID": "1"
     }
 ]
