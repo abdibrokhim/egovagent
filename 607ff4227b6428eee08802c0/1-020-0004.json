@@ -1,0 +1,61 @@
+[
+    {
+        "path_id": "61092c2d1a64fdd0373a8ddf"
+    },
+    {
+        "ID": "1",
+        "Nomi": "Agency for the Operation of Water Management Facilities",
+        "Telefonfaks": "712024797",
+        "Elektronpochta": "ekspluatatsiya@minwater.uz",
+        "Manzili": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+    },
+    {
+        "ID": "2",
+        "Nomi": "Department for the Implementation of Water Resources Projects",
+        "Telefonfaks": "712024729",
+        "Elektronpochta": "kapital@minwater.uz",
+        "Manzili": "Tashkent city, Bektemir district, Rokhat street 13"
+    },
+    {
+        "ID": "3",
+        "Nomi": "Central Dispatching, communication and cadastral Service",
+        "Telefonfaks": "712414240",
+        "Elektronpochta": "mdkx@minwater.uz",
+        "Manzili": "Tashkent city, Shaykhontohur district, Labzak street 1a"
+    },
+    {
+        "ID": "4",
+        "Nomi": "Center reforms in water managtment",
+        "Telefonfaks": "712411923",
+        "Elektronpochta": "iarc@minwater.uz",
+        "Manzili": "Tashkent city, Shaykhontohur district, Labzak street 1a"
+    },
+    {
+        "ID": "5",
+        "Nomi": "Center for implementation of foreign investment projects in water sector",
+        "Telefonfaks": "712024722",
+        "Elektronpochta": "agency@minwater.uz",
+        "Manzili": "Tashkent city, Shaykhontohur district, Labzak street 1a"
+    },
+    {
+        "ID": "6",
+        "Nomi": "Inspection for control of safety and water use of water management facilities",
+        "Telefonfaks": "712267166",
+        "Elektronpochta": "v-nadzor@minwater.uz",
+        "Manzili": "Tashkent city, Shaykhontohur district, Turkkurgan street 26"
+    },
+    {
+        "ID": "7",
+        "Nomi": "Research Institute of Irrigation and Water Problems",
+        "Telefonfaks": "712422971",
+        "Elektronpochta": "ismiti@minwater.uz",
+        "Manzili": "Tashkent city, Mirzo Ulugbek district, Karasu, 11"
+    },
+    {
+        "ID": "8",
+        "Nomi": "State institution “Implementation of market mechanisms in water sektor”",
+        "Telefonfaks": "712417825",
+        "Elektronpochta": "bozormexanizmlari@minwater.uz",
+        "Manzili": "Tashkent city, Shaykhontohur district, Labzak street 1a"
+    }
+]

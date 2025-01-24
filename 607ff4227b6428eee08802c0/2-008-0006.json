@@ -1,0 +1,29 @@
+[
+    {
+        "path_id": "610b7cf61a64fdd0373a8f14"
+    },
+    {
+        "num": "1",
+        "name": "Livestock vaccination",
+        "type": "11",
+        "count": "24.0"
+    },
+    {
+        "num": "2",
+        "name": "Poultry vaccination",
+        "type": "4",
+        "count": "32.0"
+    },
+    {
+        "num": "3",
+        "name": "Bathing livestock against ectoparasites",
+        "type": "1",
+        "count": "23.0"
+    },
+    {
+        "num": "4",
+        "name": "Disinfection and disinsection work in places where livestock is kept",
+        "type": "number of buildings (thousands)",
+        "count": "510"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "path_id": "61111305db32b99538e08232"
+    },
+    {
+        "Nasllimahsuilotturlari": "Qoramollar",
+        "Olchovbirligi": "bosh",
+        "Jami": "6998",
+        "Yanvar": "1293",
+        "Fevral": "150",
+        "Mart": "1682",
+        "latitude": "41.32374",
+        "longitude": "62.20996"
+    },
+    {
+        "Nasllimahsuilotturlari": "Qo'y",
+        "Olchovbirligi": "bosh",
+        "Jami": "102727",
+        "Yanvar": "7595",
+        "Fevral": "6201",
+        "Mart": "22597",
+        "latitude": "41.32374",
+        "longitude": "62.20996"
+    },
+    {
+        "Nasllimahsuilotturlari": "Otlar",
+        "Olchovbirligi": "bosh",
+        "Jami": "10",
+        "Yanvar": "5",
+        "Fevral": "1",
+        "Mart": "1",
+        "latitude": "41.32374",
+        "longitude": "62.20996"
+    },
+    {
+        "Nasllimahsuilotturlari": "Parrandalar",
+        "Olchovbirligi": "bosh",
+        "Jami": "1147520",
+        "Yanvar": "85530",
+        "Fevral": "28156",
+        "Mart": "231849",
+        "latitude": "41.32374",
+        "longitude": "62.20996"
+    },
+    {
+        "Nasllimahsuilotturlari": "Parranda tuxumlari",
+        "Olchovbirligi": "dona",
+        "Jami": "8969800",
+        "Yanvar": "320880",
+        "Fevral": "4934040",
+        "Mart": "792400",
+        "latitude": "41.32374",
+        "longitude": "62.20996"
+    }
+]

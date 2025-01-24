@@ -1,0 +1,53 @@
+[
+    {
+        "path_id": "6107f5bb2a2e256d868e8790"
+    },
+    {
+        "ID": "1",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Abduraxmonov Ibrohim Yulchiyevich",
+        "Lavozimi": "Minister",
+        "Telefonraqami": "71-206-70-11",
+        "Qabulkunlari": "The 4th friday of every month from 15:00 to 18:00"
+    },
+    {
+        "ID": "2",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Vacant",
+        "Lavozimi": "First deputy of minister",
+        "Telefonraqami": "71-206-70-12",
+        "Qabulkunlari": "The Monday of each week 10:00 to 13:00"
+    },
+    {
+        "ID": "3",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Аbduzuhurov Jamshid Tolibovich",
+        "Lavozimi": "Deputy of minister",
+        "Telefonraqami": "71-206-70-13",
+        "Qabulkunlari": "Every tuesday from 10: 00 to 13: 00"
+    },
+    {
+        "ID": "4",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Yuldashev Qaxramon Anvardjanovich",
+        "Lavozimi": "Deputy of minister",
+        "Telefonraqami": "71-206-70-15",
+        "Qabulkunlari": "Every thursday from 10: 00 to 13: 00"
+    },
+    {
+        "ID": "5",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Qosimov Akmaljon Malikjonovich",
+        "Lavozimi": "Deputy of minister",
+        "Telefonraqami": "71-206-70-16",
+        "Qabulkunlari": "Every Friday from 15: 00 to 18: 00"
+    },
+    {
+        "ID": "6",
+        "Tashkilotnomi": "Ministry of agriculture",
+        "FISH": "Shukurov Alisher Nematullayevich",
+        "Lavozimi": "Deputy of minister",
+        "Telefonraqami": "71-206-70-18",
+        "Qabulkunlari": "Every Friday from 10: 00 to 13: 00"
+    }
+]
