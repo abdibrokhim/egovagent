@@ -1,0 +1,236 @@
+{
+	"result": [
+		{
+			"guidId": "6076e30d7b6428eee08802aa",
+			"title": {
+				"uzbText": "Hudud",
+				"uzbKrText": "\u04b2\u0443\u0434\u0443\u0434",
+				"rusText": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f",
+				"engText": "Territory"
+			},
+			"image": "TerrotoryHGZN805XMI6038L9Y9.svg",
+			"structCount": 562,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607fe93e7b6428eee08802b0",
+			"title": {
+				"uzbText": "Iqtisodiyot",
+				"uzbKrText": "\u0418\u049b\u0442\u0438\u0441\u043e\u0434\u0438\u0451\u0442",
+				"rusText": "\u042d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430",
+				"engText": "Economy"
+			},
+			"image": "economyBB4EB8RFQUM30OCPLB.svg",
+			"structCount": 3075,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607fea677b6428eee08802b1",
+			"title": {
+				"uzbText": "Sog'liqni saqlash",
+				"uzbKrText": "\u0421\u043e\u0493\u043b\u0438\u049b\u043d\u0438 \u0441\u0430\u049b\u043b\u0430\u0448",
+				"rusText": "\u0417\u0434\u043e\u0440\u043e\u0432\u044c\u0435",
+				"engText": "Healthcare"
+			},
+			"image": "heart33CB2NLGAAV8ERM9J1.svg",
+			"structCount": 692,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607fea9a7b6428eee08802b2",
+			"title": {
+				"uzbText": "Ta'lim",
+				"uzbKrText": "\u0422\u0430\u044a\u043b\u0438\u043c",
+				"rusText": "\u041e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435",
+				"engText": "Education"
+			},
+			"image": "educationWKVA0TEXCLL09UHAC4.svg",
+			"structCount": 757,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607fed667b6428eee08802b3",
+			"title": {
+				"uzbText": "Madaniyat",
+				"uzbKrText": "\u041c\u0430\u0434\u0430\u043d\u0438\u044f\u0442",
+				"rusText": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
+				"engText": "Culture"
+			},
+			"image": "culture876PBKBC9RS2TAD51M.svg",
+			"structCount": 67,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607fedbd7b6428eee08802b4",
+			"title": {
+				"uzbText": "Biznes",
+				"uzbKrText": "\u0411\u0438\u0437\u043d\u0435\u0441",
+				"rusText": "\u0411\u0438\u0437\u043d\u0435\u0441",
+				"engText": "Business"
+			},
+			"image": "case2KC2M0.svg",
+			"structCount": 147,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607feecc7b6428eee08802b5",
+			"title": {
+				"uzbText": "Ko'chmas mulk",
+				"uzbKrText": "\u041a\u045e\u0447\u043c\u0430\u0441 \u043c\u0443\u043b\u043a",
+				"rusText": "\u041d\u0435\u0434\u0432\u0438\u0436\u0438\u043c\u043e\u0441\u0442\u044c",
+				"engText": "Real estate"
+			},
+			"image": "buildL8N2N2.svg",
+			"structCount": 212,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607feffa7b6428eee08802b7",
+			"title": {
+				"uzbText": "BRM",
+				"uzbKrText": "\u0411\u0420\u041c",
+				"rusText": "\u0426\u0423\u0420",
+				"engText": "SDG"
+			},
+			"image": "brm379PWAX9Z3XN3CZN3V.svg",
+			"structCount": 127,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff03a7b6428eee08802b8",
+			"title": {
+				"uzbText": "Turizm va sport",
+				"uzbKrText": "\u0422\u0443\u0440\u0438\u0437\u043c \u0432\u0430 \u0441\u043f\u043e\u0440\u0442",
+				"rusText": "\u0422\u0443\u0440\u0438\u0437\u043c \u0438 \u0441\u043f\u043e\u0440\u0442",
+				"engText": "Tourism and sport"
+			},
+			"image": "turismTKVJHZR3YOYB67SKCR.svg",
+			"structCount": 49,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff0997b6428eee08802b9",
+			"title": {
+				"uzbText": "Sug'urta",
+				"uzbKrText": "\u0421\u0443\u0493\u0443\u0440\u0442\u0430",
+				"rusText": "\u0421\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0438\u0435",
+				"engText": "Insurance"
+			},
+			"image": "insurance1Z05II0KYI5THJ7C3D.svg",
+			"structCount": 4,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff1137b6428eee08802ba",
+			"title": {
+				"uzbText": "Transport",
+				"uzbKrText": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442",
+				"rusText": "\u0422\u0440\u0430\u043d\u0441\u043f\u043e\u0440\u0442",
+				"engText": "Transportation"
+			},
+			"image": "transportUA6G1S62I4W8TC8VQK.svg",
+			"structCount": 155,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff2e57b6428eee08802bb",
+			"title": {
+				"uzbText": "Ekologiya",
+				"uzbKrText": "\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u044f",
+				"rusText": "\u042d\u043a\u043e\u043b\u043e\u0433\u0438\u044f",
+				"engText": "Ecology"
+			},
+			"image": "leaf3XIFFJFP5L7QS76LF2.svg",
+			"structCount": 155,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff3197b6428eee08802bc",
+			"title": {
+				"uzbText": "Bandlik va ijtimoiy himoya",
+				"uzbKrText": "\u0411\u0430\u043d\u0434\u043b\u0438\u043a \u0432\u0430 \u0438\u0436\u0442\u0438\u043c\u043e\u0438\u0439 \u04b3\u0438\u043c\u043e\u044f",
+				"rusText": "\u0417\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c \u0438 \u0441\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0437\u0430\u0449\u0438\u0442\u0430",
+				"engText": "Population"
+			},
+			"image": "peopleJQ6PPW3E2QIU7JZEUO.svg",
+			"structCount": 1520,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff3627b6428eee08802bd",
+			"title": {
+				"uzbText": "Moliya",
+				"uzbKrText": "\u041c\u043e\u043b\u0438\u044f",
+				"rusText": "\u0424\u0438\u043d\u0430\u043d\u0441\u044b",
+				"engText": "Finance"
+			},
+			"image": "coinsPN5O7B8H0395 (1)HBXNKK.svg",
+			"structCount": 1022,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff39e7b6428eee08802be",
+			"title": {
+				"uzbText": "Savdo",
+				"uzbKrText": "\u0421\u0430\u0432\u0434\u043e",
+				"rusText": "\u0422\u043e\u0440\u0433\u043e\u0432\u043b\u044f",
+				"engText": "Trade"
+			},
+			"image": "tradeKFTYRJASABFR4XGCEJ.svg",
+			"structCount": 158,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff3e67b6428eee08802bf",
+			"title": {
+				"uzbText": "Huquqbuzarlik",
+				"uzbKrText": "\u04b2\u0443\u049b\u0443\u049b\u0431\u0443\u0437\u0430\u0440\u043b\u0438\u043a",
+				"rusText": "\u041f\u0440\u0430\u0432\u043e\u043d\u0430\u0440\u0443\u0448\u0435\u043d\u0438\u0435",
+				"engText": "Offense"
+			},
+			"image": "law7QS57DYYASD9JZJLYJ.svg",
+			"structCount": 40,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff4227b6428eee08802c0",
+			"title": {
+				"uzbText": "Qishloq xo'jaligi",
+				"uzbKrText": "\u049a\u0438\u0448\u043b\u043e\u049b \u0445\u045e\u0436\u0430\u043b\u0438\u0433\u0438",
+				"rusText": "\u0421\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u0445\u043e\u0437\u044f\u0439\u0441\u0442\u0432\u043e",
+				"engText": "Agriculture"
+			},
+			"image": "agricultureLBGJAMMX6M3DPZJHKP.svg",
+			"structCount": 1028,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff4557b6428eee08802c1",
+			"title": {
+				"uzbText": "AKT",
+				"uzbKrText": "AKT",
+				"rusText": "\u0418\u041a\u0422",
+				"engText": "ICT"
+			},
+			"image": "compZ1LPI5HL7AYU8FAUM1.svg",
+			"structCount": 96,
+			"structDownloadCount": 0.0
+		},
+		{
+			"guidId": "607ff4ba7b6428eee08802c2",
+			"title": {
+				"uzbText": "Adliya va sud",
+				"uzbKrText": "\u0410\u0434\u043b\u0438\u044f \u0432\u0430 \u0441\u0443\u0434",
+				"rusText": "\u042e\u0441\u0442\u0438\u0446\u0438\u044f \u0438 \u0441\u0443\u0434",
+				"engText": "Justice and judge"
+			},
+			"image": "adliyaDR1MUALE27SS1S86AR.svg",
+			"structCount": 24,
+			"structDownloadCount": 0.0
+		}
+	],
+	"status": 0,
+	"code": 0,
+	"error": null,
+	"errors": null
+}

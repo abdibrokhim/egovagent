@@ -8,10 +8,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-def setup_driver():
+def setup_driver(fn):
     chrome_options = webdriver.ChromeOptions()
     prefs = {
-        "download.default_directory": os.path.abspath("607ff4227b6428eee08802c0"),
+        "download.default_directory": os.path.abspath(fn),
         "download.prompt_for_download": False,
         "download.directory_upgrade": True,
         "safebrowsing.enabled": True
@@ -20,8 +20,8 @@ def setup_driver():
     driver = webdriver.Chrome(options=chrome_options)
     return driver
 
-def create_download_folder():
-    folder_name = "607ff4227b6428eee08802c0"
+def create_download_folder(fn):
+    folder_name = fn
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
     return folder_name
@@ -46,15 +46,15 @@ def extract_path_id(container):
         print(f"Error extracting path_id: {str(e)}")
         return None
 
-def download_json_files():
-    BASE_URL = "https://data.egov.uz/eng/spheres/607ff4227b6428eee08802c0"
+def download_json_files(fn):
+    BASE_URL = f"https://data.egov.uz/eng/spheres/{fn}"
     PAGE_URL = BASE_URL + "?page={}"
     
-    folder_name = create_download_folder()
-    driver = setup_driver()
+    folder_name = create_download_folder(fn)
+    driver = setup_driver(fn)
     
     try:
-        for page_num in range(1, 104):
+        for page_num in range(4, 5):
             print(f"Processing page {page_num}...")
             driver.get(PAGE_URL.format(page_num))
             time.sleep(2)  # Added sleep to ensure page loads
@@ -145,4 +145,161 @@ def download_json_files():
     print("All files processed successfully!")
 
 if __name__ == "__main__":
-    download_json_files()
+    sphere_list = [
+		{
+			"guidId": "6076e30d7b6428eee08802aa",
+			"title": {
+				"engText": "Territory"
+			},
+			"structCount": 562,
+            "status": "pending"
+		},
+		{
+			"guidId": "607fe93e7b6428eee08802b0",
+			"title": {
+				"engText": "Economy"
+			},
+            "structCount": 3072,
+			"status": "pending"
+		},
+		{
+			"guidId": "607fea677b6428eee08802b1",
+			"title": {
+				"engText": "Healthcare"
+			},
+			"structCount": 692,
+            "status": "pending"
+		},
+		{
+			"guidId": "607fea9a7b6428eee08802b2",
+			"title": {
+				"engText": "Education"
+			},
+			"structCount": 757,
+            "status": "pending"
+		},
+		{
+			"guidId": "607fed667b6428eee08802b3",
+			"title": {
+				"engText": "Culture"
+			},
+			"structCount": 67,
+            "status": "pending"
+		},
+		{
+			"guidId": "607fedbd7b6428eee08802b4",
+			"title": {
+				"engText": "Business"
+			},
+			"structCount": 147,
+            "status": "pending"
+		},
+		{
+			"guidId": "607feecc7b6428eee08802b5",
+			"title": {
+				"engText": "Real estate"
+			},
+			"structCount": 212,
+            "status": "pending"
+		},
+		{
+			"guidId": "607feffa7b6428eee08802b7",
+			"title": {
+				"engText": "SDG"
+			},
+			"structCount": 127,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff03a7b6428eee08802b8",
+			"title": {
+				"engText": "Tourism and sport"
+			},
+			"structCount": 49,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff0997b6428eee08802b9",
+			"title": {
+				"engText": "Insurance"
+			},
+			"structCount": 4,
+            "status": "done"
+		},
+		{
+			"guidId": "607ff1137b6428eee08802ba",
+			"title": {
+				"engText": "Transportation"
+			},
+			"structCount": 155,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff2e57b6428eee08802bb",
+			"title": {
+				"engText": "Ecology"
+			},
+			"structCount": 155,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff3197b6428eee08802bc",
+			"title": {
+				"engText": "Population"
+			},
+			"structCount": 1520,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff3627b6428eee08802bd",
+			"title": {
+				"engText": "Finance"
+			},
+			"structCount": 1022,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff39e7b6428eee08802be",
+			"title": {
+				"engText": "Trade"
+			},
+			"structCount": 158,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff3e67b6428eee08802bf",
+			"title": {
+				"engText": "Offense"
+			},
+			"structCount": 40,
+            "status": "done"
+		},
+		{
+			"guidId": "607ff4227b6428eee08802c0",
+			"title": {
+				"engText": "Agriculture"
+			},
+			"structCount": 1028,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff4557b6428eee08802c1",
+			"title": {
+				"engText": "ICT"
+			},
+			"structCount": 96,
+            "status": "pending"
+		},
+		{
+			"guidId": "607ff4ba7b6428eee08802c2",
+			"title": {
+				"engText": "Justice and judge"
+			},
+			"structCount": 24,
+            "status": "done"
+		}
+	]
+
+    fn = "607ff3e67b6428eee08802bf"
+
+    download_json_files(fn)
