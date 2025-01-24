@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371d30a206a79bd4ad0be1e"
-    },
-    {
         "Nomi": "Navoi",
         "Donliekinlar": "258096",
         "Moyliekinlar": "7681.5",
@@ -11,6 +8,8 @@
         "Poliz": "104616",
         "Kartoshka": "88112",
         "Meva": "106228",
-        "Uzum": "85615"
+        "Uzum": "85615",
+        "path_id": "6371d30a206a79bd4ad0be1e",
+        "ID": "1"
     }
 ]

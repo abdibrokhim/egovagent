@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371d2e6206a79bd4ad0be1c"
-    },
-    {
         "Nomi": "Bukhara",
         "Donliekinlar": "654004",
         "Moyliekinlar": "25266",
@@ -11,6 +8,8 @@
         "Poliz": "203324",
         "Kartoshka": "257226",
         "Meva": "303418",
-        "Uzum": "221413"
+        "Uzum": "221413",
+        "path_id": "6371d2e6206a79bd4ad0be1c",
+        "ID": "1"
     }
 ]

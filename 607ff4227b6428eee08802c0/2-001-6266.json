@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "6385decaee4af88f66e595ef"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "Olchovbirligi": "Ton",
         "2018Y": "8",
         "2019Y": "17",
-        "2020Y": "26"
+        "2020Y": "26",
+        "path_id": "6385decaee4af88f66e595ef",
+        "ID": "1"
     }
 ]

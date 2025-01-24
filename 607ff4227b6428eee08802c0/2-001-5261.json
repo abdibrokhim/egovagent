@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371e4e9206a79bd4ad0bef9"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "2020YILNINGSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "5016.7",
         "SUGRISHG": "4846.5",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSNTG": "3.2",
         "SHUJUMLDNKMMUNLOJLIGIG": "73",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "75",
-        "SHUJUMLDNBSHQSHLRG": "3.2"
+        "SHUJUMLDNBSHQSHLRG": "3.2",
+        "path_id": "6371e4e9206a79bd4ad0bef9",
+        "ID": "1"
     }
 ]

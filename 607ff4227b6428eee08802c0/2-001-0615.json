@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6113ab68db32b99538e088ab"
-    },
-    {
         "Hududningnomi": "The Republic of Uzbekistan",
         "1991yil": "100.5",
         "1992yil": "94.9",
@@ -33,7 +30,9 @@
         "2017yil": "283.5",
         "2018yil": "507.2",
         "2019yil": "541.6",
-        "2020yil": "581.9"
+        "2020yil": "581.9",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "1"
     },
     {
         "Hududningnomi": "Republic of Karakalpakstan",
@@ -66,7 +65,9 @@
         "2017yil": "4.7",
         "2018yil": "9.1",
         "2019yil": "9.8",
-        "2020yil": "6.8"
+        "2020yil": "6.8",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "2"
     },
     {
         "Hududningnomi": "          areas",
@@ -99,7 +100,9 @@
         "2017yil": "    ",
         "2018yil": "    ",
         "2019yil": "    ",
-        "2020yil": "    "
+        "2020yil": "    ",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Andijan",
@@ -132,7 +135,9 @@
         "2017yil": "7.1",
         "2018yil": "8.2",
         "2019yil": "10.9",
-        "2020yil": "11"
+        "2020yil": "11",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Bukhara",
@@ -165,7 +170,9 @@
         "2017yil": "36.8",
         "2018yil": "49",
         "2019yil": "49.8",
-        "2020yil": "51.6"
+        "2020yil": "51.6",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Jizzakh",
@@ -198,7 +205,9 @@
         "2017yil": "6.8",
         "2018yil": "14.4",
         "2019yil": "23.1",
-        "2020yil": "23.5"
+        "2020yil": "23.5",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Kashkadarya",
@@ -231,7 +240,9 @@
         "2017yil": "29.5",
         "2018yil": "58.4",
         "2019yil": "59.5",
-        "2020yil": "59.8"
+        "2020yil": "59.8",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Navoi",
@@ -264,7 +275,9 @@
         "2017yil": "49.2",
         "2018yil": "61.3",
         "2019yil": "63.1",
-        "2020yil": "66.5"
+        "2020yil": "66.5",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Namangan",
@@ -297,7 +310,9 @@
         "2017yil": "24.5",
         "2018yil": "29",
         "2019yil": "35.1",
-        "2020yil": "39.7"
+        "2020yil": "39.7",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Samarkand",
@@ -330,7 +345,9 @@
         "2017yil": "43.7",
         "2018yil": "149.3",
         "2019yil": "154",
-        "2020yil": "163.4"
+        "2020yil": "163.4",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Surkhandarya",
@@ -363,7 +380,9 @@
         "2017yil": "17.1",
         "2018yil": "18.4",
         "2019yil": "19.3",
-        "2020yil": "20.8"
+        "2020yil": "20.8",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Syrdarya",
@@ -396,7 +415,9 @@
         "2017yil": "10.5",
         "2018yil": "37.9",
         "2019yil": "38.2",
-        "2020yil": "38.6"
+        "2020yil": "38.6",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -429,7 +450,9 @@
         "2017yil": "18.8",
         "2018yil": "27.2",
         "2019yil": "27.5",
-        "2020yil": "37.2"
+        "2020yil": "37.2",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Fergana",
@@ -462,7 +485,9 @@
         "2017yil": "22.9",
         "2018yil": "25.3",
         "2019yil": "25.9",
-        "2020yil": "35.9"
+        "2020yil": "35.9",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Khorezm",
@@ -495,7 +520,9 @@
         "2017yil": "11.9",
         "2018yil": "19.7",
         "2019yil": "25.4",
-        "2020yil": "27.1"
+        "2020yil": "27.1",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "15"
     },
     {
         "Hududningnomi": "Tashkent city",
@@ -528,6 +555,8 @@
         "2017yil": "0",
         "2018yil": "0",
         "2019yil": "0",
-        "2020yil": "0"
+        "2020yil": "0",
+        "path_id": "6113ab68db32b99538e088ab",
+        "ID": "16"
     }
 ]

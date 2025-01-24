@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "6371db26206a79bd4ad0be3a"
-    },
-    {
         "Hudud": " Navoi",
         "JAMISUGORILADIGANMAYDONLAR": "123",
         "SHORLANMAGANMAYDON": "22.5",
         "JAMISHORLANGANMAYDON": "100.5",
         "KAMSHORLANGAN": "87.8",
         "ORTASHORLANGAN": "119",
-        "KUCHLISHORLANGAN": "0.8"
+        "KUCHLISHORLANGAN": "0.8",
+        "path_id": "6371db26206a79bd4ad0be3a",
+        "ID": "1"
     }
 ]

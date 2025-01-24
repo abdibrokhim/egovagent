@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371e1f1206a79bd4ad0bec9"
-    },
-    {
         "Hudud": " Khorezm",
         "JMIZVURTRMQLRIKM": "10473.5",
         "BYUDJTHISBIDGITUMNLRRZVURLR": "855.5",
@@ -10,6 +7,8 @@
         "BYUDJTHISBIDGIYOPIQQUVURLR": "-",
         "BUDJTHISBIDGIYOPIQYOTIQDRNJLR": "-",
         "XOJLIKLRHISBIDGIICHKIZVURLR": "6251.1",
-        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "504.1"
+        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "504.1",
+        "path_id": "6371e1f1206a79bd4ad0bec9",
+        "ID": "1"
     }
 ]

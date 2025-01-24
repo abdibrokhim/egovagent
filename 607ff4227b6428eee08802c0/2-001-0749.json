@@ -1,65 +1,92 @@
 [
     {
-        "path_id": "6114bb32db32b99538e08ba7"
-    },
-    {
         "Hududlarnomi": "Republic of Uzbekistan",
-        "gektar": "1062261"
+        "gektar": "1062261",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "1"
     },
     {
         "Hududlarnomi": "Republic of Karakalpakstan",
-        "gektar": "87549"
+        "gektar": "87549",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "2"
     },
     {
         "Hududlarnomi": "Andijan",
-        "gektar": "75643"
+        "gektar": "75643",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "3"
     },
     {
         "Hududlarnomi": "Bukhara",
-        "gektar": "106762"
+        "gektar": "106762",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "4"
     },
     {
         "Hududlarnomi": "Jizzakh",
-        "gektar": "78416"
+        "gektar": "78416",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "5"
     },
     {
         "Hududlarnomi": "Kashkadarya",
-        "gektar": "140031"
+        "gektar": "140031",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "6"
     },
     {
         "Hududlarnomi": "Navoi",
-        "gektar": "32685"
+        "gektar": "32685",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "7"
     },
     {
         "Hududlarnomi": "Namangan",
-        "gektar": "67014"
+        "gektar": "67014",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "8"
     },
     {
         "Hududlarnomi": "Samarkand",
-        "gektar": "72642"
+        "gektar": "72642",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "9"
     },
     {
         "Hududlarnomi": "Surkhandarya",
-        "gektar": "75903"
+        "gektar": "75903",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "10"
     },
     {
         "Hududlarnomi": "Syrdarya",
-        "gektar": "72197"
+        "gektar": "72197",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "11"
     },
     {
         "Hududlarnomi": "Tashkent",
-        "gektar": "77715"
+        "gektar": "77715",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "12"
     },
     {
         "Hududlarnomi": "Ferghana",
-        "gektar": "82077"
+        "gektar": "82077",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "13"
     },
     {
         "Hududlarnomi": "Khorezm",
-        "gektar": "93627"
+        "gektar": "93627",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "14"
     },
     {
         "Hududlarnomi": "Tashkent  city",
-        "gektar": "-"
+        "gektar": "-",
+        "path_id": "6114bb32db32b99538e08ba7",
+        "ID": "15"
     }
 ]

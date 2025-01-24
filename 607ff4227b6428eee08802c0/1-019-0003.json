@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107f5ee2a2e256d868e8792"
-    },
-    {
         "Vazirlik nomi": "Ministry of Agriculture of the Republic of Uzbekistan",
         "Vazirning familiyasi, ismi va sharifi": "Abduraxmonov Ibroxim Yulchiyevch",
         "Manzili": "ashkent region, Kibray district, University street, 2",
@@ -11,6 +8,8 @@
         "Ishonchraqami": "71 206-70-11",
         "Elektronpochtamanzili": "www.agro.uz",
         "latitude": "41.361868",
-        "longitude": "69.3407936"
+        "longitude": "69.3407936",
+        "path_id": "6107f5ee2a2e256d868e8792",
+        "ID": "1"
     }
 ]

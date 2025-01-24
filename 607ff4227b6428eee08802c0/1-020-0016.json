@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "610930ba1a64fdd0373a8df7"
-    },
-    {
         "ID": "1",
         "HududlrnmiRegions": " Republic of Karakalpakstan",
         "2020yilningsugrishdvriglindignchklngnsuvmiqdrimlnm320203Totalwaterthatisusedduringwateringseasonin2020mlnM3": "5016.7",
@@ -13,7 +10,8 @@
         "ShujumldnIncludingSntgIndustry": "3.2",
         "ShujumldnIncludingmmunlojligigUtilities": "73",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "75",
-        "ShujumldnIncludingBshqshlrgTootherareas": "3.2"
+        "ShujumldnIncludingBshqshlrgTootherareas": "3.2",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "2",
@@ -26,7 +24,8 @@
         "ShujumldnIncludingSntgIndustry": "2.1",
         "ShujumldnIncludingmmunlojligigUtilities": "65",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "54",
-        "ShujumldnIncludingBshqshlrgTootherareas": "105.9"
+        "ShujumldnIncludingBshqshlrgTootherareas": "105.9",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "3",
@@ -39,7 +38,8 @@
         "ShujumldnIncludingSntgIndustry": "-",
         "ShujumldnIncludingmmunlojligigUtilities": "74",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "9",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "4",
@@ -52,7 +52,8 @@
         "ShujumldnIncludingSntgIndustry": "4",
         "ShujumldnIncludingmmunlojligigUtilities": "90",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "-",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "5",
@@ -65,7 +66,8 @@
         "ShujumldnIncludingSntgIndustry": "49",
         "ShujumldnIncludingmmunlojligigUtilities": "138",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "14",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "6",
@@ -78,7 +80,8 @@
         "ShujumldnIncludingSntgIndustry": "61.2",
         "ShujumldnIncludingmmunlojligigUtilities": "-",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "28",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "7",
@@ -91,7 +94,8 @@
         "ShujumldnIncludingSntgIndustry": "30",
         "ShujumldnIncludingmmunlojligigUtilities": "64",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "20",
-        "ShujumldnIncludingBshqshlrgTootherareas": "32"
+        "ShujumldnIncludingBshqshlrgTootherareas": "32",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "8",
@@ -104,7 +108,8 @@
         "ShujumldnIncludingSntgIndustry": "46",
         "ShujumldnIncludingmmunlojligigUtilities": "41",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "13",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "9",
@@ -117,7 +122,8 @@
         "ShujumldnIncludingSntgIndustry": "-",
         "ShujumldnIncludingmmunlojligigUtilities": "8",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "58",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "10",
@@ -130,7 +136,8 @@
         "ShujumldnIncludingSntgIndustry": "50",
         "ShujumldnIncludingmmunlojligigUtilities": "17",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "18",
-        "ShujumldnIncludingBshqshlrgTootherareas": "19"
+        "ShujumldnIncludingBshqshlrgTootherareas": "19",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "11",
@@ -143,7 +150,8 @@
         "ShujumldnIncludingSntgIndustry": "200",
         "ShujumldnIncludingmmunlojligigUtilities": "492",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "190",
-        "ShujumldnIncludingBshqshlrgTootherareas": "29.3"
+        "ShujumldnIncludingBshqshlrgTootherareas": "29.3",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "12",
@@ -156,7 +164,8 @@
         "ShujumldnIncludingSntgIndustry": "15.8",
         "ShujumldnIncludingmmunlojligigUtilities": "126.5",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "130.4",
-        "ShujumldnIncludingBshqshlrgTootherareas": "55.5"
+        "ShujumldnIncludingBshqshlrgTootherareas": "55.5",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "13",
@@ -169,7 +178,8 @@
         "ShujumldnIncludingSntgIndustry": "-",
         "ShujumldnIncludingmmunlojligigUtilities": "50",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "40",
-        "ShujumldnIncludingBshqshlrgTootherareas": "-"
+        "ShujumldnIncludingBshqshlrgTootherareas": "-",
+        "path_id": "610930ba1a64fdd0373a8df7"
     },
     {
         "ID": "14",
@@ -182,6 +192,7 @@
         "ShujumldnIncludingSntgIndustry": "461.3",
         "ShujumldnIncludingmmunlojligigUtilities": "1238.5",
         "ShujumldnIncludingBliqchilikojligigTothefishery": "649.4",
-        "ShujumldnIncludingBshqshlrgTootherareas": "244.9"
+        "ShujumldnIncludingBshqshlrgTootherareas": "244.9",
+        "path_id": "610930ba1a64fdd0373a8df7"
     }
 ]

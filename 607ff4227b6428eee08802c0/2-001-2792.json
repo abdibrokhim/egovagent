@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371e22b206a79bd4ad0bedb"
-    },
-    {
         "Hudud": " Bukhara",
         "JMIZVURTRMQLRIKM": "8927.4",
         "BYUDJTHISBIDGITUMNLRRZVURLR": "724.6",
@@ -10,6 +7,8 @@
         "BYUDJTHISBIDGIYOPIQQUVURLR": "17.1",
         "BUDJTHISBIDGIYOPIQYOTIQDRNJLR": "151.5",
         "XOJLIKLRHISBIDGIICHKIZVURLR": "4507.5",
-        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "1000"
+        "XOJLIKLRHISBIDGIYOPIQYOTIQDRNJLR": "1000",
+        "path_id": "6371e22b206a79bd4ad0bedb",
+        "ID": "1"
     }
 ]

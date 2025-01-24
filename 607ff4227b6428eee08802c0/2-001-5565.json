@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "63847b2aee4af88f66e5822a"
-    },
-    {
         "Hudud": " Khorezm",
         "Olchovbirligi": "Billion soums",
         "2022yanvardekabr": "24610.4",
-        "2023yanvarmart": "3344.9"
+        "2023yanvarmart": "3344.9",
+        "path_id": "63847b2aee4af88f66e5822a",
+        "ID": "1"
     }
 ]

@@ -1,65 +1,92 @@
 [
     {
-        "path_id": "6113b25bdb32b99538e0890f"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
-        "tonna": "2281118"
+        "tonna": "2281118",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "1"
     },
     {
         "Hududningnomi": "Republic of Karakalpakstan",
-        "tonna": "164808"
+        "tonna": "164808",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "2"
     },
     {
         "Hududningnomi": "region",
-        "tonna": " -"
+        "tonna": " -",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Andijan",
-        "tonna": "178710"
+        "tonna": "178710",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Bukhara",
-        "tonna": "181254"
+        "tonna": "181254",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Jizzakh",
-        "tonna": "269513"
+        "tonna": "269513",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Kashkadarya",
-        "tonna": "177112"
+        "tonna": "177112",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Navoi",
-        "tonna": "98661"
+        "tonna": "98661",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Namangan",
-        "tonna": "123803"
+        "tonna": "123803",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Samarkand",
-        "tonna": "150801"
+        "tonna": "150801",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Surkhandarya",
-        "tonna": "320308"
+        "tonna": "320308",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Syrdarya",
-        "tonna": "260799"
+        "tonna": "260799",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Tashkent",
-        "tonna": "54781"
+        "tonna": "54781",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Ferghana",
-        "tonna": "142618"
+        "tonna": "142618",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Khorezm",
-        "tonna": "157950"
+        "tonna": "157950",
+        "path_id": "6113b25bdb32b99538e0890f",
+        "ID": "15"
     }
 ]

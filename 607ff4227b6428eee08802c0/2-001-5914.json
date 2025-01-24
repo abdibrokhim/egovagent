@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "63859ef0ee4af88f66e59098"
-    },
-    {
         "Hudud": "Khorezm",
         "Olchovbirligi": "hectare",
         "2018Y": "3.985",
         "2019Y": "3.707",
-        "2020Y": "3.555"
+        "2020Y": "3.555",
+        "path_id": "63859ef0ee4af88f66e59098",
+        "ID": "1"
     }
 ]

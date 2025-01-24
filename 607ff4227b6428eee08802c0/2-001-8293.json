@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859632ee4af88f66e58ccd"
-    },
-    {
         "Hudud": " Navoi",
         "JMIKNLLRUZUNLIGIKM": "713",
         "SHUJUMLADNTUPRQOZNLI": "344",
@@ -16,6 +13,8 @@
         "SHUJUMLADNKVDUK": "45",
         "SHUJUMLADNKOPRIK": "65",
         "SHUJUMLADNBSHQLR": "223",
-        "GIDRPST": "515"
+        "GIDRPST": "515",
+        "path_id": "63859632ee4af88f66e58ccd",
+        "ID": "1"
     }
 ]

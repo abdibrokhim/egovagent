@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "638597dbee4af88f66e58cdb"
-    },
-    {
         "Hudud": "Republic\r\nof Karakalpakstan",
         "UMUMIYREJAGA": "20224",
         "MCHILTIBSUGRISHG": "17649",
@@ -15,6 +12,8 @@
         "SHUNDANSABZAVOTGA": "100",
         "SHUNDANOZUQABOPEKINLARGA": "125",
         "DISKRETSUGORISHGA": "1000",
-        "SHUNDANPAXTAGAa": "1000"
+        "SHUNDANPAXTAGAa": "1000",
+        "path_id": "638597dbee4af88f66e58cdb",
+        "ID": "1"
     }
 ]

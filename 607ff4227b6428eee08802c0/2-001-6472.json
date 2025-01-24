@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "6386e73bee4af88f66e5ae5b"
-    },
-    {
         "Hudud": " Bukhara",
         "Olchovbirligi": "Ton",
         "2018Y": "148.3",
         "2019Y": "171.6",
-        "2020Y": "175.927"
+        "2020Y": "175.927",
+        "path_id": "6386e73bee4af88f66e5ae5b",
+        "ID": "1"
     }
 ]

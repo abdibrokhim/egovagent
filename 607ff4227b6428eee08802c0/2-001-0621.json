@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6113ac6fdb32b99538e088bb"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
         "1991Yil": "0",
         "1992Yil": "0",
@@ -33,7 +30,9 @@
         "2017Yil": "0",
         "2018Yil": "0",
         "2019Yil": "819.9",
-        "2020Yil": "800.4"
+        "2020Yil": "800.4",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "1"
     },
     {
         "Hududningnomi": " Republic of Karakalpakstan",
@@ -66,7 +65,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "230.6",
-        "2020Yil": "225.3"
+        "2020Yil": "225.3",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
@@ -99,7 +100,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "189.8",
-        "2020Yil": "175"
+        "2020Yil": "175",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
@@ -132,7 +135,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "1.1",
-        "2020Yil": "1.3"
+        "2020Yil": "1.3",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
@@ -165,7 +170,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "16.7",
-        "2020Yil": "19.4"
+        "2020Yil": "19.4",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
@@ -198,7 +205,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "27.1",
-        "2020Yil": "28"
+        "2020Yil": "28",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
@@ -231,7 +240,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "4.5",
-        "2020Yil": "4"
+        "2020Yil": "4",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
@@ -264,7 +275,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "20.9",
-        "2020Yil": "20.3"
+        "2020Yil": "20.3",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
@@ -297,7 +310,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "23.8",
-        "2020Yil": "25"
+        "2020Yil": "25",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
@@ -330,7 +345,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "9.3",
-        "2020Yil": "9.8"
+        "2020Yil": "9.8",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
@@ -363,7 +380,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "17.1",
-        "2020Yil": "17.6"
+        "2020Yil": "17.6",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -396,7 +415,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "69.2",
-        "2020Yil": "69.8"
+        "2020Yil": "69.8",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
@@ -429,7 +450,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "174.7",
-        "2020Yil": "170.3"
+        "2020Yil": "170.3",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
@@ -462,7 +485,9 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "35.1",
-        "2020Yil": "34.6"
+        "2020Yil": "34.6",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent city",
@@ -495,6 +520,8 @@
         "2017Yil": "-",
         "2018Yil": "-",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113ac6fdb32b99538e088bb",
+        "ID": "15"
     }
 ]

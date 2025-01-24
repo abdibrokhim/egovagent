@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6114c430db32b99538e08c98"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
         "Olchovbirligi": "in %",
         "2024yanvar": "111.3611",
@@ -15,7 +12,9 @@
         "2024yanvaravgust": "112.7251",
         "2024yanvarsentabr": "113.4317",
         "2024yanvaroktabr": "112.9",
-        "2024yanvarnoyabr": "112.4"
+        "2024yanvarnoyabr": "112.4",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "1"
     },
     {
         "Hududningnomi": "Republic of Karakalpakstan",
@@ -30,7 +29,9 @@
         "2024yanvaravgust": "112.1868",
         "2024yanvarsentabr": "113.3039",
         "2024yanvaroktabr": "112.2",
-        "2024yanvarnoyabr": "112.2"
+        "2024yanvarnoyabr": "112.2",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
@@ -45,7 +46,9 @@
         "2024yanvaravgust": "108.0574",
         "2024yanvarsentabr": "108.958",
         "2024yanvaroktabr": "109.2",
-        "2024yanvarnoyabr": "109.2"
+        "2024yanvarnoyabr": "109.2",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
@@ -60,7 +63,9 @@
         "2024yanvaravgust": "104.9646",
         "2024yanvarsentabr": "105.9281",
         "2024yanvaroktabr": "106.2",
-        "2024yanvarnoyabr": "106.5"
+        "2024yanvarnoyabr": "106.5",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
@@ -75,7 +80,9 @@
         "2024yanvaravgust": "122.3893",
         "2024yanvarsentabr": "120.8891",
         "2024yanvaroktabr": "119.2",
-        "2024yanvarnoyabr": "117.8"
+        "2024yanvarnoyabr": "117.8",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
@@ -90,7 +97,9 @@
         "2024yanvaravgust": "111.8792",
         "2024yanvarsentabr": "112.0832",
         "2024yanvaroktabr": "112.5",
-        "2024yanvarnoyabr": "112.7"
+        "2024yanvarnoyabr": "112.7",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
@@ -105,7 +114,9 @@
         "2024yanvaravgust": "130.3006",
         "2024yanvarsentabr": "127.5462",
         "2024yanvaroktabr": "127.7",
-        "2024yanvarnoyabr": "128.9"
+        "2024yanvarnoyabr": "128.9",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
@@ -120,7 +131,9 @@
         "2024yanvaravgust": "109.0038",
         "2024yanvarsentabr": "108.7819",
         "2024yanvaroktabr": "109.1",
-        "2024yanvarnoyabr": "109.1"
+        "2024yanvarnoyabr": "109.1",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
@@ -135,7 +148,9 @@
         "2024yanvaravgust": "115.3498",
         "2024yanvarsentabr": "115.2141",
         "2024yanvaroktabr": "115.5",
-        "2024yanvarnoyabr": "115.3"
+        "2024yanvarnoyabr": "115.3",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
@@ -150,7 +165,9 @@
         "2024yanvaravgust": "108.6566",
         "2024yanvarsentabr": "109.9237",
         "2024yanvaroktabr": "110.4",
-        "2024yanvarnoyabr": "110.1"
+        "2024yanvarnoyabr": "110.1",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
@@ -165,7 +182,9 @@
         "2024yanvaravgust": "108.0302",
         "2024yanvarsentabr": "109.8017",
         "2024yanvaroktabr": "109.6",
-        "2024yanvarnoyabr": "108.9"
+        "2024yanvarnoyabr": "108.9",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -180,7 +199,9 @@
         "2024yanvaravgust": "110.6957",
         "2024yanvarsentabr": "112.2811",
         "2024yanvaroktabr": "112.2",
-        "2024yanvarnoyabr": "110.9"
+        "2024yanvarnoyabr": "110.9",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Fergana",
@@ -195,7 +216,9 @@
         "2024yanvaravgust": "114.7477",
         "2024yanvarsentabr": "113.9982",
         "2024yanvaroktabr": "114.6",
-        "2024yanvarnoyabr": "114.5"
+        "2024yanvarnoyabr": "114.5",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
@@ -210,7 +233,9 @@
         "2024yanvaravgust": "110.5325",
         "2024yanvarsentabr": "111.82",
         "2024yanvaroktabr": "112",
-        "2024yanvarnoyabr": "111.8"
+        "2024yanvarnoyabr": "111.8",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -225,6 +250,8 @@
         "2024yanvaravgust": "113.1105",
         "2024yanvarsentabr": "113.9189",
         "2024yanvaroktabr": "113.1",
-        "2024yanvarnoyabr": "112.3"
+        "2024yanvarnoyabr": "112.3",
+        "path_id": "6114c430db32b99538e08c98",
+        "ID": "15"
     }
 ]

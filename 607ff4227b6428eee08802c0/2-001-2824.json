@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "63721e05206a79bd4ad0d101"
-    },
-    {
         "Hudud": " Bukhara",
         "Olchovbirligi": "Thousand heads",
-        "2020Y": "2239.8"
+        "2020Y": "2239.8",
+        "path_id": "63721e05206a79bd4ad0d101",
+        "ID": "1"
     }
 ]

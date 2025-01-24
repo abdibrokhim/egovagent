@@ -1,65 +1,92 @@
 [
     {
-        "path_id": "6113aba2db32b99538e088af"
-    },
-    {
         "Hududningnomi": " Republic of Uzbekistan *",
-        "bosh": "253625"
+        "bosh": "253625",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "1"
     },
     {
         "Hududningnomi": "Republic of Karakalpakstan",
-        "bosh": "25918"
+        "bosh": "25918",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
-        "bosh": "6782"
+        "bosh": "6782",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
-        "bosh": "6045"
+        "bosh": "6045",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
-        "bosh": "27898"
+        "bosh": "27898",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
-        "bosh": "33274"
+        "bosh": "33274",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
-        "bosh": "19843"
+        "bosh": "19843",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
-        "bosh": "6572"
+        "bosh": "6572",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
-        "bosh": "27273"
+        "bosh": "27273",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
-        "bosh": "14753"
+        "bosh": "14753",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
-        "bosh": "14484"
+        "bosh": "14484",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
-        "bosh": "55330"
+        "bosh": "55330",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
-        "bosh": "9549"
+        "bosh": "9549",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
-        "bosh": "5676"
+        "bosh": "5676",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent city",
-        "bosh": "228"
+        "bosh": "228",
+        "path_id": "6113aba2db32b99538e088af",
+        "ID": "15"
     }
 ]

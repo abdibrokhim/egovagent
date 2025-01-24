@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "6371d897206a79bd4ad0be2d"
-    },
-    {
         "Hudud": "Khorezm region",
         "Olchovbirligi": "million cubic meteres",
         "Limit011011102022": "65",
-        "Amalda011011102022": "53"
+        "Amalda011011102022": "53",
+        "path_id": "6371d897206a79bd4ad0be2d",
+        "ID": "1"
     }
 ]

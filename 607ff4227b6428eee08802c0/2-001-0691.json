@@ -1,95 +1,122 @@
 [
     {
-        "path_id": "6113b969db32b99538e08972"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
         "2018Yil": "37.53",
         "2019Yil": "34.204",
-        "2020Yil": "23.905"
+        "2020Yil": "23.905",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "1"
     },
     {
         "Hududningnomi": " Republic of Karakalpakstan",
         "2018Yil": "0.167",
         "2019Yil": "0.15",
-        "2020Yil": "0.112"
+        "2020Yil": "0.112",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
         "2018Yil": "1.908",
         "2019Yil": "2.192",
-        "2020Yil": "0.94"
+        "2020Yil": "0.94",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
         "2018Yil": "0.22",
         "2019Yil": "1.429",
-        "2020Yil": "1.503"
+        "2020Yil": "1.503",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
         "2018Yil": "5.192",
         "2019Yil": "5.649",
-        "2020Yil": "5.93"
+        "2020Yil": "5.93",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
         "2018Yil": "6.845",
         "2019Yil": "7.487",
-        "2020Yil": "6.164"
+        "2020Yil": "6.164",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
         "2018Yil": "1.092",
         "2019Yil": "0.813",
-        "2020Yil": "0.649"
+        "2020Yil": "0.649",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
         "2018Yil": "3.195",
         "2019Yil": "4.281",
-        "2020Yil": "0.485"
+        "2020Yil": "0.485",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
         "2018Yil": "5.042",
         "2019Yil": "6.507",
-        "2020Yil": "5.133"
+        "2020Yil": "5.133",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
         "2018Yil": "8.216",
         "2019Yil": "1.193",
-        "2020Yil": "0.914"
+        "2020Yil": "0.914",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
         "2018Yil": "0.831",
         "2019Yil": "0.462",
-        "2020Yil": "0.26"
+        "2020Yil": "0.26",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
         "2018Yil": "4.688",
         "2019Yil": "3.455",
-        "2020Yil": "1.73"
+        "2020Yil": "1.73",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
         "2018Yil": "0.124",
         "2019Yil": "0.579",
-        "2020Yil": "0.073"
+        "2020Yil": "0.073",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
         "2018Yil": "0.01",
         "2019Yil": "0.007",
-        "2020Yil": "0.012"
+        "2020Yil": "0.012",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent city",
         "2018Yil": "0",
         "2019Yil": "0",
-        "2020Yil": "0"
+        "2020Yil": "0",
+        "path_id": "6113b969db32b99538e08972",
+        "ID": "15"
     }
 ]

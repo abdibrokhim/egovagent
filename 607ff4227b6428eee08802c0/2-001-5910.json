@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "63859ea6ee4af88f66e5908a"
-    },
-    {
         "Hudud": " Bukhara",
         "2020YILNINGSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "2693.9",
         "SUGRISHG": "2610.9",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSNTG": "-",
         "SHUJUMLDNKMMUNLOJLIGIG": "74",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "9",
-        "SHUJUMLDNBSHQSHLRG": "-"
+        "SHUJUMLDNBSHQSHLRG": "-",
+        "path_id": "63859ea6ee4af88f66e5908a",
+        "ID": "1"
     }
 ]

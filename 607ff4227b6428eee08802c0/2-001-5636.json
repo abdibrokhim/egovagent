@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "63849dcfee4af88f66e58344"
-    },
-    {
         "Hudud": "Bukhara",
         "Olchovbirligi": "hectare",
-        "2020Y": "8557"
+        "2020Y": "8557",
+        "path_id": "63849dcfee4af88f66e58344",
+        "ID": "1"
     }
 ]

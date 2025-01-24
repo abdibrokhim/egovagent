@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371df9a206a79bd4ad0be8e"
-    },
-    {
         "Hudud": " Navoi",
         "UMUMIYREJAGA": "19503",
         "MCHILTIBSUGRISHG": "17163",
@@ -15,6 +12,8 @@
         "SHUNDANSABZAVOTGA": "200",
         "SHUNDANOZUQABOPEKINLARGA": "190",
         "DISKRETSUGORISHGA": "500",
-        "SHUNDANPAXTAGAa": "500"
+        "SHUNDANPAXTAGAa": "500",
+        "path_id": "6371df9a206a79bd4ad0be8e",
+        "ID": "1"
     }
 ]

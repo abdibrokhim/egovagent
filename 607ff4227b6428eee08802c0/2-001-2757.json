@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6371d7f3206a79bd4ad0be29"
-    },
-    {
         "Nomi": "Navoi",
         "Olchovbirligi": "Units",
         "haydovtraktorlarsoni": "337",
@@ -17,6 +14,8 @@
         "Kultivatorlar": "565",
         "Donekishseyalkasi": "37",
         "Chigitekishseyalkasi": "254",
-        "Yertekislagich": "71"
+        "Yertekislagich": "71",
+        "path_id": "6371d7f3206a79bd4ad0be29",
+        "ID": "1"
     }
 ]

@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "63858ee9ee4af88f66e58be5"
-    },
-    {
         "Hudud": "Republic of  Karakalpakstan",
         "JAMISUGORILADIGANMAYDONLAR": "508.6",
         "SHORLANMAGANMAYDON": "125.5",
         "JAMISHORLANGANMAYDON": "383.1",
         "KAMSHORLANGAN": "152.2",
         "ORTASHORLANGAN": "189.6",
-        "KUCHLISHORLANGAN": "41.3"
+        "KUCHLISHORLANGAN": "41.3",
+        "path_id": "63858ee9ee4af88f66e58be5",
+        "ID": "1"
     }
 ]

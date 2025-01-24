@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "638591baee4af88f66e58c30"
-    },
-    {
         "Hudud": "Republic\r\nof Karakalpakstan",
         "2022YILNINGNOSUGRISHDVRIGLINDIGNCHKLNGNSUVMIQDRIMLNM3": "4035.9",
         "SHUJUMLDNSUGRISHG": "3856.7",
@@ -12,6 +9,8 @@
         "SHUJUMLDNSANOATGA": "4.2",
         "SHUJUMLDNKMMUNLOJLIGIG": "73",
         "SHUJUMLDNBLIQCHILIKOJLIGIG": "80",
-        "SHUJUMLDNBSHQSHLRG": "6.3"
+        "SHUJUMLDNBSHQSHLRG": "6.3",
+        "path_id": "638591baee4af88f66e58c30",
+        "ID": "1"
     }
 ]

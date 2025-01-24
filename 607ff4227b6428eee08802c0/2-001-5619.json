@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "63848e09ee4af88f66e582ec"
-    },
-    {
         "Hudud": "Navoi",
         "Olchovbirligi": "hectare",
-        "2020Y": "47"
+        "2020Y": "47",
+        "path_id": "63848e09ee4af88f66e582ec",
+        "ID": "1"
     }
 ]

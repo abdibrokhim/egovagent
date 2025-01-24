@@ -1,11 +1,10 @@
 [
     {
-        "path_id": "6371e021206a79bd4ad0bea3"
-    },
-    {
         "Hudud": " Khorezm",
         "NASOSSTNTSIYALARISNIDN": "286",
         "NASOSGRGTLARISNIDN": "534",
-        "BIRIKTIRILGNMYDNMINGG": "98.2"
+        "BIRIKTIRILGNMYDNMINGG": "98.2",
+        "path_id": "6371e021206a79bd4ad0bea3",
+        "ID": "1"
     }
 ]

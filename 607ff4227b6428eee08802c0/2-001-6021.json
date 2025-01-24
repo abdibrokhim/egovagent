@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385ac0dee4af88f66e59209"
-    },
-    {
         "Hudud": "Bukhara",
         "Olchovbirligi": "Ton",
-        "2020Y": "97"
+        "2020Y": "97",
+        "path_id": "6385ac0dee4af88f66e59209",
+        "ID": "1"
     }
 ]

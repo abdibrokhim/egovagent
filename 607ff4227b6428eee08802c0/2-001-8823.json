@@ -1,10 +1,9 @@
 [
     {
-        "path_id": "6385f752ee4af88f66e598ff"
-    },
-    {
         "Hudud": " Navoi",
         "Olchovbirligi": "in live weight, tons",
-        "2020Y": "165086"
+        "2020Y": "165086",
+        "path_id": "6385f752ee4af88f66e598ff",
+        "ID": "1"
     }
 ]

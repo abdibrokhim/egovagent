@@ -1,12 +1,11 @@
 [
     {
-        "path_id": "6385fc4dee4af88f66e5ad08"
-    },
-    {
         "Hudud": " Navoi",
         "Olchovbirligi": "Ton",
         "2018Y": "0.531",
         "2019Y": "0.837",
-        "2020Y": "0.844"
+        "2020Y": "0.844",
+        "path_id": "6385fc4dee4af88f66e5ad08",
+        "ID": "1"
     }
 ]

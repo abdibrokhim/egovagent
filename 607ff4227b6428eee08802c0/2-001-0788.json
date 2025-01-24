@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6114bffedb32b99538e08c2d"
-    },
-    {
         "Hududningnomi": "Republic of Uzbekistan",
         "1998Yil": "24051",
         "1999Yil": "25569",
@@ -28,7 +25,9 @@
         "2019Yil": "8811",
         "2020Yil": "7085",
         "2021Yil": "7063",
-        "2022yil1yanvarholatiga": "6866"
+        "2022yil1yanvarholatiga": "6866",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "1"
     },
     {
         "Hududningnomi": " Republic of Karakalpakstan",
@@ -56,7 +55,9 @@
         "2019Yil": "850",
         "2020Yil": "779",
         "2021Yil": "655",
-        "2022yil1yanvarholatiga": "800"
+        "2022yil1yanvarholatiga": "800",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "2"
     },
     {
         "Hududningnomi": "Andijan",
@@ -84,7 +85,9 @@
         "2019Yil": "487",
         "2020Yil": "477",
         "2021Yil": "534",
-        "2022yil1yanvarholatiga": "590"
+        "2022yil1yanvarholatiga": "590",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "3"
     },
     {
         "Hududningnomi": "Bukhara",
@@ -112,7 +115,9 @@
         "2019Yil": "424",
         "2020Yil": "460",
         "2021Yil": "470",
-        "2022yil1yanvarholatiga": "459"
+        "2022yil1yanvarholatiga": "459",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "4"
     },
     {
         "Hududningnomi": "Jizzakh",
@@ -140,7 +145,9 @@
         "2019Yil": "698",
         "2020Yil": "442",
         "2021Yil": "364",
-        "2022yil1yanvarholatiga": "379"
+        "2022yil1yanvarholatiga": "379",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "5"
     },
     {
         "Hududningnomi": "Kashkadarya",
@@ -168,7 +175,9 @@
         "2019Yil": "923",
         "2020Yil": "683",
         "2021Yil": "679",
-        "2022yil1yanvarholatiga": "528"
+        "2022yil1yanvarholatiga": "528",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "6"
     },
     {
         "Hududningnomi": "Navoi",
@@ -196,7 +205,9 @@
         "2019Yil": "330",
         "2020Yil": "421",
         "2021Yil": "422",
-        "2022yil1yanvarholatiga": "486"
+        "2022yil1yanvarholatiga": "486",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "7"
     },
     {
         "Hududningnomi": "Namangan",
@@ -224,7 +235,9 @@
         "2019Yil": "281",
         "2020Yil": "281",
         "2021Yil": "224",
-        "2022yil1yanvarholatiga": "240"
+        "2022yil1yanvarholatiga": "240",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "8"
     },
     {
         "Hududningnomi": "Samarkand",
@@ -252,7 +265,9 @@
         "2019Yil": "1584",
         "2020Yil": "1166",
         "2021Yil": "1071",
-        "2022yil1yanvarholatiga": "975"
+        "2022yil1yanvarholatiga": "975",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "9"
     },
     {
         "Hududningnomi": "Surkhandarya",
@@ -280,7 +295,9 @@
         "2019Yil": "1089",
         "2020Yil": "731",
         "2021Yil": "930",
-        "2022yil1yanvarholatiga": "642"
+        "2022yil1yanvarholatiga": "642",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "10"
     },
     {
         "Hududningnomi": "Syrdarya",
@@ -308,7 +325,9 @@
         "2019Yil": "403",
         "2020Yil": "341",
         "2021Yil": "432",
-        "2022yil1yanvarholatiga": "252"
+        "2022yil1yanvarholatiga": "252",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "11"
     },
     {
         "Hududningnomi": "Tashkent",
@@ -336,7 +355,9 @@
         "2019Yil": "466",
         "2020Yil": "305",
         "2021Yil": "283",
-        "2022yil1yanvarholatiga": "321"
+        "2022yil1yanvarholatiga": "321",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "12"
     },
     {
         "Hududningnomi": "Ferghana",
@@ -364,7 +385,9 @@
         "2019Yil": "535",
         "2020Yil": "343",
         "2021Yil": "406",
-        "2022yil1yanvarholatiga": "548"
+        "2022yil1yanvarholatiga": "548",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "13"
     },
     {
         "Hududningnomi": "Khorezm",
@@ -392,7 +415,9 @@
         "2019Yil": "741",
         "2020Yil": "656",
         "2021Yil": "593",
-        "2022yil1yanvarholatiga": "646"
+        "2022yil1yanvarholatiga": "646",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "14"
     },
     {
         "Hududningnomi": "Tashkent city",
@@ -420,6 +445,8 @@
         "2019Yil": "0",
         "2020Yil": "0",
         "2021Yil": "0",
-        "2022yil1yanvarholatiga": "0"
+        "2022yil1yanvarholatiga": "0",
+        "path_id": "6114bffedb32b99538e08c2d",
+        "ID": "15"
     }
 ]
