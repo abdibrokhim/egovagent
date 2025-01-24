@@ -1,0 +1,92 @@
+[
+    {
+        "Hududlarnomi": "Republic of Uzbekistan",
+        "tsga": "234.4",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "1"
+    },
+    {
+        "Hududlarnomi": "Republic of Karakalpakstan",
+        "tsga": "148.6",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "2"
+    },
+    {
+        "Hududlarnomi": "Andijan",
+        "tsga": "291.2",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "3"
+    },
+    {
+        "Hududlarnomi": "Bukhara",
+        "tsga": "241.5",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "4"
+    },
+    {
+        "Hududlarnomi": "Jizzakh",
+        "tsga": "225.5",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "5"
+    },
+    {
+        "Hududlarnomi": "Kashkadarya",
+        "tsga": "251.8",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "6"
+    },
+    {
+        "Hududlarnomi": "Navoi",
+        "tsga": "250.1",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "7"
+    },
+    {
+        "Hududlarnomi": "Namangan",
+        "tsga": "254.6",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "8"
+    },
+    {
+        "Hududlarnomi": "Samarkand",
+        "tsga": "203.3",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "9"
+    },
+    {
+        "Hududlarnomi": "Surkhandarya",
+        "tsga": "270.5",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "10"
+    },
+    {
+        "Hududlarnomi": "Syrdarya",
+        "tsga": "198.4",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "11"
+    },
+    {
+        "Hududlarnomi": "Tashkent",
+        "tsga": "249.7",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "12"
+    },
+    {
+        "Hududlarnomi": "Ferghana",
+        "tsga": "213.6",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "13"
+    },
+    {
+        "Hududlarnomi": "Khorezm",
+        "tsga": "255.6",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "14"
+    },
+    {
+        "Hududlarnomi": "Tashkent  city",
+        "tsga": "38.8",
+        "path_id": "6114bd45db32b99538e08bc6",
+        "ID": "15"
+    }
+]

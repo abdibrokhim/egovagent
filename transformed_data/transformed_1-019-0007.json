@@ -1,0 +1,2879 @@
+[
+    {
+        "ID": "1",
+        "Osimliklarnomi": "Mevаli dаrаxtlаr nomi/ Название плодового дерева /The name of the fruit tree",
+        "Navlarnomi": "0",
+        "Davlatrestrigakirganyili": "0",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "2",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Аfrosiabi/Афросиаби/Аfrosiabi",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "3",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Bolajon/Болажон/Bolajon",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "4",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Boravinka Tashkentskaya/Боравинка Ташкентская/Boravinka Tashkentskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "5",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Vaynsep/Вайнсеп/Vaynsep",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "6",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Golden Graymz/Голден Граймз/Golden Graymz",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "7",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Golden Delishes/Голден Делишес/Golden Delishes",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "8",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Goʼzal/Гўзал /Guzal",
+        "Davlatrestrigakirganyili": "2008",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "9",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Delisiya/Делисия/Delisiya",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "10",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Delishes/Делишес/Delishes",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "11",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Djonatan/Джонатан/Djonatan",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "12",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Inored/Иноред/Inored",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "13",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Kamola/Камола/Kamola",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "14",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Kid Oranj Red/Кид Оранж Ред/Kid Oranj Red",
+        "Davlatrestrigakirganyili": "1996",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "15",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Korey/Корей/Korey",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "16",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Mantet/Мантет/Mantet",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "17",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Oydin/Ойдин /Oydin",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "18",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Parmen zimniy Zolotoy/Пармен зимний Золотой/Parmen zimniy Zolotoy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "19",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Pervenets Samarkanda/Первенец Самарканда/Pervenets Samarkanda",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "20",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Renet Simirenko/Ренет Симиренко/Renet Simirenko",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "21",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Rozmarin beliy/Розмарин белый/Rozmarin beliy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "22",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Rubinovoe Duki/Рубиновое Дуки/Rubinovoe Duki",
+        "Davlatrestrigakirganyili": "1995",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "23",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Saratoni/Саратони/Saratoni",
+        "Davlatrestrigakirganyili": "1974",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "24",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Skarlet (Steymored)/Скарлет (Стейморед)/Skarlet (Steymored)",
+        "Davlatrestrigakirganyili": "1995",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "25",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Starkrimson/Старкримсон/Starkrimson",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "26",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Soʼx malikasi/Сўх маликаси/Sux malikasi",
+        "Davlatrestrigakirganyili": "2021",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "27",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Farangiz/Фарангиз/Farangiz",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "28",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Feruza/Феруза/Feruza",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "29",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Xasildar/Хасылдар/Xasildar",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "30",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Xayat/Хаят/Xayat",
+        "Davlatrestrigakirganyili": "2017",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "31",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Cholpan/Чолпан/Cholpan",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "32",
+        "Osimliklarnomi": "Olma/Яблока/Apple",
+        "Navlarnomi": "Qizil taram olma/Қизил тарам олма/Qizil taram olma",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "33",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Vilyams/Вильямс/Vilyams",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "34",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Zimnyaya nashvatы 2/Зимняя нашваты 2/Zimnyaya nashvatы 2",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "35",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Kulyalya 2/Куляля 2/Kulyalya 2",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "36",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Levovasser/Левовассер/Levovasser",
+        "Davlatrestrigakirganyili": "1983",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "37",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Lesnaya krasavitsa/Лесная красавица/Lesnaya krasavitsa",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "38",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Lyubimitsa Klappa/Любимица Клаппа/Lyubimitsa Klappa",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "39",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Mramornaya Rossoshansk/Мраморная Россошанск/Mramornaya Rossoshansk",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "40",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Olivьe de Serr/Оливье де Серр/Olivьe de Serr",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "41",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Podarok/Подарок/Podarok",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "42",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Rano/Рано/Rano",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "43",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Royal zimnyaya/Рояль зимняя/Royal zimnyaya",
+        "Davlatrestrigakirganyili": "1981",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "44",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Salom 2/Салом 2/Salom 2",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "45",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Sari Guzal/Сары Гузаль/Sari Guzal",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "46",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Star Krimson/Стар Кримсон/Star Krimson",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "47",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Talgarskaya krasavitsa/Талгарская красавица/Talgarskaya krasavitsa",
+        "Davlatrestrigakirganyili": "2004",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "48",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Elsari/Эльсари/Elsari",
+        "Davlatrestrigakirganyili": "1988",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "49",
+        "Osimliklarnomi": "Nok/Груша/Pear",
+        "Navlarnomi": "Yubileynaya/Юбилейная/Yubileynaya",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "50",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Аromatnaya/Ароматная/Аromatnaya",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "51",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Izobilьnaya/Изобильная/Izobilьnaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "52",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Krimskaya aromatnaya/Крымская ароматная/Krimskaya aromatnaya",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "53",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Mushk bexi/Мушк бехи/Mushk bexi",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "54",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Olmabexi/Олмабехи/Olmabexi",
+        "Davlatrestrigakirganyili": "2021",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "55",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Otlichnitsa/Отличница/Otlichnitsa",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "56",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Samarkandskaya krupnoplodnaya/ Самаркандская крупноплодная/ Samarkandskaya krupnoplodnaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "57",
+        "Osimliklarnomi": "Bexi/Айва/Quince",
+        "Navlarnomi": "Sovxoznaya/Совхозная/Sovxoznaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "58",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Аfrodit/Афродит/Аfrodit",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "59",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Berton/Бертон/Berton",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "60",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Vashington/Вашингтон/Vashington",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "61",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Vengerka domashnyaya/Венгерка домашняя/Vengerka domashnyaya",
+        "Davlatrestrigakirganyili": "1975",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "62",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Vengerka fioletovaya/Венгерка фиолетовая/Vengerka fioletovaya",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "63",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Ispolinskaya/Исполинская/Ispolinskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "64",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Kirgizskaya prevosxodnaya/Киргизская превосходная/Kirgizskaya prevosxodnaya",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "65",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Fortyun/Фортюн/Fortyun",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "66",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Chernosliv camarkandskiy/Чернослив cамаркандский/Chernosliv camarkandskiy",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "67",
+        "Osimliklarnomi": "Olxo'ri/Слива/Plum",
+        "Navlarnomi": "Yarxi/Ярхи/Yarxi",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "68",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Kometa/Комета/Kometa",
+        "Davlatrestrigakirganyili": "1995",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "69",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Krasavitsa/Красавица/Krasavitsa",
+        "Davlatrestrigakirganyili": "1984",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "70",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Kurortnaya/Курортная/Kurortnaya",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "71",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Maysara/Майсара/Maysara",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "72",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Malinovaya/Малиновая/Malinovaya",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "73",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Muxtor/Мухтор/Muxtor",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "74",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Obilnaya/Обильная/Obilnaya",
+        "Davlatrestrigakirganyili": "1996",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "75",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Fioletovaya desertnaya/Фиолетовая  десертная/Fioletovaya desertnaya",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "76",
+        "Osimliklarnomi": "Tog' olcha/Алыча/Cherry plum",
+        "Navlarnomi": "Xosilot/Хосилот/Xosilot",
+        "Davlatrestrigakirganyili": "2003",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "77",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Griot ostgeymskiy/Гриот остгеймский/Griot ostgeymskiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "78",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Lyubskaya 15/Любская 15/Lyubskaya 15",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "79",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Podbelьskaya/Подбельская/Podbelьskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "80",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Samarkandskaya/Самаркандская/Samarkandskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "81",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Turgenevka/Тургеневка/Turgenevka",
+        "Davlatrestrigakirganyili": "1991",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "82",
+        "Osimliklarnomi": "Olcha/Вишня/Cherry",
+        "Navlarnomi": "Shpanka chernaya/Шпанка черная/Shpanka chernaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "83",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Big star/Биг стар/Big star",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "84",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Blek star/Блэк стар/Blek star",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "85",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Valeriy Chkalov/Валерий Чкалов/Valeriy Chkalov",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "86",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Vosxod/Восход /Vosxod",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "87",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Drogana jeltaya/Дрогана  желтая/Drogana jeltaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "88",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Klon Eltona/Клон Элтона /Klon Eltona",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "89",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Kara geles/Кара гелес/Kara geles",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "90",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Kolxoznaya/Колхозная /Kolxoznaya",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "91",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Kosmicheskaya/Космическая/Kosmicheskaya",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "92",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Revershon/Ревершон/Revershon",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "93",
+        "Osimliklarnomi": "Gilos/Черешня/Sweet cherry",
+        "Navlarnomi": "Samotsvet/Самоцвет/Samotsvet",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "94",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Gartvis/Гартвис/Gartvis",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "95",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Gvardeyskiy krasavets/ Гвардейский красавец/ Gvardeyskiy krasavets",
+        "Davlatrestrigakirganyili": "1984",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "96",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Gulnoz/Гульноз/Gulnoz",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "97",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Djerseyland/Джерсейланд/Djerseyland",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "98",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Djon Xeyl 28/Джон Хейл 28/Djon Xeyl 28",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "99",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Injirniy noviy/Инжирный новый/Injirniy noviy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "100",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Istiqbol/Истиқбол/Istiqbol",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "101",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Kardinal/Кардинал/Kardinal",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "102",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Lola/Лола/Lola",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "103",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Lyuchak ranniy/Лючак  ранний/Lyuchak ranniy",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "104",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Malinoviy/Малиновый/Malinoviy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "105",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Monalu/Моналу/Monalu",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "106",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Morettini jeltiy ranniy/Мореттини желтый  ранний/Morettini jeltiy ranniy",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "107",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Muyassar/Муяссар/Muyassar",
+        "Davlatrestrigakirganyili": "2013",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "108",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Nargiz/Наргиз/Nargiz",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "109",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Nektarin tashkentskiy/Нектарин ташкентский/Nektarin tashkentskiy",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "110",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Obilniy/Обильный/Obilniy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "111",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Podarok Uzbekistana/Подарок Узбекистана/Podarok Uzbekistana",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "112",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Rom star/Ром стар/Rom star",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "113",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Start/Старт/Start",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "114",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Uchkun/Учкун/Uchkun",
+        "Davlatrestrigakirganyili": "2002",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "115",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Farxad/Фархад/Farxad",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "116",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Xilola/Хилола/Xilola",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "117",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Chimgan/Чимган/Chimgan",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "118",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Sharq/Шарқ /Sharq",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "119",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Shirin magiz/Ширин магиз/Shirin magiz",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "120",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Elberta/Эльберта/Elberta",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "121",
+        "Osimliklarnomi": "Shaftoli/Персик/Peach",
+        "Navlarnomi": "Yutuq/Ютуқ/Yutuq",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "122",
+        "Osimliklarnomi": "Nektar Shaftoli /Персик Нектарин/Peach Nectarine",
+        "Navlarnomi": "Montalin/Монталин/Montalin",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "123",
+        "Osimliklarnomi": "Nektar Shaftoli /Персик Нектарин/Peach Nectarine",
+        "Navlarnomi": "Rozaliz/Розализ/Rozaliz",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "124",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Аk-isfarak 5/Ак-исфарак  5/Аk-isfarak 5",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "125",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Аrzami/Арзами/Аrzami",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "126",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Bobo Radjabi/Бобо Раджаби/Bobo Radjabi",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "127",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Vimpel/Вымпел/Vimpel",
+        "Davlatrestrigakirganyili": "1975",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "128",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Gulistan/Гулистан8/Gulistan",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "129",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Juber Fulon/Жубер Фулон/Juber Fulon",
+        "Davlatrestrigakirganyili": "1995",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "130",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Isfarak/Исфарак/Isfarak",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "131",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Komsomolets/Комсомолец/Komsomolets",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "132",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Kursadik/Курсадык/Kursadik",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "133",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Marokand/Мароканд/Marokand",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "134",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Navruz/Навруз/Navruz",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "135",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Robada/Робада/Robada",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "136",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Ruxi Djuvanon Miona/Рухи  Джуванон Миона/Ruxi Djuvanon Miona",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "137",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Sovetskiy/Советский/Sovetskiy",
+        "Davlatrestrigakirganyili": "1974",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "138",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Subxoni/Субхонi/Subxoni",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "139",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Xurmai/Хурмаи/Xurmai",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "140",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Chimyon Ergashkandak/Чимён Эргашкандак /Chimyon Ergashkandak",
+        "Davlatrestrigakirganyili": "2021",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "141",
+        "Osimliklarnomi": "O'rik/Абрикос/Apricot",
+        "Navlarnomi": "Yubileynыy Navoi/Юбилейный Навои/Yubileynыy Navoi",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "142",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Аleatiko/Алеатико/Аleatiko",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "143",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Аndijanskiy cherniy/Андижанский черный/Аndijanskiy cherniy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "144",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Bayan shirey/Баян ширей/Bayan shirey",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "145",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Gavhar/Гавҳар/Gavhar",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "146",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Guzal kara/Гузаль кара/Guzal kara",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "147",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Djandjal kara/Джанджал кара/Djandjal kara",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "148",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Istiqlol/Истиқлол/Istiqlol",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "149",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Katta Kurgan/Катта  Курган/Katta Kurgan",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "150",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish beliy ovalniy/Кишмиш белый овальный/Kishmish beliy ovalniy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "151",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Botir/Кишмиш Ботир/Kishmish Botir",
+        "Davlatrestrigakirganyili": "2008",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "152",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish VIRa/Кишмиш ВИРа/Kishmish VIRa",
+        "Davlatrestrigakirganyili": "1983",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "153",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Malika/Кишмиш Малика/Kishmish Malika",
+        "Davlatrestrigakirganyili": "2017",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "154",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Motrudi/Кишмиш Мотруди/Kishmish Motrudi",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "155",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish rozoviy/Кишмиш  розовый/Kishmish rozoviy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "156",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Samarqand/Кишмиш Самарқанд/Kishmish Samarqand",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "157",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Sogdiana/Кишмиш Согдиана/Kishmish Sogdiana",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "158",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish Xishrau/Кишмиш  Хишрау/Kishmish Xishrau",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "159",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kishmish chernыy/Кишмиш  черный/Kishmish chernыy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "160",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Kuldjinskiy/Кульджинский/Kuldjinskiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "161",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Magarachskiy/Магарачский/Magarachskiy",
+        "Davlatrestrigakirganyili": "1984",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "162",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Mayskiy cherniy/Майский черный/Mayskiy cherniy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "163",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Morastel/Морастель/Morastel",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "164",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat aleksandriyskiy/Мускат  александрийский/Muskat aleksandriyskiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "165",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat vengerskiy/Мускат венгерский/Muskat vengerskiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "166",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat Orzu/Мускат Орзу/Muskat Orzu",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "167",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat rozoviy/Мускат розовый/Muskat rozoviy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "168",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat uzbekistanskiy/Мускат узбекистанский/Muskat uzbekistanskiy",
+        "Davlatrestrigakirganyili": "1983",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "169",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Muskat Shavqi/Мускат Шавқи/Muskat Shavqi",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "170",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Nilufar/Нилуфар/Nilufar",
+        "Davlatrestrigakirganyili": "2013",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "171",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Nimrang/Нимранг/Nimrang",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "172",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Oktyabrskiy/Октябрьский/Oktyabrskiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "173",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Oltinday/Олтиндай/Oltinday",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "174",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Parkent/Паркент/Parkent",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "175",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Perlet/Перлет/Perlet",
+        "Davlatrestrigakirganyili": "1980",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "176",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Rangdor/Рангдор/Rangdor",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "177",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Ranniy Shredera/Ранний  Шредера/Ranniy Shredera",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "178",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Rizamat/Ризамат /Rizamat",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "179",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Risling/Рислинг/Risling",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "180",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Rkatsiteli/Ркацители/Rkatsiteli",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "181",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Saperavi/Саперави/Saperavi",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "182",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Soyaki/Сояки/Soyaki",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "183",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Sultani/Султани/Sultani",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "184",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Surxak kitabskiy/Сурхак китабский/Surxak kitabskiy",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "185",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Tayfi rozoviy/Тайфи розовый/Tayfi rozoviy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "186",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Tarnau/Тарнау/Tarnau",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "187",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Tashkentskiy/Ташкентский/Tashkentskiy",
+        "Davlatrestrigakirganyili": "1984",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "188",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Xindogni/Хиндогны/Xindogni",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "189",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Xurmani kizil/Хурманы кизыл/Xurmani kizil",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "190",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Xusayne beliy/Хусайне белый/Xusayne beliy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "191",
+        "Osimliklarnomi": "Uzum/Виноград/\r\nGrapes",
+        "Navlarnomi": "Xusayne muskatniy/Хусайне мускатный/Xusayne muskatniy",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "192",
+        "Osimliklarnomi": "Anor/Гранат/Pomegranate",
+        "Navlarnomi": "Аchiq-dona/Ачиқ-дона/Аchiq-dona",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "193",
+        "Osimliklarnomi": "Anor/Гранат/Pomegranate",
+        "Navlarnomi": "Desertniy/Десертный/Desertniy",
+        "Davlatrestrigakirganyili": "1986",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "194",
+        "Osimliklarnomi": "Anor/Гранат/Pomegranate",
+        "Navlarnomi": "Kazake-anar/Казаке-анар/Kazake-anar",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "195",
+        "Osimliklarnomi": "Anor/Гранат/Pomegranate",
+        "Navlarnomi": "Kzil uluchshenniy/Кзыл улучшенный/Kzil uluchshenniy",
+        "Davlatrestrigakirganyili": "1981",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "196",
+        "Osimliklarnomi": "Xurma/Хурма/Dates",
+        "Navlarnomi": "Vaxsh/Вахш/Vaxsh",
+        "Davlatrestrigakirganyili": "1991",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "197",
+        "Osimliklarnomi": "Xurma/Хурма/Dates",
+        "Navlarnomi": "Zendji-maru/Зенджи-мару/Zendji-maru",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "198",
+        "Osimliklarnomi": "Xurma/Хурма/Dates",
+        "Navlarnomi": "Tadjikskiy/Таджикский/Tadjikskiy",
+        "Davlatrestrigakirganyili": "1991",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "199",
+        "Osimliklarnomi": "Xurma/Хурма/Dates",
+        "Navlarnomi": "Tamopon bolshoy/Тамопон большой/Tamopon bolshoy",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "200",
+        "Osimliklarnomi": "Xurma/Хурма/Dates",
+        "Navlarnomi": "Xiakume/Хиакуме/Xiakume",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "201",
+        "Osimliklarnomi": "Chilon jiyda/Унаби/\r\nChilon jiyda",
+        "Navlarnomi": "Ta-yan-tszao/Та-ян-цзао/Ta-yan-tszao",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "202",
+        "Osimliklarnomi": "Chilon jiyda/Унаби/\r\nChilon jiyda",
+        "Navlarnomi": "U-sin-xun/У-син-хун/U-sin-xun",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "203",
+        "Osimliklarnomi": "Sharq jiydasi/Лох восточный/Eastern Jidas",
+        "Navlarnomi": "Samarqand-7/Самарқанд-7/Samarqand-7",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "204",
+        "Osimliklarnomi": "Sharq jiydasi/Лох восточный/Eastern Jidas",
+        "Navlarnomi": "Toshkent-16/Тошкент-16/Toshkent-16",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "205",
+        "Osimliklarnomi": "Sharq jiydasi/Лох восточный/Eastern Jidas",
+        "Navlarnomi": "Toshkent-22/Тошкент-22/Toshkent-22",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "206",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Bumajnockorlupiy/Бумажноcкорлупый/Bumajnockorlupiy",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "207",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Zarina/Зарина/Zarina",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "208",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Malika/Малика/Malika",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "209",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Pervenets/Первенец/Pervenets",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "210",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Turkmenskiy svetliy/Туркменский светлый/Turkmenskiy svetliy",
+        "Davlatrestrigakirganyili": "1974",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "211",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Ugamskiy/Угамский/Ugamskiy",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "212",
+        "Osimliklarnomi": "Bodom/Миндаль/Almond",
+        "Navlarnomi": "Yaltinskiy/Ялтинский/Yaltinskiy",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "213",
+        "Osimliklarnomi": "Funduk/Фундук/Funduk",
+        "Navlarnomi": "Daler/Далер/Daler",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "214",
+        "Osimliklarnomi": "Funduk/Фундук/Funduk",
+        "Navlarnomi": "Oʼzbekiston/Ўзбекистон/Uzbekiston",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "215",
+        "Osimliklarnomi": "Yong'oq/Грецкий орех/ Walnuts",
+        "Navlarnomi": "Bostandikskiy/Бостандыкский/Bostandikskiy",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "216",
+        "Osimliklarnomi": "Yong'oq/Грецкий орех/ Walnuts",
+        "Navlarnomi": "Ideal/Идеал/Ideal",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "217",
+        "Osimliklarnomi": "Yong'oq/Грецкий орех/ Walnuts",
+        "Navlarnomi": "Tonkoskorlupniy/Тонкоскорлупный/Tonkoskorlupniy",
+        "Davlatrestrigakirganyili": "1967",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "218",
+        "Osimliklarnomi": "Yong'oq/Грецкий орех/ Walnuts",
+        "Navlarnomi": "Yubileyniy/Юбилейный/Yubileyniy",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "219",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Bauntiful/Баунтифул/Bauntiful",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "220",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Zenga-Zengana/Зенга-Зенгана/Zenga-Zengana",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "221",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Kobra/Кобра/Kobra",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "222",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Kulver/Кульвер/Kulver",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "223",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Medvey/Медвей/Medvey",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "224",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Muto/Муто/Muto",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "225",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Redgountlet/Редгоунтлет/Redgountlet",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "226",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Tashkentskaya/Ташкентская/Tashkentskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "227",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Uzbekistanskaya/Узбекистанская/Uzbekistanskaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "228",
+        "Osimliklarnomi": "Er tut/Земляника/\r\nStrawberry\r\n",
+        "Navlarnomi": "Oʼzbekiston goʼzali/Ўзбекистон гўзали/Uzbekiston guzali",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "229",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Gulnoz/Гулноз/Gulnoz",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "230",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Doʼstlik/Дўстлик/Dustlik",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "231",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Iroda/Ирода/Iroda",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "232",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Oltinoy/Олтиной/Oltinoy",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "233",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Plotnomyasaya/Плотномясая/Plotnomyasaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "234",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Ruxshona/Рухшона/Ruxshona",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "235",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Siyuma/Сиюма/Siyuma",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "236",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Uzbekistanskaya krupnoplodnaya/Узбекистанская крупноплодная/Uzbekistanskaya krupnoplodnaya",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "237",
+        "Osimliklarnomi": "Oltinsimon qorag'at/   Cмородина  золотистая/ Golden currant",
+        "Navlarnomi": "Eliksir/Эликсир /Eliksir",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "238",
+        "Osimliklarnomi": "Anjir/Инжир/Fig",
+        "Navlarnomi": "Kadota/Кадота/Kadota",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "239",
+        "Osimliklarnomi": "Anjir/Инжир/Fig",
+        "Navlarnomi": "Krimskiy 29/Крымский 29/Krimskiy 29",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "240",
+        "Osimliklarnomi": "Anjir/Инжир/Fig",
+        "Navlarnomi": "Uzbekskiy jeltiy/Узбекский желтый/Uzbekskiy jeltiy",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "241",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Boravinka Tashkentskaya/Боравинка Ташкентская/Boravinka Tashkentskaya",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "242",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Brenburn Red/Бренбурн Ред/Brenburn Red",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "243",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Gala/Гала/Gala",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "244",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Gala muchala/Гала мучала/Gala muchala",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "245",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Gala must regal prints/Гала муст регал принц/Gala must regal prints",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "246",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Golden Delishes/Голден Делишес/Golden Delishes",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "247",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Delkorf Diana/Делкорф Диана/Delkorf Diana",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "248",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Djonared/Джонаред/Djonared",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "249",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Idared/Идаред/Idared",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "250",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "King Devid/Кинг Девид/King Devid",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "251",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Korey/Корей/Korey",
+        "Davlatrestrigakirganyili": "1988",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "252",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Naryadnoe Krimskoe/Нарядное Крымское/Naryadnoe Krimskoe",
+        "Davlatrestrigakirganyili": "1988",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "253",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Parmen zimniy Zolotoy/Пармен зимний Золотой/Parmen zimniy Zolotoy",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "254",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Pervenets Samarkanda/Первенец Самарканда/Pervenets Samarkanda",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "255",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Renet Simirenko/Ренет Симиренко/Renet Simirenko",
+        "Davlatrestrigakirganyili": "1979",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "256",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Royal red Delishes/Рояль ред Делишес/Royal red Delishes",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "257",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Rubinola/Рубинола/Rubinola",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "258",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Stark Erlist/Старк  Эрлист/Stark Erlist",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "259",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Starking/Старкинг/Starking",
+        "Davlatrestrigakirganyili": "1988",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "260",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Sirius/Сириус/Sirius",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "261",
+        "Osimliklarnomi": "M-IX pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на ЕМ-IХ/                     Apple clonal rootstocks on EM-IX",
+        "Navlarnomi": "Chempion/Чемпион/Chempion",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "262",
+        "Osimliklarnomi": "MM 104 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 104/                     Apple clonal rootstocks on MM 104",
+        "Navlarnomi": "Gold Spur/Голд Спур/Gold Spur",
+        "Davlatrestrigakirganyili": "1995",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "263",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "Gold Spur/Голд  Спур/Gold Spur",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "264",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "Djonared/Джонаред/Djonared",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "265",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "King Devid/Кинг Девид/King Devid",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "266",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "Nafis/Нафис/Nafis",
+        "Davlatrestrigakirganyili": "1996",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "267",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "Royal red Delishes/Рояль ред Делишес/Royal red Delishes",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "268",
+        "Osimliklarnomi": "MM 106 pаst pаyvаntdаgi Olmа/ Клоновые подвои яблони на MM 106/                     Apple clonal rootstocks on MM 106",
+        "Navlarnomi": "Stark Erlist/Старк Эрлист/Stark Erlist",
+        "Davlatrestrigakirganyili": "1985",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "269",
+        "Osimliklarnomi": "Nok bilаn chаtishtirilgаn bexi “А”/ Груша смешанная с грушами \"A\"                                              /Pear mixed with pear \"A\"",
+        "Navlarnomi": "Vostok 2/Восток 2/Vostok 2",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "270",
+        "Osimliklarnomi": "Nok bilаn chаtishtirilgаn bexi “А”/ Груша смешанная с грушами \"A\"                                              /Pear mixed with pear \"A\"",
+        "Navlarnomi": "Olive de Serr/Оливье де Серр/Olive de Serr",
+        "Davlatrestrigakirganyili": "1992",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "271",
+        "Osimliklarnomi": "Limon/Лимон/Lemon",
+        "Navlarnomi": "Meyer/Мейер/Meyer",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "272",
+        "Osimliklarnomi": "Limon/Лимон/Lemon",
+        "Navlarnomi": "Tashkentskiy/Ташкентский/Tashkentskiy",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "273",
+        "Osimliklarnomi": "Limon/Лимон/Lemon",
+        "Navlarnomi": "Yubileyniy/Юбилейный/Yubileyniy",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "274",
+        "Osimliklarnomi": "Limon/Лимон/Lemon",
+        "Navlarnomi": "Oʼzbekiston toʼngʼichi/Ўзбекистон тўнғичи/Uzbekiston tungichi",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "275",
+        "Osimliklarnomi": "Mandarin/Мандарин/Mandarin",
+        "Navlarnomi": "Klimentin/Климентин/Klimentin",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "276",
+        "Osimliklarnomi": "Apelsin/Апелсин/Orange",
+        "Navlarnomi": "Gamlin/Гамлин/Gamlin",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "277",
+        "Osimliklarnomi": "Apelsin/Апелсин/Orange",
+        "Navlarnomi": "Korolyok grushovidniy/Королёк грушовидний/Korolyok grushovidniy",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "278",
+        "Osimliklarnomi": "Poliz ekinlari/Бахчевые культуры/Melons and gourds",
+        "Navlarnomi": "0",
+        "Davlatrestrigakirganyili": "0",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "279",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Batler F1/Батлер F1/Batler F1",
+        "Davlatrestrigakirganyili": "2021",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "280",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Baxodir/Баходир/Baxodir",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "281",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Ispanskaya 73/Испанская 73/Ispanskaya 73",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "282",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Kashgarskaya 1644/Кашгарская 1644/Kashgarskaya 1644",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "283",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Non kadi/Нон кади/Non kadi",
+        "Davlatrestrigakirganyili": "1993",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "284",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Palov kadu 268/Палов каду 268/Palov kadu 268",
+        "Davlatrestrigakirganyili": "1950",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "285",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Stofuntovaya/Стофунтовая/Stofuntovaya",
+        "Davlatrestrigakirganyili": "1974",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "286",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Ferro F1/Ферро F1/Ferro F1",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "287",
+        "Osimliklarnomi": "Qovoq/Тыква/Pumpkin",
+        "Navlarnomi": "Shirintoy/Ширинтой /Shirintoy",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "288",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Аmfion F1/Амфион F1/Аmfion F1",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "289",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Аrashan F1/Арашан F1/Аrashan F1",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "290",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Аu Prodyuser/Ау Продюсер/Аu Prodyuser",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "291",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Baraka F1/Барака F1/Baraka F1",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "292",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Bond F1/Бонд F1/Bond F1",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "293",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Bonta F1/Бонта F1/Bonta F1",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "294",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Varda F1/Варда F1/Varda F1",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "295",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Vasko F1/Васко F1/Vasko F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "296",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Viktoriya F1/Виктория  F1/Viktoriya F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "297",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Galaktika F1/Галактика  F1/Galaktika F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "298",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Guliston/Гулистон/Guliston",
+        "Davlatrestrigakirganyili": "1984",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "299",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Daytona F1/Дайтона F1/Daytona F1",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "300",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Dexqon/Дехқон/Dexqon",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "301",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Dilnoz/Дилноз/Dilnoz",
+        "Davlatrestrigakirganyili": "1994",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "302",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Dolbi F1/Долби  F1/Dolbi F1",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "303",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "ДП-148 F1/ДП-148 F1/ДП-148 F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "304",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Karistan F1/Каристан  F1/Karistan F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "305",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Katerin F1/Катерин  F1/Katerin F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "306",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Kolosseo F1/Колоссео F1/Kolosseo F1",
+        "Davlatrestrigakirganyili": "2017",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "307",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Korol Kubi 92/Король Кубы  92/Korol Kubi 92",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "308",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Krimstar F1/Кримстар F1/Krimstar F1",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "309",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Krimson Ribu F1/Кримсон Рибу F1/Krimson Ribu F1",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "310",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Krimson Svit/Кримсон  Свит/Krimson Svit",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "311",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Kuzibay 30/Кузыбай 30/Kuzibay 30",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "312",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Ledi F1/Леди  F1/Ledi F1",
+        "Davlatrestrigakirganyili": "2006",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "313",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Manzur/Манзур/Manzur",
+        "Davlatrestrigakirganyili": "2001",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "314",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Maristo F1/Маристо F1/Maristo F1",
+        "Davlatrestrigakirganyili": "2017",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "315",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Matiesa F1/Матиеса F1/Matiesa F1",
+        "Davlatrestrigakirganyili": "2008",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "316",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Montana F1/Монтана F1/Montana F1",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "317",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Mramornыy 2159/Мраморный 2159/Mramornыy 2159",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "318",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Medison F1/Мэдисон  F1/Medison F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "319",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Nelьson F1/Нельсон F1/Nelьson F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "320",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Olmos/Олмос/Olmos",
+        "Davlatrestrigakirganyili": "2000",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "321",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Orijn F1/Орижн F1/Orijn F1",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "322",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Paladin F1/Паладин F1/Paladin F1",
+        "Davlatrestrigakirganyili": "2005",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "323",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Prodyuser F1/Продюсер F1/Prodyuser F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "324",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Red Star F1/Ред Стар F1/Red Star F1",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "325",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Romanza F1/Романза  F1/Romanza F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "326",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Sorento F1/Соренто  F1/Sorento F1",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "327",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Super Krimson F1/Супер Кримсон F1/Super Krimson F1",
+        "Davlatrestrigakirganyili": "2013",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "328",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Surxon tongi/Сурхон тонги/Surxon tongi",
+        "Davlatrestrigakirganyili": "2001",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "329",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Talisman F1/Талисман F1/Talisman F1",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "330",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Tamtam F1/Тамтам F1/Tamtam F1",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "331",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Trofi F1/Трофи F1/Trofi F1",
+        "Davlatrestrigakirganyili": "2002",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "332",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Topgun F1/Топгун F1/Topgun F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "333",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Uzbekskiy 452/Узбекский 452/Uzbekskiy 452",
+        "Davlatrestrigakirganyili": "1951",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "334",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Urinboy/Уринбой/Urinboy",
+        "Davlatrestrigakirganyili": "1997",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "335",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Farao F1/Фарао F/Farao F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "336",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Fermer/Фермер/Fermer",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "337",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Xait kora/Хаит кора/Xait kora",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "338",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Chillaki F1/Чиллаки F/Chillaki F1",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "339",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Shark Nemati/Шарк Немати/Shark Nemati",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "340",
+        "Osimliklarnomi": "Tarvuz/Арбуз/Watermelon",
+        "Navlarnomi": "Shirin/Ширин/Shirin",
+        "Davlatrestrigakirganyili": "2017",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "341",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аk-urug 1137/Ак-уруг 1137/Аk-urug 1137",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "342",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аla-xamma mestnaya/Ала-хамма местная/Аla-xamma mestnaya",
+        "Davlatrestrigakirganyili": "1961",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "343",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аmal F1/Амал F/Аmal F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "344",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аykido F1/Айкидо  F/Аykido F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "345",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аmudaryo/Амударё/Аmudaryo",
+        "Davlatrestrigakirganyili": "2000",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "346",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аrabakeshka 1219/Арабакешка 1219/Аrabakeshka 1219",
+        "Davlatrestrigakirganyili": "1973",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "347",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Аssate 3806/Ассате 3806/Аssate 3806",
+        "Davlatrestrigakirganyili": "1946",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "348",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Bayti kurgan 424/Байти курган 424/Bayti kurgan 424",
+        "Davlatrestrigakirganyili": "1960",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "349",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Beshek mestnaya/Бешек местная/Beshek mestnaya",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "350",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Buri kalya mestnaya/Бури каля местная/Buri kalya mestnaya",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "351",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Buxarka 944/Бухарка  944/Buxarka 944",
+        "Davlatrestrigakirganyili": "1943",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "352",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Viza F1/Виза F/Viza F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "353",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Galiya Maks F1/Галия Макс F/Galiya Maks F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "354",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Goldi F1/Голди F/Goldi F1",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "355",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Gulyabi oranjevaya/Гуляби оранжевая/Gulyabi oranjevaya",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "356",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Gurbek mestniy/Гурбек местный/Gurbek mestniy",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "357",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Gurlan/Гурлан/Gurlan",
+        "Davlatrestrigakirganyili": "1998",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "358",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Gulobiy Xorazmiy/Гулобий Хоразмий/Gulobiy Xorazmiy",
+        "Davlatrestrigakirganyili": "2002",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "359",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Dagbedi mestnaya/Дагбеди местная/Dagbedi mestnaya",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "360",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Dakaro F1/Дакаро F/Dakaro F1",
+        "Davlatrestrigakirganyili": "2018",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "361",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Delano F1/Делано  F/Delano F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "362",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Dilxush/Дилхуш/Dilxush",
+        "Davlatrestrigakirganyili": "2014",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "363",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Diplomat F1/Дипломат F/Diplomat F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "364",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Zarchapan F1/Зарчапан F/Zarchapan F1",
+        "Davlatrestrigakirganyili": "1990",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "365",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Zar Gulobiy/Зар Гулобий /Zar Gulobiy",
+        "Davlatrestrigakirganyili": "2002",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "366",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Ich-kizil krupnoplodnaya/Ич-кизил крупноплодная/Ich-kizil krupnoplodnaya",
+        "Davlatrestrigakirganyili": "1972",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "367",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Karamelь F1/Карамель F/Karamelь F1",
+        "Davlatrestrigakirganyili": "2008",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "368",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kara kant mestnaya/Кара кант местная/Kara kant mestnaya",
+        "Davlatrestrigakirganyili": "1946",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "369",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kara-puchak 3744/Кара-пучак 3744/Kara-puchak 3744",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "370",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kok-kalya posh/Кок-каля пош/Kok-kalya posh",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "371",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kok tinni 1087/Кок тинни 1087/Kok tinni 1087",
+        "Davlatrestrigakirganyili": "1969",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "372",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kokcha 588/Кокча 588/Kokcha 588",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "373",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kichkintoy/Кичкинтой /Kichkintoy",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "374",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kuy-bash 476/Куй-баш 476/Kuy-bash 476",
+        "Davlatrestrigakirganyili": "1939",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "375",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Kurer F1/Курьер F/Kurer F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "376",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Koʼk magʼiz F1/Кўк мағиз F1/Kuk magiz F1",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "377",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Lazzatli/Лаззатли/Lazzatli",
+        "Davlatrestrigakirganyili": "1991",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "378",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Maxalliy sariq xandalak/Махаллий сариқ хандалак/Maxalliy sariq xandalak",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "379",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Novotkalla/Новоткалла/Novotkalla",
+        "Davlatrestrigakirganyili": "2020",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "380",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Oltin vodiy/Олтин водий/Oltin vodiy",
+        "Davlatrestrigakirganyili": "1997",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "381",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Оби новвот самаркандская местная",
+        "Davlatrestrigakirganyili": "1949",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "382",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Oltin tepa/Олтин тепа/Oltin tepa",
+        "Davlatrestrigakirganyili": "1989",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "383",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Reymiel F1/Реймиел F\\1/Reymiel F1",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "384",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Roxat/Рохат/Roxat",
+        "Davlatrestrigakirganyili": "1997",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "385",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Sayli/Сайли/Sayli",
+        "Davlatrestrigakirganyili": "1982",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "386",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Saxovat/Саховат /Saxovat",
+        "Davlatrestrigakirganyili": "2007",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "387",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Senseyshn F1/Сенсэйшн F1/Senseyshn F1",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "388",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Suyunchi 2/Суюнчи 2/Suyunchi 2",
+        "Davlatrestrigakirganyili": "2002",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "389",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Tarpedo F1/Тарпедо F1/Tarpedo F1",
+        "Davlatrestrigakirganyili": "2019",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "390",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Tashlaki 862/Ташлаки 862/Tashlaki 862",
+        "Davlatrestrigakirganyili": "1959",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "391",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Tempo F1/Темпо F1/Tempo F1",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "392",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Tuyona/Туёна/Tuyona",
+        "Davlatrestrigakirganyili": "1991",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "393",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Umirvaki 3748/Умирваки 3748/Umirvaki 3748",
+        "Davlatrestrigakirganyili": "1955",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "394",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Xandalak kokcha 14/Хандалак кокча 14/Xandalak kokcha 14",
+        "Davlatrestrigakirganyili": "1946",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "395",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Shakar palak 554/Шакар палак 554/Shakar palak 554",
+        "Davlatrestrigakirganyili": "1948",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "396",
+        "Osimliklarnomi": "Qovun/Дыня/Melon",
+        "Navlarnomi": "Yukar F1/Юкар F1/Yukar F1",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "397",
+        "Osimliklarnomi": "Patisson/Патиссон/Patisson",
+        "Navlarnomi": "Beliy-13/Белые-13/Beliy-13",
+        "Davlatrestrigakirganyili": "1988",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "398",
+        "Osimliklarnomi": "Patisson/Патиссон/Patisson",
+        "Navlarnomi": "Zar Kokil/Зар Кокил/Zar Kokil",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "399",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Аral F1/Арал   F1/Аral F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "400",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Аrdendo F1/Ардендо F1/Аrdendo F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "401",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Аsma F1/Асма F1/Аsma F1",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "402",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Grecheskie 110/Греческие 110/Grecheskie 110",
+        "Davlatrestrigakirganyili": "1950",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "403",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Kavili F1/Кавили   F1/Kavili F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "404",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Leyla F1/Лейла F1/Leyla F1",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "405",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Lektor F1/Лектор F1/Lektor F1",
+        "Davlatrestrigakirganyili": "2009",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "406",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Lira F1/Лира  F1/Lira F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "407",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Opal F1//Опал  F1/Opal F1",
+        "Davlatrestrigakirganyili": "2012",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "408",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Suxa F1/Суха  F1/Suxa F1",
+        "Davlatrestrigakirganyili": "2010",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "409",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Unumdor/Унумдор/Unumdor",
+        "Davlatrestrigakirganyili": "2015",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "410",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Ezra F1/Эзра  F1/Ezra F1",
+        "Davlatrestrigakirganyili": "2011",
+        "path_id": "610801f72a2e256d868e879a"
+    },
+    {
+        "ID": "411",
+        "Osimliklarnomi": "Qovoqcha/Кабачок/Zucchini",
+        "Navlarnomi": "Gʼayrat/Ғайрат/Gayrat",
+        "Davlatrestrigakirganyili": "2016",
+        "path_id": "610801f72a2e256d868e879a"
+    }
+]

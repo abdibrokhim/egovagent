@@ -1,0 +1,92 @@
+[
+    {
+        "Hududlarnomi": "Republic of Uzbekistan",
+        "tonna": "1438",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "1"
+    },
+    {
+        "Hududlarnomi": "Republic of Karakalpakstan",
+        "tonna": "25",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "2"
+    },
+    {
+        "Hududlarnomi": "Andijan",
+        "tonna": "68",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "3"
+    },
+    {
+        "Hududlarnomi": "Bukhara",
+        "tonna": "-",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "4"
+    },
+    {
+        "Hududlarnomi": "Jizzakh",
+        "tonna": "30",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "5"
+    },
+    {
+        "Hududlarnomi": "Kashkadarya",
+        "tonna": "110",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "6"
+    },
+    {
+        "Hududlarnomi": "Navoi",
+        "tonna": "2",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "7"
+    },
+    {
+        "Hududlarnomi": "Namangan",
+        "tonna": "229",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "8"
+    },
+    {
+        "Hududlarnomi": "Samarkand",
+        "tonna": "-",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "9"
+    },
+    {
+        "Hududlarnomi": "Surkhandarya",
+        "tonna": "197",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "10"
+    },
+    {
+        "Hududlarnomi": "Syrdarya",
+        "tonna": "38",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "11"
+    },
+    {
+        "Hududlarnomi": "Tashkent",
+        "tonna": "704",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "12"
+    },
+    {
+        "Hududlarnomi": "Ferghana",
+        "tonna": "35",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "13"
+    },
+    {
+        "Hududlarnomi": "Khorezm",
+        "tonna": "-",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "14"
+    },
+    {
+        "Hududlarnomi": "Tashkent  city",
+        "tonna": "-",
+        "path_id": "6114ba63db32b99538e08b9b",
+        "ID": "15"
+    }
+]

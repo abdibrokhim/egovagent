@@ -1,0 +1,92 @@
+[
+    {
+        "Hududlar": "Republic of Uzbekistan",
+        "dona": "1263403",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "dona": "86571",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "region",
+        "dona": " -",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Andijan",
+        "dona": "0",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Bukhara",
+        "dona": "547526",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Jizzakh",
+        "dona": "4449",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "dona": "256280",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Navoi",
+        "dona": "299289",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Namangan",
+        "dona": "0",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "dona": "43607",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Surkhandarya",
+        "dona": "13143",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "dona": "0",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Tashkent",
+        "dona": "0",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Ferghana",
+        "dona": "0",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "dona": "12538",
+        "path_id": "6113af59db32b99538e088e1",
+        "ID": "15"
+    }
+]

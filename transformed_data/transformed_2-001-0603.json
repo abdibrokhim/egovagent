@@ -1,0 +1,92 @@
+[
+    {
+        "Hududlar": "Republic of Uzbekistan",
+        "mingbosh": "13555.8",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "mingbosh": "1175.8",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "region",
+        "mingbosh": " -",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Andijan",
+        "mingbosh": "1103.4",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Bukhara",
+        "mingbosh": "1284.9",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Jizzakh",
+        "mingbosh": "918",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "mingbosh": "1674.4",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Navoi",
+        "mingbosh": "528.4",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Namangan",
+        "mingbosh": "739.9",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "mingbosh": "1659.9",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Surkhandarya",
+        "mingbosh": "1023.6",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "mingbosh": "480.4",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Tashkent",
+        "mingbosh": "964.2",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Ferghana",
+        "mingbosh": "1055.1",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "mingbosh": "947.8",
+        "path_id": "6113a912db32b99538e0888b",
+        "ID": "15"
+    }
+]

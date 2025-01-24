@@ -1,0 +1,92 @@
+[
+    {
+        "Hududningnomi": "Republic of Uzbekistan",
+        "tonna": "2852477",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "1"
+    },
+    {
+        "Hududningnomi": "Republic of Karakalpakstan",
+        "tonna": "61897",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "2"
+    },
+    {
+        "Hududningnomi": "region",
+        "tonna": " -",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "3"
+    },
+    {
+        "Hududningnomi": "Andijan",
+        "tonna": "657480",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "4"
+    },
+    {
+        "Hududningnomi": "Bukhara",
+        "tonna": "262078",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "5"
+    },
+    {
+        "Hududningnomi": "Jizzakh",
+        "tonna": "90330",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "6"
+    },
+    {
+        "Hududningnomi": "Kashkadarya",
+        "tonna": "172334",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "7"
+    },
+    {
+        "Hududningnomi": "Navoi",
+        "tonna": "105902",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "8"
+    },
+    {
+        "Hududningnomi": "Namangan",
+        "tonna": "296774",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "9"
+    },
+    {
+        "Hududningnomi": "Samarkand",
+        "tonna": "359093",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "10"
+    },
+    {
+        "Hududningnomi": "Surkhandarya",
+        "tonna": "172541",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "11"
+    },
+    {
+        "Hududningnomi": "Syrdarya",
+        "tonna": "42602",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "12"
+    },
+    {
+        "Hududningnomi": "Tashkent",
+        "tonna": "107465",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "13"
+    },
+    {
+        "Hududningnomi": "Ferghana",
+        "tonna": "369750",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "14"
+    },
+    {
+        "Hududningnomi": "Khorezm",
+        "tonna": "154231",
+        "path_id": "6113b2a6db32b99538e08929",
+        "ID": "15"
+    }
+]

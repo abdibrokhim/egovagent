@@ -1,0 +1,114 @@
+[
+    {
+        "ID": "1",
+        "HududlrnmiRegions": " Republic of Karakalpakstan",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "273",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "599",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "182.2",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "2",
+        "HududlrnmiRegions": "Andijan region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "148",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "516",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "80.4",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "3",
+        "HududlrnmiRegions": " Bukhara region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "47",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "318",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "509.9",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "4",
+        "HududlrnmiRegions": "Jizzakh region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "43",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "189",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "223.2",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "5",
+        "HududlrnmiRegions": "Kashkadarya region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "76",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "308",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "440.3",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "6",
+        "HududlrnmiRegions": "Navoi region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "41",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "182",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "112.8",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "7",
+        "HududlrnmiRegions": "Namangan region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "203",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "619",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "84.2",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "8",
+        "HududlrnmiRegions": " Samarkand region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "94",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "378",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "69",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "9",
+        "HududlrnmiRegions": "Syrdarya region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "45",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "114",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "63.1",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "10",
+        "HududlrnmiRegions": " Surkhandarya region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "113",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "553",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "428",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "11",
+        "HududlrnmiRegions": "Tashkent region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "149",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "376",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "44.4",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "12",
+        "HududlrnmiRegions": "Ferghana region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "170",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "545",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "128.2",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "13",
+        "HududlrnmiRegions": "Khorezm region",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "286",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "534",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "98.2",
+        "path_id": "61092f881a64fdd0373a8def"
+    },
+    {
+        "ID": "14",
+        "HududlrnmiRegions": "Total",
+        "NasosstntsiyalarisnidnQuantityofpumpingstations": "1688",
+        "NasosgrgtlarisnidnQuantityofpumpingunits": "5231",
+        "BiriktirilgnmydnminggAttachedareathousandHa": "2418.9",
+        "path_id": "61092f881a64fdd0373a8def"
+    }
+]
