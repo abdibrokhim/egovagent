@@ -1,0 +1,32 @@
+[
+    {
+        "Hudud": " Bukhara",
+        "Olchovbirligi": "people",
+        "2017Y": "134.6",
+        "2018Y": "136.4",
+        "2019Y": "132.5",
+        "2020Y": "125",
+        "path_id": "637dbfea4878653e5fe4235a",
+        "ID": "1"
+    },
+    {
+        "Hudud": "Women",
+        "Olchovbirligi": "people",
+        "2017Y": "45.6",
+        "2018Y": "47.1",
+        "2019Y": "47.4",
+        "2020Y": "41.4",
+        "path_id": "637dbfea4878653e5fe4235a",
+        "ID": "2"
+    },
+    {
+        "Hudud": "men",
+        "Olchovbirligi": "people",
+        "2017Y": "89",
+        "2018Y": "89.3",
+        "2019Y": "85.1",
+        "2020Y": "83.6",
+        "path_id": "637dbfea4878653e5fe4235a",
+        "ID": "3"
+    }
+]

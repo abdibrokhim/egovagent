@@ -1,0 +1,167 @@
+[
+    {
+        "Hududlar": "The Republic of Uzbekistan",
+        "20192020talabalarsoni": "424919",
+        "20192020kunduzgi": "344252",
+        "20192020sirtqi": "73492",
+        "20202021talabalarsoni": "550205",
+        "20202021kunduzgi": "420944",
+        "20202021sirtqi": "118013",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "20192020talabalarsoni": "24893",
+        "20192020kunduzgi": "21017",
+        "20192020sirtqi": "3777",
+        "20202021talabalarsoni": "34544",
+        "20202021kunduzgi": "26949",
+        "20202021sirtqi": "7249",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "Andijan",
+        "20192020talabalarsoni": "25217",
+        "20192020kunduzgi": "20113",
+        "20192020sirtqi": "5104",
+        "20202021talabalarsoni": "29855",
+        "20202021kunduzgi": "23558",
+        "20202021sirtqi": "6297",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Bukhara",
+        "20192020talabalarsoni": "24164",
+        "20192020kunduzgi": "20038",
+        "20192020sirtqi": "4126",
+        "20202021talabalarsoni": "34667",
+        "20202021kunduzgi": "27073",
+        "20202021sirtqi": "7053",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Jizzakh",
+        "20192020talabalarsoni": "17640",
+        "20192020kunduzgi": "13894",
+        "20192020sirtqi": "3746",
+        "20202021talabalarsoni": "22919",
+        "20202021kunduzgi": "16229",
+        "20202021sirtqi": "6639",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "20192020talabalarsoni": "22088",
+        "20192020kunduzgi": "16260",
+        "20192020sirtqi": "5828",
+        "20202021talabalarsoni": "27216",
+        "20202021kunduzgi": "18844",
+        "20202021sirtqi": "8372",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Navoi",
+        "20192020talabalarsoni": "13360",
+        "20192020kunduzgi": "10631",
+        "20192020sirtqi": "2729",
+        "20202021talabalarsoni": "16668",
+        "20202021kunduzgi": "11905",
+        "20202021sirtqi": "4464",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Namangan",
+        "20192020talabalarsoni": "19655",
+        "20192020kunduzgi": "15095",
+        "20192020sirtqi": "4151",
+        "20202021talabalarsoni": "25140",
+        "20202021kunduzgi": "17648",
+        "20202021sirtqi": "6587",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "20192020talabalarsoni": "39632",
+        "20192020kunduzgi": "32434",
+        "20192020sirtqi": "6606",
+        "20202021talabalarsoni": "52687",
+        "20202021kunduzgi": "41299",
+        "20202021sirtqi": "9656",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Surkhandarya",
+        "20192020talabalarsoni": "19847",
+        "20192020kunduzgi": "14639",
+        "20192020sirtqi": "5208",
+        "20202021talabalarsoni": "25155",
+        "20202021kunduzgi": "19459",
+        "20202021sirtqi": "5375",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "20192020talabalarsoni": "8937",
+        "20192020kunduzgi": "6230",
+        "20192020sirtqi": "2707",
+        "20202021talabalarsoni": "9403",
+        "20202021kunduzgi": "6645",
+        "20202021sirtqi": "2758",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Tashkent",
+        "20192020talabalarsoni": "20506",
+        "20192020kunduzgi": "13203",
+        "20192020sirtqi": "6754",
+        "20202021talabalarsoni": "27832",
+        "20202021kunduzgi": "16447",
+        "20202021sirtqi": "10346",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Fergana",
+        "20192020talabalarsoni": "35204",
+        "20192020kunduzgi": "26911",
+        "20192020sirtqi": "4791",
+        "20202021talabalarsoni": "47534",
+        "20202021kunduzgi": "35992",
+        "20202021sirtqi": "10948",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "20192020talabalarsoni": "15957",
+        "20192020kunduzgi": "12631",
+        "20192020sirtqi": "3326",
+        "20202021talabalarsoni": "22339",
+        "20202021kunduzgi": "17339",
+        "20202021sirtqi": "5000",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "20192020talabalarsoni": "137819",
+        "20192020kunduzgi": "121156",
+        "20192020sirtqi": "14639",
+        "20202021talabalarsoni": "174246",
+        "20202021kunduzgi": "141557",
+        "20202021sirtqi": "27269",
+        "path_id": "610cab351a64fdd0373a901a",
+        "ID": "15"
+    }
+]

@@ -109,11 +109,6 @@ Answer:
             logger.error(f"Error setting up pipeline: {str(e)}")
             raise
 
-#         "path_id": "6386e863ee4af88f66e5ae78"
-# mp = "data.egov.uz"
-#         var = "{mp}/eng/data{path_id}"
-# [2](var)
-
     @retry(
         stop=stop_after_attempt(3), wait=wait_exponential(multiplier=1, min=4, max=10)
     )

@@ -1,0 +1,35 @@
+[
+    {
+        "Hudud": "Bukhara region",
+        "Olchovbirligi": "Units",
+        "2018Y": "225",
+        "2019Y": "234",
+        "2020Y": "234",
+        "2021Y": "182",
+        "2022Y": "182",
+        "path_id": "637b185d4878653e5fe412ec",
+        "ID": "1"
+    },
+    {
+        "Hudud": "Bukhara region",
+        "Olchovbirligi": "Units",
+        "2018Y": "324",
+        "2019Y": "338",
+        "2020Y": "338",
+        "2021Y": "338",
+        "2022Y": "312",
+        "path_id": "637b185d4878653e5fe412ec",
+        "ID": "2"
+    },
+    {
+        "Hudud": "Bukhara region",
+        "Olchovbirligi": "Units",
+        "2018Y": "250",
+        "2019Y": "312",
+        "2020Y": "234",
+        "2021Y": "156",
+        "2022Y": "260",
+        "path_id": "637b185d4878653e5fe412ec",
+        "ID": "3"
+    }
+]

@@ -1,65 +1,77 @@
 [
     {
+        "ID": "1",
+        "FIO": "Fayziyev X.S. “Adliya faxriylari kengashi” NNT raisi, Kengash raisi",
         "path_id": "6107e0072a2e256d868e871a"
     },
     {
-        "ID": "1",
-        "FIO": "Fayziyev X.S. “Adliya faxriylari kengashi” NNT raisi, Kengash raisi"
-    },
-    {
         "ID": "2",
-        "FIO": "Xodjayeva S.A. “Demokratiya \tva \tinson \thuquqlari \tinstituti” direktori, Kengash raisi o‘rinbosari"
+        "FIO": "Xodjayeva S.A. “Demokratiya \tva \tinson \thuquqlari \tinstituti” direktori, Kengash raisi o‘rinbosari",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "3",
-        "FIO": "Choriyev Sh.B. “O‘zbekiston27” \tteleradiokanali \tdavlat muassasasi direktorining o‘rinbosari"
+        "FIO": "Choriyev Sh.B. “O‘zbekiston27” \tteleradiokanali \tdavlat muassasasi direktorining o‘rinbosari",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "4",
-        "FIO": "Usmanov D.A. “Oʻzbekiston “Mahalla” xayriya jamoat fondi respublika boshqaruvi raisi"
+        "FIO": "Usmanov D.A. “Oʻzbekiston “Mahalla” xayriya jamoat fondi respublika boshqaruvi raisi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "5",
-        "FIO": "Raximova N.X. “Ijtimoiy fikr” jamoatchilik fikrini o‘rganish markazi direktori"
+        "FIO": "Raximova N.X. “Ijtimoiy fikr” jamoatchilik fikrini o‘rganish markazi direktori",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "6",
-        "FIO": "Sadikov Sh.Sh. O‘zbekiston Respublikasi Advokatlar palatasi raisi"
+        "FIO": "Sadikov Sh.Sh. O‘zbekiston Respublikasi Advokatlar palatasi raisi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "7",
-        "FIO": "Ashurov D.R O‘zbekiston Respublikasi Notarial palatasi raisi"
+        "FIO": "Ashurov D.R O‘zbekiston Respublikasi Notarial palatasi raisi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "8",
-        "FIO": "Bekmurodov B.M “Yuksalish” umummilliy harakati raisi"
+        "FIO": "Bekmurodov B.M “Yuksalish” umummilliy harakati raisi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "9",
-        "FIO": "Toirov M. O‘zbekiston yozuvchilar uyushmasi Toshkent viloyati bo‘limi rahbari"
+        "FIO": "Toirov M. O‘zbekiston yozuvchilar uyushmasi Toshkent viloyati bo‘limi rahbari",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "10",
-        "FIO": "Babayev X. Yuridik fanlari doktori, professor, O‘zbekiston Respublikasi fan arbobi"
+        "FIO": "Babayev X. Yuridik fanlari doktori, professor, O‘zbekiston Respublikasi fan arbobi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "11",
-        "FIO": "Okyulov O. Yuridik fanlari doktori, professor"
+        "FIO": "Okyulov O. Yuridik fanlari doktori, professor",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "12",
-        "FIO": "Abdullayev I. O‘zbekiston\tRespublikasi\tadliya\torganlari faxriysi"
+        "FIO": "Abdullayev I. O‘zbekiston\tRespublikasi\tadliya\torganlari faxriysi",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "13",
-        "FIO": "Tursunov T.M. “Madad” NNT ijrochi direktori"
+        "FIO": "Tursunov T.M. “Madad” NNT ijrochi direktori",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "14",
-        "FIO": "Fayziyev U.B. “UMID F LEGAL” advokatlik firmasi advokati"
+        "FIO": "Fayziyev U.B. “UMID F LEGAL” advokatlik firmasi advokati",
+        "path_id": "6107e0072a2e256d868e871a"
     },
     {
         "ID": "15",
-        "FIO": "Mamajanov A.M. “BUSINESS LAWYERS GROUP” advokatlik firmasi advokati, Kengash kotibi"
+        "FIO": "Mamajanov A.M. “BUSINESS LAWYERS GROUP” advokatlik firmasi advokati, Kengash kotibi",
+        "path_id": "6107e0072a2e256d868e871a"
     }
 ]

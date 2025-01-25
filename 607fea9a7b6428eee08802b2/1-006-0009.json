@@ -1,0 +1,142 @@
+[
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "Jamioqituvchilarsoni": "38878",
+        "Shundanayollar": "28747",
+        "Oliymalumotli": "36397",
+        "Tugallanmaganoliymalumotli": "1499",
+        "Ortamaxsusmalumotli": "982",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Andijan",
+        "Jamioqituvchilarsoni": "43765",
+        "Shundanayollar": "33326",
+        "Oliymalumotli": "38345",
+        "Tugallanmaganoliymalumotli": "3715",
+        "Ortamaxsusmalumotli": "1705",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "Bukhoro",
+        "Jamioqituvchilarsoni": "30645",
+        "Shundanayollar": "23924",
+        "Oliymalumotli": "27814",
+        "Tugallanmaganoliymalumotli": "2030",
+        "Ortamaxsusmalumotli": "801",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Djizzak",
+        "Jamioqituvchilarsoni": "24083",
+        "Shundanayollar": "13573",
+        "Oliymalumotli": "21880",
+        "Tugallanmaganoliymalumotli": "1804",
+        "Ortamaxsusmalumotli": "399",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "Jamioqituvchilarsoni": "61380",
+        "Shundanayollar": "39588",
+        "Oliymalumotli": "48301",
+        "Tugallanmaganoliymalumotli": "8343",
+        "Ortamaxsusmalumotli": "4736",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Navoi",
+        "Jamioqituvchilarsoni": "21469",
+        "Shundanayollar": "16343",
+        "Oliymalumotli": "20179",
+        "Tugallanmaganoliymalumotli": "749",
+        "Ortamaxsusmalumotli": "541",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Namangan",
+        "Jamioqituvchilarsoni": "40287",
+        "Shundanayollar": "28882",
+        "Oliymalumotli": "37082",
+        "Tugallanmaganoliymalumotli": "1959",
+        "Ortamaxsusmalumotli": "1246",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "Jamioqituvchilarsoni": "61536",
+        "Shundanayollar": "38829",
+        "Oliymalumotli": "51574",
+        "Tugallanmaganoliymalumotli": "7195",
+        "Ortamaxsusmalumotli": "2767",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Surkhondarya",
+        "Jamioqituvchilarsoni": "49492",
+        "Shundanayollar": "25803",
+        "Oliymalumotli": "40302",
+        "Tugallanmaganoliymalumotli": "6900",
+        "Ortamaxsusmalumotli": "2290",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "Jamioqituvchilarsoni": "13419",
+        "Shundanayollar": "7910",
+        "Oliymalumotli": "12150",
+        "Tugallanmaganoliymalumotli": "1154",
+        "Ortamaxsusmalumotli": "115",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Tashkent region",
+        "Jamioqituvchilarsoni": "37491",
+        "Shundanayollar": "27966",
+        "Oliymalumotli": "32284",
+        "Tugallanmaganoliymalumotli": "3847",
+        "Ortamaxsusmalumotli": "1360",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Ferghana",
+        "Jamioqituvchilarsoni": "56311",
+        "Shundanayollar": "43318",
+        "Oliymalumotli": "50509",
+        "Tugallanmaganoliymalumotli": "4265",
+        "Ortamaxsusmalumotli": "1537",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "Jamioqituvchilarsoni": "33344",
+        "Shundanayollar": "25896",
+        "Oliymalumotli": "31257",
+        "Tugallanmaganoliymalumotli": "1094",
+        "Ortamaxsusmalumotli": "993",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "Jamioqituvchilarsoni": "25909",
+        "Shundanayollar": "22472",
+        "Oliymalumotli": "24656",
+        "Tugallanmaganoliymalumotli": "1088",
+        "Ortamaxsusmalumotli": "165",
+        "path_id": "61151682114fbfdc20c35af7",
+        "ID": "14"
+    }
+]

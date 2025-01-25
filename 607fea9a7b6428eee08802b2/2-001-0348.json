@@ -1,0 +1,156 @@
+[
+    {
+        "Hududningnomi": "The Republic of Uzbekistan",
+        "20192020Oquvchilarsoni": "40164",
+        "20192020Qabulqilinganlarsoni": "962",
+        "201920202019yildabitiruvchilarsoni": "137341",
+        "20202021Oquvchilarsoni": "13932",
+        "20202021Qabulqilinganlarsoni": "13932",
+        "202020212020yildabitiruvchilarsoni": "31022",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "1"
+    },
+    {
+        "Hududningnomi": "Republic of Karakalpakstan",
+        "20192020Oquvchilarsoni": "802",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "4694",
+        "20202021Oquvchilarsoni": "84",
+        "20202021Qabulqilinganlarsoni": "84",
+        "202020212020yildabitiruvchilarsoni": "780",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "2"
+    },
+    {
+        "Hududningnomi": "Andijan",
+        "20192020Oquvchilarsoni": "4476",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "11116",
+        "20202021Oquvchilarsoni": "1928",
+        "20202021Qabulqilinganlarsoni": "1928",
+        "202020212020yildabitiruvchilarsoni": "4194",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "3"
+    },
+    {
+        "Hududningnomi": "Bukhara",
+        "20192020Oquvchilarsoni": "3590",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "9932",
+        "20202021Oquvchilarsoni": "1677",
+        "20202021Qabulqilinganlarsoni": "1677",
+        "202020212020yildabitiruvchilarsoni": "3063",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "4"
+    },
+    {
+        "Hududningnomi": "Jizzakh",
+        "20192020Oquvchilarsoni": "1603",
+        "20192020Qabulqilinganlarsoni": "343",
+        "201920202019yildabitiruvchilarsoni": "5518",
+        "20202021Oquvchilarsoni": "659",
+        "20202021Qabulqilinganlarsoni": "659",
+        "202020212020yildabitiruvchilarsoni": "1603",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "5"
+    },
+    {
+        "Hududningnomi": "Kashkadarya",
+        "20192020Oquvchilarsoni": "5130",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "16880",
+        "20202021Oquvchilarsoni": "907",
+        "20202021Qabulqilinganlarsoni": "907",
+        "202020212020yildabitiruvchilarsoni": "1985",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "6"
+    },
+    {
+        "Hududningnomi": "Navoi",
+        "20192020Oquvchilarsoni": "341",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "3662",
+        "20202021Oquvchilarsoni": "460",
+        "20202021Qabulqilinganlarsoni": "460",
+        "202020212020yildabitiruvchilarsoni": "339",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "7"
+    },
+    {
+        "Hududningnomi": "Namangan",
+        "20192020Oquvchilarsoni": "2366",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "8118",
+        "20202021Oquvchilarsoni": "540",
+        "20202021Qabulqilinganlarsoni": "540",
+        "202020212020yildabitiruvchilarsoni": "2311",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "8"
+    },
+    {
+        "Hududningnomi": "Samarkand",
+        "20192020Oquvchilarsoni": "5233",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "20008",
+        "20202021Oquvchilarsoni": "781",
+        "20202021Qabulqilinganlarsoni": "781",
+        "202020212020yildabitiruvchilarsoni": "4566",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "9"
+    },
+    {
+        "Hududningnomi": "Surkhandarya",
+        "20192020Oquvchilarsoni": "3053",
+        "20192020Qabulqilinganlarsoni": "364",
+        "201920202019yildabitiruvchilarsoni": "12131",
+        "20202021Oquvchilarsoni": "1793",
+        "20202021Qabulqilinganlarsoni": "1793",
+        "202020212020yildabitiruvchilarsoni": "2699",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "10"
+    },
+    {
+        "Hududningnomi": "Syrdarya",
+        "20192020Oquvchilarsoni": "317",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "1919",
+        "20202021Oquvchilarsoni": "1306",
+        "20202021Qabulqilinganlarsoni": "1306",
+        "202020212020yildabitiruvchilarsoni": "40",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "11"
+    },
+    {
+        "Hududningnomi": "Tashkent",
+        "20192020Oquvchilarsoni": "6130",
+        "20192020Qabulqilinganlarsoni": "255",
+        "201920202019yildabitiruvchilarsoni": "14020",
+        "20202021Oquvchilarsoni": "3295",
+        "20202021Qabulqilinganlarsoni": "3295",
+        "202020212020yildabitiruvchilarsoni": "5942",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "12"
+    },
+    {
+        "Hududningnomi": "Fergana",
+        "20192020Oquvchilarsoni": "5334",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "18662",
+        "20202021Oquvchilarsoni": "502",
+        "20202021Qabulqilinganlarsoni": "502",
+        "202020212020yildabitiruvchilarsoni": "2932",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "13"
+    },
+    {
+        "Hududningnomi": "Khorezm",
+        "20192020Oquvchilarsoni": "1789",
+        "20192020Qabulqilinganlarsoni": "-",
+        "201920202019yildabitiruvchilarsoni": "10681",
+        "20202021Oquvchilarsoni": "-",
+        "20202021Qabulqilinganlarsoni": "-",
+        "202020212020yildabitiruvchilarsoni": "568",
+        "path_id": "610cacd21a64fdd0373a902a",
+        "ID": "14"
+    }
+]

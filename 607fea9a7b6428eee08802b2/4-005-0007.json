@@ -1,0 +1,2290 @@
+[
+    {
+        "CodeSpeciality": "01.01.01",
+        "NameSpeciality": "Mathematical analysis",
+        "SciencesAwarded": "Physical and mathematical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "1"
+    },
+    {
+        "CodeSpeciality": "01.01.02",
+        "NameSpeciality": "Differential equations and mathematical physics",
+        "SciencesAwarded": "Physical and mathematical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "2"
+    },
+    {
+        "CodeSpeciality": "01.01.03",
+        "NameSpeciality": "Computational and discrete mathematics",
+        "SciencesAwarded": "Physical and mathematical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "3"
+    },
+    {
+        "CodeSpeciality": "01.01.04",
+        "NameSpeciality": "Geometry and topology",
+        "SciencesAwarded": "Physical and mathematical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "4"
+    },
+    {
+        "CodeSpeciality": "01.01.05",
+        "NameSpeciality": "Probability theory and mathematical statistics",
+        "SciencesAwarded": "Physical and mathematical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "5"
+    },
+    {
+        "CodeSpeciality": "01.01.06",
+        "NameSpeciality": "Algebra ",
+        "SciencesAwarded": "Physical and mathematical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "6"
+    },
+    {
+        "CodeSpeciality": "01.02.01",
+        "NameSpeciality": "Theoretical mechanics",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "7"
+    },
+    {
+        "CodeSpeciality": "01.02.02",
+        "NameSpeciality": "Dynamics, stability of machines, instruments and apparatus",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences  ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "8"
+    },
+    {
+        "CodeSpeciality": "01.02.03",
+        "NameSpeciality": "Mechanics of soils and rocks",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "9"
+    },
+    {
+        "CodeSpeciality": "01.02.04",
+        "NameSpeciality": "Mechanics of deformable solids",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "10"
+    },
+    {
+        "CodeSpeciality": "01.02.05",
+        "NameSpeciality": "Mechanics of fluid and gas",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences  ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "11"
+    },
+    {
+        "CodeSpeciality": "01.03.01",
+        "NameSpeciality": "Astronomy",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "12"
+    },
+    {
+        "CodeSpeciality": "01.04.01",
+        "NameSpeciality": "Instruments and methods of experimental physics",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "13"
+    },
+    {
+        "CodeSpeciality": "01.04.02",
+        "NameSpeciality": "Theoretical physics",
+        "SciencesAwarded": "Physical and mathematical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "14"
+    },
+    {
+        "CodeSpeciality": "01.04.03",
+        "NameSpeciality": "Molecular and thermal physics ",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "15"
+    },
+    {
+        "CodeSpeciality": "01.04.04",
+        "NameSpeciality": "Physical electronics ",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "16"
+    },
+    {
+        "CodeSpeciality": "01.04.05",
+        "NameSpeciality": "Optics ",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "17"
+    },
+    {
+        "CodeSpeciality": "01.04.06",
+        "NameSpeciality": "Physics of polymers",
+        "SciencesAwarded": "Physical and mathematical sciences Chemical sciences  Technical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "18"
+    },
+    {
+        "CodeSpeciality": "01.04.07",
+        "NameSpeciality": "Physics of condensed matters ",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "19"
+    },
+    {
+        "CodeSpeciality": "01.04.08",
+        "NameSpeciality": "Atomic nucleus and elementary particle physics.  Acceleratory facilities",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences ",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "20"
+    },
+    {
+        "CodeSpeciality": "01.04.09",
+        "NameSpeciality": "Physics of magnetic phenomena",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "21"
+    },
+    {
+        "CodeSpeciality": "01.04.10",
+        "NameSpeciality": "Physics of  semiconductors ",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "22"
+    },
+    {
+        "CodeSpeciality": "01.04.11",
+        "NameSpeciality": "Laser physics",
+        "SciencesAwarded": "Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "01.00.00  – Physical and mathematical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "23"
+    },
+    {
+        "CodeSpeciality": "02.00.01",
+        "NameSpeciality": " Inorganic chemistry",
+        "SciencesAwarded": " Chemical sciences  Technical sciences ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "24"
+    },
+    {
+        "CodeSpeciality": "02.00.02",
+        "NameSpeciality": "Analytical chemistry",
+        "SciencesAwarded": "Chemical sciences  Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "25"
+    },
+    {
+        "CodeSpeciality": "02.00.03",
+        "NameSpeciality": "Organic chemistry",
+        "SciencesAwarded": "Chemical sciences  Technical sciences ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "26"
+    },
+    {
+        "CodeSpeciality": "02.00.04",
+        "NameSpeciality": "Physical chemistry",
+        "SciencesAwarded": "Chemical sciences  Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "27"
+    },
+    {
+        "CodeSpeciality": "02.00.05",
+        "NameSpeciality": "Chemistry and technology of cellulose and  cellulose-paper production",
+        "SciencesAwarded": "Chemical sciences  Technical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "28"
+    },
+    {
+        "CodeSpeciality": "02.00.06",
+        "NameSpeciality": "High-molecular compounds",
+        "SciencesAwarded": "Chemical sciences  Technical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "29"
+    },
+    {
+        "CodeSpeciality": "02.00.07",
+        "NameSpeciality": "Chemistry and technology of composite, varnish-paint and rubber materials",
+        "SciencesAwarded": "Chemical sciences  Technical sciences Physical and mathematical sciences ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "30"
+    },
+    {
+        "CodeSpeciality": "02.00.08",
+        "NameSpeciality": "Chemistry and technology of oil and gas",
+        "SciencesAwarded": "Chemical sciences  Technical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "31"
+    },
+    {
+        "CodeSpeciality": "02.00.09",
+        "NameSpeciality": "Chemistry of goods",
+        "SciencesAwarded": "Chemical sciences  Technical sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "32"
+    },
+    {
+        "CodeSpeciality": "02.00.10",
+        "NameSpeciality": "Bioorganic chemistry ",
+        "SciencesAwarded": "Chemical sciences  Biological sciences Technical sciences ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "33"
+    },
+    {
+        "CodeSpeciality": "02.00.11",
+        "NameSpeciality": "Colloid and membrane chemistry ",
+        "SciencesAwarded": "Chemical sciences  Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "34"
+    },
+    {
+        "CodeSpeciality": "02.00.12",
+        "NameSpeciality": "Nanochemistry, nanophysics and nanotechnology ",
+        "SciencesAwarded": "Chemical sciences  Physical and mathematical sciences Technical sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "35"
+    },
+    {
+        "CodeSpeciality": "02.00.13",
+        "NameSpeciality": "Technology of inorganic substance and materials on their  basis",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "36"
+    },
+    {
+        "CodeSpeciality": "02.00.14",
+        "NameSpeciality": "Technology of  organic substance and materials on their  basis",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "37"
+    },
+    {
+        "CodeSpeciality": "02.00.15",
+        "NameSpeciality": "Technology of silicate and refractory non-metal materials ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "38"
+    },
+    {
+        "CodeSpeciality": "02.00.16",
+        "NameSpeciality": "Processes and apparatus of chemical technologies and food productions ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "39"
+    },
+    {
+        "CodeSpeciality": "02.00.17",
+        "NameSpeciality": "Technology and biotechnology  of processing, storage and reprocessing of agricultural and  food products ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  Biological sciences ",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "40"
+    },
+    {
+        "CodeSpeciality": "02.00.18",
+        "NameSpeciality": "Technology of reprocessing and storage of fish products ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  Agricultural sciences",
+        "ScienceBranch": "02.00.00 – Chemical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "41"
+    },
+    {
+        "CodeSpeciality": "03.00.01",
+        "NameSpeciality": " Biochemistry ",
+        "SciencesAwarded": " Biological sciences Chemical sciences  Technical sciences Agricultural sciences  Medical sciences Veterinary sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "42"
+    },
+    {
+        "CodeSpeciality": "03.00.02",
+        "NameSpeciality": "Biophysics and radiobiology ",
+        "SciencesAwarded": "Biological sciences Physical and mathematical sciences Chemical sciences  Technical sciences Medical sciences",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "43"
+    },
+    {
+        "CodeSpeciality": "03.00.03",
+        "NameSpeciality": "Molecular biology. Molecular genetics. Molecular biotechnology",
+        "SciencesAwarded": "Biological sciences Chemical sciences  Agricultural sciences  Medical sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "44"
+    },
+    {
+        "CodeSpeciality": "03.00.04",
+        "NameSpeciality": "Microbiology and virology",
+        "SciencesAwarded": "Biological sciences Medical sciences",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "45"
+    },
+    {
+        "CodeSpeciality": "03.00.05",
+        "NameSpeciality": "Botany",
+        "SciencesAwarded": "Biological sciences Geographical sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "46"
+    },
+    {
+        "CodeSpeciality": "03.00.06",
+        "NameSpeciality": "Zoology ",
+        "SciencesAwarded": "Biological sciences Agricultural sciences  Geographical sciences  Medical sciences Veterinary sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "47"
+    },
+    {
+        "CodeSpeciality": "03.00.07",
+        "NameSpeciality": "Plant physiology and biochemistry",
+        "SciencesAwarded": "Biological sciences Agricultural sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "48"
+    },
+    {
+        "CodeSpeciality": "03.00.08",
+        "NameSpeciality": "Human and animal physiology ",
+        "SciencesAwarded": "Biological sciences Veterinary sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "49"
+    },
+    {
+        "CodeSpeciality": "03.00.09",
+        "NameSpeciality": "General genetics ",
+        "SciencesAwarded": "Biological sciences Agricultural sciences  Veterinary sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "50"
+    },
+    {
+        "CodeSpeciality": "03.00.10",
+        "NameSpeciality": "Ecology",
+        "SciencesAwarded": "Biological sciences Chemical sciences  Technical sciences Agricultural sciences  Geographical sciences  Medical sciences",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "51"
+    },
+    {
+        "CodeSpeciality": "03.00.11",
+        "NameSpeciality": "Histology, cytology and cell biology  ",
+        "SciencesAwarded": "Biological sciences Agricultural sciences  Medical sciences Veterinary sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "52"
+    },
+    {
+        "CodeSpeciality": "03.00.12",
+        "NameSpeciality": "Biotechnology ",
+        "SciencesAwarded": "Biological sciences Chemical sciences  Technical sciences Agricultural sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "53"
+    },
+    {
+        "CodeSpeciality": "03.00.13",
+        "NameSpeciality": "Soil science",
+        "SciencesAwarded": "Biological sciences Chemical sciences  Agricultural sciences  Geographical sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "54"
+    },
+    {
+        "CodeSpeciality": "03.00.14",
+        "NameSpeciality": "Genomics,  proteomics and bioinformation science",
+        "SciencesAwarded": "Biological sciences Agricultural sciences  Medical sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "55"
+    },
+    {
+        "CodeSpeciality": "03.00.15",
+        "NameSpeciality": "Ichthyology",
+        "SciencesAwarded": "Biological sciences",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "56"
+    },
+    {
+        "CodeSpeciality": "03.00.16",
+        "NameSpeciality": "Hydrobiology",
+        "SciencesAwarded": "Biological sciences ",
+        "ScienceBranch": "03.00.00 – Biological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "57"
+    },
+    {
+        "CodeSpeciality": " 04.00.01",
+        "NameSpeciality": " General and regional geology",
+        "SciencesAwarded": " Geological and mineralogical sciences",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "58"
+    },
+    {
+        "CodeSpeciality": "04.00.02",
+        "NameSpeciality": "Geology, prospecting and exploration of solid mineral deposits. Metallogeny and geochemistry",
+        "SciencesAwarded": "Geological and mineralogical sciences Chemical sciences  Technical sciences",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "59"
+    },
+    {
+        "CodeSpeciality": "04.00.03",
+        "NameSpeciality": "Geotectonics and geodynamics. Petrology and lithology",
+        "SciencesAwarded": "Geological and mineralogical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "60"
+    },
+    {
+        "CodeSpeciality": "04.00.04",
+        "NameSpeciality": "Hydrogeology and engineering geology",
+        "SciencesAwarded": "Geological and mineralogical sciences Technical sciences  Geographical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "61"
+    },
+    {
+        "CodeSpeciality": "04.00.05",
+        "NameSpeciality": "Paleontology and stratigraphy ",
+        "SciencesAwarded": "Geological and mineralogical sciences Biological sciences",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "62"
+    },
+    {
+        "CodeSpeciality": "04.00.06",
+        "NameSpeciality": "Geophysics. Geophysical methods of mineral prospecting ",
+        "SciencesAwarded": "Geological and mineralogical sciences Physical and mathematical sciences Technical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "63"
+    },
+    {
+        "CodeSpeciality": "04.00.07",
+        "NameSpeciality": "Geology, prospecting and exploration of oil and gas deposits ",
+        "SciencesAwarded": "Geological and mineralogical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "64"
+    },
+    {
+        "CodeSpeciality": "04.00.08",
+        "NameSpeciality": "Mineralogy. Crystallography",
+        "SciencesAwarded": "Geological and mineralogical sciences Chemical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "65"
+    },
+    {
+        "CodeSpeciality": "04.00.09",
+        "NameSpeciality": "Mine survey ",
+        "SciencesAwarded": "Technical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "66"
+    },
+    {
+        "CodeSpeciality": "04.00.10",
+        "NameSpeciality": "Geotechnology (opencast, under-ground and construction)",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "67"
+    },
+    {
+        "CodeSpeciality": "04.00.11",
+        "NameSpeciality": "Well drilling and development technology ",
+        "SciencesAwarded": "Technical sciences ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "68"
+    },
+    {
+        "CodeSpeciality": "04.00.12",
+        "NameSpeciality": "Construction and exploitation of oil and gas pipe-lines, bases and repositories ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "69"
+    },
+    {
+        "CodeSpeciality": "04.00.13",
+        "NameSpeciality": "Mining and exploita-tion of oil and gas deposits ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "70"
+    },
+    {
+        "CodeSpeciality": "04.00.14",
+        "NameSpeciality": "Concentration of mineral deposits ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "71"
+    },
+    {
+        "CodeSpeciality": "04.00.15",
+        "NameSpeciality": "Technology and engineering of geologic-prospecting works",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "04.00.00 – Geological and mineralogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "72"
+    },
+    {
+        "CodeSpeciality": "05.01.01",
+        "NameSpeciality": "Engineering geometry and computer graphics. Audio and video-technologies",
+        "SciencesAwarded": "Technical sciences  Pedagogical sciences ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "73"
+    },
+    {
+        "CodeSpeciality": "05.01.02",
+        "NameSpeciality": "Systemic analysis, management and information processing ",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "74"
+    },
+    {
+        "CodeSpeciality": "05.01.03",
+        "NameSpeciality": "Theoretical basis of computer science ",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "75"
+    },
+    {
+        "CodeSpeciality": "05.01.04",
+        "NameSpeciality": "Mathematical and software support of computers, complexes and computer networks",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "76"
+    },
+    {
+        "CodeSpeciality": "05.01.05",
+        "NameSpeciality": "Methods and systems of information protection. Information security",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "77"
+    },
+    {
+        "CodeSpeciality": "05.01.06",
+        "NameSpeciality": "Elements and devices of computing technics and control systems",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "78"
+    },
+    {
+        "CodeSpeciality": "05.01.07",
+        "NameSpeciality": "Mathematical simulation. Numerical methods and software ",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "79"
+    },
+    {
+        "CodeSpeciality": "05.01.08",
+        "NameSpeciality": "Automation and management of technological processes and production ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "80"
+    },
+    {
+        "CodeSpeciality": "05.01.09",
+        "NameSpeciality": "Documentation science. Archival science. Library science",
+        "SciencesAwarded": "Technical sciences  Historical sciences  Philological sciences Pedagogical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "81"
+    },
+    {
+        "CodeSpeciality": "05.01.10",
+        "NameSpeciality": "Information systems and processes",
+        "SciencesAwarded": "Technical sciences  Philological sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "82"
+    },
+    {
+        "CodeSpeciality": "05.02.01",
+        "NameSpeciality": "Material science in mechanical engineering. Foundry production. Thermal and pressure treatment of metals.  Metallurgy of ferrous, non-ferrous and rare metals ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "83"
+    },
+    {
+        "CodeSpeciality": "05.02.02",
+        "NameSpeciality": "Theory of mechanisms and machines. Theoretical engineering and machine elements",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "84"
+    },
+    {
+        "CodeSpeciality": "05.02.03",
+        "NameSpeciality": "Technological machines. Robots, mechatronics and robotics systems ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "85"
+    },
+    {
+        "CodeSpeciality": "05.02.04",
+        "NameSpeciality": "Standardization and management of quality of products ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "86"
+    },
+    {
+        "CodeSpeciality": "05.02.05",
+        "NameSpeciality": "Technologies and processes of mechanic and physical-technical processing. Machine-tools and instruments ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "87"
+    },
+    {
+        "CodeSpeciality": "05.02.06",
+        "NameSpeciality": "Technologies and equipments of constructional materials processing",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "88"
+    },
+    {
+        "CodeSpeciality": "05.02.07",
+        "NameSpeciality": "Machines, apparatus, systems and installation of mechanical engineering",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "89"
+    },
+    {
+        "CodeSpeciality": "05.02.08",
+        "NameSpeciality": "Overground and aircraft systems",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "90"
+    },
+    {
+        "CodeSpeciality": "05.03.01",
+        "NameSpeciality": "Instruments. Methods of measurement and control (by fields)",
+        "SciencesAwarded": "Technical sciences  Physical and mathematical sciences  Chemical sciences ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "91"
+    },
+    {
+        "CodeSpeciality": "05.03.02",
+        "NameSpeciality": "Metrology and metrological maintenance",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "92"
+    },
+    {
+        "CodeSpeciality": "05.04.01",
+        "NameSpeciality": "Telecommunication and computer systems,  networks and telecommunications devices. Information distribution ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "93"
+    },
+    {
+        "CodeSpeciality": "05.04.02",
+        "NameSpeciality": "Radio engineering, radionavigation, radiolocation and television systems and devices. Mobile, fibrous-optical com-munication systems ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "94"
+    },
+    {
+        "CodeSpeciality": "05.05.01",
+        "NameSpeciality": "Power systems and complexes",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "95"
+    },
+    {
+        "CodeSpeciality": "05.05.02",
+        "NameSpeciality": "Electrical engineering. Electric power plants, systems. Electro-technical complexes and installations ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "96"
+    },
+    {
+        "CodeSpeciality": "05.05.03",
+        "NameSpeciality": "Illumination engineering. Technology of special lighting ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "97"
+    },
+    {
+        "CodeSpeciality": "05.05.04",
+        "NameSpeciality": "Industrial thermal power engineering ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "98"
+    },
+    {
+        "CodeSpeciality": "05.05.05",
+        "NameSpeciality": "Theoretical basis of heat engineering ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "99"
+    },
+    {
+        "CodeSpeciality": "05.05.06",
+        "NameSpeciality": "Power-plants on the basis of renewable energy ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "100"
+    },
+    {
+        "CodeSpeciality": "05.05.07",
+        "NameSpeciality": "Electrotechnologies and electroequipment in agriculture ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "101"
+    },
+    {
+        "CodeSpeciality": "05.05.08",
+        "NameSpeciality": "Electronics ",
+        "SciencesAwarded": "Technical sciences  Physical and mathe-matical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "102"
+    },
+    {
+        "CodeSpeciality": "05.05.09",
+        "NameSpeciality": "Nuclear power systems and technologies",
+        "SciencesAwarded": "Technical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "103"
+    },
+    {
+        "CodeSpeciality": "05.05.10",
+        "NameSpeciality": "Nuclear reactor engineering, machines, units and technology of materials in nuclear industry",
+        "SciencesAwarded": "Technical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "104"
+    },
+    {
+        "CodeSpeciality": "05.06.01",
+        "NameSpeciality": "Materials science of textile and light industry production",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "105"
+    },
+    {
+        "CodeSpeciality": "05.06.02",
+        "NameSpeciality": "Technology of textile materials and initial treatment of raw materials ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "106"
+    },
+    {
+        "CodeSpeciality": "05.06.03",
+        "NameSpeciality": "Technology of leather, fur, foot-wear and leather haberdashery articles ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "107"
+    },
+    {
+        "CodeSpeciality": "05.06.04",
+        "NameSpeciality": "Technology of garments and design of suit ",
+        "SciencesAwarded": "Technical sciences  Art science  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "108"
+    },
+    {
+        "CodeSpeciality": "05.07.01",
+        "NameSpeciality": "Agricultural and melio-rative machinery. Mechanization of agricultural and reclamation works",
+        "SciencesAwarded": "Technical sciences  Agricultural sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "109"
+    },
+    {
+        "CodeSpeciality": "05.07.02",
+        "NameSpeciality": "Exploitation, recon-struction and repair of agricultural and reclamation machinery ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "110"
+    },
+    {
+        "CodeSpeciality": "05.08.01",
+        "NameSpeciality": "Transport systems of the country, its regions, cities and industrial centres. Transport logistics ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "111"
+    },
+    {
+        "CodeSpeciality": "05.08.02",
+        "NameSpeciality": "Railway track and track facilities ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "112"
+    },
+    {
+        "CodeSpeciality": "05.08.03",
+        "NameSpeciality": "Exploitation of railway transport ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "113"
+    },
+    {
+        "CodeSpeciality": "05.08.04",
+        "NameSpeciality": "Navigation and air traffic control ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "114"
+    },
+    {
+        "CodeSpeciality": "05.08.05",
+        "NameSpeciality": "Rolling-stock of railways, traction of trains and use of electric power",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "115"
+    },
+    {
+        "CodeSpeciality": "05.08.06",
+        "NameSpeciality": "Wheeled and cater-pillar machines and their exploitation",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "116"
+    },
+    {
+        "CodeSpeciality": "05.09.01",
+        "NameSpeciality": "Engineering construc-tions, buildings and structures ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "117"
+    },
+    {
+        "CodeSpeciality": "05.09.02",
+        "NameSpeciality": "Basements, foundations and underground structures. Bridges and transport tunnels. Roads, subways",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "118"
+    },
+    {
+        "CodeSpeciality": "05.09.03",
+        "NameSpeciality": "Heat-supply. Ventilation, condi-tioning.  Gas-supply and illumination",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "119"
+    },
+    {
+        "CodeSpeciality": "05.09.04",
+        "NameSpeciality": "Water-supply. Sewerage. Construction systems of water resources protection ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "120"
+    },
+    {
+        "CodeSpeciality": "05.09.05",
+        "NameSpeciality": "Building materials and articles ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "121"
+    },
+    {
+        "CodeSpeciality": "05.09.06",
+        "NameSpeciality": "Hydrotechnical and meliorative construction ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "122"
+    },
+    {
+        "CodeSpeciality": "05.09.07",
+        "NameSpeciality": "Hydraulics and engineering hydrology ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "123"
+    },
+    {
+        "CodeSpeciality": "05.09.08",
+        "NameSpeciality": "Construction technology and organization of construction processes ",
+        "SciencesAwarded": "Technical sciences  ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "124"
+    },
+    {
+        "CodeSpeciality": "05.10.01",
+        "NameSpeciality": "Labour protection and safety of human activity ",
+        "SciencesAwarded": "Technical sciences  Medical sciences",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "125"
+    },
+    {
+        "CodeSpeciality": "05.10.02",
+        "NameSpeciality": "Security in emergency situations. Fire, industrial, nuclear and radiation safety ",
+        "SciencesAwarded": "Technical sciences  Chemical sciences  Biological sciences Medical sciences Veterinary sciences ",
+        "ScienceBranch": "05.00.00 – Technical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "126"
+    },
+    {
+        "CodeSpeciality": "06.01.01",
+        "NameSpeciality": "General agriculture. Cotton-growing",
+        "SciencesAwarded": "Agricultural sciences  ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "127"
+    },
+    {
+        "CodeSpeciality": "06.01.02",
+        "NameSpeciality": "Melioration and irrigated agriculture",
+        "SciencesAwarded": "Agricultural sciences  Technical sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "128"
+    },
+    {
+        "CodeSpeciality": "06.01.03",
+        "NameSpeciality": "Agricultural soil science and agrophysics",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences Chemical sciences  Geographical sciences  Technical sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "129"
+    },
+    {
+        "CodeSpeciality": "06.01.04",
+        "NameSpeciality": "Agrochemistry ",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences Chemical sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "130"
+    },
+    {
+        "CodeSpeciality": "06.01.05",
+        "NameSpeciality": "Selection and seed growing ",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "131"
+    },
+    {
+        "CodeSpeciality": "06.01.06",
+        "NameSpeciality": "Vegetable-growing",
+        "SciencesAwarded": "Agricultural sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "132"
+    },
+    {
+        "CodeSpeciality": "06.01.07",
+        "NameSpeciality": "Fruit-growing and viticulture ",
+        "SciencesAwarded": "Agricultural sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "133"
+    },
+    {
+        "CodeSpeciality": "06.01.08",
+        "NameSpeciality": "Plant-growing ",
+        "SciencesAwarded": "Agricultural sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "134"
+    },
+    {
+        "CodeSpeciality": "06.01.09",
+        "NameSpeciality": "Plant protection",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "135"
+    },
+    {
+        "CodeSpeciality": "06.01.10",
+        "NameSpeciality": "Land management, cadastre and land monitoring ",
+        "SciencesAwarded": "Agricultural sciences  Geographical sciences  Technical sciences  Economic sciences",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "136"
+    },
+    {
+        "CodeSpeciality": "06.01.11",
+        "NameSpeciality": "Storage and reprocessing of agricultural products",
+        "SciencesAwarded": "Agricultural sciences  Chemical sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "137"
+    },
+    {
+        "CodeSpeciality": "06.02.01",
+        "NameSpeciality": "Breeding, selection, genetics and repro-duction of farm animals. Astrakhan sheep breeding.",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "138"
+    },
+    {
+        "CodeSpeciality": "06.02.02",
+        "NameSpeciality": "Livestock feed and feeding technology",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "139"
+    },
+    {
+        "CodeSpeciality": "06.02.03",
+        "NameSpeciality": "Private zootechnics. Animal products technology",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences  ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "140"
+    },
+    {
+        "CodeSpeciality": "06.02.04",
+        "NameSpeciality": "Silk-growing",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "141"
+    },
+    {
+        "CodeSpeciality": "06.03.01",
+        "NameSpeciality": "Forest crops. Selection, seed growing and  urban greening. Agricultural melioration of forests and protective afforestation",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences Technical sciences  ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "142"
+    },
+    {
+        "CodeSpeciality": "06.03.02",
+        "NameSpeciality": "Forest management and forest estimation. Dendrology and silviculture. Forest fire and forest fire protection ",
+        "SciencesAwarded": "Agricultural sciences  Biological sciences Technical sciences  ",
+        "ScienceBranch": "06.00.00 – Agricultural sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "143"
+    },
+    {
+        "CodeSpeciality": "07.00.01",
+        "NameSpeciality": " History of Uzbekistan ",
+        "SciencesAwarded": " Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "144"
+    },
+    {
+        "CodeSpeciality": "07.00.02",
+        "NameSpeciality": "History of science and technologies",
+        "SciencesAwarded": "Historical sciences  ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "145"
+    },
+    {
+        "CodeSpeciality": "07.00.03",
+        "NameSpeciality": "World history",
+        "SciencesAwarded": "Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "146"
+    },
+    {
+        "CodeSpeciality": "07.00.04",
+        "NameSpeciality": "Religious studies",
+        "SciencesAwarded": "Historical sciences  Philosophical sciences  Philological sciences",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "147"
+    },
+    {
+        "CodeSpeciality": "07.00.05",
+        "NameSpeciality": "History of international relations and foreign politics",
+        "SciencesAwarded": "Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "148"
+    },
+    {
+        "CodeSpeciality": "07.00.06",
+        "NameSpeciality": "Archaeology",
+        "SciencesAwarded": "Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "149"
+    },
+    {
+        "CodeSpeciality": "07.00.07",
+        "NameSpeciality": "Ethnography, ethnology and anthropology ",
+        "SciencesAwarded": "Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "150"
+    },
+    {
+        "CodeSpeciality": "07.00.08",
+        "NameSpeciality": "Historiography, studies of historical sources and methods of historical research ",
+        "SciencesAwarded": "Historical sciences ",
+        "ScienceBranch": "07.00.00 – Historical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "151"
+    },
+    {
+        "CodeSpeciality": " 08.00.01",
+        "NameSpeciality": " Economic theory ",
+        "SciencesAwarded": " Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "152"
+    },
+    {
+        "CodeSpeciality": "08.00.02",
+        "NameSpeciality": "Macroeconomics",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "153"
+    },
+    {
+        "CodeSpeciality": "08.00.03",
+        "NameSpeciality": "Economics of industry",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "154"
+    },
+    {
+        "CodeSpeciality": "08.00.04",
+        "NameSpeciality": "Economics of agriculture ",
+        "SciencesAwarded": "Economic sciences",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "155"
+    },
+    {
+        "CodeSpeciality": "08.00.05",
+        "NameSpeciality": "Economics of service sphere branches ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "156"
+    },
+    {
+        "CodeSpeciality": "08.00.06",
+        "NameSpeciality": "Econometrics and statistics ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "157"
+    },
+    {
+        "CodeSpeciality": "08.00.07",
+        "NameSpeciality": "Finance and credit",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "158"
+    },
+    {
+        "CodeSpeciality": "08.00.08",
+        "NameSpeciality": "Accounting, economic analysis and audit",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "159"
+    },
+    {
+        "CodeSpeciality": "08.00.09",
+        "NameSpeciality": "World economy ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "160"
+    },
+    {
+        "CodeSpeciality": "08.00.10",
+        "NameSpeciality": "Demography.  Labour economics ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "161"
+    },
+    {
+        "CodeSpeciality": "08.00.11",
+        "NameSpeciality": "Marketing ",
+        "SciencesAwarded": "Economic sciences",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "162"
+    },
+    {
+        "CodeSpeciality": "08.00.12",
+        "NameSpeciality": "Regional economics",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "163"
+    },
+    {
+        "CodeSpeciality": "08.00.13",
+        "NameSpeciality": "Management ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "164"
+    },
+    {
+        "CodeSpeciality": "08.00.14",
+        "NameSpeciality": "Information system and technologies in economics ",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "165"
+    },
+    {
+        "CodeSpeciality": "08.00.15",
+        "NameSpeciality": "Entrepreneurship and small business economics",
+        "SciencesAwarded": "Economic sciences ",
+        "ScienceBranch": "08.00.00 – Economic sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "166"
+    },
+    {
+        "CodeSpeciality": " 09.00.01",
+        "NameSpeciality": " Ontology, gnosiology  and logics",
+        "SciencesAwarded": " Philosophical sciences ",
+        "ScienceBranch": "09.00.00 – Philosophical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "167"
+    },
+    {
+        "CodeSpeciality": "09.00.02",
+        "NameSpeciality": "Philosophy of forms of consciousness, culture and practice (title)",
+        "SciencesAwarded": "Philosophical sciences",
+        "ScienceBranch": "09.00.00 – Philosophical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "168"
+    },
+    {
+        "CodeSpeciality": "09.00.03",
+        "NameSpeciality": "History of philosophy ",
+        "SciencesAwarded": "Philosophical sciences",
+        "ScienceBranch": "09.00.00 – Philosophical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "169"
+    },
+    {
+        "CodeSpeciality": "09.00.04",
+        "NameSpeciality": "Social philosophy ",
+        "SciencesAwarded": "Philosophical sciences",
+        "ScienceBranch": "09.00.00 – Philosophical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "170"
+    },
+    {
+        "CodeSpeciality": "10.00.01",
+        "NameSpeciality": " Uzbek language",
+        "SciencesAwarded": " Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "171"
+    },
+    {
+        "CodeSpeciality": "10.00.02",
+        "NameSpeciality": "Uzbek literature ",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "172"
+    },
+    {
+        "CodeSpeciality": "10.00.03",
+        "NameSpeciality": "Karakalpak language",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "173"
+    },
+    {
+        "CodeSpeciality": "10.00.04",
+        "NameSpeciality": "National languages and literature of Europe, America and Australia",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "174"
+    },
+    {
+        "CodeSpeciality": "10.00.05",
+        "NameSpeciality": "National languages and literature of Asia and Africa ",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "175"
+    },
+    {
+        "CodeSpeciality": "10.00.06",
+        "NameSpeciality": "Comparative literary criticism, contrastive linguistics and translation studies ",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "176"
+    },
+    {
+        "CodeSpeciality": "10.00.07",
+        "NameSpeciality": "Theory of literature",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "177"
+    },
+    {
+        "CodeSpeciality": "10.00.08",
+        "NameSpeciality": "Folklore studies ",
+        "SciencesAwarded": "Philological sciences Art science ",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "178"
+    },
+    {
+        "CodeSpeciality": "10.00.09",
+        "NameSpeciality": "Journalism ",
+        "SciencesAwarded": "Philological sciences Sociological sciences ",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "179"
+    },
+    {
+        "CodeSpeciality": "10.00.10",
+        "NameSpeciality": "Textology and studies of literary sources ",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "180"
+    },
+    {
+        "CodeSpeciality": "10.00.11",
+        "NameSpeciality": "Theory of language. Applied and computational linguistics ",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "181"
+    },
+    {
+        "CodeSpeciality": "10.00.12",
+        "NameSpeciality": "Karakalpak literature",
+        "SciencesAwarded": "Philological sciences",
+        "ScienceBranch": "10.00.00 –  Philological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "182"
+    },
+    {
+        "CodeSpeciality": " 11.00.01",
+        "NameSpeciality": " Physical geography ",
+        "SciencesAwarded": " Geographical sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "183"
+    },
+    {
+        "CodeSpeciality": "11.00.02",
+        "NameSpeciality": "Economic and social geography ",
+        "SciencesAwarded": "Geographical sciences  Economic sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "184"
+    },
+    {
+        "CodeSpeciality": "11.00.03",
+        "NameSpeciality": "Land hydrology. Water resources. Hydrochemistry ",
+        "SciencesAwarded": "Geographical sciences  Chemical sciences  Technical sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "185"
+    },
+    {
+        "CodeSpeciality": "11.00.04",
+        "NameSpeciality": "Meteorology. Climatology. Agrometeorology ",
+        "SciencesAwarded": "Geographical sciences  Physical and mathematical sciences Technical sciences  Agricultural sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "186"
+    },
+    {
+        "CodeSpeciality": "11.00.05",
+        "NameSpeciality": "Environment protection and rational utilization of natural resources ",
+        "SciencesAwarded": "Geographical sciences  Physical and mathematical sciences Biological sciences Chemical sciences  Geological and mineralogical sciences Technical sciences  Agricultural sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "187"
+    },
+    {
+        "CodeSpeciality": "11.00.06",
+        "NameSpeciality": "Geodesy.  Cartography",
+        "SciencesAwarded": "Geographical sciences  Technical sciences  Physical and mathematical sciences ",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "188"
+    },
+    {
+        "CodeSpeciality": "11.00.07",
+        "NameSpeciality": "Geoinformatics",
+        "SciencesAwarded": "Geographical sciences Technical sciences  Agricultural sciences",
+        "ScienceBranch": "11.00.00 – Geographical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "189"
+    },
+    {
+        "CodeSpeciality": "12.00.01",
+        "NameSpeciality": " Theory and history of state and law. History of law doctrines ",
+        "SciencesAwarded": " Law ",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "190"
+    },
+    {
+        "CodeSpeciality": "12.00.02",
+        "NameSpeciality": "Constitutional law. Administrative law. Finance and customs law",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "191"
+    },
+    {
+        "CodeSpeciality": "12.00.03",
+        "NameSpeciality": "Civil law. Business law. Family law. International private law",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "192"
+    },
+    {
+        "CodeSpeciality": "12.00.04",
+        "NameSpeciality": "Civil procedures law. Economic procedures law. Arbitration process and mediation",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "193"
+    },
+    {
+        "CodeSpeciality": "12.00.05",
+        "NameSpeciality": "Labour law. Social security law ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "194"
+    },
+    {
+        "CodeSpeciality": "12.00.06",
+        "NameSpeciality": "Natural resource law. Agrarian law. Ecological law ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "195"
+    },
+    {
+        "CodeSpeciality": "12.00.07",
+        "NameSpeciality": "Judicial power. Prosecutorial supervision. Organization of law enforcement.  Advocacy ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "196"
+    },
+    {
+        "CodeSpeciality": "12.00.08",
+        "NameSpeciality": "Criminal law, crime prevention. Criminology.  Penal law ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "197"
+    },
+    {
+        "CodeSpeciality": "12.00.09",
+        "NameSpeciality": "Criminal procedure. Criminology, operation search law and forensic examination ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "198"
+    },
+    {
+        "CodeSpeciality": "12.00.10",
+        "NameSpeciality": "International law  ",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "199"
+    },
+    {
+        "CodeSpeciality": "12.00.11",
+        "NameSpeciality": "Parliamentary law",
+        "SciencesAwarded": "Law",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "200"
+    },
+    {
+        "CodeSpeciality": "12.00.12",
+        "NameSpeciality": "Problems of corruption",
+        "SciencesAwarded": "Law Technical sciences Economic sciences Psychological sciences Sociological sciences",
+        "ScienceBranch": "12.00.00 – Law",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "201"
+    },
+    {
+        "CodeSpeciality": " 13.00.01",
+        "NameSpeciality": " Theory of pedagogy.  History of pedagogical studies",
+        "SciencesAwarded": " Pedagogical sciences ",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "202"
+    },
+    {
+        "CodeSpeciality": "13.00.02",
+        "NameSpeciality": "Theory and methodology of teaching and upbringing(by fields)",
+        "SciencesAwarded": "Pedagogical sciences ",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "203"
+    },
+    {
+        "CodeSpeciality": "13.00.03",
+        "NameSpeciality": "Special pedagogy",
+        "SciencesAwarded": "Pedagogical sciences",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "204"
+    },
+    {
+        "CodeSpeciality": "13.00.04",
+        "NameSpeciality": "Theory and methodology of physical culture and sports training ",
+        "SciencesAwarded": "Pedagogical sciences",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "205"
+    },
+    {
+        "CodeSpeciality": "13.00.05",
+        "NameSpeciality": "Theory and methodo-logy of professional education ",
+        "SciencesAwarded": "Pedagogical sciences ",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "206"
+    },
+    {
+        "CodeSpeciality": "13.00.06",
+        "NameSpeciality": "Theory and methodo-logy of electronic education (by fields and levels of education)",
+        "SciencesAwarded": "Pedagogical sciences ",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "207"
+    },
+    {
+        "CodeSpeciality": "13.00.07",
+        "NameSpeciality": "Management in education ",
+        "SciencesAwarded": "Pedagogical sciences",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "208"
+    },
+    {
+        "CodeSpeciality": "13.00.08",
+        "NameSpeciality": "Theory and methodo-logy of preschool education",
+        "SciencesAwarded": "Pedagogical sciences ",
+        "ScienceBranch": "13.00.00  – Pedagogical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "209"
+    },
+    {
+        "CodeSpeciality": " 14.00.01",
+        "NameSpeciality": " Obstetrics and gynecology ",
+        "SciencesAwarded": " Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "210"
+    },
+    {
+        "CodeSpeciality": "14.00.02",
+        "NameSpeciality": "Morphology ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "211"
+    },
+    {
+        "CodeSpeciality": "14.00.03",
+        "NameSpeciality": "Endocrinology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "212"
+    },
+    {
+        "CodeSpeciality": "14.00.04",
+        "NameSpeciality": "Otorhinolaryngology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "213"
+    },
+    {
+        "CodeSpeciality": "14.00.05",
+        "NameSpeciality": "Internal diseases ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "214"
+    },
+    {
+        "CodeSpeciality": "14.00.06",
+        "NameSpeciality": "Cardiology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "215"
+    },
+    {
+        "CodeSpeciality": "14.00.07",
+        "NameSpeciality": "Hygiene ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "216"
+    },
+    {
+        "CodeSpeciality": "14.00.08",
+        "NameSpeciality": "Ophthalmology ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "217"
+    },
+    {
+        "CodeSpeciality": "14.00.09",
+        "NameSpeciality": "Pediatrics",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "218"
+    },
+    {
+        "CodeSpeciality": "14.00.10",
+        "NameSpeciality": "Infectious diseases ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "219"
+    },
+    {
+        "CodeSpeciality": "14.00.11",
+        "NameSpeciality": "Dermatology and venereology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "220"
+    },
+    {
+        "CodeSpeciality": "14.00.12",
+        "NameSpeciality": "Medical rehabilitology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "221"
+    },
+    {
+        "CodeSpeciality": "14.00.13",
+        "NameSpeciality": "Neurology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "222"
+    },
+    {
+        "CodeSpeciality": "14.00.14",
+        "NameSpeciality": "Oncology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "223"
+    },
+    {
+        "CodeSpeciality": "14.00.15",
+        "NameSpeciality": "Pathological anatomy",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "224"
+    },
+    {
+        "CodeSpeciality": "14.00.16",
+        "NameSpeciality": "Normal and pathological physiology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "225"
+    },
+    {
+        "CodeSpeciality": "14.00.17",
+        "NameSpeciality": "Pharmacology and clinical pharmacology",
+        "SciencesAwarded": "Medical sciences Biological sciences Pharmaceutical sciences  ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "226"
+    },
+    {
+        "CodeSpeciality": "14.00.18",
+        "NameSpeciality": "Psychiatry and narcology",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "227"
+    },
+    {
+        "CodeSpeciality": "14.00.19",
+        "NameSpeciality": "Clinical radiology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "228"
+    },
+    {
+        "CodeSpeciality": "14.00.20",
+        "NameSpeciality": "Medical genetics ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "229"
+    },
+    {
+        "CodeSpeciality": "14.00.21",
+        "NameSpeciality": "Stomatology",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "230"
+    },
+    {
+        "CodeSpeciality": "14.00.22",
+        "NameSpeciality": "Traumatology and orthopaedy ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "231"
+    },
+    {
+        "CodeSpeciality": "14.00.23",
+        "NameSpeciality": "Organization of  medical-nursery affair ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "232"
+    },
+    {
+        "CodeSpeciality": "14.00.24",
+        "NameSpeciality": "Forensic medicine",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "233"
+    },
+    {
+        "CodeSpeciality": "14.00.25",
+        "NameSpeciality": "Clinical laboratory and functional diagnostics ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "234"
+    },
+    {
+        "CodeSpeciality": "14.00.26",
+        "NameSpeciality": "Phthisiatry ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "235"
+    },
+    {
+        "CodeSpeciality": "14.00.27",
+        "NameSpeciality": "Surgery",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "236"
+    },
+    {
+        "CodeSpeciality": "14.00.28",
+        "NameSpeciality": "Neurosurgery ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "237"
+    },
+    {
+        "CodeSpeciality": "14.00.29",
+        "NameSpeciality": "Hematology and transfusiology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "238"
+    },
+    {
+        "CodeSpeciality": "14.00.30",
+        "NameSpeciality": "Epidemiology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "239"
+    },
+    {
+        "CodeSpeciality": "14.00.31",
+        "NameSpeciality": "Urology ",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "240"
+    },
+    {
+        "CodeSpeciality": "14.00.32",
+        "NameSpeciality": "Transplantology and artificial organs",
+        "SciencesAwarded": "Medical sciences Biological sciences Technical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "241"
+    },
+    {
+        "CodeSpeciality": "14.00.33",
+        "NameSpeciality": "Public health. Healthcare management ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "242"
+    },
+    {
+        "CodeSpeciality": "14.00.34",
+        "NameSpeciality": "Cardiovascular surgery",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "243"
+    },
+    {
+        "CodeSpeciality": "14.00.35",
+        "NameSpeciality": "Pediatric surgery",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "244"
+    },
+    {
+        "CodeSpeciality": "14.00.36",
+        "NameSpeciality": "Allergology and immunology ",
+        "SciencesAwarded": "Medical sciences Biological sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "245"
+    },
+    {
+        "CodeSpeciality": "14.00.37",
+        "NameSpeciality": "Anaesthesiology and reanimatology ",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "246"
+    },
+    {
+        "CodeSpeciality": "14.00.38",
+        "NameSpeciality": "Sports medicine",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "247"
+    },
+    {
+        "CodeSpeciality": "14.00.39",
+        "NameSpeciality": "Toxicology",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "248"
+    },
+    {
+        "CodeSpeciality": "14.00.40",
+        "NameSpeciality": "Emergency medicine",
+        "SciencesAwarded": "Medical sciences ",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "249"
+    },
+    {
+        "CodeSpeciality": "14.00.41",
+        "NameSpeciality": "Folk medicine",
+        "SciencesAwarded": "Medical sciences Chemical sciences Pharmaceutical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "250"
+    },
+    {
+        "CodeSpeciality": "14.00.42",
+        "NameSpeciality": "Pulmonology",
+        "SciencesAwarded": "Medical sciences",
+        "ScienceBranch": "14.00.00 – Medical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "251"
+    },
+    {
+        "CodeSpeciality": " 15.00.01",
+        "NameSpeciality": " Technology of drugs",
+        "SciencesAwarded": " Pharmaceutical sciences  Technical sciences",
+        "ScienceBranch": "15.00.00 – Pharmaceutical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "252"
+    },
+    {
+        "CodeSpeciality": "15.00.02",
+        "NameSpeciality": "Pharmaceutical chemistry and pharmacognosy ",
+        "SciencesAwarded": "Pharmaceutical sciences  Chemical sciences  Biological sciences ",
+        "ScienceBranch": "15.00.00 – Pharmaceutical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "253"
+    },
+    {
+        "CodeSpeciality": "15.00.03",
+        "NameSpeciality": "Pharmacy organization ",
+        "SciencesAwarded": "Pharmaceutical sciences ",
+        "ScienceBranch": "15.00.00 – Pharmaceutical sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "254"
+    },
+    {
+        "CodeSpeciality": " 16.00.01",
+        "NameSpeciality": " Diagnostics of diseases, therapy and surgery of animals",
+        "SciencesAwarded": " Veterinary sciences  ",
+        "ScienceBranch": "16.00.00 – Veterinary sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "255"
+    },
+    {
+        "CodeSpeciality": "16.00.02",
+        "NameSpeciality": "Pathology, oncology and morphology of animals. Veterinary obstetrics and biotechnology of animal reproduction",
+        "SciencesAwarded": "Veterinary sciences  Biological sciences Agricultural sciences  ",
+        "ScienceBranch": "16.00.00 – Veterinary sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "256"
+    },
+    {
+        "CodeSpeciality": "16.00.03",
+        "NameSpeciality": "Veterinary microbiology, virology, epizootiology, mycology with mycotoxicology and immunology",
+        "SciencesAwarded": "Veterinary sciences  Biological sciences ",
+        "ScienceBranch": "16.00.00 – Veterinary sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "257"
+    },
+    {
+        "CodeSpeciality": "16.00.04",
+        "NameSpeciality": "Veterinary pharma-cology and toxicology. Veterinary sanitation, ecology, zoohygiene and veterinary-sanitary expertise",
+        "SciencesAwarded": "Veterinary sciences  Biological sciences ",
+        "ScienceBranch": "16.00.00 – Veterinary sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "258"
+    },
+    {
+        "CodeSpeciality": "17.00.01",
+        "NameSpeciality": " Theatrical art  ",
+        "SciencesAwarded": " Art sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "259"
+    },
+    {
+        "CodeSpeciality": "17.00.02",
+        "NameSpeciality": "Musical art ",
+        "SciencesAwarded": "Art sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "260"
+    },
+    {
+        "CodeSpeciality": "17.00.03",
+        "NameSpeciality": "Cinematography. Television",
+        "SciencesAwarded": "Art sciences",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "261"
+    },
+    {
+        "CodeSpeciality": "17.00.04",
+        "NameSpeciality": "Visual and applied-decorative art ",
+        "SciencesAwarded": "Art sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "262"
+    },
+    {
+        "CodeSpeciality": "17.00.05",
+        "NameSpeciality": "Theory and history of design",
+        "SciencesAwarded": "Art sciences ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "263"
+    },
+    {
+        "CodeSpeciality": "17.00.06",
+        "NameSpeciality": "Museology. Conser-vation, restoration and storage of historical and cultural objects",
+        "SciencesAwarded": "Art sciences  Historical sciences  Technical sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "264"
+    },
+    {
+        "CodeSpeciality": "17.00.07",
+        "NameSpeciality": "Theory and history of culture. Culturology",
+        "SciencesAwarded": "Art sciences  Historical sciences  Philosophical sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "265"
+    },
+    {
+        "CodeSpeciality": "17.00.08",
+        "NameSpeciality": "Theory and history of Art",
+        "SciencesAwarded": "Art sciences  Historical sciences  ",
+        "ScienceBranch": "17.00.00 – Art science",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "266"
+    },
+    {
+        "CodeSpeciality": " 18.00.01",
+        "NameSpeciality": " Theory and history of architecture. Resto-ration and reconstruc-tion of architectural monuments ",
+        "SciencesAwarded": " Architecture  Art science  ",
+        "ScienceBranch": "18.00.00 – Architecture",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "267"
+    },
+    {
+        "CodeSpeciality": "18.00.02",
+        "NameSpeciality": "Area planning. Town building. Planning of rural residences. Landscape architec-ture. Architecture of buildings and constructions ",
+        "SciencesAwarded": "Architecture  Technical sciences  ",
+        "ScienceBranch": "18.00.00 – Architecture",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "268"
+    },
+    {
+        "CodeSpeciality": " 19.00.01",
+        "NameSpeciality": " History and theory of psychology. General psychology. Psychology of personality ",
+        "SciencesAwarded": " Psychological sciences ",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "269"
+    },
+    {
+        "CodeSpeciality": "19.00.02",
+        "NameSpeciality": "Psycho-physiology ",
+        "SciencesAwarded": "Psychological sciences",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "270"
+    },
+    {
+        "CodeSpeciality": "19.00.03",
+        "NameSpeciality": "Psychology of human being professional activity (title)",
+        "SciencesAwarded": "Psychological sciences ",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "271"
+    },
+    {
+        "CodeSpeciality": "19.00.04",
+        "NameSpeciality": "Medical and special psychology",
+        "SciencesAwarded": "Psychological sciences Medical sciences",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "272"
+    },
+    {
+        "CodeSpeciality": "19.00.05",
+        "NameSpeciality": "Social psychology.  Ethnopsychology",
+        "SciencesAwarded": "Psychological sciences Sociological sciences",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "273"
+    },
+    {
+        "CodeSpeciality": "19.00.06",
+        "NameSpeciality": "Age and pedagogical psychology. Psycho-logy of development ",
+        "SciencesAwarded": "Psychological sciences ",
+        "ScienceBranch": "19.00.00 – Psychological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "274"
+    },
+    {
+        "CodeSpeciality": " 22.00.01",
+        "NameSpeciality": " Theory, methodology and history of sociology. Methods of sociological studies ",
+        "SciencesAwarded": " Sociological sciences  ",
+        "ScienceBranch": "22.00.00 – Sociological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "275"
+    },
+    {
+        "CodeSpeciality": "22.00.02",
+        "NameSpeciality": "Social structure, social institutions and lifestyle ",
+        "SciencesAwarded": "Sociological sciences  ",
+        "ScienceBranch": "22.00.00 – Sociological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "276"
+    },
+    {
+        "CodeSpeciality": "22.00.03",
+        "NameSpeciality": "Sociology of public consciousness and social processes  ",
+        "SciencesAwarded": "Sociological sciences  ",
+        "ScienceBranch": "22.00.00 – Sociological sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "277"
+    },
+    {
+        "CodeSpeciality": "23.00.01",
+        "NameSpeciality": " Theory and philosophy of politics. History and methodology of political studies ",
+        "SciencesAwarded": " Political sciences  Philosophical sciences",
+        "ScienceBranch": "23.00.00 – Political Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "278"
+    },
+    {
+        "CodeSpeciality": "23.00.02",
+        "NameSpeciality": "Political institutes, processes and technologies",
+        "SciencesAwarded": "Political sciences  ",
+        "ScienceBranch": "23.00.00 – Political Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "279"
+    },
+    {
+        "CodeSpeciality": "23.00.03",
+        "NameSpeciality": "Political culture and ideology",
+        "SciencesAwarded": "Political sciences  Philosophical sciences",
+        "ScienceBranch": "23.00.00 – Political Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "280"
+    },
+    {
+        "CodeSpeciality": "23.00.04",
+        "NameSpeciality": "Political issues of international relations, global and regional development  ",
+        "SciencesAwarded": "Political sciences  ",
+        "ScienceBranch": "23.00.00 – Political Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "281"
+    },
+    {
+        "CodeSpeciality": "23.00.05",
+        "NameSpeciality": "Systematic analysis and forecasting of national security problems",
+        "SciencesAwarded": "Political sciences Economic sciences Law Psychological sciences Sociological sciences",
+        "ScienceBranch": "23.00.00 – Political Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "282"
+    },
+    {
+        "CodeSpeciality": "24.00.01",
+        "NameSpeciality": " History and source study of Islam ",
+        "SciencesAwarded": " Islamic sciences  Historical sciences ",
+        "ScienceBranch": "24.00.00 – Islamic Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "283"
+    },
+    {
+        "CodeSpeciality": "24.00.02",
+        "NameSpeciality": "Koran studies. Hadith studies",
+        "SciencesAwarded": "Islamic sciences  Historical sciences Philosophical sciences  Philological sciences",
+        "ScienceBranch": "24.00.00 – Islamic Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "284"
+    },
+    {
+        "CodeSpeciality": "24.00.03",
+        "NameSpeciality": "Science of Fikh and Kalom. Theology ",
+        "SciencesAwarded": "Islamic sciences  Historical sciences Philosophical sciences  Philological sciences ",
+        "ScienceBranch": "24.00.00 – Islamic Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "285"
+    },
+    {
+        "CodeSpeciality": "24.00.04",
+        "NameSpeciality": "Eastern classical literature and source study",
+        "SciencesAwarded": "Islamic sciences  Philological sciences ",
+        "ScienceBranch": "24.00.00 – Islamic Sciences",
+        "path_id": "6111284edb32b99538e08290",
+        "ID": "286"
+    }
+]

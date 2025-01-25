@@ -1,0 +1,167 @@
+[
+    {
+        "Hududlar": "Republic of Uzbekistan",
+        "Olchovbirligi": "Units",
+        "2017Y": "19747",
+        "2018Y": "37179",
+        "2019Y": "86395",
+        "2020Y": "106677",
+        "2021Y": "122354",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Rep. of Karakalpakstan",
+        "Olchovbirligi": "Units",
+        "2017Y": "170",
+        "2018Y": "1683",
+        "2019Y": "5831",
+        "2020Y": "7687",
+        "2021Y": "8484",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "Andijan",
+        "Olchovbirligi": "Units",
+        "2017Y": "360",
+        "2018Y": "2470",
+        "2019Y": "11302",
+        "2020Y": "18662",
+        "2021Y": "19694",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Bukhara",
+        "Olchovbirligi": "Units",
+        "2017Y": "679",
+        "2018Y": "1544",
+        "2019Y": "6010",
+        "2020Y": "7613",
+        "2021Y": "9005",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Jizzakh",
+        "Olchovbirligi": "Units",
+        "2017Y": "450",
+        "2018Y": "320",
+        "2019Y": "2670",
+        "2020Y": "5118",
+        "2021Y": "5602",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "Olchovbirligi": "Units",
+        "2017Y": "630",
+        "2018Y": "3984",
+        "2019Y": "10870",
+        "2020Y": "7939",
+        "2021Y": "9224",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Navoi",
+        "Olchovbirligi": "Units",
+        "2017Y": "50",
+        "2018Y": "750",
+        "2019Y": "4165",
+        "2020Y": "5512",
+        "2021Y": "6790",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Namangan",
+        "Olchovbirligi": "Units",
+        "2017Y": "757",
+        "2018Y": "2097",
+        "2019Y": "4981",
+        "2020Y": "4270",
+        "2021Y": "5393",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "Olchovbirligi": "Units",
+        "2017Y": "497",
+        "2018Y": "4741",
+        "2019Y": "6609",
+        "2020Y": "11378",
+        "2021Y": "11521",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Surkhandarya",
+        "Olchovbirligi": "Units",
+        "2017Y": "130",
+        "2018Y": "550",
+        "2019Y": "5285",
+        "2020Y": "2872",
+        "2021Y": "6096",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "Olchovbirligi": "Units",
+        "2017Y": "25",
+        "2018Y": "211",
+        "2019Y": "1575",
+        "2020Y": "2326",
+        "2021Y": "3335",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Tashkent",
+        "Olchovbirligi": "Units",
+        "2017Y": "6822",
+        "2018Y": "7728",
+        "2019Y": "10402",
+        "2020Y": "10223",
+        "2021Y": "10315",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Fergana",
+        "Olchovbirligi": "Units",
+        "2017Y": "2375",
+        "2018Y": "2338",
+        "2019Y": "4036",
+        "2020Y": "9158",
+        "2021Y": "8571",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "Olchovbirligi": "Units",
+        "2017Y": "400",
+        "2018Y": "560",
+        "2019Y": "3210",
+        "2020Y": "6060",
+        "2021Y": "7577",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "Olchovbirligi": "Units",
+        "2017Y": "6402",
+        "2018Y": "8203",
+        "2019Y": "9449",
+        "2020Y": "7859",
+        "2021Y": "10747",
+        "path_id": "63882a3bee4af88f66e5c4ea",
+        "ID": "15"
+    }
+]

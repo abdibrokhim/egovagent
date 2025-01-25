@@ -1,0 +1,35 @@
+[
+    {
+        "Hudud": "Academic Lyceum of Urgench State University",
+        "Olchovbirligi": "Units",
+        "2018Y": "420",
+        "2019Y": "416",
+        "2020Y": "431",
+        "2021Y": "416",
+        "2022Y": "364",
+        "path_id": "637b1a804878653e5fe412f8",
+        "ID": "1"
+    },
+    {
+        "Hudud": "Academic Lyceum of Urgench Branch of Tashkent Medical Academy",
+        "Olchovbirligi": "Units",
+        "2018Y": "199",
+        "2019Y": "156",
+        "2020Y": "156",
+        "2021Y": "156",
+        "2022Y": "156",
+        "path_id": "637b1a804878653e5fe412f8",
+        "ID": "2"
+    },
+    {
+        "Hudud": "Academic Lyceum of Urgench Branch of Tashkent University of Information Technologies",
+        "Olchovbirligi": "Units",
+        "2018Y": "152",
+        "2019Y": "338",
+        "2020Y": "260",
+        "2021Y": "182",
+        "2022Y": "0",
+        "path_id": "637b1a804878653e5fe412f8",
+        "ID": "3"
+    }
+]

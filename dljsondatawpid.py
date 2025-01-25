@@ -46,7 +46,7 @@ def extract_path_id(container):
         print(f"Error extracting path_id: {str(e)}")
         return None
 
-def download_json_files(fn):
+def download_json_files(fn, c):
     BASE_URL = f"https://data.egov.uz/eng/spheres/{fn}"
     PAGE_URL = BASE_URL + "?page={}"
     
@@ -54,7 +54,7 @@ def download_json_files(fn):
     driver = setup_driver(fn)
     
     try:
-        for page_num in range(4, 5):
+        for page_num in range(1, (c // 10) + 2):
             print(f"Processing page {page_num}...")
             driver.get(PAGE_URL.format(page_num))
             time.sleep(2)  # Added sleep to ensure page loads
@@ -176,7 +176,7 @@ if __name__ == "__main__":
 				"engText": "Education"
 			},
 			"structCount": 757,
-            "status": "pending"
+            "status": "done"
 		},
 		{
 			"guidId": "607fed667b6428eee08802b3",
@@ -216,7 +216,7 @@ if __name__ == "__main__":
 				"engText": "Tourism and sport"
 			},
 			"structCount": 49,
-            "status": "pending"
+            "status": "done"
 		},
 		{
 			"guidId": "607ff0997b6428eee08802b9",
@@ -280,7 +280,7 @@ if __name__ == "__main__":
 				"engText": "Agriculture"
 			},
 			"structCount": 1028,
-            "status": "pending"
+            "status": "done"
 		},
 		{
 			"guidId": "607ff4557b6428eee08802c1",
@@ -300,6 +300,7 @@ if __name__ == "__main__":
 		}
 	]
 
-    fn = "607ff3e67b6428eee08802bf"
+    guid_id = "607fea9a7b6428eee08802b2" # Education
+    struct_count=757
 
-    download_json_files(fn)
+    download_json_files(guid_id, struct_count)

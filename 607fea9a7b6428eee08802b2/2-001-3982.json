@@ -1,0 +1,35 @@
+[
+    {
+        "OLIYTALIMMUASSASAINOMI": "Navoiy davlat pedagogika instituti",
+        "BAKALAVRIATJAMI": "17172",
+        "BAKALAVRIATERKAK": "4871",
+        "BAKALAVRIATAYOL": "12301",
+        "MAGISTRATURAJAMI": "555",
+        "MAGISTRATURAERKAK": "151",
+        "MAGISTRATURAAYOL": "404",
+        "path_id": "637b139c4878653e5fe412a2",
+        "ID": "1"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Navoiy davlat konchilik instituti",
+        "BAKALAVRIATJAMI": "4890",
+        "BAKALAVRIATERKAK": "3973",
+        "BAKALAVRIATAYOL": "917",
+        "MAGISTRATURAJAMI": "232",
+        "MAGISTRATURAERKAK": "171",
+        "MAGISTRATURAAYOL": "61",
+        "path_id": "637b139c4878653e5fe412a2",
+        "ID": "2"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Navoiy davlat konchilik instituti Nukus filiali",
+        "BAKALAVRIATJAMI": "284",
+        "BAKALAVRIATERKAK": "247",
+        "BAKALAVRIATAYOL": "37",
+        "MAGISTRATURAJAMI": "-",
+        "MAGISTRATURAERKAK": "-",
+        "MAGISTRATURAAYOL": "-",
+        "path_id": "637b139c4878653e5fe412a2",
+        "ID": "3"
+    }
+]

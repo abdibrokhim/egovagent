@@ -1,0 +1,32 @@
+[
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Бухоро давлат университети",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "848",
+        "AYOL": "463",
+        "ERKAK": "385",
+        "path_id": "637b198c4878653e5fe412f4",
+        "ID": "1"
+    },
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Бухоро муҳандислик технология институти",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "449",
+        "AYOL": "214",
+        "ERKAK": "235",
+        "path_id": "637b198c4878653e5fe412f4",
+        "ID": "2"
+    },
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Бухоро тиббиёт институти",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "788",
+        "AYOL": "372",
+        "ERKAK": "416",
+        "path_id": "637b198c4878653e5fe412f4",
+        "ID": "3"
+    }
+]

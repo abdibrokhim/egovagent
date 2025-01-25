@@ -1,0 +1,262 @@
+[
+    {
+        "ID": "1",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for Retraining and In-Service Training of Academic Staff under Tashkent state University of Economics",
+        "Qisqachanomi": "The branch center under TSEU",
+        "Manzil": "49 Islam Karimov Street, Chilanzar district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "2",
+        "Viloyatnomi": "Samarkand",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "M",
+        "Tashkilotnomi": "Regional Center for Retraining and Further Training at Samarkand State University",
+        "Qisqachanomi": "Regional Center under SamSU",
+        "Manzil": "45 Mukimiy Street, Samarkand",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "3",
+        "Viloyatnomi": "Samarkand",
+        "Tasarrufegasi": "Committee for Veterinary Medicine and Livestock Development",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "Т",
+        "Tashkilotnomi": "Branch center for retraining and professional development of pedagogical staff under the Samarkand State University of Veterinary Medicine, Livestock and Biotechnologies",
+        "Qisqachanomi": "The branch center under SamSUVMLB",
+        "Manzil": "77 M.Ulug`bek street, Samarkand",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "4",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for Retraining and In-Service Training of Academic Staff under Tashkent Chemical-technological institute",
+        "Qisqachanomi": "The branch center under TCTI",
+        "Manzil": "32 Navoiy Street, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "5",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The Branch Center for Retraining and Professional Development of Academic staff at Alisher Nava\\'I Tashkent State University of the Uzbek language and Literature",
+        "Qisqachanomi": "The branch center TSUULL",
+        "Manzil": "103 Yusuf Xos Xojib street, Yakkasaray district, Tashkent city",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "6",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Health of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for retraining and in-service training of academic staff under Tashkent Medical Academy",
+        "Qisqachanomi": "The branch center under TMA",
+        "Manzil": "2 Farаbiy street , Almazar district, Tashkent city",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "7",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for Retraining and In-Service Training of Academic Staff under the Islam Karimov Tashkent state technical university",
+        "Qisqachanomi": "The branch center under TSTU",
+        "Manzil": "107 Labzak Street, Shayhontoxur district, Tashkent city",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "8",
+        "Viloyatnomi": "Bukhara",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "M",
+        "Tashkilotnomi": "Regional center of re-training and qualifying the pedagogical staff at the Bukhara state university",
+        "Qisqachanomi": "Regional center under BSU",
+        "Manzil": "2 Piridastgir street, Bukhara",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "9",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Digital Technologies of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center of retraining and advanced training of teaching staff under Tashkent university of Information technologies named after Muhammad al-Khwarizmi",
+        "Qisqachanomi": "Regional center under TUIT",
+        "Manzil": "108 Amir Temur Street, Yunusabad district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "10",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for retraining and professional development teachers in Tashkent institute of textile and light industry",
+        "Qisqachanomi": "The branch center under TITLI",
+        "Manzil": "5 Shohjaxon Street, Yakkasaray district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "11",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch (regional) center of retraining and professional development of pedagogical staff under National university of Uzbekistan",
+        "Qisqachanomi": "The branch center under NUUz",
+        "Manzil": "3 Ziyo street, Almazar district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "12",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center of retraining and professional development of pedagogical staff under Tashkent state pedagogical university",
+        "Qisqachanomi": "The branch center under TSPU",
+        "Manzil": "3 Bratislava street, Yakkasaray district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "13",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center of retraining and professional development of pedagogical staff under Tashkent University of Architecture and Civil Engineering",
+        "Qisqachanomi": "The branch center under ITAC",
+        "Manzil": "9 Yangi shahar, Yunusabad district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "14",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Culture of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center under The Uzbekistan State Institute of Arts and Culture",
+        "Qisqachanomi": "The branch center under USIAC",
+        "Manzil": "127-a Yalangoch Street, Mirzo Ulugbek district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "15",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Agriculture of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center of retraining and professional development of pedagogical staff under Tashkent state agrarian university",
+        "Qisqachanomi": "The branch center under TSAU",
+        "Manzil": "3 Universitet str., Kibray district, Tashkent region",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "16",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Branch center of retraining and professional development of pedagogical staff under “Tashkent Institute of Irrigation and Agricultural Mechanization Engineers” National research university",
+        "Qisqachanomi": "The branch center under TIIAME",
+        "Manzil": "39 Kari-niyaziy street, Mirza Ulugbek district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "17",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Justice of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "Т",
+        "Tashkilotnomi": "Center for professional training of legal personnel in accordance with International standards under the Tashkent State Law University",
+        "Qisqachanomi": "The branch center under TSUL",
+        "Manzil": "17 Amir Temur street, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "18",
+        "Viloyatnomi": "Republic of Karakalpakstan",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "M",
+        "Tashkilotnomi": "Regional center of retraining and professional development of pedagogical staff under Karakalpak state university",
+        "Qisqachanomi": "Regional Center under QSU",
+        "Manzil": "1 Ch.Abdirov street, Nukus",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "19",
+        "Viloyatnomi": "Ferghana",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "M",
+        "Tashkilotnomi": "Regional center of retraining and professional development of pedagogical staff under Fergana state university",
+        "Qisqachanomi": "Regional Center under FSU",
+        "Manzil": "19 Murrabbiylar street, Fergana",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "20",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "I",
+        "Tashkilotnomi": "Institute for Retraining and Professional Development of Higher Education Personnel",
+        "Qisqachanomi": "Institut",
+        "Manzil": "3 Ziyo Street, Almazar district, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "21",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Sports of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "Institut perepodgotovki i povyshenia qualificatsii spetsialistov fizicheskogo vospitaniya i sporta",
+        "Qisqachanomi": "The branch center under MPCS",
+        "Manzil": "27 Kukcha Darvoza street, Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "22",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "B",
+        "Tashkilotnomi": "Institute for the Development of Vocational Education",
+        "Qisqachanomi": "Institute of Pedagogical Innovation",
+        "Manzil": "76 Ziyo street Tashkent city, Almazar district",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "23",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "Т",
+        "Tashkilotnomi": "Center for Language Education and Consulting at the Tashkent State University of Oriental Studies",
+        "Qisqachanomi": "-",
+        "Manzil": "26 Amir Temur street Tashkent",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "24",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Academy of Arts of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "Т",
+        "Tashkilotnomi": "Center for retraining and advanced training of teachers and specialists in art education at the Academy of Arts of Uzbekistan",
+        "Qisqachanomi": "-",
+        "Manzil": "6th house in Tashkent, Sedra, Mesakh and Avdenigo",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "25",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Ministry of Higher Education, Science and Innovations of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "T",
+        "Tashkilotnomi": "The branch center for Retraining and In-Service Training of Academic Staff under Uzbekistan State World Languages University",
+        "Qisqachanomi": "The branch center under UzDJTU",
+        "Manzil": "Toshkent, st. Uchtepai district, st. Kichik halka yuli, g-9A",
+        "path_id": "61028da42a2e256d868e834a"
+    },
+    {
+        "ID": "26",
+        "Viloyatnomi": "Tashkent",
+        "Tasarrufegasi": "Institute for Advanced Studies of the Ministry of Internal Affairs of the Republic of Uzbekistan",
+        "BoshmarkazBTarmoqmarkazTMintaqaviymarkazMHududiymarkazH": "I",
+        "Tashkilotnomi": "Olmalik city base of the Institute for Advanced Studies of the Ministry of Internal Affairs of the Republic of Uzbekistan",
+        "Qisqachanomi": "IAS MIA Uz",
+        "Manzil": "Tashkent City, Bektemir district, Hussein Boyqaro street, 27 a-House, Index – 100213",
+        "path_id": "61028da42a2e256d868e834a"
+    }
+]

@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "62cfac0f0f4de3c96a235570"
-    },
-    {
         "tartib": "1",
         "yil": "2010",
         "Umumiysoni": "38234",
@@ -11,7 +8,9 @@
         "3040gacha": "12421",
         "4050gacha": "10243",
         "5060gacha": "3616",
-        "60yoshdanyuqori": "465"
+        "60yoshdanyuqori": "465",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "1"
     },
     {
         "tartib": "2",
@@ -22,7 +21,9 @@
         "3040gacha": "12466",
         "4050gacha": "12293",
         "5060gacha": "4027",
-        "60yoshdanyuqori": "631"
+        "60yoshdanyuqori": "631",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "2"
     },
     {
         "tartib": "3",
@@ -33,7 +34,9 @@
         "3040gacha": "14225",
         "4050gacha": "12446",
         "5060gacha": "4804",
-        "60yoshdanyuqori": "706"
+        "60yoshdanyuqori": "706",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "3"
     },
     {
         "tartib": "4",
@@ -44,7 +47,9 @@
         "3040gacha": "13077",
         "4050gacha": "12247",
         "5060gacha": "4843",
-        "60yoshdanyuqori": "835"
+        "60yoshdanyuqori": "835",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "4"
     },
     {
         "tartib": "5",
@@ -55,7 +60,9 @@
         "3040gacha": "11111",
         "4050gacha": "11769",
         "5060gacha": "4595",
-        "60yoshdanyuqori": "802"
+        "60yoshdanyuqori": "802",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "5"
     },
     {
         "tartib": "6",
@@ -66,7 +73,9 @@
         "3040gacha": "11726",
         "4050gacha": "11504",
         "5060gacha": "4805",
-        "60yoshdanyuqori": "931"
+        "60yoshdanyuqori": "931",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "6"
     },
     {
         "tartib": "7",
@@ -77,7 +86,9 @@
         "3040gacha": "11116",
         "4050gacha": "11268",
         "5060gacha": "4703",
-        "60yoshdanyuqori": "974"
+        "60yoshdanyuqori": "974",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "7"
     },
     {
         "tartib": "8",
@@ -88,7 +99,9 @@
         "3040gacha": "10339",
         "4050gacha": "11267",
         "5060gacha": "4950",
-        "60yoshdanyuqori": "1024"
+        "60yoshdanyuqori": "1024",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "8"
     },
     {
         "tartib": "9",
@@ -99,7 +112,9 @@
         "3040gacha": "8415",
         "4050gacha": "9930",
         "5060gacha": "4308",
-        "60yoshdanyuqori": "995"
+        "60yoshdanyuqori": "995",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "9"
     },
     {
         "tartib": "10",
@@ -110,7 +125,9 @@
         "3040gacha": "7437",
         "4050gacha": "8413",
         "5060gacha": "3579",
-        "60yoshdanyuqori": "920"
+        "60yoshdanyuqori": "920",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "10"
     },
     {
         "tartib": "11",
@@ -121,7 +138,9 @@
         "3040gacha": "6587",
         "4050gacha": "7921",
         "5060gacha": "3330",
-        "60yoshdanyuqori": "903"
+        "60yoshdanyuqori": "903",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "11"
     },
     {
         "tartib": "12",
@@ -132,7 +151,9 @@
         "3040gacha": "6579",
         "4050gacha": "7320",
         "5060gacha": "2964",
-        "60yoshdanyuqori": "808"
+        "60yoshdanyuqori": "808",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "12"
     },
     {
         "tartib": "13",
@@ -143,7 +164,9 @@
         "3040gacha": "7996",
         "4050gacha": "8011",
         "5060gacha": "4013",
-        "60yoshdanyuqori": "912"
+        "60yoshdanyuqori": "912",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "13"
     },
     {
         "tartib": "14",
@@ -154,7 +177,9 @@
         "3040gacha": "8998",
         "4050gacha": "7922",
         "5060gacha": "3679",
-        "60yoshdanyuqori": "993"
+        "60yoshdanyuqori": "993",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "14"
     },
     {
         "tartib": "15",
@@ -165,6 +190,8 @@
         "3040gacha": "10124",
         "4050gacha": "9296",
         "5060gacha": "4150",
-        "60yoshdanyuqori": "1109"
+        "60yoshdanyuqori": "1109",
+        "path_id": "62cfac0f0f4de3c96a235570",
+        "ID": "15"
     }
 ]

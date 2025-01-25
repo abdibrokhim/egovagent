@@ -1,0 +1,626 @@
+[
+    {
+        "FullName": "ABDURAMANOVA SALOMAT XUDAYBERGENOVA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "1"
+    },
+    {
+        "FullName": "ANDANIYAZOVA DILRABO RUZIQULOVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "2"
+    },
+    {
+        "FullName": "ARIPOV ABDULLA UBAYEVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "3"
+    },
+    {
+        "FullName": "BERGER INNA VIKTOROVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "4"
+    },
+    {
+        "FullName": "KUTLIYEV ORIF ADIZOVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "5"
+    },
+    {
+        "FullName": "MAMASALIYEVA LAZIZA ELMURADOVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "6"
+    },
+    {
+        "FullName": "MIRZAYEVA YULDUZXON TAXIRJONOVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "7"
+    },
+    {
+        "FullName": "NARZIKULOVA MANZURA TURAYEVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "8"
+    },
+    {
+        "FullName": "RO‘ZMETOV RASUL SOBIROVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "9"
+    },
+    {
+        "FullName": "SALAXITDINOV SHUXRATJON NAJMITDINOVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "10"
+    },
+    {
+        "FullName": "SANDIBOYEV ALISHER NAZARBEKOVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "11"
+    },
+    {
+        "FullName": "VALIYEVA KAMOLA NURULLAYEVNA",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "12"
+    },
+    {
+        "FullName": "XOSHIMOV XIKMATULLA BOQIJONOVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "13"
+    },
+    {
+        "FullName": "YAKUBOV MIRDJAMIL MIRZIYATOVICH",
+        "ApprovedDate": "2022-02-01",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "14"
+    },
+    {
+        "FullName": "ALLAMBERGENOV TANJARBAY DAULETMURATOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "15"
+    },
+    {
+        "FullName": "ARZIYEV ALLABAY DJALGASOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "16"
+    },
+    {
+        "FullName": "AXMEDOV ULUGBEK BAXODIROVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "17"
+    },
+    {
+        "FullName": "BURONOV XAYRULLO JUMABOYEVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "18"
+    },
+    {
+        "FullName": "MALIKOV ZAFAR MAMATKULOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "19"
+    },
+    {
+        "FullName": "MIRZAXIDOV BAXTIYOR DJALIDDINOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "20"
+    },
+    {
+        "FullName": "MIRZAYEV MIRXATAM MAXMUDOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "21"
+    },
+    {
+        "FullName": "NIYOZMATOVA NILUFAR A'LOXANOVNA",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "22"
+    },
+    {
+        "FullName": "PARPIYEV ODILXO'JA RAIMXO'JAYEVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "23"
+    },
+    {
+        "FullName": "SHAVAZOV ABDULATIF ACHILOVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "24"
+    },
+    {
+        "FullName": "YUSUPOV DILMUROD TURDALIYEVICH",
+        "ApprovedDate": "2022-02-28",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "25"
+    },
+    {
+        "FullName": "AMIROV ELMUROD MANSURIDDIN O‘G‘LI",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "26"
+    },
+    {
+        "FullName": "ARIPDJANOVOTABEK YUSUPDJANOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "27"
+    },
+    {
+        "FullName": "ISMOILOV ANVAR XAMDAMJONOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "28"
+    },
+    {
+        "FullName": "JAMOLOVA DILNOZA MUYIDDINOVNA",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "29"
+    },
+    {
+        "FullName": "JOVLIEV UKTAM TEMIROVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "30"
+    },
+    {
+        "FullName": "JUMANAZAROV XURSHID SIROJIDDINOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "31"
+    },
+    {
+        "FullName": "KADIROVA DILOROM SALIXOVNA",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "32"
+    },
+    {
+        "FullName": "KOMILOV ASLIDDIN G‘ULOMOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "33"
+    },
+    {
+        "FullName": "MAMUTOV BAXRAM XOJANIYAZOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "34"
+    },
+    {
+        "FullName": "MULLAGALIEVA FANUZA GALLIEVNA",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "35"
+    },
+    {
+        "FullName": "NORMURODOV DILMUROD RAXMATULLAEVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "36"
+    },
+    {
+        "FullName": "O‘LMASOV AKMALJON FOZILOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "37"
+    },
+    {
+        "FullName": "QOSIMOV MALIKJON IBRAGIMOVICH ",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "38"
+    },
+    {
+        "FullName": "SAPAROVA DADAJAN VALIXANOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "39"
+    },
+    {
+        "FullName": "SHERMATOV JAVOXIR ZAFAROVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "40"
+    },
+    {
+        "FullName": "SULYUKOVA LARISA FARITOVNA",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "41"
+    },
+    {
+        "FullName": "USMANOV SHAVKAT ABBASOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "42"
+    },
+    {
+        "FullName": "XOFIZOV BAXRIDIN TURDIEVICH ",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "43"
+    },
+    {
+        "FullName": "XOLTO‘RAEV SHAROFIDDIN CHORIEVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "44"
+    },
+    {
+        "FullName": "YUSUPOV AZAMAT FARXADOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "45"
+    },
+    {
+        "FullName": "ZIYAEV ABDUMANNOP ABDURAXIMOVICH",
+        "ApprovedDate": "2022-03-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "46"
+    },
+    {
+        "FullName": "MAXMUDOV RAUFJON BAXODIROVICH",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "47"
+    },
+    {
+        "FullName": "MIRZARAXMEDOVA AZIZA XUSNITDINOVNA",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "48"
+    },
+    {
+        "FullName": "MURODOV NAVRUZ QURBONOVICH",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "49"
+    },
+    {
+        "FullName": "MUXAMEDOVA BARNO FARXADOVNA",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "50"
+    },
+    {
+        "FullName": "PETROV ANDREY ALEKSANDROVICH",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "51"
+    },
+    {
+        "FullName": "SODIKOVA UMIDA ABDUXAMIDOVNA",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "52"
+    },
+    {
+        "FullName": "UTAMBETOVA ARUXAN JAMGЫRBAEVNA",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "53"
+    },
+    {
+        "FullName": "XALIKULOV XUSAN GAZIXANOVICH",
+        "ApprovedDate": "2022-04-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "54"
+    },
+    {
+        "FullName": "AKRAMOVA NILUFAR MAXSIMOVNA",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "55"
+    },
+    {
+        "FullName": "ASHUROV ZUFAR ABDULLOEVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "56"
+    },
+    {
+        "FullName": "ESHMURATOV BAXODIR BESHIMOVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "57"
+    },
+    {
+        "FullName": "INOYATOV ANVAR HIDOYATOVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "58"
+    },
+    {
+        "FullName": "ISAEV JASURBEK MUZAFFAROVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "59"
+    },
+    {
+        "FullName": "KAMOLOV TURSUNBOY OCHILOVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "60"
+    },
+    {
+        "FullName": "KOMILOV ESOXON JO‘RAEVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "61"
+    },
+    {
+        "FullName": "PULOTOV FAXRIDIN SAYFIDINOVICH",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "62"
+    },
+    {
+        "FullName": "SHIRINOV SHAVKAT DAVLATOVICH ",
+        "ApprovedDate": "2022-05-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "63"
+    },
+    {
+        "FullName": "ABDURAXMANOV JALOLIDDIN MIRDJAMILEVICH ",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "64"
+    },
+    {
+        "FullName": "ADIZOV SHAHOBIDDIN MUHAMMADOVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "65"
+    },
+    {
+        "FullName": "ASHIROV OYBEK NORBOY O‘G‘LI",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "66"
+    },
+    {
+        "FullName": "ATAMURODOV ALIMARDON ABDIRIMOVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "67"
+    },
+    {
+        "FullName": "BEKBANOV BISENBAY AREPOVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "68"
+    },
+    {
+        "FullName": "BOLTAEV AZIZ KUZIEVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "69"
+    },
+    {
+        "FullName": "G‘ANIEVA ZUMRAD ABDUXAKIMOVNA",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "70"
+    },
+    {
+        "FullName": "ISMAILOVA DILNOZA SAFARALIEVNA ",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "71"
+    },
+    {
+        "FullName": "MIRZAXIDOV O‘RMONBEK",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "72"
+    },
+    {
+        "FullName": "NIGMATULLAEV BAXTIYOR ALIMOVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "73"
+    },
+    {
+        "FullName": "RAYIMBAEV DJAVLANBEK RADJAPBAEVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "74"
+    },
+    {
+        "FullName": "TURDISHEV BEKMURAT XOJAMURATOVICH",
+        "ApprovedDate": "2022-06-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "75"
+    },
+    {
+        "FullName": "Arzikulov Farxodjon Nematjonovich",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "76"
+    },
+    {
+        "FullName": "Xugaev Avas Vasilevich ",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "77"
+    },
+    {
+        "FullName": "Muzafarova Sultanpasha Anvarovna",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "78"
+    },
+    {
+        "FullName": "Imamaliev Baxtiyor Alisherovich ",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "79"
+    },
+    {
+        "FullName": "Mustafakulov Muhammad Abduvalievich ",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "80"
+    },
+    {
+        "FullName": "Boyko Yelena Vladimirovna",
+        "ApprovedDate": "2022-07-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "81"
+    },
+    {
+        "FullName": "Saparbaev Aziz Adamovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "82"
+    },
+    {
+        "FullName": "Sharonov Iosif Aleksevich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "83"
+    },
+    {
+        "FullName": "Sharopov O‘tkirjon Baxodirovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "84"
+    },
+    {
+        "FullName": "Muxamadrasulov Shamsiddin Xasanovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "85"
+    },
+    {
+        "FullName": "Abdikamalova Aziza Baxtiyarovna",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "86"
+    },
+    {
+        "FullName": "Yo‘lbarsova Mashxuraxon Vaxobovna ",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "87"
+    },
+    {
+        "FullName": "Baev Artyom Yurevich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "88"
+    },
+    {
+        "FullName": "Leviskaya Yuliya Vladimirovna",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "89"
+    },
+    {
+        "FullName": "Charishnikova Oksana Stanislavovna",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "90"
+    },
+    {
+        "FullName": "Sayitov Sardor Savriddinovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "91"
+    },
+    {
+        "FullName": "Alimuxamedov Ilhom Mizratovich ",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "92"
+    },
+    {
+        "FullName": "Qarshiev Odash Abdugafforovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "93"
+    },
+    {
+        "FullName": "Almatov Ilxomjon Mirzabek o‘g‘li",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "94"
+    },
+    {
+        "FullName": "Usmonov Marifjon Shakirovich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "95"
+    },
+    {
+        "FullName": "Turg‘unov Murodjon Tursunbaevich",
+        "ApprovedDate": "2022-08-31",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "96"
+    },
+    {
+        "FullName": "Boltaev Ganjaboy Sapaevich",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "97"
+    },
+    {
+        "FullName": "Axynbabaev Ulug‘bek Oxunjonovich ",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "98"
+    },
+    {
+        "FullName": "Kulmatov Ilxom Tursunmuradovich",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "99"
+    },
+    {
+        "FullName": "Djuraev Sobir Mirzaevich",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "100"
+    },
+    {
+        "FullName": "Shukurullaev Botir Amanboevich ",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "101"
+    },
+    {
+        "FullName": "Nimchik Aleksey Grigorevich ",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "102"
+    },
+    {
+        "FullName": "Bozorov Aminjon Nurilloevich",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "103"
+    },
+    {
+        "FullName": "Aminov Xamidulla Abdiraximovich",
+        "ApprovedDate": "2022-09-30",
+        "path_id": "611129f7db32b99538e0829c",
+        "ID": "104"
+    }
+]

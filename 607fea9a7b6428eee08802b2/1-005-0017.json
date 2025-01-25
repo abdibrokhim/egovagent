@@ -1,0 +1,911 @@
+[
+    {
+        "ID": "1",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek State University of World Languages",
+        "Professoroqituvchilarningumumiysoni": "727",
+        "Ayol": "560",
+        "Erkak": "167",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "2",
+        "Viloyatnomi": "Andijan",
+        "OTMnomi": "Andijan Institute of Mechanical Engineering",
+        "Professoroqituvchilarningumumiysoni": "279",
+        "Ayol": "62",
+        "Erkak": "217",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "3",
+        "Viloyatnomi": "Andijan",
+        "OTMnomi": "Andijan State University",
+        "Professoroqituvchilarningumumiysoni": "817",
+        "Ayol": "352",
+        "Erkak": "465",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "4",
+        "Viloyatnomi": "Andijan",
+        "OTMnomi": "Andijan Institute of Agriculture and Agrotechnology",
+        "Professoroqituvchilarningumumiysoni": "297",
+        "Ayol": "108",
+        "Erkak": "189",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "5",
+        "Viloyatnomi": "Andijan",
+        "OTMnomi": "Andijan Medical Institute",
+        "Professoroqituvchilarningumumiysoni": "640",
+        "Ayol": "324",
+        "Erkak": "316",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "6",
+        "Viloyatnomi": "Bukhara",
+        "OTMnomi": "Bukhara State University",
+        "Professoroqituvchilarningumumiysoni": "848",
+        "Ayol": "463",
+        "Erkak": "385",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "7",
+        "Viloyatnomi": "Bukhara",
+        "OTMnomi": "Bukhara Institute of Engineering Technology",
+        "Professoroqituvchilarningumumiysoni": "449",
+        "Ayol": "214",
+        "Erkak": "235",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "8",
+        "Viloyatnomi": "Bukhara",
+        "OTMnomi": "Bukhara Medical Institute",
+        "Professoroqituvchilarningumumiysoni": "788",
+        "Ayol": "372",
+        "Erkak": "416",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "9",
+        "Viloyatnomi": "Bukhara",
+        "OTMnomi": "Bukhara branch of the Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+        "Professoroqituvchilarningumumiysoni": "118",
+        "Ayol": "42",
+        "Erkak": "76",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "10",
+        "Viloyatnomi": "Jizzak",
+        "OTMnomi": "Jizzakh Polytechnic Institute",
+        "Professoroqituvchilarningumumiysoni": "408",
+        "Ayol": "107",
+        "Erkak": "301",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "11",
+        "Viloyatnomi": "Jizzak",
+        "OTMnomi": "Jizzakh State Pedagogical Institute",
+        "Professoroqituvchilarningumumiysoni": "547",
+        "Ayol": "181",
+        "Erkak": "366",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "12",
+        "Viloyatnomi": "Jizzak",
+        "OTMnomi": "Jizzakh branch of the National University of Uzbekistan",
+        "Professoroqituvchilarningumumiysoni": "46",
+        "Ayol": "14",
+        "Erkak": "32",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "13",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Karshi State University",
+        "Professoroqituvchilarningumumiysoni": "634",
+        "Ayol": "268",
+        "Erkak": "366",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "14",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Karshi Institute of Engineering Economics",
+        "Professoroqituvchilarningumumiysoni": "570",
+        "Ayol": "147",
+        "Erkak": "423",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "15",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Karshi branch of Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "81",
+        "Ayol": "37",
+        "Erkak": "44",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "16",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Shahrisabz branch of Tashkent State Pedagogical University",
+        "Professoroqituvchilarningumumiysoni": "50",
+        "Ayol": "2",
+        "Erkak": "48",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "17",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Karshi branch of the Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+        "Professoroqituvchilarningumumiysoni": "46",
+        "Ayol": "20",
+        "Erkak": "26",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "18",
+        "Viloyatnomi": "Kashkadarya",
+        "OTMnomi": "Tashkent Institute of Chemical Technology Shahrisabz",
+        "Professoroqituvchilarningumumiysoni": "44",
+        "Ayol": "16",
+        "Erkak": "28",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "19",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Karakalpak Medical Institute",
+        "Professoroqituvchilarningumumiysoni": "149",
+        "Ayol": "108",
+        "Erkak": "141",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "20",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Nukus branch of the Uzbek State Institute of Arts and Culture",
+        "Professoroqituvchilarningumumiysoni": "36",
+        "Ayol": "24",
+        "Erkak": "12",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "21",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Karakalpak State University",
+        "Professoroqituvchilarningumumiysoni": "750",
+        "Ayol": "309",
+        "Erkak": "441",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "22",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Nukus branch of Tashkent State Agrarian University",
+        "Professoroqituvchilarningumumiysoni": "161",
+        "Ayol": "62",
+        "Erkak": "99",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "23",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Nukus branch of Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "68",
+        "Ayol": "25",
+        "Erkak": "43",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "24",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Nukus branch of Navoi State Mining Institute",
+        "Professoroqituvchilarningumumiysoni": "13",
+        "Ayol": "3",
+        "Erkak": "10",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "25",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Nukus State Pedagogical Institute",
+        "Professoroqituvchilarningumumiysoni": "520",
+        "Ayol": "269",
+        "Erkak": "251",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "26",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Samarkand Institute of Veterinary Medicine Nukus branch",
+        "Professoroqituvchilarningumumiysoni": "14",
+        "Ayol": "6",
+        "Erkak": "8",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "27",
+        "Viloyatnomi": "Karakalpakstan",
+        "OTMnomi": "Ўзбекистон давлат жисмоний тарбия ва спорт университети Нукус филиали",
+        "Professoroqituvchilarningumumiysoni": "14",
+        "Ayol": "6",
+        "Erkak": "8",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "28",
+        "Viloyatnomi": "Navoi",
+        "OTMnomi": "Navoi State Pedagogical Institute",
+        "Professoroqituvchilarningumumiysoni": "497",
+        "Ayol": "303",
+        "Erkak": "194",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "29",
+        "Viloyatnomi": "Navoi",
+        "OTMnomi": "Navoi State Mining Institute",
+        "Professoroqituvchilarningumumiysoni": "230",
+        "Ayol": "53",
+        "Erkak": "177",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "30",
+        "Viloyatnomi": "Namangan",
+        "OTMnomi": "Namangan State University",
+        "Professoroqituvchilarningumumiysoni": "617",
+        "Ayol": "196",
+        "Erkak": "421",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "31",
+        "Viloyatnomi": "Namangan",
+        "OTMnomi": "Namangan Institute of Civil Engineering",
+        "Professoroqituvchilarningumumiysoni": "302",
+        "Ayol": "62",
+        "Erkak": "240",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "32",
+        "Viloyatnomi": "Namangan",
+        "OTMnomi": "Namangan Institute of Engineering Technology",
+        "Professoroqituvchilarningumumiysoni": "320",
+        "Ayol": "68",
+        "Erkak": "252",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "33",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand Institute of Veterinary Medicine",
+        "Professoroqituvchilarningumumiysoni": "410",
+        "Ayol": "70",
+        "Erkak": "340",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "34",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand State University",
+        "Professoroqituvchilarningumumiysoni": "841",
+        "Ayol": "270",
+        "Erkak": "571",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "35",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand State Institute of Foreign Languages",
+        "Professoroqituvchilarningumumiysoni": "388",
+        "Ayol": "265",
+        "Erkak": "123",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "36",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand Institute of Economics and Service",
+        "Professoroqituvchilarningumumiysoni": "199",
+        "Ayol": "62",
+        "Erkak": "137",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "37",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand Medical Institute",
+        "Professoroqituvchilarningumumiysoni": "531",
+        "Ayol": "259",
+        "Erkak": "272",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "38",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand branch of Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "123",
+        "Ayol": "22",
+        "Erkak": "101",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "39",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand State Institute of Architecture and Construction",
+        "Professoroqituvchilarningumumiysoni": "494",
+        "Ayol": "144",
+        "Erkak": "350",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "40",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Silk Road International Tourism University",
+        "Professoroqituvchilarningumumiysoni": "47",
+        "Ayol": "6",
+        "Erkak": "41",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "41",
+        "Viloyatnomi": "Samarkand",
+        "OTMnomi": "Samarkand branch of Tashkent State University of Economics",
+        "Professoroqituvchilarningumumiysoni": "32",
+        "Ayol": "6",
+        "Erkak": "28",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "42",
+        "Viloyatnomi": "Sirdare",
+        "OTMnomi": "Gulistan State University",
+        "Professoroqituvchilarningumumiysoni": "450",
+        "Ayol": "136",
+        "Erkak": "314",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "43",
+        "Viloyatnomi": "Sirdare",
+        "OTMnomi": "Yangier branch of the Tashkent Institute of Chemical Technology",
+        "Professoroqituvchilarningumumiysoni": "15",
+        "Ayol": "6",
+        "Erkak": "9",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "44",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Termez branch of Tashkent State Pedagogical University",
+        "Professoroqituvchilarningumumiysoni": "72",
+        "Ayol": "43",
+        "Erkak": "29",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "45",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Termez State University",
+        "Professoroqituvchilarningumumiysoni": "717",
+        "Ayol": "288",
+        "Erkak": "429",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "46",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Denau Institute of Entrepreneurship and Pedagogy",
+        "Professoroqituvchilarningumumiysoni": "121",
+        "Ayol": "58",
+        "Erkak": "63",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "47",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Termez branch of Tashkent State Agrarian University",
+        "Professoroqituvchilarningumumiysoni": "89",
+        "Ayol": "27",
+        "Erkak": "62",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "48",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Termez branch of the Tashkent Medical Academy",
+        "Professoroqituvchilarningumumiysoni": "103",
+        "Ayol": "50",
+        "Erkak": "53",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "49",
+        "Viloyatnomi": "Surkhandarya",
+        "OTMnomi": "Termez branch of Tashkent State Technical University",
+        "Professoroqituvchilarningumumiysoni": "110",
+        "Ayol": "31",
+        "Erkak": "79",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "50",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+        "Professoroqituvchilarningumumiysoni": "420",
+        "Ayol": "151",
+        "Erkak": "269",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "51",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Agrarian University",
+        "Professoroqituvchilarningumumiysoni": "504",
+        "Ayol": "137",
+        "Erkak": "367",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "52",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Medical Academy",
+        "Professoroqituvchilarningumumiysoni": "742",
+        "Ayol": "340",
+        "Erkak": "402",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "53",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Medical Pediatric Institute",
+        "Professoroqituvchilarningumumiysoni": "508",
+        "Ayol": "297",
+        "Erkak": "211",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "54",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Pharmaceutical Institute",
+        "Professoroqituvchilarningumumiysoni": "317",
+        "Ayol": "174",
+        "Erkak": "143",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "55",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Dental Institute",
+        "Professoroqituvchilarningumumiysoni": "451",
+        "Ayol": "267",
+        "Erkak": "184",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "56",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "State Conservatory of Uzbekistan",
+        "Professoroqituvchilarningumumiysoni": "218",
+        "Ayol": "120",
+        "Erkak": "98",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "57",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek State Institute of Arts and Culture",
+        "Professoroqituvchilarningumumiysoni": "198",
+        "Ayol": "90",
+        "Erkak": "108",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "58",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek State Academy of Choreography",
+        "Professoroqituvchilarningumumiysoni": "27",
+        "Ayol": "21",
+        "Erkak": "6",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "59",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek State University of Physical Culture and Sports",
+        "Professoroqituvchilarningumumiysoni": "418",
+        "Ayol": "167",
+        "Erkak": "251",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "60",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "National Institute of Art and Design",
+        "Professoroqituvchilarningumumiysoni": "190",
+        "Ayol": "79",
+        "Erkak": "111",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "61",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "503",
+        "Ayol": "215",
+        "Erkak": "288",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "62",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Law University",
+        "Professoroqituvchilarningumumiysoni": "438",
+        "Ayol": "196",
+        "Erkak": "142",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "63",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Transport University",
+        "Professoroqituvchilarningumumiysoni": "701",
+        "Ayol": "215",
+        "Erkak": "486",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "64",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "University of World Economy and Diplomacy",
+        "Professoroqituvchilarningumumiysoni": "123",
+        "Ayol": "85",
+        "Erkak": "38",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "65",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "International Islamic Academy of Uzbekistan",
+        "Professoroqituvchilarningumumiysoni": "140",
+        "Ayol": "55",
+        "Erkak": "85",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "66",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Institute of Architecture and Construction",
+        "Professoroqituvchilarningumumiysoni": "338",
+        "Ayol": "127",
+        "Erkak": "211",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "67",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Chirchik State Pedagogical Institute of Tashkent region",
+        "Professoroqituvchilarningumumiysoni": "299",
+        "Ayol": "123",
+        "Erkak": "176",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "68",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent branch of the IM Gubkin Russian State University of Oil and Gas",
+        "Professoroqituvchilarningumumiysoni": "87",
+        "Ayol": "28",
+        "Erkak": "59",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "69",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Branch of the Moscow State University named after MV Lomonosov in Tashkent",
+        "Professoroqituvchilarningumumiysoni": "37",
+        "Ayol": "15",
+        "Erkak": "22",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "70",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent branch of the Russian University of Economics named after GV Plekhanov",
+        "Professoroqituvchilarningumumiysoni": "59",
+        "Ayol": "21",
+        "Erkak": "38",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "71",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Turin Polytechnic University in Tashkent",
+        "Professoroqituvchilarningumumiysoni": "48",
+        "Ayol": "9",
+        "Erkak": "39",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "72",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Westminster International University, Tashkent",
+        "Professoroqituvchilarningumumiysoni": "228",
+        "Ayol": "67",
+        "Erkak": "161",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "73",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Singapore Institute of Management Development in Tashkent",
+        "Professoroqituvchilarningumumiysoni": "30",
+        "Ayol": "11",
+        "Erkak": "19",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "74",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Inkha University in Tashkent",
+        "Professoroqituvchilarningumumiysoni": "63",
+        "Ayol": "16",
+        "Erkak": "47",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "75",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Almalyk branch of MISIS National Technological Research University",
+        "Professoroqituvchilarningumumiysoni": "63",
+        "Ayol": "16",
+        "Erkak": "47",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "76",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Puchon University in Tashkent",
+        "Professoroqituvchilarningumumiysoni": "66",
+        "Ayol": "29",
+        "Erkak": "37",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "77",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Almalyk branch of Tashkent State Technical University",
+        "Professoroqituvchilarningumumiysoni": "125",
+        "Ayol": "35",
+        "Erkak": "95",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "78",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "National University of Uzbekistan",
+        "Professoroqituvchilarningumumiysoni": "959",
+        "Ayol": "723",
+        "Erkak": "236",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "79",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek University of Journalism and Mass Communications",
+        "Professoroqituvchilarningumumiysoni": "55",
+        "Ayol": "47",
+        "Erkak": "8",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "80",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Technical University",
+        "Professoroqituvchilarningumumiysoni": "938",
+        "Ayol": "409",
+        "Erkak": "529",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "81",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State University of Economics",
+        "Professoroqituvchilarningumumiysoni": "438",
+        "Ayol": "196",
+        "Erkak": "242",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "82",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Financial Institute",
+        "Professoroqituvchilarningumumiysoni": "360",
+        "Ayol": "140",
+        "Erkak": "220",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "83",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Institute of Textile and Light Industry",
+        "Professoroqituvchilarningumumiysoni": "351",
+        "Ayol": "159",
+        "Erkak": "192",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "84",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State University of Oriental Studies",
+        "Professoroqituvchilarningumumiysoni": "331",
+        "Ayol": "217",
+        "Erkak": "114",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "85",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent Institute of Chemical Technology",
+        "Professoroqituvchilarningumumiysoni": "464",
+        "Ayol": "144",
+        "Erkak": "320",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "86",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State Pedagogical University",
+        "Professoroqituvchilarningumumiysoni": "615",
+        "Ayol": "374",
+        "Erkak": "241",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "87",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent State University of Uzbek Language and Literature",
+        "Professoroqituvchilarningumumiysoni": "184",
+        "Ayol": "103",
+        "Erkak": "81",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "88",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Tashkent branch of Samarkand Institute of Veterinary Medicine",
+        "Professoroqituvchilarningumumiysoni": "31",
+        "Ayol": "6",
+        "Erkak": "25",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "89",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "University of Geological Sciences",
+        "Professoroqituvchilarningumumiysoni": "5",
+        "Ayol": "2",
+        "Erkak": "3",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "90",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Uzbek National Institute of Musical Arts named after Yunus Rajabi",
+        "Professoroqituvchilarningumumiysoni": "52",
+        "Ayol": "25",
+        "Erkak": "27",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "91",
+        "Viloyatnomi": "Tashkent",
+        "OTMnomi": "Specialized branch of Tashkent State Law University",
+        "Professoroqituvchilarningumumiysoni": "27",
+        "Ayol": "14",
+        "Erkak": "13",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "92",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Fergana State University",
+        "Professoroqituvchilarningumumiysoni": "658",
+        "Ayol": "307",
+        "Erkak": "351",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "93",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Fergana Polytechnic Institute",
+        "Professoroqituvchilarningumumiysoni": "566",
+        "Ayol": "205",
+        "Erkak": "361",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "94",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Kokand State Pedagogical Institute",
+        "Professoroqituvchilarningumumiysoni": "464",
+        "Ayol": "296",
+        "Erkak": "168",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "95",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Fergana branch of the Tashkent Medical Academy",
+        "Professoroqituvchilarningumumiysoni": "122",
+        "Ayol": "46",
+        "Erkak": "76",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "96",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Fergana regional branch of the Uzbek State Institute of Arts and Culture",
+        "Professoroqituvchilarningumumiysoni": "23",
+        "Ayol": "7",
+        "Erkak": "16",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "97",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Fergana branch of Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "106",
+        "Ayol": "29",
+        "Erkak": "77",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "98",
+        "Viloyatnomi": "Ferghana",
+        "OTMnomi": "Kokand branch of Tashkent State Technical University",
+        "Professoroqituvchilarningumumiysoni": "22",
+        "Ayol": "0",
+        "Erkak": "22",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "99",
+        "Viloyatnomi": "Khorezm",
+        "OTMnomi": "Urgench State University",
+        "Professoroqituvchilarningumumiysoni": "830",
+        "Ayol": "410",
+        "Erkak": "420",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "100",
+        "Viloyatnomi": "Khorezm",
+        "OTMnomi": "Urgench branch of the Tashkent Medical Academy",
+        "Professoroqituvchilarningumumiysoni": "252",
+        "Ayol": "128",
+        "Erkak": "124",
+        "path_id": "61028ef92a2e256d868e834e"
+    },
+    {
+        "ID": "101",
+        "Viloyatnomi": "Khorezm",
+        "OTMnomi": "Urgench branch of Tashkent University of Information Technologies",
+        "Professoroqituvchilarningumumiysoni": "76",
+        "Ayol": "19",
+        "Erkak": "57",
+        "path_id": "61028ef92a2e256d868e834e"
+    }
+]

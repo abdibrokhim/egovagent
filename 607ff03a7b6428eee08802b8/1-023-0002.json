@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Министерство Туризма и культурного наследия",
+        "location": "171 улица Фурката, Ташкент",
+        "time": "09:00-18:00",
+        "phonenumber": "712050600",
+        "www": "motach.uz",
+        "email": "info@motach.uz",
+        "head": "Абдухакимов Азиз Абдукахарович",
+        "geo": "https://www.google.com/maps/place/Uzbektourism/@41.3372997,69.2820728,19.21z/data=!4m5!3m4!1s0x38ae8b11d89b0367:0x51142a231734d8ae!8m2!3d41.3373588!4d69.2820697",
+        "path_id": "610b6eaa1a64fdd0373a8e9d",
+        "ID": "1"
+    },
+    {
+        "name": "O'zbekiston Respublikasi Turizm va madaniy meros vazirligi",
+        "location": "171 Furqat ko'chasi, Toshkent",
+        "time": "09:00-18:00",
+        "phonenumber": "712050600",
+        "www": "motach.uz",
+        "email": "info@motach.uz",
+        "head": "Abduxakimov Aziz Abdukaxarovich",
+        "geo": "https://www.google.com/maps/place/Uzbektourism/@41.3372997,69.2820728,19.21z/data=!4m5!3m4!1s0x38ae8b11d89b0367:0x51142a231734d8ae!8m2!3d41.3373588!4d69.2820698",
+        "path_id": "610b6eaa1a64fdd0373a8e9d",
+        "ID": "2"
+    },
+    {
+        "name": "Ministry of Tourism and Cultural heritage of the Republic of Uzbekistan",
+        "location": "171 Furkat Street, Tashkent, Uzbekistan",
+        "time": "09:00-18:00",
+        "phonenumber": "712050600",
+        "www": "motach.uz",
+        "email": "info@motach.uz",
+        "head": "Aziz Abduhakimov",
+        "geo": "https://www.google.com/maps/place/Uzbektourism/@41.3372997,69.2820728,19.21z/data=!4m5!3m4!1s0x38ae8b11d89b0367:0x51142a231734d8ae!8m2!3d41.3373588!4d69.2820699",
+        "path_id": "610b6eaa1a64fdd0373a8e9d",
+        "ID": "3"
+    }
+]

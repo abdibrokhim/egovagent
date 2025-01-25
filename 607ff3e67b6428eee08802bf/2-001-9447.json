@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "64db50d9b04a41cb2e29c684"
-    },
-    {
         "Hudud": "Republic of Uzbekistan",
         "Olchovbirligi": "Units",
         "2010Y": "6264",
@@ -17,6 +14,8 @@
         "2019Y": "3172",
         "2020Y": "3347",
         "2021Y": "3775",
-        "2022Y": "4722"
+        "2022Y": "4722",
+        "path_id": "64db50d9b04a41cb2e29c684",
+        "ID": "1"
     }
 ]

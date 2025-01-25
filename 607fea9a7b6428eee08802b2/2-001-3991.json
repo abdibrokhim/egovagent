@@ -1,0 +1,46 @@
+[
+    {
+        "Hudud": "Academic Lyceum of Karakalpak State University",
+        "Olchovbirligi": "Units",
+        "2018Y": "276",
+        "2019Y": "312",
+        "2020Y": "365",
+        "2021Y": "312",
+        "2022Y": "260",
+        "path_id": "637b16ca4878653e5fe412c7",
+        "ID": "1"
+    },
+    {
+        "Hudud": "Academic Lyceum of Nukus State Pedagogical Institute",
+        "Olchovbirligi": "Units",
+        "2018Y": "275",
+        "2019Y": "468",
+        "2020Y": "312",
+        "2021Y": "312",
+        "2022Y": "312",
+        "path_id": "637b16ca4878653e5fe412c7",
+        "ID": "2"
+    },
+    {
+        "Hudud": "Academic Lyceum of Nukus branch of Tashkent State Agrarian University",
+        "Olchovbirligi": "Units",
+        "2018Y": "77",
+        "2019Y": "130",
+        "2020Y": "131",
+        "2021Y": "130",
+        "2022Y": "0",
+        "path_id": "637b16ca4878653e5fe412c7",
+        "ID": "3"
+    },
+    {
+        "Hudud": "Academic Lyceum of Nukus branch of Tashkent University of Information Technologies",
+        "Olchovbirligi": "Units",
+        "2018Y": "88",
+        "2019Y": "364",
+        "2020Y": "294",
+        "2021Y": "208",
+        "2022Y": "0",
+        "path_id": "637b16ca4878653e5fe412c7",
+        "ID": "4"
+    }
+]

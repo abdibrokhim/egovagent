@@ -1,0 +1,5903 @@
+[
+    {
+        "ID": "1",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110100",
+        "Yonalish mutaxassislik nomi": "Pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "2",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110200",
+        "Yonalish mutaxassislik nomi": "Preschool education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "3",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110300",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: speech therapy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "4",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110300",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: olegophrenopedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "5",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110300",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: deaf pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "6",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110300",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: sign language interpreting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "7",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110300",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "8",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110400",
+        "Yonalish mutaxassislik nomi": "Primary education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "9",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110500",
+        "Yonalish mutaxassislik nomi": "Fine arts and engineering graphics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "10",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110600",
+        "Yonalish mutaxassislik nomi": "Music education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "11",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110700",
+        "Yonalish mutaxassislik nomi": "Uzbek language and literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "12",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Kyrgyz",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "13",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Kazakh",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "14",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Karakalpak language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "15",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Russian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "16",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Tajik language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "17",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110800",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Turkmen",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "18",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110900",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "19",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110900",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "20",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110900",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: French",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "21",
+        "Talimturi": "B",
+        "Yonalishkodi": "60110900",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: Korean",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "22",
+        "Talimturi": "B",
+        "Yonalishkodi": "60111000",
+        "Yonalish mutaxassislik nomi": "Military education until the draft",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "23",
+        "Talimturi": "B",
+        "Yonalishkodi": "60111100",
+        "Yonalish mutaxassislik nomi": "National idea, foundations of spirituality and legal education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "24",
+        "Talimturi": "B",
+        "Yonalishkodi": "60111200",
+        "Yonalish mutaxassislik nomi": "Physical culture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "25",
+        "Talimturi": "B",
+        "Yonalishkodi": "60111300",
+        "Yonalish mutaxassislik nomi": "Technological education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "26",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210100",
+        "Yonalish mutaxassislik nomi": "Man-made art: musical sound direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "27",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210100",
+        "Yonalish mutaxassislik nomi": "Man-made art: film, television and radio sound direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "28",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210200",
+        "Yonalish mutaxassislik nomi": "Film-television operator",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "29",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210300",
+        "Yonalish mutaxassislik nomi": "Museology: museum management and cultural tourism",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "30",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210300",
+        "Yonalish mutaxassislik nomi": "Museum studies: expertise, conservation and repair of museum objects",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "31",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: automotive design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "32",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: interior design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "33",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: computer graphics and art photography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "34",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: costume design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "35",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: landscape design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "36",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: clothing and accessories",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "37",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: media design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "38",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: national costume",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "39",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: shoe and accessory design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "40",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: advertising and practical graphics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "41",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: industrial design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "42",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210400",
+        "Yonalish mutaxassislik nomi": "Design: textile and light industrial design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "43",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210500",
+        "Yonalish mutaxassislik nomi": "Painting: bench",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "44",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210500",
+        "Yonalish mutaxassislik nomi": "Painting: Majestic painting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "45",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210500",
+        "Yonalish mutaxassislik nomi": "Painting: theater-decoration painting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "46",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210500",
+        "Yonalish mutaxassislik nomi": "Painting: a pictorial solution to the film",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "47",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210500",
+        "Yonalish mutaxassislik nomi": "Coloring: cartoon and computer multiplication",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "48",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210600",
+        "Yonalish mutaxassislik nomi": "Graphics: desktop and book graphics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "49",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210600",
+        "Yonalish mutaxassislik nomi": "Graphics: calligraphy and miniatures",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "50",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210700",
+        "Yonalish mutaxassislik nomi": "Sculpting: Majestic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "51",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210700",
+        "Yonalish mutaxassislik nomi": "Sculpture: small plastic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "52",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210800",
+        "Yonalish mutaxassislik nomi": "Applied art: restoration of works of applied art",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "53",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210800",
+        "Yonalish mutaxassislik nomi": "Applied art: art jewelry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "54",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210800",
+        "Yonalish mutaxassislik nomi": "Applied art: artistic pottery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "55",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210800",
+        "Yonalish mutaxassislik nomi": "Applied art: artistic painting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "56",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210800",
+        "Yonalish mutaxassislik nomi": "Applied art: restoration of architectural monuments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "57",
+        "Talimturi": "B",
+        "Yonalishkodi": "60210900",
+        "Yonalish mutaxassislik nomi": "The art of composition",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "58",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: film criticism and analysis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "59",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: musicology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "60",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: art journalism",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "61",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: stage and screen dramaturgy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "62",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: fine and applied arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "63",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: theater studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "64",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211000",
+        "Yonalish mutaxassislik nomi": "Art studies: choreography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "65",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211100",
+        "Yonalish mutaxassislik nomi": "Acting: dramatic theater and film acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "66",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211100",
+        "Yonalish mutaxassislik nomi": "Acting art: puppet theater acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "67",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211100",
+        "Yonalish mutaxassislik nomi": "Acting: musical theater acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "68",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211100",
+        "Yonalish mutaxassislik nomi": "Acting art: variety acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "69",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211200",
+        "Yonalish mutaxassislik nomi": "Directing: dramatic theater direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "70",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211200",
+        "Yonalish mutaxassislik nomi": "Directing: film and television directing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "71",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211200",
+        "Yonalish mutaxassislik nomi": "Directed by: puppet theater director",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "72",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211200",
+        "Yonalish mutaxassislik nomi": "Directing: musical theater direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "73",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211200",
+        "Yonalish mutaxassislik nomi": "Directing: directing pop and public shows",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "74",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211300",
+        "Yonalish mutaxassislik nomi": "Conducting: academic choir conducting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "75",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211300",
+        "Yonalish mutaxassislik nomi": "Conducting: opera - symphony conducting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "76",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211300",
+        "Yonalish mutaxassislik nomi": "Conducting: pop orchestra conducting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "77",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211400",
+        "Yonalish mutaxassislik nomi": "Vocal art: academic singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "78",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211400",
+        "Yonalish mutaxassislik nomi": "Vocal art: traditional singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "79",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211400",
+        "Yonalish mutaxassislik nomi": "Vocal art: pop singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "80",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrument performance",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "81",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: traditional instruments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "82",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments (horn, trumpet)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "83",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments (percussion instruments)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "84",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: wind and percussion instruments (clarinet, saxophone)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "85",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments (clarinet, bassoon)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "86",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments (trombone, tuba)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "87",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments (flute, oboe, bassoon)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "88",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: stringed instruments (cello, double bass)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "89",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: stringed instruments (violin, alto)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "90",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: piano (organ)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "91",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: folk instruments (guizhak kabus bass, gizhyak kabus - contrabass)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "92",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: folk instruments (gizhjak, gizhjak alto)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "93",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: folk instruments (dutor, dutor bass, dutor contrabass, tanbur, dombira)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "94",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: folk instruments (percussion instruments)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "95",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: folk instruments (flute, bayan-accordion)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "96",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: folk instruments (rubob prima, Kashgar and Afghan rubob)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "97",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: folk instruments (chan)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "98",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (guitar, bass)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "99",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (guitar)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "100",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (percussion instruments)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "101",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (saxophone)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "102",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (trombone)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "103",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: pop instruments (trumpet)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "104",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211500",
+        "Yonalish mutaxassislik nomi": "Musical performance: pop instruments (piano)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "105",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211600",
+        "Yonalish mutaxassislik nomi": "Choreography (modern dance)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "106",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211600",
+        "Yonalish mutaxassislik nomi": "Choreography (head of choreography teams)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "107",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211700",
+        "Yonalish mutaxassislik nomi": "Folk art: Askian art",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "108",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211700",
+        "Yonalish mutaxassislik nomi": "Folk art: singing and dancing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "109",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211700",
+        "Yonalish mutaxassislik nomi": "Folk art: poetry and epic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "110",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211700",
+        "Yonalish mutaxassislik nomi": "Folk art: folklore and ethnography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "111",
+        "Talimturi": "B",
+        "Yonalishkodi": "60211800",
+        "Yonalish mutaxassislik nomi": "Cultural studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "112",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220100",
+        "Yonalish mutaxassislik nomi": "Religious studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "113",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220200",
+        "Yonalish mutaxassislik nomi": "Islamic studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "114",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220300",
+        "Yonalish mutaxassislik nomi": "History",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "115",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220400",
+        "Yonalish mutaxassislik nomi": "Archaeology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "116",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220500",
+        "Yonalish mutaxassislik nomi": "Philosophy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "117",
+        "Talimturi": "B",
+        "Yonalishkodi": "60220600",
+        "Yonalish mutaxassislik nomi": "Anthropology and ethnology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "118",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Teaching philology and languages",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "119",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Arabic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "120",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Dari language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "121",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "122",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Indonesian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "123",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Spanish",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "124",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Italian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "125",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Korean",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "126",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Kazakh language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "127",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Karakalpak language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "128",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and Language Teaching: Malay",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "129",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "130",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Russian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "131",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Tajik language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "132",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Turkish",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "133",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Turkmen language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "134",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Uzbek language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "135",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Uyghur language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "136",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and Language Teaching: Urdu",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "137",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Persian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "138",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: French",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "139",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Chinese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "140",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and Language Teaching: Hindi",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "141",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230100",
+        "Yonalish mutaxassislik nomi": "Philology and language teaching: Japanese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "142",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Translation Theory and Practice: Chinese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "143",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and Practice of Translation: Arabic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "144",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and Practice of Translation: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "145",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Translation Theory and Practice: Italian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "146",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Translation Theory and Practice: Korean",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "147",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and Practice of Translation: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "148",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and practice of translation: Russian language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "149",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and practice of translation: Turkish language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "150",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230200",
+        "Yonalish mutaxassislik nomi": "Theory and practice of translation: French",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "151",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230300",
+        "Yonalish mutaxassislik nomi": "Publishing work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "152",
+        "Talimturi": "B",
+        "Yonalishkodi": "60230400",
+        "Yonalish mutaxassislik nomi": "Computational Linguistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "153",
+        "Talimturi": "B",
+        "Yonalishkodi": "60310100",
+        "Yonalish mutaxassislik nomi": "Political science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "154",
+        "Talimturi": "B",
+        "Yonalishkodi": "60310200",
+        "Yonalish mutaxassislik nomi": "International relations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "155",
+        "Talimturi": "B",
+        "Yonalishkodi": "60310300",
+        "Yonalish mutaxassislik nomi": "Psychology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "156",
+        "Talimturi": "B",
+        "Yonalishkodi": "60310400",
+        "Yonalish mutaxassislik nomi": "Sociology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "157",
+        "Talimturi": "B",
+        "Yonalishkodi": "60320100",
+        "Yonalish mutaxassislik nomi": "Journalism",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "158",
+        "Talimturi": "B",
+        "Yonalishkodi": "60320200",
+        "Yonalish mutaxassislik nomi": "Information service and public relations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "159",
+        "Talimturi": "B",
+        "Yonalishkodi": "60320300",
+        "Yonalish mutaxassislik nomi": "Archival science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "160",
+        "Talimturi": "B",
+        "Yonalishkodi": "60320400",
+        "Yonalish mutaxassislik nomi": "Library and information activities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "161",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410100",
+        "Yonalish mutaxassislik nomi": "Economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "162",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410200",
+        "Yonalish mutaxassislik nomi": "Accounting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "163",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410300",
+        "Yonalish mutaxassislik nomi": "Taxes and taxation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "164",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410500",
+        "Yonalish mutaxassislik nomi": "Finance and financial technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "165",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410600",
+        "Yonalish mutaxassislik nomi": "Banking",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "166",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410700",
+        "Yonalish mutaxassislik nomi": "Statistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "167",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410800",
+        "Yonalish mutaxassislik nomi": "Management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "168",
+        "Talimturi": "B",
+        "Yonalishkodi": "60410900",
+        "Yonalish mutaxassislik nomi": "Business management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "169",
+        "Talimturi": "B",
+        "Yonalishkodi": "60411000",
+        "Yonalish mutaxassislik nomi": "Human resource management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "170",
+        "Talimturi": "B",
+        "Yonalishkodi": "60411100",
+        "Yonalish mutaxassislik nomi": "World economy and international economic relations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "171",
+        "Talimturi": "B",
+        "Yonalishkodi": "60411200",
+        "Yonalish mutaxassislik nomi": "Marketing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "172",
+        "Talimturi": "B",
+        "Yonalishkodi": "60411300",
+        "Yonalish mutaxassislik nomi": "Trade business",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "173",
+        "Talimturi": "B",
+        "Yonalishkodi": "60411400",
+        "Yonalish mutaxassislik nomi": "Country studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "174",
+        "Talimturi": "B",
+        "Yonalishkodi": "60420100",
+        "Yonalish mutaxassislik nomi": "Jurisprudence",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "175",
+        "Talimturi": "B",
+        "Yonalishkodi": "60420200",
+        "Yonalish mutaxassislik nomi": "State and community management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "176",
+        "Talimturi": "B",
+        "Yonalishkodi": "60510100",
+        "Yonalish mutaxassislik nomi": "Biology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "177",
+        "Talimturi": "B",
+        "Yonalishkodi": "60520100",
+        "Yonalish mutaxassislik nomi": "Meteorology and climatology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "178",
+        "Talimturi": "B",
+        "Yonalishkodi": "60520200",
+        "Yonalish mutaxassislik nomi": "Ecology and environmental protection",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "179",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530100",
+        "Yonalish mutaxassislik nomi": "Chemistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "180",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530200",
+        "Yonalish mutaxassislik nomi": "Geography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "181",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530300",
+        "Yonalish mutaxassislik nomi": "Geology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "182",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530400",
+        "Yonalish mutaxassislik nomi": "Hydrology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "183",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530500",
+        "Yonalish mutaxassislik nomi": "Physics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "184",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530600",
+        "Yonalish mutaxassislik nomi": "Mechanics and mathematical modeling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "185",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530700",
+        "Yonalish mutaxassislik nomi": "Astronomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "186",
+        "Talimturi": "B",
+        "Yonalishkodi": "60530800",
+        "Yonalish mutaxassislik nomi": "Seismology and seismometry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "187",
+        "Talimturi": "B",
+        "Yonalishkodi": "60540100",
+        "Yonalish mutaxassislik nomi": "Mathematics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "188",
+        "Talimturi": "B",
+        "Yonalishkodi": "60540200",
+        "Yonalish mutaxassislik nomi": "Applied mathematics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "189",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610100",
+        "Yonalish mutaxassislik nomi": "Information systems and technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "190",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610200",
+        "Yonalish mutaxassislik nomi": "Information security",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "191",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610300",
+        "Yonalish mutaxassislik nomi": "Computer engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "192",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610400",
+        "Yonalish mutaxassislik nomi": "Software engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "193",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610500",
+        "Yonalish mutaxassislik nomi": "Artificial intelligence",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "194",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610600",
+        "Yonalish mutaxassislik nomi": "Telecommunication technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "195",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610700",
+        "Yonalish mutaxassislik nomi": "Television technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "196",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610800",
+        "Yonalish mutaxassislik nomi": "Postal communication technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "197",
+        "Talimturi": "B",
+        "Yonalishkodi": "60610900",
+        "Yonalish mutaxassislik nomi": "Radioelectronic devices and systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "198",
+        "Talimturi": "B",
+        "Yonalishkodi": "60611000",
+        "Yonalish mutaxassislik nomi": "Wireless and Broadcast Engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "199",
+        "Talimturi": "B",
+        "Yonalishkodi": "60611100",
+        "Yonalish mutaxassislik nomi": "Information communication engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "200",
+        "Talimturi": "B",
+        "Yonalishkodi": "60611200",
+        "Yonalish mutaxassislik nomi": "Cyber Security Engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "201",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710100",
+        "Yonalish mutaxassislik nomi": "Chemical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "202",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710200",
+        "Yonalish mutaxassislik nomi": "Biotechnology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "203",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710300",
+        "Yonalish mutaxassislik nomi": "Printing and packaging engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "204",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710400",
+        "Yonalish mutaxassislik nomi": "Energy engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "205",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710500",
+        "Yonalish mutaxassislik nomi": "Electrical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "206",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710600",
+        "Yonalish mutaxassislik nomi": "Hydropower",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "207",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710700",
+        "Yonalish mutaxassislik nomi": "Electronics and instrumentation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "208",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710800",
+        "Yonalish mutaxassislik nomi": "Metrology and standardization",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "209",
+        "Talimturi": "B",
+        "Yonalishkodi": "60710900",
+        "Yonalish mutaxassislik nomi": "Automation of technological processes and production",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "210",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711000",
+        "Yonalish mutaxassislik nomi": "Mechatronics and robotics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "211",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711100",
+        "Yonalish mutaxassislik nomi": "Biomedical Engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "212",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711200",
+        "Yonalish mutaxassislik nomi": "Metallurgical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "213",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711300",
+        "Yonalish mutaxassislik nomi": "Technologies of metals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "214",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711400",
+        "Yonalish mutaxassislik nomi": "Vehicle engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "215",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711500",
+        "Yonalish mutaxassislik nomi": "Aviation Engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "216",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711600",
+        "Yonalish mutaxassislik nomi": "Space technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "217",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711700",
+        "Yonalish mutaxassislik nomi": "Aerospace technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "218",
+        "Talimturi": "B",
+        "Yonalishkodi": "60711800",
+        "Yonalish mutaxassislik nomi": "Environmental engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "219",
+        "Talimturi": "B",
+        "Yonalishkodi": "60712300",
+        "Yonalish mutaxassislik nomi": "Mechanical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "220",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720100",
+        "Yonalish mutaxassislik nomi": "Food technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "221",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720200",
+        "Yonalish mutaxassislik nomi": "Technology of perfumery and cosmetic products",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "222",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720300",
+        "Yonalish mutaxassislik nomi": "Materials science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "223",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720400",
+        "Yonalish mutaxassislik nomi": "Technological machines and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "224",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720400",
+        "Yonalish mutaxassislik nomi": "Technological machines and equipment: woodworking technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "225",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720500",
+        "Yonalish mutaxassislik nomi": "Deep gas processing technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "226",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720600",
+        "Yonalish mutaxassislik nomi": "Technology of oil and oil-gas processing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "227",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720700",
+        "Yonalish mutaxassislik nomi": "Light industrial engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "228",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720800",
+        "Yonalish mutaxassislik nomi": "Mining work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "229",
+        "Talimturi": "B",
+        "Yonalishkodi": "60720900",
+        "Yonalish mutaxassislik nomi": "Geology, prospecting and exploration of mineral deposits",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "230",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721000",
+        "Yonalish mutaxassislik nomi": "Hydrogeology and engineering geology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "231",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721100",
+        "Yonalish mutaxassislik nomi": "Oil and gas business",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "232",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721200",
+        "Yonalish mutaxassislik nomi": "Mining electrical mechanics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "233",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721300",
+        "Yonalish mutaxassislik nomi": "Techniques and technology of geological exploration",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "234",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721400",
+        "Yonalish mutaxassislik nomi": "Mining, processing techniques and technology of rare and radioactive metal ores",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "235",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721500",
+        "Yonalish mutaxassislik nomi": "Geodesy and geoinformatics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "236",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721600",
+        "Yonalish mutaxassislik nomi": "Cartography and remote sensing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "237",
+        "Talimturi": "B",
+        "Yonalishkodi": "60721700",
+        "Yonalish mutaxassislik nomi": "Cadastre",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "238",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730100",
+        "Yonalish mutaxassislik nomi": "Architecture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "239",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730200",
+        "Yonalish mutaxassislik nomi": "Organization and management of communal infrastructure",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "240",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730300",
+        "Yonalish mutaxassislik nomi": "Civil engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "241",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730400",
+        "Yonalish mutaxassislik nomi": "Construction and operation of engineering communications",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "242",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730500",
+        "Yonalish mutaxassislik nomi": "Road engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "243",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730600",
+        "Yonalish mutaxassislik nomi": "Hydraulic and geotechnical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "244",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730700",
+        "Yonalish mutaxassislik nomi": "Value engineering and real estate management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "245",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730800",
+        "Yonalish mutaxassislik nomi": "Reconstruction and restoration of architectural monuments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "246",
+        "Talimturi": "B",
+        "Yonalishkodi": "60730900",
+        "Yonalish mutaxassislik nomi": "Urban construction and design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "247",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810100",
+        "Yonalish mutaxassislik nomi": "Mechanization of agriculture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "248",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810200",
+        "Yonalish mutaxassislik nomi": "Agrochemistry and soil science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "249",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810300",
+        "Yonalish mutaxassislik nomi": "Soil assessment and land degradation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "250",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810400",
+        "Yonalish mutaxassislik nomi": "Agronomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "251",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810500",
+        "Yonalish mutaxassislik nomi": "Plant protection and quarantine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "252",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810600",
+        "Yonalish mutaxassislik nomi": "Selection and breeding of agricultural crops",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "253",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810700",
+        "Yonalish mutaxassislik nomi": "Technology of storage and processing of agricultural products",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "254",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810800",
+        "Yonalish mutaxassislik nomi": "Zooengineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "255",
+        "Talimturi": "B",
+        "Yonalishkodi": "60810900",
+        "Yonalish mutaxassislik nomi": "Silk and mulberry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "256",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811000",
+        "Yonalish mutaxassislik nomi": "Fruit and vegetable growing and viticulture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "257",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811100",
+        "Yonalish mutaxassislik nomi": "Technology of cultivation and processing of medicinal plants",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "258",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811200",
+        "Yonalish mutaxassislik nomi": "Water management and reclamation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "259",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811300",
+        "Yonalish mutaxassislik nomi": "Use of hydraulic facilities and pumping stations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "260",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811400",
+        "Yonalish mutaxassislik nomi": "Ameliorative hydrogeology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "261",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811500",
+        "Yonalish mutaxassislik nomi": "Engineering systems of water supply",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "262",
+        "Talimturi": "B",
+        "Yonalishkodi": "60811600",
+        "Yonalish mutaxassislik nomi": "Land cadastre and land surveying",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "263",
+        "Talimturi": "B",
+        "Yonalishkodi": "60820100",
+        "Yonalish mutaxassislik nomi": "Forestry and greening of residential areas",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "264",
+        "Talimturi": "B",
+        "Yonalishkodi": "60830100",
+        "Yonalish mutaxassislik nomi": "Water bioresources and aquaculture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "265",
+        "Talimturi": "B",
+        "Yonalishkodi": "60840100",
+        "Yonalish mutaxassislik nomi": "Veterinary medicine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "266",
+        "Talimturi": "B",
+        "Yonalishkodi": "60840200",
+        "Yonalish mutaxassislik nomi": "Veterinary pharmaceuticals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "267",
+        "Talimturi": "B",
+        "Yonalishkodi": "60840300",
+        "Yonalish mutaxassislik nomi": "Veterinary sanitary expertise",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "268",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910100",
+        "Yonalish mutaxassislik nomi": "Dentistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "269",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910200",
+        "Yonalish mutaxassislik nomi": "Treatment work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "270",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910300",
+        "Yonalish mutaxassislik nomi": "Pediatric work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "271",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910400",
+        "Yonalish mutaxassislik nomi": "Medical preventive work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "272",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910600",
+        "Yonalish mutaxassislik nomi": "Senior Nursing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "273",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910700",
+        "Yonalish mutaxassislik nomi": "Fundamental medicine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "274",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910800",
+        "Yonalish mutaxassislik nomi": "Pharmacy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "275",
+        "Talimturi": "B",
+        "Yonalishkodi": "60910900",
+        "Yonalish mutaxassislik nomi": "Industrial pharmacy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "276",
+        "Talimturi": "B",
+        "Yonalishkodi": "60920100",
+        "Yonalish mutaxassislik nomi": "Social work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "277",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010100",
+        "Yonalish mutaxassislik nomi": "Tourism and hospitality",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "278",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: academic rowing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "279",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: rhythmic gymnastics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "280",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: badminton",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "281",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: kayaking and canoeing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "282",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: basketball",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "283",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: belt wrestling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "284",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: biathlon",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "285",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: boxing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "286",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: cycling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "287",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: volleyball",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "288",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: gymnastics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "289",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: judo",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "290",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: athletics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "291",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: archery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "292",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: karate WKF",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "293",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: cyber sports",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "294",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: kickboxing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "295",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: wrestling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "296",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: fencing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "297",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: handball",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "298",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: mini-football",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "299",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: Muay Thai",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "300",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: weightlifting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "301",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: horse sports",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "302",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: para jiu-do",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "303",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: para athletics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "304",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: para powerlifting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "305",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: para swimming",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "306",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: para taekwondo WTF",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "307",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: rugby",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "308",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: sambo",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "309",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: synchronized swimming",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "310",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: table tennis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "311",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: water polo",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "312",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: swimming",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "313",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: taekwondo WTF",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "314",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: tennis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "315",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: mountain skiing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "316",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: triathlon",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "317",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: figure skating",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "318",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: football",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "319",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: hockey",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "320",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: field hockey",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "321",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: chess",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "322",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: freestyle wrestling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "323",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: rowing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "324",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010200",
+        "Yonalish mutaxassislik nomi": "Sports activities: Greco-Roman wrestling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "325",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010300",
+        "Yonalish mutaxassislik nomi": "Adaptive physical education and sports",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "326",
+        "Talimturi": "B",
+        "Yonalishkodi": "61010400",
+        "Yonalish mutaxassislik nomi": "Logistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "327",
+        "Talimturi": "B",
+        "Yonalishkodi": "61020100",
+        "Yonalish mutaxassislik nomi": "Life safety",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "328",
+        "Talimturi": "B",
+        "Yonalishkodi": "61020200",
+        "Yonalish mutaxassislik nomi": "Labor protection and technical safety",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "329",
+        "Talimturi": "B",
+        "Yonalishkodi": "61040100",
+        "Yonalish mutaxassislik nomi": "Air traffic control",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "330",
+        "Talimturi": "B",
+        "Yonalishkodi": "61040200",
+        "Yonalish mutaxassislik nomi": "Organization of traffic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "331",
+        "Talimturi": "B",
+        "Yonalishkodi": "61040300",
+        "Yonalish mutaxassislik nomi": "Flight operation of aircraft",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "332",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110101",
+        "Yonalish mutaxassislik nomi": "Theory and history of pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "333",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110102",
+        "Yonalish mutaxassislik nomi": "Pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "334",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110103",
+        "Yonalish mutaxassislik nomi": "Testology and knowledge assessment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "335",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110201",
+        "Yonalish mutaxassislik nomi": "Theory and methodology of education and training (preschool education)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "336",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110301",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: speech therapy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "337",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110301",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: oligophrenopedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "338",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110301",
+        "Yonalish mutaxassislik nomi": "Special pedagogy: deaf pedagogy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "339",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110401",
+        "Yonalish mutaxassislik nomi": "Theory and methodology of education and upbringing (primary education)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "340",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110501",
+        "Yonalish mutaxassislik nomi": "Visual arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "341",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110502",
+        "Yonalish mutaxassislik nomi": "Engineering graphics and design theory",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "342",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110601",
+        "Yonalish mutaxassislik nomi": "Music Education and the Arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "343",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110701",
+        "Yonalish mutaxassislik nomi": "Uzbek language and literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "344",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110801",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Kyrgyz",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "345",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110801",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Kazakh",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "346",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110801",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Karakalpak language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "347",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110801",
+        "Yonalish mutaxassislik nomi": "Mother tongue and literature: Russian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "348",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110901",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "349",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110901",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "350",
+        "Talimturi": "M",
+        "Yonalishkodi": "70110901",
+        "Yonalish mutaxassislik nomi": "Foreign language and literature: Korean",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "351",
+        "Talimturi": "M",
+        "Yonalishkodi": "70111001",
+        "Yonalish mutaxassislik nomi": "Theory and methodology of education and upbringing (military education before conscription)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "352",
+        "Talimturi": "M",
+        "Yonalishkodi": "70111101",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching social and humanitarian sciences (fundamentals of spirituality)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "353",
+        "Talimturi": "M",
+        "Yonalishkodi": "70111102",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching social and humanitarian sciences (law education)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "354",
+        "Talimturi": "M",
+        "Yonalishkodi": "70111201",
+        "Yonalish mutaxassislik nomi": "Theory and methodology of physical training and sports training",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "355",
+        "Talimturi": "M",
+        "Yonalishkodi": "70111301",
+        "Yonalish mutaxassislik nomi": "Theory and methodology of education and training (technological education)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "356",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210101",
+        "Yonalish mutaxassislik nomi": "Sound Direction: Music Sound Direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "357",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210101",
+        "Yonalish mutaxassislik nomi": "Sound direction: film, television and radio sound direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "358",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210201",
+        "Yonalish mutaxassislik nomi": "Cinematography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "359",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210202",
+        "Yonalish mutaxassislik nomi": "Teleoperator",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "360",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210301",
+        "Yonalish mutaxassislik nomi": "Museum studies, conservation, repair and preservation of historical and cultural objects",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "361",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "362",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: interior design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "363",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: costume design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "364",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: landscape design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "365",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: clothing and accessories",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "366",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: media design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "367",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: industrial design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "368",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210401",
+        "Yonalish mutaxassislik nomi": "Design: textile and light industrial design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "369",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210402",
+        "Yonalish mutaxassislik nomi": "Computer graphics and design",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "370",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210403",
+        "Yonalish mutaxassislik nomi": "Practical graphics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "371",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210404",
+        "Yonalish mutaxassislik nomi": "Computer graphics and artistic photography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "372",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210501",
+        "Yonalish mutaxassislik nomi": "Painting: easel painting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "373",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210501",
+        "Yonalish mutaxassislik nomi": "Painting: Majestic painting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "374",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210502",
+        "Yonalish mutaxassislik nomi": "Visual solution of movies and television",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "375",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210503",
+        "Yonalish mutaxassislik nomi": "Cartoon and computer multiplication",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "376",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210601",
+        "Yonalish mutaxassislik nomi": "Workbench and book graphics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "377",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210701",
+        "Yonalish mutaxassislik nomi": "Sculpture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "378",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210801",
+        "Yonalish mutaxassislik nomi": "Fine and applied decorative arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "379",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210802",
+        "Yonalish mutaxassislik nomi": "Repair of works of art and architectural monuments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "380",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210803",
+        "Yonalish mutaxassislik nomi": "Artistic pottery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "381",
+        "Talimturi": "M",
+        "Yonalishkodi": "70210901",
+        "Yonalish mutaxassislik nomi": "The art of composition",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "382",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211001",
+        "Yonalish mutaxassislik nomi": "Theater art",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "383",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211002",
+        "Yonalish mutaxassislik nomi": "The art of music",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "384",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211003",
+        "Yonalish mutaxassislik nomi": "Art theory and history: film studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "385",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211003",
+        "Yonalish mutaxassislik nomi": "Art theory and history: choreography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "386",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211003",
+        "Yonalish mutaxassislik nomi": "Art theory and history: visual and applied arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "387",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211101",
+        "Yonalish mutaxassislik nomi": "Acting: the art of dramatic theater and film acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "388",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211101",
+        "Yonalish mutaxassislik nomi": "Acting: the art of puppetry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "389",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211101",
+        "Yonalish mutaxassislik nomi": "Acting: the art of musical theater acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "390",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211101",
+        "Yonalish mutaxassislik nomi": "Acting: the art of variety acting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "391",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211201",
+        "Yonalish mutaxassislik nomi": "Directing: dramatic theater direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "392",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211201",
+        "Yonalish mutaxassislik nomi": "Directing: film and television directing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "393",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211201",
+        "Yonalish mutaxassislik nomi": "Directed by: puppet theater director",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "394",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211201",
+        "Yonalish mutaxassislik nomi": "Directing: musical theater direction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "395",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211201",
+        "Yonalish mutaxassislik nomi": "Directing: directing pop and public shows",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "396",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211301",
+        "Yonalish mutaxassislik nomi": "Conducting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "397",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211401",
+        "Yonalish mutaxassislik nomi": "Vocal art: academic singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "398",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211401",
+        "Yonalish mutaxassislik nomi": "Vocal art: traditional singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "399",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211401",
+        "Yonalish mutaxassislik nomi": "Vocal art: pop singing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "400",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211501",
+        "Yonalish mutaxassislik nomi": "piano (organ)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "401",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211502",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: traditional instruments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "402",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211502",
+        "Yonalish mutaxassislik nomi": "Instrumental performance: wind and percussion instruments",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "403",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211601",
+        "Yonalish mutaxassislik nomi": "The art of choreography and choreography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "404",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211701",
+        "Yonalish mutaxassislik nomi": "Folk art: singing and dancing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "405",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211701",
+        "Yonalish mutaxassislik nomi": "Folk art: folklore and ethnography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "406",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211701",
+        "Yonalish mutaxassislik nomi": "Folk art: musical performance",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "407",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211801",
+        "Yonalish mutaxassislik nomi": "Management of culture and arts",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "408",
+        "Talimturi": "M",
+        "Yonalishkodi": "70211802",
+        "Yonalish mutaxassislik nomi": "Cultural studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "409",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220102",
+        "Yonalish mutaxassislik nomi": "Comparative religion",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "410",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220206",
+        "Yonalish mutaxassislik nomi": "Islamic studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "411",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220301",
+        "Yonalish mutaxassislik nomi": "History",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "412",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220302",
+        "Yonalish mutaxassislik nomi": "Historiography, source studies and methods of historical research",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "413",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220303",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching social and humanitarian sciences (history)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "414",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220401",
+        "Yonalish mutaxassislik nomi": "Archaeology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "415",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220402",
+        "Yonalish mutaxassislik nomi": "Ethnogenesis (ethnic history of the Uzbek people)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "416",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220501",
+        "Yonalish mutaxassislik nomi": "Philosophy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "417",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220502",
+        "Yonalish mutaxassislik nomi": "Eastern philosophy and culture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "418",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220503",
+        "Yonalish mutaxassislik nomi": "Hermeneutics of Sufism",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "419",
+        "Talimturi": "M",
+        "Yonalishkodi": "70220601",
+        "Yonalish mutaxassislik nomi": "Ethnography, ethnology and anthropology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "420",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Arabic",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "421",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Dari language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "422",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "423",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Spanish",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "424",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Italian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "425",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Korean",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "426",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Kazakh language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "427",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Karakalpak language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "428",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "429",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Russian language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "430",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Tajik language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "431",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Turkmen language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "432",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Uzbek language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "433",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Urdu",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "434",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Persian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "435",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: French",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "436",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Chinese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "437",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Hindi",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "438",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230101",
+        "Yonalish mutaxassislik nomi": "Linguistics: Japanese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "439",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230103",
+        "Yonalish mutaxassislik nomi": "Folklore and dialectology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "440",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: literary theory",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "441",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Arabic literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "442",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Dari literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "443",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: world literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "444",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: English literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "445",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary Studies: Korean Literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "446",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Kazakh literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "447",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Karakalpak literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "448",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Russian literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "449",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Tajik literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "450",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Turkish literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "451",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Turkmen literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "452",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Uzbek literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "453",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary studies: Persian literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "454",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230104",
+        "Yonalish mutaxassislik nomi": "Literary Studies: Indian Literature",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "455",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230105",
+        "Yonalish mutaxassislik nomi": "Textual studies and literary source studies: Arabic language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "456",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230105",
+        "Yonalish mutaxassislik nomi": "Textology and literary source studies: Uzbek language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "457",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230201",
+        "Yonalish mutaxassislik nomi": "Comparative Linguistics, Linguistic Translation Studies: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "458",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230201",
+        "Yonalish mutaxassislik nomi": "Comparative Linguistics, Linguistic Translation Studies: Italian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "459",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230201",
+        "Yonalish mutaxassislik nomi": "Comparative Linguistics, Linguistic Translation Studies: German",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "460",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230201",
+        "Yonalish mutaxassislik nomi": "Comparative linguistics, linguistic translation: Turkish language",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "461",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230201",
+        "Yonalish mutaxassislik nomi": "Comparative Linguistics, Linguistic Translation Studies: Persian",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "462",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230202",
+        "Yonalish mutaxassislik nomi": "Simultaneous translation: English",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "463",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230202",
+        "Yonalish mutaxassislik nomi": "Simultaneous translation: Turkish",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "464",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230202",
+        "Yonalish mutaxassislik nomi": "Simultaneous interpretation: French",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "465",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230202",
+        "Yonalish mutaxassislik nomi": "Simultaneous translation: Chinese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "466",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230202",
+        "Yonalish mutaxassislik nomi": "Simultaneous translation: Japanese",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "467",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230301",
+        "Yonalish mutaxassislik nomi": "Publishing and editing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "468",
+        "Talimturi": "M",
+        "Yonalishkodi": "70230401",
+        "Yonalish mutaxassislik nomi": "Computational Linguistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "469",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310101",
+        "Yonalish mutaxassislik nomi": "Applied political science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "470",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310201",
+        "Yonalish mutaxassislik nomi": "International relations and modern political processes",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "471",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310202",
+        "Yonalish mutaxassislik nomi": "Diplomatic and consular service",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "472",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310203",
+        "Yonalish mutaxassislik nomi": "Economic diplomacy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "473",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310301",
+        "Yonalish mutaxassislik nomi": "Psychology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "474",
+        "Talimturi": "M",
+        "Yonalishkodi": "70310401",
+        "Yonalish mutaxassislik nomi": "Sociology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "475",
+        "Talimturi": "M",
+        "Yonalishkodi": "70320101",
+        "Yonalish mutaxassislik nomi": "Journalism",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "476",
+        "Talimturi": "M",
+        "Yonalishkodi": "70320102",
+        "Yonalish mutaxassislik nomi": "Television and radio broadcasting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "477",
+        "Talimturi": "M",
+        "Yonalishkodi": "70320201",
+        "Yonalish mutaxassislik nomi": "Information service and public relations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "478",
+        "Talimturi": "M",
+        "Yonalishkodi": "70320301",
+        "Yonalish mutaxassislik nomi": "Documentation, document studies and archival studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "479",
+        "Talimturi": "M",
+        "Yonalishkodi": "70320401",
+        "Yonalish mutaxassislik nomi": "Library and information activities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "480",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410101",
+        "Yonalish mutaxassislik nomi": "Economic theory",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "481",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410102",
+        "Yonalish mutaxassislik nomi": "Economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "482",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410103",
+        "Yonalish mutaxassislik nomi": "Macroeconomics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "483",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410104",
+        "Yonalish mutaxassislik nomi": "Information technologies and systems in the economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "484",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410105",
+        "Yonalish mutaxassislik nomi": "Antitrust management and development of competition",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "485",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410106",
+        "Yonalish mutaxassislik nomi": "Bioeconomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "486",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410107",
+        "Yonalish mutaxassislik nomi": "Econometrics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "487",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410108",
+        "Yonalish mutaxassislik nomi": "Regional economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "488",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410109",
+        "Yonalish mutaxassislik nomi": "Economic security",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "489",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410110",
+        "Yonalish mutaxassislik nomi": "Digital economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "490",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410111",
+        "Yonalish mutaxassislik nomi": "State and corporate strategies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "491",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410201",
+        "Yonalish mutaxassislik nomi": "Accounting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "492",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410202",
+        "Yonalish mutaxassislik nomi": "Audit",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "493",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410301",
+        "Yonalish mutaxassislik nomi": "Taxes and taxation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "494",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410401",
+        "Yonalish mutaxassislik nomi": "Customs work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "495",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410501",
+        "Yonalish mutaxassislik nomi": "Finance",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "496",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410502",
+        "Yonalish mutaxassislik nomi": "Corporate finance and stock market",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "497",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410503",
+        "Yonalish mutaxassislik nomi": "Investment management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "498",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410504",
+        "Yonalish mutaxassislik nomi": "Insurance business",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "499",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410506",
+        "Yonalish mutaxassislik nomi": "State financial control and audit",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "500",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410510",
+        "Yonalish mutaxassislik nomi": "Assessment work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "501",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410601",
+        "Yonalish mutaxassislik nomi": "Banking",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "502",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410701",
+        "Yonalish mutaxassislik nomi": "Statistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "503",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410702",
+        "Yonalish mutaxassislik nomi": "Business analysis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "504",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410801",
+        "Yonalish mutaxassislik nomi": "Management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "505",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410802",
+        "Yonalish mutaxassislik nomi": "Project management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "506",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410803",
+        "Yonalish mutaxassislik nomi": "PR management and PR analysis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "507",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410804",
+        "Yonalish mutaxassislik nomi": "Corporate governance",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "508",
+        "Talimturi": "M",
+        "Yonalishkodi": "70410901",
+        "Yonalish mutaxassislik nomi": "Business management (Master of Business Administration — MBA)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "509",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411001",
+        "Yonalish mutaxassislik nomi": "Human resource management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "510",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411101",
+        "Yonalish mutaxassislik nomi": "World economy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "511",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411102",
+        "Yonalish mutaxassislik nomi": "Foreign economic activity",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "512",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411201",
+        "Yonalish mutaxassislik nomi": "Marketing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "513",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411301",
+        "Yonalish mutaxassislik nomi": "Trade business",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "514",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411302",
+        "Yonalish mutaxassislik nomi": "Electronic commerce",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "515",
+        "Talimturi": "M",
+        "Yonalishkodi": "70411401",
+        "Yonalish mutaxassislik nomi": "Country studies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "516",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420101",
+        "Yonalish mutaxassislik nomi": "Advocacy activities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "517",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420102",
+        "Yonalish mutaxassislik nomi": "International Arbitration and Dispute Resolution",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "518",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420103",
+        "Yonalish mutaxassislik nomi": "International law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "519",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420105",
+        "Yonalish mutaxassislik nomi": "Sports law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "520",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420106",
+        "Yonalish mutaxassislik nomi": "The right of public administration",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "521",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420108",
+        "Yonalish mutaxassislik nomi": "Business law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "522",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420109",
+        "Yonalish mutaxassislik nomi": "International business law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "523",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420111",
+        "Yonalish mutaxassislik nomi": "The right to natural resources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "524",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420112",
+        "Yonalish mutaxassislik nomi": "Labor law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "525",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420113",
+        "Yonalish mutaxassislik nomi": "Theory and practice of criminal law enforcement",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "526",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420114",
+        "Yonalish mutaxassislik nomi": "Financial and legal monitoring",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "527",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420120",
+        "Yonalish mutaxassislik nomi": "Intellectual property and information technology law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "528",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420121",
+        "Yonalish mutaxassislik nomi": "Islamic law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "529",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420122",
+        "Yonalish mutaxassislik nomi": "Mediation and alternative dispute resolution methods",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "530",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420123",
+        "Yonalish mutaxassislik nomi": "Anti-corruption and compliance monitoring",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "531",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420124",
+        "Yonalish mutaxassislik nomi": "Media rights",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "532",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420126",
+        "Yonalish mutaxassislik nomi": "International commercial law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "533",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420127",
+        "Yonalish mutaxassislik nomi": "Cyber law",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "534",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420128",
+        "Yonalish mutaxassislik nomi": "International law and human rights",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "535",
+        "Talimturi": "M",
+        "Yonalishkodi": "70420202",
+        "Yonalish mutaxassislik nomi": "State administration",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "536",
+        "Talimturi": "M",
+        "Yonalishkodi": "70510101",
+        "Yonalish mutaxassislik nomi": "Biology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "537",
+        "Talimturi": "M",
+        "Yonalishkodi": "70510102",
+        "Yonalish mutaxassislik nomi": "Microbiology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "538",
+        "Talimturi": "M",
+        "Yonalishkodi": "70510103",
+        "Yonalish mutaxassislik nomi": "Biophysics and biochemistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "539",
+        "Talimturi": "M",
+        "Yonalishkodi": "70510105",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching exact and natural sciences (biology)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "540",
+        "Talimturi": "M",
+        "Yonalishkodi": "70520101",
+        "Yonalish mutaxassislik nomi": "Meteorology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "541",
+        "Talimturi": "M",
+        "Yonalishkodi": "70520102",
+        "Yonalish mutaxassislik nomi": "Hydrometeorology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "542",
+        "Talimturi": "M",
+        "Yonalishkodi": "70520201",
+        "Yonalish mutaxassislik nomi": "Environmental protection",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "543",
+        "Talimturi": "M",
+        "Yonalishkodi": "70520202",
+        "Yonalish mutaxassislik nomi": "Ecology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "544",
+        "Talimturi": "M",
+        "Yonalishkodi": "70520204",
+        "Yonalish mutaxassislik nomi": "Rangeland Ecology and Management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "545",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530101",
+        "Yonalish mutaxassislik nomi": "Chemistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "546",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530103",
+        "Yonalish mutaxassislik nomi": "Oil and gas chemistry and technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "547",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530104",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching exact and natural sciences (chemistry)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "548",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530201",
+        "Yonalish mutaxassislik nomi": "Geography",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "549",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530203",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching exact and natural sciences (geography)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "550",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530301",
+        "Yonalish mutaxassislik nomi": "Geology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "551",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530401",
+        "Yonalish mutaxassislik nomi": "Hydrology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "552",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530404",
+        "Yonalish mutaxassislik nomi": "Hydraulics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "553",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530501",
+        "Yonalish mutaxassislik nomi": "Physics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "554",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530502",
+        "Yonalish mutaxassislik nomi": "Nuclear physics and technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "555",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530504",
+        "Yonalish mutaxassislik nomi": "Physics of semiconductors",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "556",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530507",
+        "Yonalish mutaxassislik nomi": "Medical physics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "557",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530508",
+        "Yonalish mutaxassislik nomi": "Photonics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "558",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530510",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching exact and natural sciences (physics and astronomy)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "559",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530601",
+        "Yonalish mutaxassislik nomi": "Mechanics and mathematical modeling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "560",
+        "Talimturi": "M",
+        "Yonalishkodi": "70530701",
+        "Yonalish mutaxassislik nomi": "Astronomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "561",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540101",
+        "Yonalish mutaxassislik nomi": "Mathematics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "562",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540102",
+        "Yonalish mutaxassislik nomi": "Mathematical economics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "563",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540103",
+        "Yonalish mutaxassislik nomi": "Actuarial and financial mathematics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "564",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540104",
+        "Yonalish mutaxassislik nomi": "Methodology of teaching exact and natural sciences (mathematics)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "565",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540201",
+        "Yonalish mutaxassislik nomi": "Applied mathematics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "566",
+        "Talimturi": "M",
+        "Yonalishkodi": "70540202",
+        "Yonalish mutaxassislik nomi": "Mathematical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "567",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610101",
+        "Yonalish mutaxassislik nomi": "Computer systems and their software",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "568",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610103",
+        "Yonalish mutaxassislik nomi": "Information systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "569",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610104",
+        "Yonalish mutaxassislik nomi": "Geoinformation systems and technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "570",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610105",
+        "Yonalish mutaxassislik nomi": "Information technologies in education",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "571",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610201",
+        "Yonalish mutaxassislik nomi": "Cryptography and cryptanalysis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "572",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610202",
+        "Yonalish mutaxassislik nomi": "Information security",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "573",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610301",
+        "Yonalish mutaxassislik nomi": "Computer engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "574",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610302",
+        "Yonalish mutaxassislik nomi": "Management of the \"Electronic Government\" system",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "575",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610303",
+        "Yonalish mutaxassislik nomi": "Computer systems in medicine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "576",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610304",
+        "Yonalish mutaxassislik nomi": "Data science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "577",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610401",
+        "Yonalish mutaxassislik nomi": "Software engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "578",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610501",
+        "Yonalish mutaxassislik nomi": "Artificial intelligence",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "579",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610601",
+        "Yonalish mutaxassislik nomi": "Telecommunication engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "580",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610602",
+        "Yonalish mutaxassislik nomi": "Information transmission devices and systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "581",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610603",
+        "Yonalish mutaxassislik nomi": "Software of telecommunication systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "582",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610606",
+        "Yonalish mutaxassislik nomi": "Photonics and optical communication",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "583",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610701",
+        "Yonalish mutaxassislik nomi": "Television technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "584",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610801",
+        "Yonalish mutaxassislik nomi": "Postal communication technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "585",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610901",
+        "Yonalish mutaxassislik nomi": "Radioelectronic devices and systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "586",
+        "Talimturi": "M",
+        "Yonalishkodi": "70610903",
+        "Yonalish mutaxassislik nomi": "Radio technical devices and means of communication",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "587",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611001",
+        "Yonalish mutaxassislik nomi": "Television, radio communication and broadcasting devices and systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "588",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611003",
+        "Yonalish mutaxassislik nomi": "Mobile communication systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "589",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611004",
+        "Yonalish mutaxassislik nomi": "Intelligent information and communication systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "590",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611005",
+        "Yonalish mutaxassislik nomi": "Satellite communication systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "591",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611006",
+        "Yonalish mutaxassislik nomi": "Audio-video technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "592",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611007",
+        "Yonalish mutaxassislik nomi": "Special lighting technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "593",
+        "Talimturi": "M",
+        "Yonalishkodi": "70611201",
+        "Yonalish mutaxassislik nomi": "Digital forensics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "594",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710101",
+        "Yonalish mutaxassislik nomi": "Chemical technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "595",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710102",
+        "Yonalish mutaxassislik nomi": "Technology of catalysts and adsorbents",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "596",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710103",
+        "Yonalish mutaxassislik nomi": "Medicines and preparations technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "597",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710104",
+        "Yonalish mutaxassislik nomi": "Chemical technology processes and apparatus",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "598",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710201",
+        "Yonalish mutaxassislik nomi": "Biotechnology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "599",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710202",
+        "Yonalish mutaxassislik nomi": "Biotechnology of immunobiological preparations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "600",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710301",
+        "Yonalish mutaxassislik nomi": "Printing and packaging technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "601",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710401",
+        "Yonalish mutaxassislik nomi": "Hydroelectric power stations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "602",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710403",
+        "Yonalish mutaxassislik nomi": "Industrial heat energy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "603",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710404",
+        "Yonalish mutaxassislik nomi": "Heat technique",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "604",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710406",
+        "Yonalish mutaxassislik nomi": "Nuclear power and thermal physics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "605",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710407",
+        "Yonalish mutaxassislik nomi": "Power supply",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "606",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710408",
+        "Yonalish mutaxassislik nomi": "Power plants",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "607",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710409",
+        "Yonalish mutaxassislik nomi": "Electric power systems and networks",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "608",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710410",
+        "Yonalish mutaxassislik nomi": "Energy saving and energy audit",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "609",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710411",
+        "Yonalish mutaxassislik nomi": "Alternative energy sources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "610",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710412",
+        "Yonalish mutaxassislik nomi": "Hydrogen energy and technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "611",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710413",
+        "Yonalish mutaxassislik nomi": "Renewable energy sources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "612",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710501",
+        "Yonalish mutaxassislik nomi": "Electrical mechanics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "613",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710502",
+        "Yonalish mutaxassislik nomi": "Electrical insulation and cable equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "614",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710503",
+        "Yonalish mutaxassislik nomi": "Electrotechnical complexes and systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "615",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710504",
+        "Yonalish mutaxassislik nomi": "Electrotechnological processes and devices",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "616",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710505",
+        "Yonalish mutaxassislik nomi": "Theoretical electrical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "617",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710601",
+        "Yonalish mutaxassislik nomi": "Hydropower",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "618",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710701",
+        "Yonalish mutaxassislik nomi": "Electronics and electronic technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "619",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710702",
+        "Yonalish mutaxassislik nomi": "Measuring and control equipment, methods",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "620",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710704",
+        "Yonalish mutaxassislik nomi": "Nanotechnology of semiconductor materials",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "621",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710705",
+        "Yonalish mutaxassislik nomi": "Laser, light-emitting diode technologies and optoelectronics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "622",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710706",
+        "Yonalish mutaxassislik nomi": "Electronic equipment production technology and electronics industry technological machine equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "623",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710801",
+        "Yonalish mutaxassislik nomi": "Product safety and certification",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "624",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710802",
+        "Yonalish mutaxassislik nomi": "Metrology, standardization and quality management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "625",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710901",
+        "Yonalish mutaxassislik nomi": "Automation of technological processes and production",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "626",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710902",
+        "Yonalish mutaxassislik nomi": "Automation and telemechanics in railway transport",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "627",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710903",
+        "Yonalish mutaxassislik nomi": "Intelligent engineering systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "628",
+        "Talimturi": "M",
+        "Yonalishkodi": "70710904",
+        "Yonalish mutaxassislik nomi": "Information and communication systems of technological process management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "629",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711001",
+        "Yonalish mutaxassislik nomi": "Mechatronics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "630",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711002",
+        "Yonalish mutaxassislik nomi": "Robotics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "631",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711101",
+        "Yonalish mutaxassislik nomi": "Medical-biological devices, systems and complexes",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "632",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711103",
+        "Yonalish mutaxassislik nomi": "X-ray technique and technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "633",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711201",
+        "Yonalish mutaxassislik nomi": "Metallurgy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "634",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711202",
+        "Yonalish mutaxassislik nomi": "Metallurgical machines and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "635",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711203",
+        "Yonalish mutaxassislik nomi": "Powder metallurgy, composite materials, coatings",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "636",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711301",
+        "Yonalish mutaxassislik nomi": "Technologies of metals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "637",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711401",
+        "Yonalish mutaxassislik nomi": "Vehicle engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "638",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711402",
+        "Yonalish mutaxassislik nomi": "Cars and the automotive industry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "639",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711403",
+        "Yonalish mutaxassislik nomi": "Internal combustion engines",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "640",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711405",
+        "Yonalish mutaxassislik nomi": "Vehicle testing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "641",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711406",
+        "Yonalish mutaxassislik nomi": "Carriage construction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "642",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711407",
+        "Yonalish mutaxassislik nomi": "Intelligent transport systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "643",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711408",
+        "Yonalish mutaxassislik nomi": "Electric train engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "644",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711501",
+        "Yonalish mutaxassislik nomi": "Aviation Engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "645",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711503",
+        "Yonalish mutaxassislik nomi": "Aircraft engines and power plants",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "646",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711601",
+        "Yonalish mutaxassislik nomi": "Applied space technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "647",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711701",
+        "Yonalish mutaxassislik nomi": "Aerospace technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "648",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711801",
+        "Yonalish mutaxassislik nomi": "Environmental engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "649",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711802",
+        "Yonalish mutaxassislik nomi": "Industrial waste treatment (recovery)",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "650",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711803",
+        "Yonalish mutaxassislik nomi": "Protection of water resources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "651",
+        "Talimturi": "M",
+        "Yonalishkodi": "70711805",
+        "Yonalish mutaxassislik nomi": "Waste management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "652",
+        "Talimturi": "M",
+        "Yonalishkodi": "70712301",
+        "Yonalish mutaxassislik nomi": "Engineering technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "653",
+        "Talimturi": "M",
+        "Yonalishkodi": "70712302",
+        "Yonalish mutaxassislik nomi": "Energy engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "654",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720101",
+        "Yonalish mutaxassislik nomi": "Food technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "655",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720102",
+        "Yonalish mutaxassislik nomi": "Food safety",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "656",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720301",
+        "Yonalish mutaxassislik nomi": "Materials science and materials technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "657",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720401",
+        "Yonalish mutaxassislik nomi": "Mechanical engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "658",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720402",
+        "Yonalish mutaxassislik nomi": "Cryogenic engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "659",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720404",
+        "Yonalish mutaxassislik nomi": "Machines and equipment of chemical industry and building materials enterprises",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "660",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720405",
+        "Yonalish mutaxassislik nomi": "Pulp-paper production technology and processes",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "661",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720406",
+        "Yonalish mutaxassislik nomi": "Woodworking technology and wood science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "662",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720407",
+        "Yonalish mutaxassislik nomi": "Welding production technology and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "663",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720408",
+        "Yonalish mutaxassislik nomi": "Oil and gas industry machines and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "664",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720409",
+        "Yonalish mutaxassislik nomi": "Light industrial machinery and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "665",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720410",
+        "Yonalish mutaxassislik nomi": "Food industry machines and aggregates",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "666",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720411",
+        "Yonalish mutaxassislik nomi": "Cotton industry machinery and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "667",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720601",
+        "Yonalish mutaxassislik nomi": "Technology of oil and oil-gas processing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "668",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720701",
+        "Yonalish mutaxassislik nomi": "Technology of textile products",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "669",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720702",
+        "Yonalish mutaxassislik nomi": "Artistic design of textile industry products",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "670",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720704",
+        "Yonalish mutaxassislik nomi": "Work on the technology and design of sewing items",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "671",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720705",
+        "Yonalish mutaxassislik nomi": "Technology of cotton preliminary processing and seed preparation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "672",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720707",
+        "Yonalish mutaxassislik nomi": "Light industrial technologies and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "673",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720801",
+        "Yonalish mutaxassislik nomi": "Excavation of mineral deposits",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "674",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720802",
+        "Yonalish mutaxassislik nomi": "Mining and underground engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "675",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720803",
+        "Yonalish mutaxassislik nomi": "Mineral enrichment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "676",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720805",
+        "Yonalish mutaxassislik nomi": "Markscheider work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "677",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720901",
+        "Yonalish mutaxassislik nomi": "Geology, prospecting and exploration of mineral deposits",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "678",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720902",
+        "Yonalish mutaxassislik nomi": "Geology, exploration and exploration of oil and gas deposits",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "679",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720905",
+        "Yonalish mutaxassislik nomi": "Mining geology and geophysics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "680",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720907",
+        "Yonalish mutaxassislik nomi": "Geophysical studies of wells",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "681",
+        "Talimturi": "M",
+        "Yonalishkodi": "70720908",
+        "Yonalish mutaxassislik nomi": "Hydrogeophysics and engineering geophysics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "682",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721001",
+        "Yonalish mutaxassislik nomi": "Hydrogeology and engineering geology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "683",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721101",
+        "Yonalish mutaxassislik nomi": "Commissioning and exploitation of oil and gas fields",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "684",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721102",
+        "Yonalish mutaxassislik nomi": "Use of oil and gas field machinery and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "685",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721103",
+        "Yonalish mutaxassislik nomi": "Oil and gas well drilling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "686",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721201",
+        "Yonalish mutaxassislik nomi": "Mining machines and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "687",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721202",
+        "Yonalish mutaxassislik nomi": "Electrification and automation of mining operations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "688",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721401",
+        "Yonalish mutaxassislik nomi": "Technology of extraction, beneficiation and processing of ores of rare and radioactive metals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "689",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721501",
+        "Yonalish mutaxassislik nomi": "Geodesy and geoinformatics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "690",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721502",
+        "Yonalish mutaxassislik nomi": "Exploration of natural resources with aerospace tools",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "691",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721601",
+        "Yonalish mutaxassislik nomi": "Earth remote sensing and GAT technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "692",
+        "Talimturi": "M",
+        "Yonalishkodi": "70721701",
+        "Yonalish mutaxassislik nomi": "Cadastre",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "693",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730101",
+        "Yonalish mutaxassislik nomi": "Architecture of buildings and structures",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "694",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730102",
+        "Yonalish mutaxassislik nomi": "Urban planning and landscape architecture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "695",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730103",
+        "Yonalish mutaxassislik nomi": "History and theory of architecture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "696",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730201",
+        "Yonalish mutaxassislik nomi": "Organization and management of communal infrastructure",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "697",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730202",
+        "Yonalish mutaxassislik nomi": "City transport economy and communication routes",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "698",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730301",
+        "Yonalish mutaxassislik nomi": "Civil engineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "699",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730302",
+        "Yonalish mutaxassislik nomi": "Construction and use of oil and gas pipelines, bases and warehouses",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "700",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730303",
+        "Yonalish mutaxassislik nomi": "Construction of infrastructure objects",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "701",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730306",
+        "Yonalish mutaxassislik nomi": "Earthquake resistance of buildings and structures",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "702",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730308",
+        "Yonalish mutaxassislik nomi": "Technologies of building materials",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "703",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730401",
+        "Yonalish mutaxassislik nomi": "Engineering communication systems, construction and installation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "704",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730501",
+        "Yonalish mutaxassislik nomi": "Rail and Rail Use",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "705",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730502",
+        "Yonalish mutaxassislik nomi": "Operation of transport facilities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "706",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730503",
+        "Yonalish mutaxassislik nomi": "Highways and airfields",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "707",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730504",
+        "Yonalish mutaxassislik nomi": "Construction of bridges, tunnels and metro",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "708",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730601",
+        "Yonalish mutaxassislik nomi": "Hydrotechnical facilities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "709",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730603",
+        "Yonalish mutaxassislik nomi": "Construction of hydroelectric and pumping stations",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "710",
+        "Talimturi": "M",
+        "Yonalishkodi": "70730701",
+        "Yonalish mutaxassislik nomi": "Real estate appraisal and management",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "711",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810101",
+        "Yonalish mutaxassislik nomi": "Mechanization of agriculture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "712",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810102",
+        "Yonalish mutaxassislik nomi": "Designing and construction of agricultural machinery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "713",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810105",
+        "Yonalish mutaxassislik nomi": "Intelligent measurement systems and tools",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "714",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810201",
+        "Yonalish mutaxassislik nomi": "Agro-soil science and agrophysics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "715",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810202",
+        "Yonalish mutaxassislik nomi": "Agrochemistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "716",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810203",
+        "Yonalish mutaxassislik nomi": "Soil science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "717",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810401",
+        "Yonalish mutaxassislik nomi": "Agronomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "718",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810402",
+        "Yonalish mutaxassislik nomi": "Plant science",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "719",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810403",
+        "Yonalish mutaxassislik nomi": "Organic farming and food security",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "720",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810404",
+        "Yonalish mutaxassislik nomi": "Agrobiotechnology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "721",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810501",
+        "Yonalish mutaxassislik nomi": "Plant protection and quarantine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "722",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810502",
+        "Yonalish mutaxassislik nomi": "Entomology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "723",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810503",
+        "Yonalish mutaxassislik nomi": "Phytopathology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "724",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810601",
+        "Yonalish mutaxassislik nomi": "Breeding and breeding",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "725",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810701",
+        "Yonalish mutaxassislik nomi": "Technology of storage and initial processing of agricultural products",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "726",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810801",
+        "Yonalish mutaxassislik nomi": "Poultry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "727",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810802",
+        "Yonalish mutaxassislik nomi": "Selection and breeding of agricultural animals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "728",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810803",
+        "Yonalish mutaxassislik nomi": "Animal husbandry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "729",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810804",
+        "Yonalish mutaxassislik nomi": "Livestock processing technology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "730",
+        "Talimturi": "M",
+        "Yonalishkodi": "70810901",
+        "Yonalish mutaxassislik nomi": "Silk and mulberry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "731",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811001",
+        "Yonalish mutaxassislik nomi": "Fruit growing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "732",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811002",
+        "Yonalish mutaxassislik nomi": "Viticulture and winemaking",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "733",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811003",
+        "Yonalish mutaxassislik nomi": "Vegetable growing, rice growing and potato growing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "734",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811101",
+        "Yonalish mutaxassislik nomi": "Technology of cultivation and processing of medicinal plants",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "735",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811201",
+        "Yonalish mutaxassislik nomi": "Hydromelioration",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "736",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811202",
+        "Yonalish mutaxassislik nomi": "Reclamation and irrigated agriculture",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "737",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811204",
+        "Yonalish mutaxassislik nomi": "Agricultural water supply engineering systems and structures",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "738",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811205",
+        "Yonalish mutaxassislik nomi": "Use of hydromelioration systems",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "739",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811206",
+        "Yonalish mutaxassislik nomi": "Water-saving irrigation technologies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "740",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811207",
+        "Yonalish mutaxassislik nomi": "Use and management of water resources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "741",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811209",
+        "Yonalish mutaxassislik nomi": "Reclamation of pastures",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "742",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811210",
+        "Yonalish mutaxassislik nomi": "Mechanization of hydromelioration works",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "743",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811211",
+        "Yonalish mutaxassislik nomi": "Reclamation construction machines and equipment",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "744",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811301",
+        "Yonalish mutaxassislik nomi": "Use of hydraulic structures, their reliability and safety",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "745",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811302",
+        "Yonalish mutaxassislik nomi": "Pumping stations and devices",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "746",
+        "Talimturi": "M",
+        "Yonalishkodi": "70811601",
+        "Yonalish mutaxassislik nomi": "Use and management of land resources",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "747",
+        "Talimturi": "M",
+        "Yonalishkodi": "70820101",
+        "Yonalish mutaxassislik nomi": "Forestry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "748",
+        "Talimturi": "M",
+        "Yonalishkodi": "70820102",
+        "Yonalish mutaxassislik nomi": "Landscape gardening and landscaping",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "749",
+        "Talimturi": "M",
+        "Yonalishkodi": "70830101",
+        "Yonalish mutaxassislik nomi": "Fishing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "750",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840101",
+        "Yonalish mutaxassislik nomi": "Diagnosis and treatment of animals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "751",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840102",
+        "Yonalish mutaxassislik nomi": "Veterinary surgery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "752",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840103",
+        "Yonalish mutaxassislik nomi": "Veterinary Pharmacology and Toxicology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "753",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840104",
+        "Yonalish mutaxassislik nomi": "Veterinary Obstetrics and Biotechnology of Animal Reproduction",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "754",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840105",
+        "Yonalish mutaxassislik nomi": "Animal pathology, oncology and morphology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "755",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840106",
+        "Yonalish mutaxassislik nomi": "Cynology and dog diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "756",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840107",
+        "Yonalish mutaxassislik nomi": "Training and horse diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "757",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840108",
+        "Yonalish mutaxassislik nomi": "Fish diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "758",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840109",
+        "Yonalish mutaxassislik nomi": "Bee diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "759",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840110",
+        "Yonalish mutaxassislik nomi": "Poultry diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "760",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840111",
+        "Yonalish mutaxassislik nomi": "Emergency veterinary control and public health",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "761",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840301",
+        "Yonalish mutaxassislik nomi": "Veterinary sanitation, veterinary-sanitary expertise and hygiene of livestock products processing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "762",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840302",
+        "Yonalish mutaxassislik nomi": "Veterinary microbiology, virology, epizootology, mycology and immunology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "763",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840303",
+        "Yonalish mutaxassislik nomi": "Parasitic and infectious diseases of animals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "764",
+        "Talimturi": "M",
+        "Yonalishkodi": "70840304",
+        "Yonalish mutaxassislik nomi": "Animal physiology and biochemistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "765",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910101",
+        "Yonalish mutaxassislik nomi": "Dentistry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "766",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910102",
+        "Yonalish mutaxassislik nomi": "Maxillofacial surgery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "767",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910201",
+        "Yonalish mutaxassislik nomi": "Obstetrics and gynecology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "768",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910202",
+        "Yonalish mutaxassislik nomi": "Endocrinology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "769",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910203",
+        "Yonalish mutaxassislik nomi": "Therapy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "770",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910203",
+        "Yonalish mutaxassislik nomi": "Therapy: folk medicine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "771",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910204",
+        "Yonalish mutaxassislik nomi": "Otorhinolaryngology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "772",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910205",
+        "Yonalish mutaxassislik nomi": "Cardiology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "773",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910206",
+        "Yonalish mutaxassislik nomi": "Ophthalmology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "774",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910207",
+        "Yonalish mutaxassislik nomi": "Infectious diseases",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "775",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910208",
+        "Yonalish mutaxassislik nomi": "Dermatovenereology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "776",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910209",
+        "Yonalish mutaxassislik nomi": "Neurology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "777",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910210",
+        "Yonalish mutaxassislik nomi": "General oncology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "778",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910211",
+        "Yonalish mutaxassislik nomi": "Psychiatry",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "779",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910212",
+        "Yonalish mutaxassislik nomi": "Surgery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "780",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910213",
+        "Yonalish mutaxassislik nomi": "Instrumental and functional methods of diagnosis",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "781",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910214",
+        "Yonalish mutaxassislik nomi": "Neurosurgery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "782",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910215",
+        "Yonalish mutaxassislik nomi": "Health management and public health",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "783",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910216",
+        "Yonalish mutaxassislik nomi": "Medical psychology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "784",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910217",
+        "Yonalish mutaxassislik nomi": "Urology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "785",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910218",
+        "Yonalish mutaxassislik nomi": "Morphology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "786",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910219",
+        "Yonalish mutaxassislik nomi": "Narcology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "787",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910220",
+        "Yonalish mutaxassislik nomi": "Anesthesiology and resuscitation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "788",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910221",
+        "Yonalish mutaxassislik nomi": "Traumatology and orthopedics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "789",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910222",
+        "Yonalish mutaxassislik nomi": "Forensic examination",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "790",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910223",
+        "Yonalish mutaxassislik nomi": "Pathological anatomy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "791",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910224",
+        "Yonalish mutaxassislik nomi": "Emergency medical care",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "792",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910226",
+        "Yonalish mutaxassislik nomi": "Hematology and transfusion",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "793",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910227",
+        "Yonalish mutaxassislik nomi": "Medical radiology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "794",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910228",
+        "Yonalish mutaxassislik nomi": "Physiiatrics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "795",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910230",
+        "Yonalish mutaxassislik nomi": "Medical genetics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "796",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910233",
+        "Yonalish mutaxassislik nomi": "Sports medicine",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "797",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910234",
+        "Yonalish mutaxassislik nomi": "Neurorehabilitation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "798",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910301",
+        "Yonalish mutaxassislik nomi": "Pediatrics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "799",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910302",
+        "Yonalish mutaxassislik nomi": "Pediatric surgery",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "800",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910303",
+        "Yonalish mutaxassislik nomi": "Children's anesthesiology and resuscitation",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "801",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910304",
+        "Yonalish mutaxassislik nomi": "Pediatric cardiology and rheumatology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "802",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910305",
+        "Yonalish mutaxassislik nomi": "Pediatric neurology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "803",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910306",
+        "Yonalish mutaxassislik nomi": "Neonatology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "804",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910307",
+        "Yonalish mutaxassislik nomi": "Gynecology of children and adolescents",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "805",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910308",
+        "Yonalish mutaxassislik nomi": "Pediatric gastroenterology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "806",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910310",
+        "Yonalish mutaxassislik nomi": "Children's traumatology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "807",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910401",
+        "Yonalish mutaxassislik nomi": "Hygiene",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "808",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910402",
+        "Yonalish mutaxassislik nomi": "Environment and human health",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "809",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910404",
+        "Yonalish mutaxassislik nomi": "Medical biophysics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "810",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910601",
+        "Yonalish mutaxassislik nomi": "Organization and management of higher nursing work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "811",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910701",
+        "Yonalish mutaxassislik nomi": "Laboratory work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "812",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910801",
+        "Yonalish mutaxassislik nomi": "Pharmaceutical chemistry and pharmacognosy",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "813",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910802",
+        "Yonalish mutaxassislik nomi": "Organization and management of pharmaceutical work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "814",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910803",
+        "Yonalish mutaxassislik nomi": "Experimental and sports pharmacology",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "815",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910804",
+        "Yonalish mutaxassislik nomi": "Drug research and production",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "816",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910901",
+        "Yonalish mutaxassislik nomi": "Biotechnology of medicinal plants",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "817",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910902",
+        "Yonalish mutaxassislik nomi": "Industrial technology of drugs",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "818",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910903",
+        "Yonalish mutaxassislik nomi": "Pharmaceutical biotechnology and bioengineering",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "819",
+        "Talimturi": "M",
+        "Yonalishkodi": "70910904",
+        "Yonalish mutaxassislik nomi": "Quality assurance and quality control in pharmaceuticals",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "820",
+        "Talimturi": "M",
+        "Yonalishkodi": "70920101",
+        "Yonalish mutaxassislik nomi": "Social work",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "821",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010101",
+        "Yonalish mutaxassislik nomi": "Tourism and hospitality",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "822",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "823",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: badminton",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "824",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: boxing",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "825",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: handball",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "826",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: athletics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "827",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: karate WKF",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "828",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: weightlifting",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "829",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: rugby",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "830",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: synchronized swimming",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "831",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: taekwondo WTF",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "832",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: football",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "833",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: hockey",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "834",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: chess",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "835",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010201",
+        "Yonalish mutaxassislik nomi": "Sports activities: freestyle wrestling",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "836",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010202",
+        "Yonalish mutaxassislik nomi": "Development of popular sports and promotion of sports",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "837",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010203",
+        "Yonalish mutaxassislik nomi": "Physical education and sports management, organization and management of sports events",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "838",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010301",
+        "Yonalish mutaxassislik nomi": "Adaptive physical education and sports",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "839",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010401",
+        "Yonalish mutaxassislik nomi": "Logistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "840",
+        "Talimturi": "M",
+        "Yonalishkodi": "71010402",
+        "Yonalish mutaxassislik nomi": "Transport logistics",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "841",
+        "Talimturi": "M",
+        "Yonalishkodi": "71020201",
+        "Yonalish mutaxassislik nomi": "Labor protection and technical safety",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "842",
+        "Talimturi": "M",
+        "Yonalishkodi": "71031902",
+        "Yonalish mutaxassislik nomi": "Public safety in emergencies",
+        "path_id": "610282352a2e256d868e8339"
+    },
+    {
+        "ID": "843",
+        "Talimturi": "M",
+        "Yonalishkodi": "71040201",
+        "Yonalish mutaxassislik nomi": "Traffic safety and its organization",
+        "path_id": "610282352a2e256d868e8339"
+    }
+]

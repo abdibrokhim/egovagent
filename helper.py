@@ -1,7 +1,7 @@
 import os
 import json
 
-def transform_json_files(folder='607ff4227b6428eee08802c0'):
+def transform_json_files(folder='607fea9a7b6428eee08802b2'):
     json_files = [f for f in os.listdir(folder) if f.endswith('.json')]
     for json_file in json_files:
         file_path = os.path.join(folder, json_file)
@@ -25,14 +25,14 @@ def transform_json_files(folder='607ff4227b6428eee08802c0'):
     
     print(f"Transformation complete. Files in the '{folder}' folder have been updated.")
 
-def count_json_files(folder='607ff3e67b6428eee08802bf'):
+def count_json_files(folder='607ff03a7b6428eee08802b8'):
     json_files = [f for f in os.listdir(folder) if f.endswith('.json')]
     return len(json_files)
 
 if __name__ == "__main__":
-    l = count_json_files()
-    print(l)
+    # l = count_json_files()
+    # print(l)
 
     # Test the functions
-    # transform_json_files()
-    # print(f"Number of .json files in the folder: {count_json_files()}")
+    transform_json_files()
+    print(f"Number of .json files in the folder: {count_json_files()}")

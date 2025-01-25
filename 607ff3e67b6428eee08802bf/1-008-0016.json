@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107bdde2a2e256d868e8686"
-    },
-    {
         "Hududlar": "Andijon viloyati / Андижанская область / Andijan region",
         "Jami": "382553",
         "40modda": "429",
@@ -24,7 +21,9 @@
         "211modda": "4051",
         "223modda": "88012",
         "225modda": "1132",
-        "BoshqaHuquqbuzarliklar": "186699"
+        "BoshqaHuquqbuzarliklar": "186699",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "1"
     },
     {
         "Hududlar": "Buxoro viloyati / Бухарская область / Bukhara region",
@@ -48,7 +47,9 @@
         "211modda": "1939",
         "223modda": "47112",
         "225modda": "723",
-        "BoshqaHuquqbuzarliklar": "127887"
+        "BoshqaHuquqbuzarliklar": "127887",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "2"
     },
     {
         "Hududlar": "Jizzax viloyati / Джизакская область / Jizzakh region",
@@ -72,7 +73,9 @@
         "211modda": "1762",
         "223modda": "23682",
         "225modda": "212",
-        "BoshqaHuquqbuzarliklar": "98646"
+        "BoshqaHuquqbuzarliklar": "98646",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "3"
     },
     {
         "Hududlar": "Navoiy viloyati / Навоийская область / Navoiy region",
@@ -96,7 +99,9 @@
         "211modda": "3030",
         "223modda": "20362",
         "225modda": "223",
-        "BoshqaHuquqbuzarliklar": "80923"
+        "BoshqaHuquqbuzarliklar": "80923",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "4"
     },
     {
         "Hududlar": "Namangan viloyati / Наманганская область / Namangan region",
@@ -120,7 +125,9 @@
         "211modda": "4770",
         "223modda": "72931",
         "225modda": "732",
-        "BoshqaHuquqbuzarliklar": "145864"
+        "BoshqaHuquqbuzarliklar": "145864",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "5"
     },
     {
         "Hududlar": "Samarqand viloyati / Самаркандская область / Samarkand region",
@@ -144,7 +151,9 @@
         "211modda": "4206",
         "223modda": "102899",
         "225modda": "1831",
-        "BoshqaHuquqbuzarliklar": "199389"
+        "BoshqaHuquqbuzarliklar": "199389",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "6"
     },
     {
         "Hududlar": "Sirdaryo viloyati / Сырдарьинская область / Sirdaryo region",
@@ -168,7 +177,9 @@
         "211modda": "1336",
         "223modda": "19618",
         "225modda": "336",
-        "BoshqaHuquqbuzarliklar": "83175"
+        "BoshqaHuquqbuzarliklar": "83175",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "7"
     },
     {
         "Hududlar": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
@@ -192,7 +203,9 @@
         "211modda": "2059",
         "223modda": "49770",
         "225modda": "984",
-        "BoshqaHuquqbuzarliklar": "148545"
+        "BoshqaHuquqbuzarliklar": "148545",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "8"
     },
     {
         "Hududlar": "Toshkent shahri / Город ташкент / City of Tashkent",
@@ -216,7 +229,9 @@
         "211modda": "5113",
         "223modda": "85848",
         "225modda": "6371",
-        "BoshqaHuquqbuzarliklar": "420673"
+        "BoshqaHuquqbuzarliklar": "420673",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "9"
     },
     {
         "Hududlar": "Toshkent viloyati / Ташкентская область / Tashkent region",
@@ -240,7 +255,9 @@
         "211modda": "4976",
         "223modda": "80536",
         "225modda": "6147",
-        "BoshqaHuquqbuzarliklar": "209133"
+        "BoshqaHuquqbuzarliklar": "209133",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "10"
     },
     {
         "Hududlar": "Farg'ona viloyati / Ферганская область / Fergana region",
@@ -264,7 +281,9 @@
         "211modda": "6938",
         "223modda": "103036",
         "225modda": "1171",
-        "BoshqaHuquqbuzarliklar": "252996"
+        "BoshqaHuquqbuzarliklar": "252996",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "11"
     },
     {
         "Hududlar": "Xorazm viloyati / Хорезмская область / Khorezm region",
@@ -288,7 +307,9 @@
         "211modda": "2140",
         "223modda": "46972",
         "225modda": "726",
-        "BoshqaHuquqbuzarliklar": "99825"
+        "BoshqaHuquqbuzarliklar": "99825",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "12"
     },
     {
         "Hududlar": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
@@ -312,7 +333,9 @@
         "211modda": "5076",
         "223modda": "79112",
         "225modda": "413",
-        "BoshqaHuquqbuzarliklar": "158021"
+        "BoshqaHuquqbuzarliklar": "158021",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "13"
     },
     {
         "Hududlar": "Qoraqolpog'iston Respublikasi / Республика Каракалпакистан / Republic of Karakalpakstan",
@@ -336,7 +359,9 @@
         "211modda": "2756",
         "223modda": "36591",
         "225modda": "301",
-        "BoshqaHuquqbuzarliklar": "109238"
+        "BoshqaHuquqbuzarliklar": "109238",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "14"
     },
     {
         "Hududlar": "Transport sohasi / Транспортная сфера / Sphere of transport",
@@ -360,7 +385,9 @@
         "211modda": "3",
         "223modda": "3",
         "225modda": "0",
-        "BoshqaHuquqbuzarliklar": "8237"
+        "BoshqaHuquqbuzarliklar": "8237",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "15"
     },
     {
         "Hududlar": "Respublika bo'yicha / По республике / In the republic",
@@ -384,6 +411,8 @@
         "211modda": "50155",
         "223modda": "856484",
         "225modda": "21302",
-        "BoshqaHuquqbuzarliklar": "2329251"
+        "BoshqaHuquqbuzarliklar": "2329251",
+        "path_id": "6107bdde2a2e256d868e8686",
+        "ID": "16"
     }
 ]

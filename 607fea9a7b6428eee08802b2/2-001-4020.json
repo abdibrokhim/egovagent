@@ -1,0 +1,82 @@
+[
+    {
+        "KOD": "346",
+        "OLIYTALIMMUASSASALARIROYXATI": "Karakalpak State University",
+        "VAZIRLIK": "Oliy va oʻrta maxsus taʼlim vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "1"
+    },
+    {
+        "KOD": "349",
+        "OLIYTALIMMUASSASALARIROYXATI": "Karakalpak medical institute",
+        "VAZIRLIK": "Sogʻliqni saqlash vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "2"
+    },
+    {
+        "KOD": "352",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus State Pedagogical Institute",
+        "VAZIRLIK": "Oliy va oʻrta maxsus taʼlim vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "3"
+    },
+    {
+        "KOD": "386",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus branch of Tashkent state agrarian unversity",
+        "VAZIRLIK": "Qishloq xoʻjaligi vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "4"
+    },
+    {
+        "KOD": "391",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus branch of Tashkent University of Information Technology",
+        "VAZIRLIK": "Axborot texnologiyalari va kommunikatsiyalarini rivojlantirish vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "5"
+    },
+    {
+        "KOD": "393",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus branch of the State Institute of Arts and Culture of Uzbekistan",
+        "VAZIRLIK": "Madaniyat vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "6"
+    },
+    {
+        "KOD": "398",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus branch of Samarkand Institute of Veterinary Medicine",
+        "VAZIRLIK": "Veterinariya va chorvachilikni rivojlantirish davlat qoʻmitasi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "7"
+    },
+    {
+        "KOD": "399",
+        "OLIYTALIMMUASSASALARIROYXATI": "Nukus branch of the Uzbek State Institute of Physical Culture and Sport",
+        "VAZIRLIK": "Turizm va sport vazirligi",
+        "DAVLAT": "O‘zbekiston",
+        "HUDUD": "Republic of  Karakalpakstan",
+        "MULKCHILIKSHAKLI": "Davlat",
+        "path_id": "637b23b24878653e5fe41377",
+        "ID": "8"
+    }
+]

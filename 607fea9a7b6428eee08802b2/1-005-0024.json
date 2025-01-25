@@ -1,0 +1,289 @@
+[
+    {
+        "ID": "1",
+        "Hududlarnomi": "Republic of Corakalpogiston",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "4741",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "2",
+        "Hududlarnomi": "Republic of Corakalpogiston",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "3086",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "3",
+        "Hududlarnomi": "Андижон вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "8124",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "4",
+        "Hududlarnomi": "Андижон вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "5783",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "5",
+        "Hududlarnomi": "Андижон вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "4753",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "6",
+        "Hududlarnomi": "Бухоро вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "3912",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "7",
+        "Hududlarnomi": "Бухоро вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3810",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "8",
+        "Hududlarnomi": "Бухоро вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "2814",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "9",
+        "Hududlarnomi": "Jizzakh region",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "3413",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "10",
+        "Hududlarnomi": "Jizzakh region",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "1775",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "11",
+        "Hududlarnomi": "Jizzakh region",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "3527",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "12",
+        "Hududlarnomi": "Қашқадарё вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "7733",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "13",
+        "Hududlarnomi": "Қашқадарё вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "2483",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "14",
+        "Hududlarnomi": "Қашқадарё вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "2987",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "15",
+        "Hududlarnomi": "Навоий вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "2649",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "16",
+        "Hududlarnomi": "Навоий вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "1046",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "17",
+        "Hududlarnomi": "Навоий вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "2080",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "18",
+        "Hududlarnomi": "Наманган вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "7651",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "19",
+        "Hududlarnomi": "Наманган вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3709",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "20",
+        "Hududlarnomi": "Наманган вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "4295",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "21",
+        "Hududlarnomi": "Самарқанд вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "8398",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "22",
+        "Hududlarnomi": "Самарқанд вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3959",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "23",
+        "Hududlarnomi": "Самарқанд вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "6828",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "24",
+        "Hududlarnomi": "Сирдарё вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "2191",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "25",
+        "Hududlarnomi": "Сирдарё вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "2108",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "26",
+        "Hududlarnomi": "Сирдарё вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "1024",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "27",
+        "Hududlarnomi": "Сурхондарё вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "5923",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "28",
+        "Hududlarnomi": "Сурхондарё вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "4390",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "29",
+        "Hududlarnomi": "Сурхондарё вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "2742",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "30",
+        "Hududlarnomi": "Тошкент вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "8910",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "31",
+        "Hududlarnomi": "Тошкент вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3433",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "32",
+        "Hududlarnomi": "Тошкент вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "3465",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "33",
+        "Hududlarnomi": "Фарғона вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "9183",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "34",
+        "Hududlarnomi": "Фарғона вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "7049",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "35",
+        "Hududlarnomi": "Фарғона вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "4059",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "36",
+        "Hududlarnomi": "Хоразм вилояти",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "4225",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "37",
+        "Hududlarnomi": "Хоразм вилояти",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3339",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "38",
+        "Hududlarnomi": "Хоразм вилояти",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "2010",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "39",
+        "Hududlarnomi": "Тошкент шаҳри",
+        "Talimmuassasasishakli": "Касб-ҳунар мактаби",
+        "20202021yil": "2126",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "40",
+        "Hududlarnomi": "Тошкент шаҳри",
+        "Talimmuassasasishakli": "College",
+        "20202021yil": "3610",
+        "path_id": "6102931d2a2e256d868e835c"
+    },
+    {
+        "ID": "41",
+        "Hududlarnomi": "Тошкент шаҳри",
+        "Talimmuassasasishakli": "Technical school",
+        "20202021yil": "3917",
+        "path_id": "6102931d2a2e256d868e835c"
+    }
+]

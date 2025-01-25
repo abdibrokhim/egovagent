@@ -1,0 +1,158 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Presidential School in Tashkent",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Presidential School in Namangan",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Presidential School in Nukus",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "4",
+        "Maktab": "Presidential School in Khiva",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "5",
+        "Maktab": "Presidential School in Bukhara",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "6",
+        "Maktab": "Presidential School in Jizzakh",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "7",
+        "Maktab": "Presidential School in Andijan",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "8",
+        "Maktab": "Presidential School in Fergana",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "9",
+        "Maktab": "Presidential School in Termez",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "10",
+        "Maktab": "Presidential School in Karshi ",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "11",
+        "Maktab": "Presidential School in Gulistan",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "12",
+        "Maktab": "Presidential School in Samarkand",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "13",
+        "Maktab": "Presidential School in Nurafshon",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "14",
+        "Maktab": "Presidential School in Navoi",
+        "Soni": "144",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "15",
+        "Maktab": "Creative school named after Abdulla Oripov",
+        "Soni": "150",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "16",
+        "Maktab": "Creative school named after Erkin Vohidov",
+        "Soni": "210",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "17",
+        "Maktab": "Creative school named after Ibrayim Yusupov",
+        "Soni": "216",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "18",
+        "Maktab": "Creative school named after Hamid Olimjon and Zulfiya",
+        "Soni": "150",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "19",
+        "Maktab": "Creative school named after Isxakhon Ibrat",
+        "Soni": "140",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "20",
+        "Maktab": "Creative school named after Halima Khudoiberdiyeva",
+        "Soni": "150",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "21",
+        "Maktab": "Creative school named after Agahi",
+        "Soni": "220",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "22",
+        "Maktab": "Creative school named after Abdulla Kodiri",
+        "Soni": "210",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "23",
+        "Maktab": "Creative school named after Muhammad Yusuf",
+        "Soni": "420",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "24",
+        "Maktab": "Muhammad al-Khwarizmi Specialized IT School",
+        "Soni": "840",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "25",
+        "Maktab": "Boarding school for young biologists and chemists named after Abu Ali ibn Sina",
+        "Soni": "760",
+        "path_id": "6110d576db32b99538e081a9"
+    },
+    {
+        "ID": "26",
+        "Maktab": "Mirzo Ulugbek State Boarding School for Physics, Mathematics, Astronomy and Informatics",
+        "Soni": "200",
+        "path_id": "6110d576db32b99538e081a9"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "MSTkodi": "3230140",
+        "Nomi": "Exercise equipment, inventory and other equipment for physical education, gymnastics and athletics in gyms and fitness centers",
+        "Olchovbirligi": "PCS",
+        "2018yil": "746.391",
+        "2019yil": "1245.036",
+        "2020yil": "1931.757",
+        "path_id": "61387cda14665dbb8ec7895d",
+        "ID": "1"
+    },
+    {
+        "MSTkodi": "3230150",
+        "Nomi": "Sports equipment and other equipment for sports and outdoor games, in swimming pools and rowing canals",
+        "Olchovbirligi": "PCS",
+        "2018yil": "183433",
+        "2019yil": "256664",
+        "2020yil": "329148",
+        "path_id": "61387cda14665dbb8ec7895d",
+        "ID": "2"
+    },
+    {
+        "MSTkodi": "3230160",
+        "Nomi": "Fishing rods, other fishing tackle, sport hunting or fishing equipment n.e.c.",
+        "Olchovbirligi": "PCS",
+        "2018yil": "500",
+        "2019yil": "583",
+        "2020yil": "502",
+        "path_id": "61387cda14665dbb8ec7895d",
+        "ID": "3"
+    }
+]

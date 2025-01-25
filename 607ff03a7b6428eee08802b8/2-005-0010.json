@@ -1,0 +1,42 @@
+[
+    {
+        "Viloyatnomi": "Republic of Karakalpakstan",
+        "Joylashganjoyi": "Muynak, Eastern Ustyurt, Aral Sea, Chink",
+        "Geoparknomi": "Aral potential Geopark ",
+        "Geoparkmaqsadvavazifasi": "Scientific, extreme, perspective scientific and tourism",
+        "path_id": "610b772e1a64fdd0373a8ee5",
+        "ID": "1"
+    },
+    {
+        "Viloyatnomi": "Republic of Karakalpakstan",
+        "Joylashganjoyi": "Karauzyak, Beruni, Eastern part of Khuzhakul Bay",
+        "Geoparknomi": "Sultan Uvays potential Geopark ",
+        "Geoparkmaqsadvavazifasi": "Scientific, educational and tourist",
+        "path_id": "610b772e1a64fdd0373a8ee5",
+        "ID": "2"
+    },
+    {
+        "Viloyatnomi": "Djizzakh region",
+        "Joylashganjoyi": "Farish Eastern part of East Nurata, Pastkucha village",
+        "Geoparknomi": "Bogambir Potential Geopark",
+        "Geoparkmaqsadvavazifasi": "Scientific, educational and tourist",
+        "path_id": "610b772e1a64fdd0373a8ee5",
+        "ID": "3"
+    },
+    {
+        "Viloyatnomi": "Surkhandarya region",
+        "Joylashganjoyi": "Darbin Gissar, Darband village, Baysuntau ridge, coast of Lake Sherobod, Lailakon village",
+        "Geoparknomi": "Hissar potential Geopark ",
+        "Geoparkmaqsadvavazifasi": "Scientific, educational and tourist",
+        "path_id": "610b772e1a64fdd0373a8ee5",
+        "ID": "4"
+    },
+    {
+        "Viloyatnomi": "Kashkadarya region",
+        "Joylashganjoyi": "Kashkadarya river banks, Zarafshan ridge, southwestern part",
+        "Geoparknomi": "Kitab potential Geopark ",
+        "Geoparkmaqsadvavazifasi": "Scientific, educational and tourist",
+        "path_id": "610b772e1a64fdd0373a8ee5",
+        "ID": "5"
+    }
+]

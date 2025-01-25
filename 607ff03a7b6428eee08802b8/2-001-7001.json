@@ -1,0 +1,32 @@
+[
+    {
+        "Hudud": "Republic of  Karakalpakstan",
+        "Olchovbirligi": "people",
+        "2017Yil": "2624.4",
+        "2018Yil": "2656",
+        "2019Yil": "2727.4",
+        "2020Yil": "2360.5",
+        "path_id": "637dbf5b4878653e5fe42342",
+        "ID": "1"
+    },
+    {
+        "Hudud": "Women",
+        "Olchovbirligi": "people",
+        "2017Yil": "1031.9",
+        "2018Yil": "1050.1",
+        "2019Yil": "1074",
+        "2020Yil": "874.2",
+        "path_id": "637dbf5b4878653e5fe42342",
+        "ID": "2"
+    },
+    {
+        "Hudud": "men",
+        "Olchovbirligi": "people",
+        "2017Yil": "1592.5",
+        "2018Yil": "1605.9",
+        "2019Yil": "1653.4",
+        "2020Yil": "1486.3",
+        "path_id": "637dbf5b4878653e5fe42342",
+        "ID": "3"
+    }
+]

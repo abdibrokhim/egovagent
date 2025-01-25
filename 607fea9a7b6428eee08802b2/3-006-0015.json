@@ -1,0 +1,100 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Presidential School in Tashkent",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Presidential School in Namangan",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Presidential School in Nukus",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "4",
+        "Maktab": "Presidential School in Khiva",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "5",
+        "Maktab": "Presidential School in Andijan",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "6",
+        "Maktab": "Presidential School in Nurafshan",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "7",
+        "Maktab": "Presidential School in Bukhara",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "8",
+        "Maktab": "Presidential School in Jizzakh",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "9",
+        "Maktab": "Presidential School in Karshi",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "10",
+        "Maktab": "Presidential School in Navoi",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "11",
+        "Maktab": "Presidential School in Samarkand",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "12",
+        "Maktab": "Presidential School in Termez",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "13",
+        "Maktab": "Presidential School in Gulistan",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    },
+    {
+        "ID": "14",
+        "Maktab": "Presidential School in Fergana",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d1b3db32b99538e08192"
+    }
+]

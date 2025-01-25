@@ -1,15 +1,13 @@
 [
     {
-        "path_id": "6107d2052a2e256d868e86e6"
-    },
-    {
         "ID": "1",
         "Years": "2015",
         "Huquqiyekspertizadan": "232",
         "yuridikxulosalar": "19",
         "Huquqiyyordam": "3295",
         "delegatsiyalarbilanuchrashuv": "20",
-        "safarlarisoni": "46"
+        "safarlarisoni": "46",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "2",
@@ -18,7 +16,8 @@
         "yuridikxulosalar": "15",
         "Huquqiyyordam": "3609",
         "delegatsiyalarbilanuchrashuv": "17",
-        "safarlarisoni": "88"
+        "safarlarisoni": "88",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "3",
@@ -27,7 +26,8 @@
         "yuridikxulosalar": "20",
         "Huquqiyyordam": "5411",
         "delegatsiyalarbilanuchrashuv": "51",
-        "safarlarisoni": "134"
+        "safarlarisoni": "134",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "4",
@@ -36,7 +36,8 @@
         "yuridikxulosalar": "20",
         "Huquqiyyordam": "11252",
         "delegatsiyalarbilanuchrashuv": "110",
-        "safarlarisoni": "190"
+        "safarlarisoni": "190",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "5",
@@ -45,7 +46,8 @@
         "yuridikxulosalar": "31",
         "Huquqiyyordam": "7530",
         "delegatsiyalarbilanuchrashuv": "79",
-        "safarlarisoni": "288"
+        "safarlarisoni": "288",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "6",
@@ -54,7 +56,8 @@
         "yuridikxulosalar": "17",
         "Huquqiyyordam": "2418",
         "delegatsiyalarbilanuchrashuv": "36",
-        "safarlarisoni": "28"
+        "safarlarisoni": "28",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "7",
@@ -63,7 +66,8 @@
         "yuridikxulosalar": "25",
         "Huquqiyyordam": "1479",
         "delegatsiyalarbilanuchrashuv": "110",
-        "safarlarisoni": "70"
+        "safarlarisoni": "70",
+        "path_id": "6107d2052a2e256d868e86e6"
     },
     {
         "ID": "8",
@@ -72,6 +76,7 @@
         "yuridikxulosalar": "44",
         "Huquqiyyordam": "591",
         "delegatsiyalarbilanuchrashuv": "94",
-        "safarlarisoni": "226"
+        "safarlarisoni": "226",
+        "path_id": "6107d2052a2e256d868e86e6"
     }
 ]

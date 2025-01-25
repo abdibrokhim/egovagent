@@ -1,15 +1,14 @@
 [
     {
-        "path_id": "61137263db32b99538e086e2"
-    },
-    {
         "id": "1",
         "Filial nomi": "QR",
         "I-chorakda": "8045",
         "II-chorakda": "3672",
         "IIIchorakda": "4222",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "1"
     },
     {
         "id": "2",
@@ -18,7 +17,9 @@
         "II-chorakda": "6109",
         "IIIchorakda": "9874",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "2"
     },
     {
         "id": "3",
@@ -27,7 +28,9 @@
         "II-chorakda": "9488",
         "IIIchorakda": "10018",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "3"
     },
     {
         "id": "4",
@@ -36,7 +39,9 @@
         "II-chorakda": "1563",
         "IIIchorakda": "3278",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "4"
     },
     {
         "id": "5",
@@ -45,7 +50,9 @@
         "II-chorakda": "6808",
         "IIIchorakda": "6353",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "5"
     },
     {
         "id": "6",
@@ -54,7 +61,9 @@
         "II-chorakda": "4332",
         "IIIchorakda": "3735",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "6"
     },
     {
         "id": "7",
@@ -63,7 +72,9 @@
         "II-chorakda": "8799",
         "IIIchorakda": "13651",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "7"
     },
     {
         "id": "8",
@@ -72,7 +83,9 @@
         "II-chorakda": "7912",
         "IIIchorakda": "10162",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "8"
     },
     {
         "id": "9",
@@ -81,7 +94,9 @@
         "II-chorakda": "10630",
         "IIIchorakda": "10671",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "9"
     },
     {
         "id": "10",
@@ -90,7 +105,9 @@
         "II-chorakda": "404",
         "IIIchorakda": "622",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "10"
     },
     {
         "id": "11",
@@ -99,7 +116,9 @@
         "II-chorakda": "3291",
         "IIIchorakda": "4699",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "11"
     },
     {
         "id": "12",
@@ -108,7 +127,9 @@
         "II-chorakda": "7542",
         "IIIchorakda": "12322",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "12"
     },
     {
         "id": "13",
@@ -117,7 +138,9 @@
         "II-chorakda": "8717",
         "IIIchorakda": "9140",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "13"
     },
     {
         "id": "14",
@@ -126,7 +149,9 @@
         "II-chorakda": "1619",
         "IIIchorakda": "1600",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "14"
     },
     {
         "id": "15",
@@ -135,7 +160,9 @@
         "II-chorakda": "471",
         "IIIchorakda": "786",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "15"
     },
     {
         "id": "16",
@@ -144,6 +171,8 @@
         "II-chorakda": "81357",
         "IIIchorakda": "101133",
         "IVchorak": "-",
-        "2024yilyakuniboyicha": "-"
+        "2024yilyakuniboyicha": "-",
+        "path_id": "61137263db32b99538e086e2",
+        "ID": "16"
     }
 ]

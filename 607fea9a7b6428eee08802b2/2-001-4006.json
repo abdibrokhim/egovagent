@@ -1,0 +1,38 @@
+[
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Bukhara State University",
+        "Olchovbirligi": "Units",
+        "OQUVADABIYOTLARSONIBOSMA": "146000",
+        "OQUVADABIYOTLARSONIELEKTRON": "32000",
+        "path_id": "637b1dc34878653e5fe41349",
+        "ID": "1"
+    },
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Bukhara State Medical Institute",
+        "Olchovbirligi": "Units",
+        "OQUVADABIYOTLARSONIBOSMA": "171600",
+        "OQUVADABIYOTLARSONIELEKTRON": "16780",
+        "path_id": "637b1dc34878653e5fe41349",
+        "ID": "2"
+    },
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Bukhara Engineering and Technology Institute",
+        "Olchovbirligi": "Units",
+        "OQUVADABIYOTLARSONIBOSMA": "101825",
+        "OQUVADABIYOTLARSONIELEKTRON": "5025",
+        "path_id": "637b1dc34878653e5fe41349",
+        "ID": "3"
+    },
+    {
+        "Hudud": " Bukhara",
+        "OTMNOMI": "Bukhara branch of the Tashkent Institute of Irrigation and Agricultural Mechanization Engineers",
+        "Olchovbirligi": "Units",
+        "OQUVADABIYOTLARSONIBOSMA": "6461",
+        "OQUVADABIYOTLARSONIELEKTRON": "3440",
+        "path_id": "637b1dc34878653e5fe41349",
+        "ID": "4"
+    }
+]

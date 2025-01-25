@@ -5,11 +5,12 @@ import tqdm
 from dotenv import load_dotenv
 from pinecone import Pinecone, ServerlessSpec
 import logging
+import datetime
 
 # Set up logging
-logging.basicConfig(filename='process.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename=f'process_{datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def initialize_pinecone():
+def initialize_pinecone(global_name):
     """Initialize Pinecone client and create index if it doesn't exist."""
     load_dotenv()
 
@@ -24,7 +25,7 @@ def initialize_pinecone():
     pc = Pinecone(api_key=pinecone_api_key)
 
     # Index name
-    index_name = "607ff4227b6428eee08802c0"
+    index_name = global_name
     logging.info(f"Using index name: {index_name}")
 
     # If index does not exist, create it
@@ -91,15 +92,15 @@ def embed_and_upsert(index, texts, metadata_list, batch_size=32):
             logging.info(f"Upserting {len(vectors)} vectors to Pinecone...")
             index.upsert(
                 vectors=vectors,
-                namespace="agriculture_607ff4227b6428eee08802c0"
+                namespace=global_name
             )
             logging.info("Upsert successful.")
         except Exception as e:
             logging.error(f"Pinecone upsert error: {e}")
 
-def process_json_files(index):
+def process_json_files(global_name, index):
     """Process JSON files in the specified directory and embed their contents."""
-    json_directory = "607ff4227b6428eee08802c0"
+    json_directory = global_name
     logging.info(f"Processing JSON files in directory: {json_directory}")
 
     if not os.path.isdir(json_directory):
@@ -175,7 +176,8 @@ def process_json_files(index):
             embed_and_upsert(index, texts_to_embed, metadata_list, batch_size=32)
 
 if __name__ == "__main__":
+    global_name = "607fea9a7b6428eee08802b2"
     logging.info("Starting the Pinecone process...")
-    index = initialize_pinecone()
-    process_json_files(index)
+    index = initialize_pinecone(global_name)
+    process_json_files(global_name, index)
     logging.info("All JSON files have been processed and embeddings stored in Pinecone.")

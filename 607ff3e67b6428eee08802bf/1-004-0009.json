@@ -1,15 +1,14 @@
 [
     {
-        "path_id": "610259cd2a2e256d868e82eb"
-    },
-    {
         "Hududlar": "Total",
         "Ishgaqabulqilishnirasmiylashtirmaslik": "672",
         "Mehnatgahaqtolashda": "4542",
         "Mehnatdaftarchasiyuritilishida": "1478",
         "Ishdannoqonuniyboshatishda": "776",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "2172",
-        "Boshqaqonunbuzarliklarboyicha": "10054"
+        "Boshqaqonunbuzarliklarboyicha": "10054",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "1"
     },
     {
         "Hududlar": "Republic of Karakalpakstan",
@@ -18,7 +17,9 @@
         "Mehnatdaftarchasiyuritilishida": "114",
         "Ishdannoqonuniyboshatishda": "63",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "238",
-        "Boshqaqonunbuzarliklarboyicha": "1014"
+        "Boshqaqonunbuzarliklarboyicha": "1014",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "2"
     },
     {
         "Hududlar": "Andijan",
@@ -27,7 +28,9 @@
         "Mehnatdaftarchasiyuritilishida": "135",
         "Ishdannoqonuniyboshatishda": "97",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "169",
-        "Boshqaqonunbuzarliklarboyicha": "984"
+        "Boshqaqonunbuzarliklarboyicha": "984",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "3"
     },
     {
         "Hududlar": "Bukhara",
@@ -36,7 +39,9 @@
         "Mehnatdaftarchasiyuritilishida": "96",
         "Ishdannoqonuniyboshatishda": "59",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "118",
-        "Boshqaqonunbuzarliklarboyicha": "2105"
+        "Boshqaqonunbuzarliklarboyicha": "2105",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "4"
     },
     {
         "Hududlar": "Djizzakh",
@@ -45,7 +50,9 @@
         "Mehnatdaftarchasiyuritilishida": "8",
         "Ishdannoqonuniyboshatishda": "10",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "146",
-        "Boshqaqonunbuzarliklarboyicha": "149"
+        "Boshqaqonunbuzarliklarboyicha": "149",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "5"
     },
     {
         "Hududlar": "Kashkadarya",
@@ -54,7 +61,9 @@
         "Mehnatdaftarchasiyuritilishida": "167",
         "Ishdannoqonuniyboshatishda": "149",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "200",
-        "Boshqaqonunbuzarliklarboyicha": "842"
+        "Boshqaqonunbuzarliklarboyicha": "842",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "6"
     },
     {
         "Hududlar": "Navoi",
@@ -63,7 +72,9 @@
         "Mehnatdaftarchasiyuritilishida": "112",
         "Ishdannoqonuniyboshatishda": "33",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "31",
-        "Boshqaqonunbuzarliklarboyicha": "712"
+        "Boshqaqonunbuzarliklarboyicha": "712",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "7"
     },
     {
         "Hududlar": "Namangan",
@@ -72,7 +83,9 @@
         "Mehnatdaftarchasiyuritilishida": "196",
         "Ishdannoqonuniyboshatishda": "52",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "52",
-        "Boshqaqonunbuzarliklarboyicha": "619"
+        "Boshqaqonunbuzarliklarboyicha": "619",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "8"
     },
     {
         "Hududlar": "Samarkand",
@@ -81,7 +94,9 @@
         "Mehnatdaftarchasiyuritilishida": "148",
         "Ishdannoqonuniyboshatishda": "38",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "99",
-        "Boshqaqonunbuzarliklarboyicha": "170"
+        "Boshqaqonunbuzarliklarboyicha": "170",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "9"
     },
     {
         "Hududlar": "Surkhandarya",
@@ -90,7 +105,9 @@
         "Mehnatdaftarchasiyuritilishida": "131",
         "Ishdannoqonuniyboshatishda": "34",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "259",
-        "Boshqaqonunbuzarliklarboyicha": "397"
+        "Boshqaqonunbuzarliklarboyicha": "397",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "10"
     },
     {
         "Hududlar": "Sirdarya",
@@ -99,7 +116,9 @@
         "Mehnatdaftarchasiyuritilishida": "99",
         "Ishdannoqonuniyboshatishda": "134",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "73",
-        "Boshqaqonunbuzarliklarboyicha": "513"
+        "Boshqaqonunbuzarliklarboyicha": "513",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "11"
     },
     {
         "Hududlar": "Tashkent reg.",
@@ -108,7 +127,9 @@
         "Mehnatdaftarchasiyuritilishida": "77",
         "Ishdannoqonuniyboshatishda": "11",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "326",
-        "Boshqaqonunbuzarliklarboyicha": "342"
+        "Boshqaqonunbuzarliklarboyicha": "342",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "12"
     },
     {
         "Hududlar": "Ferghana",
@@ -117,7 +138,9 @@
         "Mehnatdaftarchasiyuritilishida": "171",
         "Ishdannoqonuniyboshatishda": "55",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "196",
-        "Boshqaqonunbuzarliklarboyicha": "1980"
+        "Boshqaqonunbuzarliklarboyicha": "1980",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "13"
     },
     {
         "Hududlar": "Khorezm",
@@ -126,7 +149,9 @@
         "Mehnatdaftarchasiyuritilishida": "20",
         "Ishdannoqonuniyboshatishda": "8",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "162",
-        "Boshqaqonunbuzarliklarboyicha": "47"
+        "Boshqaqonunbuzarliklarboyicha": "47",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "14"
     },
     {
         "Hududlar": "Tashkent city",
@@ -135,6 +160,8 @@
         "Mehnatdaftarchasiyuritilishida": "4",
         "Ishdannoqonuniyboshatishda": "33",
         "Boshishorinlaritogrisidagimalumotnitaqdimetmaslikyokiyashirish": "103",
-        "Boshqaqonunbuzarliklarboyicha": "180"
+        "Boshqaqonunbuzarliklarboyicha": "180",
+        "path_id": "610259cd2a2e256d868e82eb",
+        "ID": "15"
     }
 ]

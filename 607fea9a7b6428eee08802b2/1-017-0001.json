@@ -1,0 +1,42 @@
+[
+    {
+        "RahbarningFIO": "Шин Агриппина Василевна",
+        "Lavozimi": "First Deputy Minister of Preschool and School Education of the Republic of Uzbekistan - Director of the Agency of Preschool Education.",
+        "Qabulkunlari": "Wednesday",
+        "Vaqti": "15:00-17:00",
+        "path_id": "6107eec52a2e256d868e875c",
+        "ID": "1"
+    },
+    {
+        "RahbarningFIO": "Бобоев Фаррух Ахмеджанович",
+        "Lavozimi": "First Deputy Director of Preschool Education Agency",
+        "Qabulkunlari": "Tuesday",
+        "Vaqti": "15:00-17:00",
+        "path_id": "6107eec52a2e256d868e875c",
+        "ID": "2"
+    },
+    {
+        "RahbarningFIO": "Раҳматуллаев Оятилло Зикриллаевич",
+        "Lavozimi": "Deputy Director of Preschool Education Agency",
+        "Qabulkunlari": "Thursday",
+        "Vaqti": "15:00-17:00",
+        "path_id": "6107eec52a2e256d868e875c",
+        "ID": "3"
+    },
+    {
+        "RahbarningFIO": "Муслитдинов Нодир Хожиевич",
+        "Lavozimi": "Deputy Director of Preschool Education Agency",
+        "Qabulkunlari": "Friday",
+        "Vaqti": "15:00-17:00",
+        "path_id": "6107eec52a2e256d868e875c",
+        "ID": "4"
+    },
+    {
+        "RahbarningFIO": "-",
+        "Lavozimi": "Reception days of heads of departments and departments",
+        "Qabulkunlari": "Monday-Friday",
+        "Vaqti": "10:00-17:00",
+        "path_id": "6107eec52a2e256d868e875c",
+        "ID": "5"
+    }
+]

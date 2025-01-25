@@ -1,0 +1,47 @@
+[
+    {
+        "ID": "1",
+        "Lavozimi": "President of the Academy of Sciences of the Republic of Uzbekistan",
+        "FIO": "Yuldashev Bekhzod Sodikovich",
+        "Telefonraqami": "(+99871)2336847",
+        "Email": "yuldoshev@academy.uz",
+        "Qabulvaqti": "Monday from 14:00 to 16:00",
+        "path_id": "61111b57db32b99538e08247"
+    },
+    {
+        "ID": "2",
+        "Lavozimi": "Chief Scientific Secretary",
+        "FIO": "Bakhadirov Gayrat Atakhanovich",
+        "Telefonraqami": "(+99871)2335986",
+        "Email": "gensec@academy.uz",
+        "Qabulvaqti": "Tuesday from 14:00 to 16:00",
+        "path_id": "61111b57db32b99538e08247"
+    },
+    {
+        "ID": "3",
+        "Lavozimi": "Vice President",
+        "FIO": "Mirzaev Sirozhiddin Zainievich",
+        "Telefonraqami": "(+99871)2338063",
+        "Email": "physics@academy.uz",
+        "Qabulvaqti": "Wednesday from 14:00 to 16:00",
+        "path_id": "61111b57db32b99538e08247"
+    },
+    {
+        "ID": "4",
+        "Lavozimi": "Vice President",
+        "FIO": "Turdikulova Shakhlokhon",
+        "Telefonraqami": "(+99871)2362617",
+        "Email": "naturalscience@academy.uz",
+        "Qabulvaqti": "Thursday from 14:00 to 16:00",
+        "path_id": "61111b57db32b99538e08247"
+    },
+    {
+        "ID": "5",
+        "Lavozimi": "Vice President",
+        "FIO": "Abdukhalimov Bakhrom Abdurakhimovich",
+        "Telefonraqami": "(+99871)2331802",
+        "Email": "social@academy.uz",
+        "Qabulvaqti": "Friday from 14:00 to 16:00",
+        "path_id": "61111b57db32b99538e08247"
+    }
+]

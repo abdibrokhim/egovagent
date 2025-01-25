@@ -1,0 +1,46 @@
+[
+    {
+        "OLIYTALIMMUASSASAINOMI": "Buxoro davlat universiteti",
+        "BAKALAVRIATJAMI": "22583",
+        "BAKALAVRIATERKAK": "8309",
+        "BAKALAVRIATAYOL": "14274",
+        "MAGISTRATURAJAMI": "1268",
+        "MAGISTRATURAERKAK": "380",
+        "MAGISTRATURAAYOL": "888",
+        "path_id": "637b135a4878653e5fe412a0",
+        "ID": "1"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Buxoro muhandislik-texnologiya instituti",
+        "BAKALAVRIATJAMI": "11272",
+        "BAKALAVRIATERKAK": "9113",
+        "BAKALAVRIATAYOL": "2159",
+        "MAGISTRATURAJAMI": "526",
+        "MAGISTRATURAERKAK": "363",
+        "MAGISTRATURAAYOL": "163",
+        "path_id": "637b135a4878653e5fe412a0",
+        "ID": "2"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Buxoro tibbiyot instituti",
+        "BAKALAVRIATJAMI": "4845",
+        "BAKALAVRIATERKAK": "2620",
+        "BAKALAVRIATAYOL": "2225",
+        "MAGISTRATURAJAMI": "240",
+        "MAGISTRATURAERKAK": "136",
+        "MAGISTRATURAAYOL": "104",
+        "path_id": "637b135a4878653e5fe412a0",
+        "ID": "3"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Buxoro davlat universitetining Pedagogika instituti",
+        "BAKALAVRIATJAMI": "3115",
+        "BAKALAVRIATERKAK": "805",
+        "BAKALAVRIATAYOL": "2310",
+        "MAGISTRATURAJAMI": "274",
+        "MAGISTRATURAERKAK": "71",
+        "MAGISTRATURAAYOL": "203",
+        "path_id": "637b135a4878653e5fe412a0",
+        "ID": "4"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Presidential School in Tashkent",
+        "Soni": "113",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Presidential School in Namangan",
+        "Soni": "156",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Presidential School in Nukus",
+        "Soni": "106",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "4",
+        "Maktab": "Presidential School in Khiva",
+        "Soni": "100",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "5",
+        "Maktab": "Presidential School in Andijan",
+        "Soni": "106",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "6",
+        "Maktab": "Presidential School in Nurafshan",
+        "Soni": "139",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "7",
+        "Maktab": "Presidential School in Bukhara",
+        "Soni": "80",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "8",
+        "Maktab": "Presidential School in Jizzakh",
+        "Soni": "124",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "9",
+        "Maktab": "Presidential School in Karshi",
+        "Soni": "147",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "10",
+        "Maktab": "Presidential School in Navoi",
+        "Soni": "76",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "11",
+        "Maktab": "Presidential School in Samarkand",
+        "Soni": "186",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "12",
+        "Maktab": "Presidential School in Termez",
+        "Soni": "156",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "13",
+        "Maktab": "Presidential School in Gulistan",
+        "Soni": "77",
+        "path_id": "6110d1f5db32b99538e08194"
+    },
+    {
+        "ID": "14",
+        "Maktab": "Presidential School in Fergana",
+        "Soni": "147",
+        "path_id": "6110d1f5db32b99538e08194"
+    }
+]

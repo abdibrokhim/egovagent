@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107bba62a2e256d868e8670"
-    },
-    {
         "XududBoyicha": "Xudud bo'yicha / По регионам / By region",
         "YillikKesimida": "Yillik kesimida / В разрезе по годам / in the annual cross section",
         "ErkakJamiYTX": "Erkak / Мужчина / Man",
@@ -10,7 +7,9 @@
         "ErkakJaroxatlangan": "Erkak / Мужчина / Man",
         "AyolJamiYTX": "Ayol /Женщина / Woman",
         "AyolXalokBolgan": "Ayol /Женщина / Woman",
-        "AyolJaroxatlangan": "Ayol /Женщина / Woman"
+        "AyolJaroxatlangan": "Ayol /Женщина / Woman",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "1"
     },
     {
         "XududBoyicha": "Xudud bo'yicha / По регионам / By region",
@@ -20,7 +19,9 @@
         "ErkakJaroxatlangan": "Jaroxatlangan / Раненый / Wounded",
         "AyolJamiYTX": "Jami YTX / Всего ДТП / All Traffic Accident",
         "AyolXalokBolgan": "Xalokbo'lgan / погиб / died",
-        "AyolJaroxatlangan": "Jaroxatlangan / Раненый / Wounded"
+        "AyolJaroxatlangan": "Jaroxatlangan / Раненый / Wounded",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "2"
     },
     {
         "XududBoyicha": "Toshkent shaxri / Город ташкент / The city of Tashkent",
@@ -30,7 +31,9 @@
         "ErkakJaroxatlangan": "1087",
         "AyolJamiYTX": "107",
         "AyolXalokBolgan": "8",
-        "AyolJaroxatlangan": "138"
+        "AyolJaroxatlangan": "138",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "3"
     },
     {
         "XududBoyicha": "Toshkent shaxri / Город ташкент / The city of Tashkent",
@@ -40,7 +43,9 @@
         "ErkakJaroxatlangan": "1115",
         "AyolJamiYTX": "88",
         "AyolXalokBolgan": "7",
-        "AyolJaroxatlangan": "106"
+        "AyolJaroxatlangan": "106",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "4"
     },
     {
         "XududBoyicha": "Toshkent shaxri / Город ташкент / The city of Tashkent",
@@ -50,7 +55,9 @@
         "ErkakJaroxatlangan": "-28",
         "AyolJamiYTX": "19",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "32"
+        "AyolJaroxatlangan": "32",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "5"
     },
     {
         "XududBoyicha": "Toshkent shaxri / Город ташкент / The city of Tashkent",
@@ -60,7 +67,9 @@
         "ErkakJaroxatlangan": "-2.5112107623318383",
         "AyolJamiYTX": "21.59090909090909",
         "AyolXalokBolgan": "14.285714285714285",
-        "AyolJaroxatlangan": "30.18867924528302"
+        "AyolJaroxatlangan": "30.18867924528302",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "6"
     },
     {
         "XududBoyicha": "Toshkent viloyati / Ташкентская область / Tashkent region",
@@ -70,7 +79,9 @@
         "ErkakJaroxatlangan": "777",
         "AyolJamiYTX": "37",
         "AyolXalokBolgan": "10",
-        "AyolJaroxatlangan": "32"
+        "AyolJaroxatlangan": "32",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "7"
     },
     {
         "XududBoyicha": "Toshkent viloyati / Ташкентская область / Tashkent region",
@@ -80,7 +91,9 @@
         "ErkakJaroxatlangan": "759",
         "AyolJamiYTX": "39",
         "AyolXalokBolgan": "10",
-        "AyolJaroxatlangan": "31"
+        "AyolJaroxatlangan": "31",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "8"
     },
     {
         "XududBoyicha": "Toshkent viloyati / Ташкентская область / Tashkent region",
@@ -90,7 +103,9 @@
         "ErkakJaroxatlangan": "18",
         "AyolJamiYTX": "-2",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "1"
+        "AyolJaroxatlangan": "1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "9"
     },
     {
         "XududBoyicha": "Toshkent viloyati / Ташкентская область / Tashkent region",
@@ -100,7 +115,9 @@
         "ErkakJaroxatlangan": "2.371541501976284",
         "AyolJamiYTX": "-5.128205128205128",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "3.225806451612903"
+        "AyolJaroxatlangan": "3.225806451612903",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "10"
     },
     {
         "XududBoyicha": "Samarqand viloyati / Самаркандская область / Samarkand region",
@@ -110,7 +127,9 @@
         "ErkakJaroxatlangan": "648",
         "AyolJamiYTX": "29",
         "AyolXalokBolgan": "5",
-        "AyolJaroxatlangan": "24"
+        "AyolJaroxatlangan": "24",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "11"
     },
     {
         "XududBoyicha": "Samarqand viloyati / Самаркандская область / Samarkand region",
@@ -120,7 +139,9 @@
         "ErkakJaroxatlangan": "755",
         "AyolJamiYTX": "26",
         "AyolXalokBolgan": "4",
-        "AyolJaroxatlangan": "23"
+        "AyolJaroxatlangan": "23",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "12"
     },
     {
         "XududBoyicha": "Samarqand viloyati / Самаркандская область / Samarkand region",
@@ -130,7 +151,9 @@
         "ErkakJaroxatlangan": "-107",
         "AyolJamiYTX": "3",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "1"
+        "AyolJaroxatlangan": "1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "13"
     },
     {
         "XududBoyicha": "Samarqand viloyati / Самаркандская область / Samarkand region",
@@ -140,7 +163,9 @@
         "ErkakJaroxatlangan": "-14.172185430463577",
         "AyolJamiYTX": "11.538461538461538",
         "AyolXalokBolgan": "25",
-        "AyolJaroxatlangan": "4.3478260869565215"
+        "AyolJaroxatlangan": "4.3478260869565215",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "14"
     },
     {
         "XududBoyicha": "Sirdaryo viloyati / Сырдарьинская область / Syrdarya region",
@@ -150,7 +175,9 @@
         "ErkakJaroxatlangan": "137",
         "AyolJamiYTX": "3",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "3"
+        "AyolJaroxatlangan": "3",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "15"
     },
     {
         "XududBoyicha": "Sirdaryo viloyati / Сырдарьинская область / Syrdarya region",
@@ -160,7 +187,9 @@
         "ErkakJaroxatlangan": "140",
         "AyolJamiYTX": "1",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "1"
+        "AyolJaroxatlangan": "1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "16"
     },
     {
         "XududBoyicha": "Sirdaryo viloyati / Сырдарьинская область / Syrdarya region",
@@ -170,7 +199,9 @@
         "ErkakJaroxatlangan": "-3",
         "AyolJamiYTX": "2",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "2"
+        "AyolJaroxatlangan": "2",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "17"
     },
     {
         "XududBoyicha": "Sirdaryo viloyati / Сырдарьинская область / Syrdarya region",
@@ -180,7 +211,9 @@
         "ErkakJaroxatlangan": "-2.142857142857143",
         "AyolJamiYTX": "200",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "200"
+        "AyolJaroxatlangan": "200",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "18"
     },
     {
         "XududBoyicha": "Jizzax viloyati / Джизакская область / Jizzakh region",
@@ -190,7 +223,9 @@
         "ErkakJaroxatlangan": "268",
         "AyolJamiYTX": "7",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "6"
+        "AyolJaroxatlangan": "6",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "19"
     },
     {
         "XududBoyicha": "Jizzax viloyati / Джизакская область / Jizzakh region",
@@ -200,7 +235,9 @@
         "ErkakJaroxatlangan": "320",
         "AyolJamiYTX": "6",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "5"
+        "AyolJaroxatlangan": "5",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "20"
     },
     {
         "XududBoyicha": "Jizzax viloyati / Джизакская область / Jizzakh region",
@@ -210,7 +247,9 @@
         "ErkakJaroxatlangan": "-52",
         "AyolJamiYTX": "1",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "1"
+        "AyolJaroxatlangan": "1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "21"
     },
     {
         "XududBoyicha": "Jizzax viloyati / Джизакская область / Jizzakh region",
@@ -220,7 +259,9 @@
         "ErkakJaroxatlangan": "-16.25",
         "AyolJamiYTX": "16.666666666666664",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "20"
+        "AyolJaroxatlangan": "20",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "22"
     },
     {
         "XududBoyicha": "Buxoro viloyati / Бухарская область / Bukhara region",
@@ -230,7 +271,9 @@
         "ErkakJaroxatlangan": "254",
         "AyolJamiYTX": "11",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "9"
+        "AyolJaroxatlangan": "9",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "23"
     },
     {
         "XududBoyicha": "Buxoro viloyati / Бухарская область / Bukhara region",
@@ -240,7 +283,9 @@
         "ErkakJaroxatlangan": "264",
         "AyolJamiYTX": "11",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "10"
+        "AyolJaroxatlangan": "10",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "24"
     },
     {
         "XududBoyicha": "Buxoro viloyati / Бухарская область / Bukhara region",
@@ -250,7 +295,9 @@
         "ErkakJaroxatlangan": "-10",
         "AyolJamiYTX": "0",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "-1"
+        "AyolJaroxatlangan": "-1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "25"
     },
     {
         "XududBoyicha": "Buxoro viloyati / Бухарская область / Bukhara region",
@@ -260,7 +307,9 @@
         "ErkakJaroxatlangan": "-3.787878787878788",
         "AyolJamiYTX": "0",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "-10"
+        "AyolJaroxatlangan": "-10",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "26"
     },
     {
         "XududBoyicha": "Navoiy viloyati / Навоийская область / Navoi region",
@@ -270,7 +319,9 @@
         "ErkakJaroxatlangan": "179",
         "AyolJamiYTX": "4",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "5"
+        "AyolJaroxatlangan": "5",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "27"
     },
     {
         "XududBoyicha": "Navoiy viloyati / Навоийская область / Navoi region",
@@ -280,7 +331,9 @@
         "ErkakJaroxatlangan": "181",
         "AyolJamiYTX": "1",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "1"
+        "AyolJaroxatlangan": "1",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "28"
     },
     {
         "XududBoyicha": "Navoiy viloyati / Навоийская область / Navoi region",
@@ -290,7 +343,9 @@
         "ErkakJaroxatlangan": "-2",
         "AyolJamiYTX": "3",
         "AyolXalokBolgan": "1",
-        "AyolJaroxatlangan": "4"
+        "AyolJaroxatlangan": "4",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "29"
     },
     {
         "XududBoyicha": "Navoiy viloyati / Навоийская область / Navoi region",
@@ -300,7 +355,9 @@
         "ErkakJaroxatlangan": "-1.1049723756906076",
         "AyolJamiYTX": "300",
         "AyolXalokBolgan": "100",
-        "AyolJaroxatlangan": "400"
+        "AyolJaroxatlangan": "400",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "30"
     },
     {
         "XududBoyicha": "Fargʼona viloyati / Ферганская область / Fergana region",
@@ -310,7 +367,9 @@
         "ErkakJaroxatlangan": "853",
         "AyolJamiYTX": "36",
         "AyolXalokBolgan": "3",
-        "AyolJaroxatlangan": "34"
+        "AyolJaroxatlangan": "34",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "31"
     },
     {
         "XududBoyicha": "Fargʼona viloyati / Ферганская область / Fergana region",
@@ -320,7 +379,9 @@
         "ErkakJaroxatlangan": "1018",
         "AyolJamiYTX": "26",
         "AyolXalokBolgan": "6",
-        "AyolJaroxatlangan": "26"
+        "AyolJaroxatlangan": "26",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "32"
     },
     {
         "XududBoyicha": "Fargʼona viloyati / Ферганская область / Fergana region",
@@ -330,7 +391,9 @@
         "ErkakJaroxatlangan": "-165",
         "AyolJamiYTX": "10",
         "AyolXalokBolgan": "-3",
-        "AyolJaroxatlangan": "8"
+        "AyolJaroxatlangan": "8",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "33"
     },
     {
         "XududBoyicha": "Fargʼona viloyati / Ферганская область / Fergana region",
@@ -340,7 +403,9 @@
         "ErkakJaroxatlangan": "-16.208251473477407",
         "AyolJamiYTX": "38.46153846153847",
         "AyolXalokBolgan": "-50",
-        "AyolJaroxatlangan": "30.76923076923077"
+        "AyolJaroxatlangan": "30.76923076923077",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "34"
     },
     {
         "XududBoyicha": "Аndijon viloyati / Андижанская область / Andijan region",
@@ -350,7 +415,9 @@
         "ErkakJaroxatlangan": "478",
         "AyolJamiYTX": "13",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "12"
+        "AyolJaroxatlangan": "12",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "35"
     },
     {
         "XududBoyicha": "Аndijon viloyati / Андижанская область / Andijan region",
@@ -360,7 +427,9 @@
         "ErkakJaroxatlangan": "499",
         "AyolJamiYTX": "21",
         "AyolXalokBolgan": "4",
-        "AyolJaroxatlangan": "19"
+        "AyolJaroxatlangan": "19",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "36"
     },
     {
         "XududBoyicha": "Аndijon viloyati / Андижанская область / Andijan region",
@@ -370,7 +439,9 @@
         "ErkakJaroxatlangan": "-21",
         "AyolJamiYTX": "-8",
         "AyolXalokBolgan": "-2",
-        "AyolJaroxatlangan": "-7"
+        "AyolJaroxatlangan": "-7",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "37"
     },
     {
         "XududBoyicha": "Аndijon viloyati / Андижанская область / Andijan region",
@@ -380,7 +451,9 @@
         "ErkakJaroxatlangan": "-4.208416833667335",
         "AyolJamiYTX": "-38.095238095238095",
         "AyolXalokBolgan": "-50",
-        "AyolJaroxatlangan": "-36.84210526315789"
+        "AyolJaroxatlangan": "-36.84210526315789",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "38"
     },
     {
         "XududBoyicha": "Namangan viloyati / Наманганская область / Namangan region",
@@ -390,7 +463,9 @@
         "ErkakJaroxatlangan": "702",
         "AyolJamiYTX": "14",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "13"
+        "AyolJaroxatlangan": "13",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "39"
     },
     {
         "XududBoyicha": "Namangan viloyati / Наманганская область / Namangan region",
@@ -400,7 +475,9 @@
         "ErkakJaroxatlangan": "746",
         "AyolJamiYTX": "24",
         "AyolXalokBolgan": "3",
-        "AyolJaroxatlangan": "26"
+        "AyolJaroxatlangan": "26",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "40"
     },
     {
         "XududBoyicha": "Namangan viloyati / Наманганская область / Namangan region",
@@ -410,7 +487,9 @@
         "ErkakJaroxatlangan": "-44",
         "AyolJamiYTX": "-10",
         "AyolXalokBolgan": "-1",
-        "AyolJaroxatlangan": "-13"
+        "AyolJaroxatlangan": "-13",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "41"
     },
     {
         "XududBoyicha": "Namangan viloyati / Наманганская область / Namangan region",
@@ -420,7 +499,9 @@
         "ErkakJaroxatlangan": "-5.898123324396782",
         "AyolJamiYTX": "-41.66666666666667",
         "AyolXalokBolgan": "-33.33333333333333",
-        "AyolJaroxatlangan": "-50"
+        "AyolJaroxatlangan": "-50",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "42"
     },
     {
         "XududBoyicha": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
@@ -430,7 +511,9 @@
         "ErkakJaroxatlangan": "248",
         "AyolJamiYTX": "11",
         "AyolXalokBolgan": "5",
-        "AyolJaroxatlangan": "11"
+        "AyolJaroxatlangan": "11",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "43"
     },
     {
         "XududBoyicha": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
@@ -440,7 +523,9 @@
         "ErkakJaroxatlangan": "205",
         "AyolJamiYTX": "7",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "6"
+        "AyolJaroxatlangan": "6",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "44"
     },
     {
         "XududBoyicha": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
@@ -450,7 +535,9 @@
         "ErkakJaroxatlangan": "43",
         "AyolJamiYTX": "4",
         "AyolXalokBolgan": "3",
-        "AyolJaroxatlangan": "5"
+        "AyolJaroxatlangan": "5",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "45"
     },
     {
         "XududBoyicha": "Surxondaryo viloyati / Сурхандарьинская область / Surkhandarya region",
@@ -460,7 +547,9 @@
         "ErkakJaroxatlangan": "20.975609756097562",
         "AyolJamiYTX": "57.14285714285714",
         "AyolXalokBolgan": "150",
-        "AyolJaroxatlangan": "83.33333333333334"
+        "AyolJaroxatlangan": "83.33333333333334",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "46"
     },
     {
         "XududBoyicha": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
@@ -470,7 +559,9 @@
         "ErkakJaroxatlangan": "334",
         "AyolJamiYTX": "6",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "4"
+        "AyolJaroxatlangan": "4",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "47"
     },
     {
         "XududBoyicha": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
@@ -480,7 +571,9 @@
         "ErkakJaroxatlangan": "320",
         "AyolJamiYTX": "6",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "6"
+        "AyolJaroxatlangan": "6",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "48"
     },
     {
         "XududBoyicha": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
@@ -490,7 +583,9 @@
         "ErkakJaroxatlangan": "14",
         "AyolJamiYTX": "0",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "-2"
+        "AyolJaroxatlangan": "-2",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "49"
     },
     {
         "XududBoyicha": "Qashqadaryo viloyati / Кашкадарьинская область / Kashkadarya region",
@@ -500,7 +595,9 @@
         "ErkakJaroxatlangan": "4.375",
         "AyolJamiYTX": "0",
         "AyolXalokBolgan": "100",
-        "AyolJaroxatlangan": "-33.33333333333333"
+        "AyolJaroxatlangan": "-33.33333333333333",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "50"
     },
     {
         "XududBoyicha": "Xorazm viloyati / Хорезмская область / Khorezm region",
@@ -510,7 +607,9 @@
         "ErkakJaroxatlangan": "192",
         "AyolJamiYTX": "7",
         "AyolXalokBolgan": "4",
-        "AyolJaroxatlangan": "5"
+        "AyolJaroxatlangan": "5",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "51"
     },
     {
         "XududBoyicha": "Xorazm viloyati / Хорезмская область / Khorezm region",
@@ -520,7 +619,9 @@
         "ErkakJaroxatlangan": "179",
         "AyolJamiYTX": "5",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "3"
+        "AyolJaroxatlangan": "3",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "52"
     },
     {
         "XududBoyicha": "Xorazm viloyati / Хорезмская область / Khorezm region",
@@ -530,7 +631,9 @@
         "ErkakJaroxatlangan": "13",
         "AyolJamiYTX": "2",
         "AyolXalokBolgan": "2",
-        "AyolJaroxatlangan": "2"
+        "AyolJaroxatlangan": "2",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "53"
     },
     {
         "XududBoyicha": "Xorazm viloyati / Хорезмская область / Khorezm region",
@@ -540,7 +643,9 @@
         "ErkakJaroxatlangan": "7.262569832402235",
         "AyolJamiYTX": "40",
         "AyolXalokBolgan": "100",
-        "AyolJaroxatlangan": "66.66666666666666"
+        "AyolJaroxatlangan": "66.66666666666666",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "54"
     },
     {
         "XududBoyicha": "Qoraqalpogʼiston Respublikasi / Республика Каракалпакстан / Republic of Karakalpakstan",
@@ -550,7 +655,9 @@
         "ErkakJaroxatlangan": "357",
         "AyolJamiYTX": "20",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "23"
+        "AyolJaroxatlangan": "23",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "55"
     },
     {
         "XududBoyicha": "Qoraqalpogʼiston Respublikasi / Республика Каракалпакстан / Republic of Karakalpakstan",
@@ -560,7 +667,9 @@
         "ErkakJaroxatlangan": "343",
         "AyolJamiYTX": "7",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "7"
+        "AyolJaroxatlangan": "7",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "56"
     },
     {
         "XududBoyicha": "Qoraqalpogʼiston Respublikasi / Республика Каракалпакстан / Republic of Karakalpakstan",
@@ -570,7 +679,9 @@
         "ErkakJaroxatlangan": "14",
         "AyolJamiYTX": "13",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "16"
+        "AyolJaroxatlangan": "16",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "57"
     },
     {
         "XududBoyicha": "Qoraqalpogʼiston Respublikasi / Республика Каракалпакстан / Republic of Karakalpakstan",
@@ -580,7 +691,9 @@
         "ErkakJaroxatlangan": "4.081632653061225",
         "AyolJamiYTX": "185.71428571428572",
         "AyolXalokBolgan": "0",
-        "AyolJaroxatlangan": "228.57142857142856"
+        "AyolJaroxatlangan": "228.57142857142856",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "58"
     },
     {
         "XududBoyicha": "Respublika buyicha / По всей республике / Throughout the republic",
@@ -590,7 +703,9 @@
         "ErkakJaroxatlangan": "6514",
         "AyolJamiYTX": "305",
         "AyolXalokBolgan": "45",
-        "AyolJaroxatlangan": "319"
+        "AyolJaroxatlangan": "319",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "59"
     },
     {
         "XududBoyicha": "Respublika buyicha / По всей республике / Throughout the republic",
@@ -600,7 +715,9 @@
         "ErkakJaroxatlangan": "6844",
         "AyolJamiYTX": "268",
         "AyolXalokBolgan": "41",
-        "AyolJaroxatlangan": "270"
+        "AyolJaroxatlangan": "270",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "60"
     },
     {
         "XududBoyicha": "Respublika buyicha / По всей республике / Throughout the republic",
@@ -610,7 +727,9 @@
         "ErkakJaroxatlangan": "-330",
         "AyolJamiYTX": "37",
         "AyolXalokBolgan": "4",
-        "AyolJaroxatlangan": "49"
+        "AyolJaroxatlangan": "49",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "61"
     },
     {
         "XududBoyicha": "Respublika buyicha / По всей республике / Throughout the republic",
@@ -620,6 +739,8 @@
         "ErkakJaroxatlangan": "-4.821741671537113",
         "AyolJamiYTX": "13.805970149253731",
         "AyolXalokBolgan": "9.75609756097561",
-        "AyolJaroxatlangan": "18.14814814814815"
+        "AyolJaroxatlangan": "18.14814814814815",
+        "path_id": "6107bba62a2e256d868e8670",
+        "ID": "62"
     }
 ]

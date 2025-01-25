@@ -1,0 +1,32 @@
+[
+    {
+        "Indicator": "Doctor of Science",
+        "CountWorks": "471",
+        "path_id": "61112898db32b99538e08292",
+        "ID": "1"
+    },
+    {
+        "Indicator": "Doctor of Philosophy",
+        "CountWorks": "3102",
+        "path_id": "61112898db32b99538e08292",
+        "ID": "2"
+    },
+    {
+        "Indicator": "Professor",
+        "CountWorks": "455",
+        "path_id": "61112898db32b99538e08292",
+        "ID": "3"
+    },
+    {
+        "Indicator": "Associate professor",
+        "CountWorks": "1749",
+        "path_id": "61112898db32b99538e08292",
+        "ID": "4"
+    },
+    {
+        "Indicator": "Senior fellow",
+        "CountWorks": "180",
+        "path_id": "61112898db32b99538e08292",
+        "ID": "5"
+    }
+]

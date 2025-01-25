@@ -1,14 +1,13 @@
 [
     {
-        "path_id": "659e926526434348e0895d02"
-    },
-    {
         "Tartibraqam": "1",
         "Nazoratobektiningnomi": "JSC \"Garant Bank\"",
         "Nazorattadbiriningmaqsadi": "Study of the status of compliance with prudential standards, risks associated with financial monitoring and the organization of money circulation",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "22.01.2024 - 20.02.2024",
-        "Nazorattadbiri": "Head of division- B.Alixodjayev, \r\nDeputy head of division - F.Karimov, \r\nDeputy head of division - U.Nizamov, \r\nSenior inspector - D.Xadjayev"
+        "Nazorattadbiri": "Head of division- B.Alixodjayev, \r\nDeputy head of division - F.Karimov, \r\nDeputy head of division - U.Nizamov, \r\nSenior inspector - D.Xadjayev",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "1"
     },
     {
         "Tartibraqam": "2",
@@ -16,7 +15,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the status of compliance with prudential standards, risks associated with financial monitoring and the organization of money circulation",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "22.01.2024 - 20.02.2024",
-        "Nazorattadbiri": "Head of division- R.Qahorov, \r\nDeputy head of division - M.Jumanazarov, \r\nSenior inspector - A.Sharapov,\r\nSenior inspector - I.Xolboyev"
+        "Nazorattadbiri": "Head of division- R.Qahorov, \r\nDeputy head of division - M.Jumanazarov, \r\nSenior inspector - A.Sharapov,\r\nSenior inspector - I.Xolboyev",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "2"
     },
     {
         "Tartibraqam": "3",
@@ -24,7 +25,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the risks associated with the organization of cash transactions",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "07.02.2024-07.03.2024",
-        "Nazorattadbiri": "Deputy head of division - X.Mannopov, \r\nSenior inspector - O.Mamatov, \r\nSenior inspector - A.Fozilov, \r\nSenior inspector - O.Egamberdiyev"
+        "Nazorattadbiri": "Deputy head of division - X.Mannopov, \r\nSenior inspector - O.Mamatov, \r\nSenior inspector - A.Fozilov, \r\nSenior inspector - O.Egamberdiyev",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "3"
     },
     {
         "Tartibraqam": "4",
@@ -32,7 +35,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the status of сompliance with prudential standards and risks associated with foreign exchange transactions",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "01.03.2024 - 30.03.2024",
-        "Nazorattadbiri": "Head of division- B.Alixodjayev,\r\nDeputy head of division - F.Karimov, \r\nSenior inspector - D.Xadjayev, \r\nSenior inspector - O.Abidov"
+        "Nazorattadbiri": "Head of division- B.Alixodjayev,\r\nDeputy head of division - F.Karimov, \r\nSenior inspector - D.Xadjayev, \r\nSenior inspector - O.Abidov",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "4"
     },
     {
         "Tartibraqam": "5",
@@ -40,7 +45,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the status of compliance with prudential standards, risks associated with financial monitoring and the organization of money circulation",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "01.03.2024 - 30.03.2024",
-        "Nazorattadbiri": "Head of division- R.Qahorov, \r\nDeputy head of division - M.Jumanazarov, \r\nDeputy head of division - U.Nizamov, \r\nSenior inspector - D.Qurbonov "
+        "Nazorattadbiri": "Head of division- R.Qahorov, \r\nDeputy head of division - M.Jumanazarov, \r\nDeputy head of division - U.Nizamov, \r\nSenior inspector - D.Qurbonov ",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "5"
     },
     {
         "Tartibraqam": "6",
@@ -48,7 +55,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the risk of non-compliance with the legislation of the microfinance organization",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "22.01.2024 - 20.02.2024",
-        "Nazorattadbiri": "Senior inspector - B.Uralov, \r\nLeading inspector - B.Namozov"
+        "Nazorattadbiri": "Senior inspector - B.Uralov, \r\nLeading inspector - B.Namozov",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "6"
     },
     {
         "Tartibraqam": "7",
@@ -56,7 +65,9 @@
         "Nazorattadbiriningmaqsadi": "Study of the risk of non-compliance with the legislation of the microfinance organization",
         "Muddati": "29 calendar days",
         "Otkazilgansana": "21.02.2024 - 20.03.2024",
-        "Nazorattadbiri": "Head of division- F.Radjabov, \r\nSenior inspector - B.Uralov "
+        "Nazorattadbiri": "Head of division- F.Radjabov, \r\nSenior inspector - B.Uralov ",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "7"
     },
     {
         "Tartibraqam": "8",
@@ -64,6 +75,8 @@
         "Nazorattadbiriningmaqsadi": "Study of the risk of non-compliance with the legislation of the microfinance organization",
         "Muddati": "30 calendar days",
         "Otkazilgansana": "13.03.2024 - 11.04.2024",
-        "Nazorattadbiri": "Head of division- F.Radjabov, \r\nSenior inspector - B.Uralov "
+        "Nazorattadbiri": "Head of division- F.Radjabov, \r\nSenior inspector - B.Uralov ",
+        "path_id": "659e926526434348e0895d02",
+        "ID": "8"
     }
 ]

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abduxakimov Aziz Abdukaxarovich",
+        "post": "Vazir",
+        "tel": "71 205-06-00",
+        "day": "Seshanba 10:00-13:00",
+        "path_id": "610b6e741a64fdd0373a8e9b",
+        "ID": "1"
+    },
+    {
+        "name": "Shaxriyorov Botirjon Zavkiddinovich",
+        "post": "Vazir o‘rinbosari",
+        "tel": "71 205-06-00",
+        "day": "Juma 10:00-13:00",
+        "path_id": "610b6e741a64fdd0373a8e9b",
+        "ID": "2"
+    },
+    {
+        "name": "Ibragimov Baxtiyor Baxodirovich",
+        "post": "Vazir o‘rinbosari",
+        "tel": "71 205-06-00",
+        "day": "Payshanba 10:00-13:00",
+        "path_id": "610b6e741a64fdd0373a8e9b",
+        "ID": "3"
+    },
+    {
+        "name": "Zikrillayev Nusratilla Nurullayevich",
+        "post": "Vazir o‘rinbosari",
+        "tel": "71 205-06-00",
+        "day": "Chorshanba 10:00-13:00",
+        "path_id": "610b6e741a64fdd0373a8e9b",
+        "ID": "4"
+    },
+    {
+        "name": "Vazirlik boshqarma va bo‘limlari",
+        "post": "Boshqarma boshliqlari",
+        "tel": "71 205-06-00",
+        "day": "Har kuni 10:00-18:00",
+        "path_id": "610b6e741a64fdd0373a8e9b",
+        "ID": "5"
+    }
+]

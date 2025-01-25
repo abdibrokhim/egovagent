@@ -1,0 +1,122 @@
+[
+    {
+        "ID": "1",
+        "Korsatkichlar": "Jami OTMlar soni",
+        "Miqdori": "211",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "2",
+        "Korsatkichlar": "Davlat OTMlar soni",
+        "Miqdori": "112",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "3",
+        "Korsatkichlar": "Nodavlat OTMlar soni",
+        "Miqdori": "69",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "4",
+        "Korsatkichlar": "Xorijiy OTMlar filiallari soni",
+        "Miqdori": "30",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "5",
+        "Korsatkichlar": "Talabalar soni",
+        "Miqdori": "1 257 209",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "6",
+        "Korsatkichlar": "Talabalar soni (Erkaklar)",
+        "Miqdori": "608 057",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "7",
+        "Korsatkichlar": "Talabalar soni (Ayollar)",
+        "Miqdori": "649 150",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "8",
+        "Korsatkichlar": "Talabalar soni (bakalavr)",
+        "Miqdori": "1 229 975",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "9",
+        "Korsatkichlar": "Talabalar soni (magistratura)",
+        "Miqdori": "22 453",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "10",
+        "Korsatkichlar": "Talabalar soni (ordinatura)",
+        "Miqdori": "4 779",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "11",
+        "Korsatkichlar": "Talabalar soni (Grant)",
+        "Miqdori": "154 527",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "12",
+        "Korsatkichlar": "Talabalar soni (Kontrakt)",
+        "Miqdori": "1 102 680",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "13",
+        "Korsatkichlar": "Professor-o'qituvchilar soni",
+        "Miqdori": "41 157",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "14",
+        "Korsatkichlar": "Professor-o'qituvchilar soni (Erkaklar)",
+        "Miqdori": "21 696",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "15",
+        "Korsatkichlar": "Professor-o'qituvchilar soni (Ayollar)",
+        "Miqdori": "19 461",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "16",
+        "Korsatkichlar": "Professorlar soni",
+        "Miqdori": "1 777",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "17",
+        "Korsatkichlar": "Katta ilmiy xodimlar soni",
+        "Miqdori": "566",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "18",
+        "Korsatkichlar": "Dotsentlar soni",
+        "Miqdori": "6 773",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "19",
+        "Korsatkichlar": "Fan doktorlari soni (DSc)",
+        "Miqdori": "2 256",
+        "path_id": "610292062a2e256d868e8356"
+    },
+    {
+        "ID": "20",
+        "Korsatkichlar": "Fan nomzodlari soni (PhD)",
+        "Miqdori": "10 007",
+        "path_id": "610292062a2e256d868e8356"
+    }
+]

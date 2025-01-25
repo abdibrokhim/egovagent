@@ -1,15 +1,13 @@
 [
     {
-        "path_id": "61c48536ae25c8ecefc77476"
-    },
-    {
         "ID": "1",
         "name": "State unitary company \"Convention Center Complex Directorate\"",
         "typeofpossessions": "Kaptiva",
         "year": "2012",
         "Statenumber": "10/066 DAV",
         "Attached": "Director",
-        "Note": "-"
+        "Note": "-",
+        "path_id": "61c48536ae25c8ecefc77476"
     },
     {
         "ID": "2",
@@ -18,7 +16,8 @@
         "year": "2019",
         "Statenumber": "01/919 PGA",
         "Attached": "Deputy Director",
-        "Note": "-"
+        "Note": "-",
+        "path_id": "61c48536ae25c8ecefc77476"
     },
     {
         "ID": "3",
@@ -27,7 +26,8 @@
         "year": "2020",
         "Statenumber": "01/811 BFA",
         "Attached": "On duty",
-        "Note": "-"
+        "Note": "-",
+        "path_id": "61c48536ae25c8ecefc77476"
     },
     {
         "ID": "4",
@@ -36,6 +36,7 @@
         "year": "2017",
         "Statenumber": "01/811 GCA",
         "Attached": "On duty",
-        "Note": "-"
+        "Note": "-",
+        "path_id": "61c48536ae25c8ecefc77476"
     }
 ]

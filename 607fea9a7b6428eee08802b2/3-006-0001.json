@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "1",
+        "Rahbariyat": "Director",
+        "FISh": "Ubbiyev Alisher Toirovich",
+        "Qabul kuni va soati": "Wednesday from 16:00 to 18:00",
+        "Telefon raqami": "712072017",
+        "path_id": "6110c38fdb32b99538e08175"
+    },
+    {
+        "ID": "2",
+        "Rahbariyat": "Deputy Director",
+        "FISh": "Shakirova Sevara Boxodirovna",
+        "Qabul kuni va soati": "Friday from 16:00 to 18:00",
+        "Telefon raqami": "712072017",
+        "path_id": "6110c38fdb32b99538e08175"
+    },
+    {
+        "ID": "3",
+        "Rahbariyat": "Deputy Director",
+        "FISh": "Taxirov Bosit Bakhtiyorovich",
+        "Qabul kuni va soati": "Thursday 16:00 to 18:00",
+        "Telefon raqami": "712072017",
+        "path_id": "6110c38fdb32b99538e08175"
+    }
+]

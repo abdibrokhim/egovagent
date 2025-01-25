@@ -1,0 +1,954 @@
+[
+    {
+        "ID": "1",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110100",
+        "Yonalishmutaxassisliknomi": "Teaching Methodology of Mathematics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "2",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110400",
+        "Yonalishmutaxassisliknomi": "Teaching Methodology of Biology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "3",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110500",
+        "Yonalishmutaxassisliknomi": "Teaching Methodology of Geography",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "4",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110600",
+        "Yonalishmutaxassisliknomi": "Teaching Methodology of History",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "5",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110800",
+        "Yonalishmutaxassisliknomi": "Fine Art and Engineering Graphics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "6",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5110900",
+        "Yonalishmutaxassisliknomi": "Pedagogy and Psychology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "7",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111000",
+        "Yonalishmutaxassisliknomi": "Vocational Education (by specializations)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "8",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111100",
+        "Yonalishmutaxassisliknomi": "Music Education",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "9",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111200",
+        "Yonalishmutaxassisliknomi": "The Uzbek Language and Literature",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "10",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111600",
+        "Yonalishmutaxassisliknomi": "National Idea, Fundamentals of Spirituality and Legal Education",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "11",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111700",
+        "Yonalishmutaxassisliknomi": "Primary Education and Sports-Educational Work",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "12",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5111800",
+        "Yonalishmutaxassisliknomi": "Preschool Education",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "13",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5112000",
+        "Yonalishmutaxassisliknomi": "Physical Training",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "14",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5112100",
+        "Yonalishmutaxassisliknomi": "Technological Education",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "15",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5112300",
+        "Yonalishmutaxassisliknomi": "Physical Education and Sport in Preschool and Primary Education",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "16",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5120100",
+        "Yonalishmutaxassisliknomi": "Philology and Teaching Languages (by type of languages)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "17",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5120300",
+        "Yonalishmutaxassisliknomi": "History (by countries and regions)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "18",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5120500",
+        "Yonalishmutaxassisliknomi": "Philosophy",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "19",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5130100",
+        "Yonalishmutaxassisliknomi": "Mathematics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "20",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5140100",
+        "Yonalishmutaxassisliknomi": "Biology (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "21",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5140600",
+        "Yonalishmutaxassisliknomi": "Geography",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "22",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5140700",
+        "Yonalishmutaxassisliknomi": "Hydrometeorology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "23",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5140800",
+        "Yonalishmutaxassisliknomi": "Geology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "24",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5141000",
+        "Yonalishmutaxassisliknomi": "Agrology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "25",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5150200",
+        "Yonalishmutaxassisliknomi": "Art Criticism (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "26",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5150300",
+        "Yonalishmutaxassisliknomi": "Acting Skills (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "27",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5150400",
+        "Yonalishmutaxassisliknomi": "Directing (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "28",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5150900",
+        "Yonalishmutaxassisliknomi": "Design (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "29",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5151300",
+        "Yonalishmutaxassisliknomi": "Choreography (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "30",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5151400",
+        "Yonalishmutaxassisliknomi": "Art Technology (Musical Sound Directing)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "31",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5151500",
+        "Yonalishmutaxassisliknomi": "Cameramanship",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "32",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5151600",
+        "Yonalishmutaxassisliknomi": "Amateur and Folk Arts (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "33",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5151700",
+        "Yonalishmutaxassisliknomi": "Creation and Management of Culture and Art Institutions",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "34",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5210100",
+        "Yonalishmutaxassisliknomi": "Sociology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "35",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5210200",
+        "Yonalishmutaxassisliknomi": "Psychology (by categories of activities)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "36",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5210300",
+        "Yonalishmutaxassisliknomi": "Political Science",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "37",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5220100",
+        "Yonalishmutaxassisliknomi": "Journalism (by categories of activities)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "38",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5220200",
+        "Yonalishmutaxassisliknomi": "Information Service And Public Relations",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "39",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5220300",
+        "Yonalishmutaxassisliknomi": "Archival Science, Archivistics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "40",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230100",
+        "Yonalishmutaxassisliknomi": "Economics (by branches and spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "41",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230200",
+        "Yonalishmutaxassisliknomi": "Management (by branches and spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "42",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230400",
+        "Yonalishmutaxassisliknomi": "Marketing (by branches and spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "43",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230600",
+        "Yonalishmutaxassisliknomi": "Finance",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "44",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230700",
+        "Yonalishmutaxassisliknomi": "Banking",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "45",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230800",
+        "Yonalishmutaxassisliknomi": "Taxes and Taxation",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "46",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5230900",
+        "Yonalishmutaxassisliknomi": "Accountancy and Audition (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "47",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5231000",
+        "Yonalishmutaxassisliknomi": "Economics of Foreign Countries and Country Study (by countries and regions)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "48",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5231200",
+        "Yonalishmutaxassisliknomi": "Insurance",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "49",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5231600",
+        "Yonalishmutaxassisliknomi": "Labour Economics and Sociology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "50",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5232400",
+        "Yonalishmutaxassisliknomi": "Economic Security",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "51",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5232500",
+        "Yonalishmutaxassisliknomi": "Logistics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "52",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5232800",
+        "Yonalishmutaxassisliknomi": "Electronic Commerce",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "53",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5233000",
+        "Yonalishmutaxassisliknomi": "Water Recourses Management",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "54",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310100",
+        "Yonalishmutaxassisliknomi": "Energetics (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "55",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310200",
+        "Yonalishmutaxassisliknomi": "Electrical-power Engineering",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "56",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310300",
+        "Yonalishmutaxassisliknomi": "Metallurgy",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "57",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310500",
+        "Yonalishmutaxassisliknomi": "Automobile Industry and Tractor Construction",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "58",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310600",
+        "Yonalishmutaxassisliknomi": "System of Ground Transportation And Their Operation (by types of transport)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "59",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310700",
+        "Yonalishmutaxassisliknomi": "Electrical Engineering, Electro Mechanics, Electro Technology (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "60",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5310900",
+        "Yonalishmutaxassisliknomi": "Metrology, Standardization and Management of Product Quality (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "61",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5311000",
+        "Yonalishmutaxassisliknomi": "Technological Processes and Automation of Manufacturing, Management (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "62",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5311500",
+        "Yonalishmutaxassisliknomi": "Geodesy, Cartography and Cadastre (by functions)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "63",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5311600",
+        "Yonalishmutaxassisliknomi": "Mining (by categories of activities)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "64",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5311700",
+        "Yonalishmutaxassisliknomi": "Geology of Minerals Mining And Prospecting (by types of mines)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "65",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5311900",
+        "Yonalishmutaxassisliknomi": "Oil and Gas Mining Startup, Oil and Gas Production",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "66",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5312100",
+        "Yonalishmutaxassisliknomi": "Energy Audit and Inspection of Power Enterprises",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "67",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5312200",
+        "Yonalishmutaxassisliknomi": "Mining Electro Mechanics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "68",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5312400",
+        "Yonalishmutaxassisliknomi": "Alternative Sources of Energy (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "69",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5313400",
+        "Yonalishmutaxassisliknomi": "Geodesy, Geoinformatics",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "70",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5314000",
+        "Yonalishmutaxassisliknomi": "Aircraft Construction",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "71",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320100",
+        "Yonalishmutaxassisliknomi": "Material Science and Materials Technology (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "72",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320200",
+        "Yonalishmutaxassisliknomi": "Mechanical Engineering Technology, Equipment and Automation of Machine-Building Industry",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "73",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320300",
+        "Yonalishmutaxassisliknomi": "Technological Machines and Equipment (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "74",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320400",
+        "Yonalishmutaxassisliknomi": "Chemical Technology (by types of production)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "75",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320800",
+        "Yonalishmutaxassisliknomi": "Printing and Packaging Technology Processes",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "76",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5320900",
+        "Yonalishmutaxassisliknomi": "Design and Technology of Light Industry Goods (by types of production)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "77",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321000",
+        "Yonalishmutaxassisliknomi": "Food Technology ( by types of product)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "78",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321200",
+        "Yonalishmutaxassisliknomi": "Technology of Primary Processing of Native Fibers (by types of raw materials)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "79",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321300",
+        "Yonalishmutaxassisliknomi": "Oil and Gas Refining Technology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "80",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321400",
+        "Yonalishmutaxassisliknomi": "Technology of Petrochemical Industry",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "81",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321500",
+        "Yonalishmutaxassisliknomi": "Technologies and Equipment (by branches)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "82",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5321700",
+        "Yonalishmutaxassisliknomi": "Information-communication Systems of Technological Process Management",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "83",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5322100",
+        "Yonalishmutaxassisliknomi": "Rolled Products Manufacturing Technology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "84",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5322700",
+        "Yonalishmutaxassisliknomi": "Canning Technology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "85",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5322800",
+        "Yonalishmutaxassisliknomi": "Technology of Functional and Child Nutrition",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "86",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5330200",
+        "Yonalishmutaxassisliknomi": "Information And Communication Technologies (branches and spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "87",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5330300",
+        "Yonalishmutaxassisliknomi": "Information Security (by spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "88",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5330500",
+        "Yonalishmutaxassisliknomi": "Computer Engineering (\"Computer Engineering\", \"IT-Service\", \"Information Security\", \"Multimedia Technologies\")",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "89",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340200",
+        "Yonalishmutaxassisliknomi": "Construction of Buildings and Structures (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "90",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340300",
+        "Yonalishmutaxassisliknomi": "City Planning and Economy",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "91",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340400",
+        "Yonalishmutaxassisliknomi": "Construction and Installation of Engineering Communications (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "92",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340500",
+        "Yonalishmutaxassisliknomi": "Production of Building Materials, Products and Structures",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "93",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340600",
+        "Yonalishmutaxassisliknomi": "Vehicle Operation (by types of vehicle)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "94",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340700",
+        "Yonalishmutaxassisliknomi": "Hydraulic Engineering (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "95",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5340900",
+        "Yonalishmutaxassisliknomi": "Real Estate Expertise and Management",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "96",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5341200",
+        "Yonalishmutaxassisliknomi": "Designing and Operation of Water Supply and Sewage System",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "97",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5341800",
+        "Yonalishmutaxassisliknomi": "Technology of Wall And Decorative Building Materials",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "98",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5350100",
+        "Yonalishmutaxassisliknomi": "Telecommunication technologies (\"Telecommunications\", \"Broadcasting\", \"Mobile Systems\")",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "99",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5350600",
+        "Yonalishmutaxassisliknomi": "Library and Information Activities (by types of activity)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "100",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5350700",
+        "Yonalishmutaxassisliknomi": "Radio Electronic Devices And Systems (by networks)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "101",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410100",
+        "Yonalishmutaxassisliknomi": "Agrochemistry and Agrology",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "102",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410200",
+        "Yonalishmutaxassisliknomi": "Agronomy (by types of agricultural products)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "103",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410300",
+        "Yonalishmutaxassisliknomi": "Plant Protection (by types of crops)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "104",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410500",
+        "Yonalishmutaxassisliknomi": "Technology of Storage and Primary Processing of Agricultural Products (by types of products)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "105",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410600",
+        "Yonalishmutaxassisliknomi": "Zooengineering (by types)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "106",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410800",
+        "Yonalishmutaxassisliknomi": "Foresty",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "107",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5410900",
+        "Yonalishmutaxassisliknomi": "Sericulture and Silkworm Breeding",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "108",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411000",
+        "Yonalishmutaxassisliknomi": "Orcharding and Viticulture",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "109",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411100",
+        "Yonalishmutaxassisliknomi": "Technology of Cultivation Processing of Medicinal Plants",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "110",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411200",
+        "Yonalishmutaxassisliknomi": "Landscape Gardening And Landscaping",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "111",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411300",
+        "Yonalishmutaxassisliknomi": "Plant Growing (by groups of crops)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "112",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411500",
+        "Yonalishmutaxassisliknomi": "Quarantine of Plants and Agricultural Products",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "113",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411600",
+        "Yonalishmutaxassisliknomi": "Vegetable Growing, Gardening and Potato Growing",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "114",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5411700",
+        "Yonalishmutaxassisliknomi": "Organization and Maintenance of a Greenhouse Farm",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "115",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5430100",
+        "Yonalishmutaxassisliknomi": "Development of Agriculture",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "116",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5430200",
+        "Yonalishmutaxassisliknomi": "Electrification and Automation of Agriculture",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "117",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5430300",
+        "Yonalishmutaxassisliknomi": "Technical Service in Agriculture and Water",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "118",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5430500",
+        "Yonalishmutaxassisliknomi": "Energy Supply in Agriculture and Water Economy",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "119",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5440100",
+        "Yonalishmutaxassisliknomi": "Veterinary Medicine (by type of activity)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "120",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5440200",
+        "Yonalishmutaxassisliknomi": "Veterinary Pharmacy",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "121",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5440300",
+        "Yonalishmutaxassisliknomi": "Veterinary Diagnostics And Laboratory Works",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "122",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5440400",
+        "Yonalishmutaxassisliknomi": "Veterinary and Sanitary Examination (Expertise)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "123",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5450200",
+        "Yonalishmutaxassisliknomi": "Water Resources and Land Reclamation",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "124",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5450300",
+        "Yonalishmutaxassisliknomi": "Water Management and Reclamation",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "125",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5450400",
+        "Yonalishmutaxassisliknomi": "Use of Hydrotechnical Facilities and Pumps",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "126",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5450600",
+        "Yonalishmutaxassisliknomi": "Hydro-Energy Objects In Irrigation Systems",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "127",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5520100",
+        "Yonalishmutaxassisliknomi": "Social Work (in different areas 0f activity)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "128",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5610200",
+        "Yonalishmutaxassisliknomi": "Organization and Management of the Hotel Business",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "129",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5610300",
+        "Yonalishmutaxassisliknomi": "Tourism (by activity spheres)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "130",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5610500",
+        "Yonalishmutaxassisliknomi": "Sports Activities (by types of activities)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "131",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5611400",
+        "Yonalishmutaxassisliknomi": "Service of Organization of Nutrition of Population and Tourists",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "132",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5620100",
+        "Yonalishmutaxassisliknomi": "Transportation Organization and Transport Logistics (by types of transport)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "133",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5620200",
+        "Yonalishmutaxassisliknomi": "Air Traffic Control",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "134",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5620400",
+        "Yonalishmutaxassisliknomi": "Organization of Road Traffic",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "135",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5630100",
+        "Yonalishmutaxassisliknomi": "Ecology and Environmental Protection (by sectors and sectors)",
+        "path_id": "610282862a2e256d868e833b"
+    },
+    {
+        "ID": "136",
+        "Ta'lim turi": "Б",
+        "Yonalishkodi": "5640200",
+        "Yonalishmutaxassisliknomi": "Labour Protection And Technical Safety",
+        "path_id": "610282862a2e256d868e833b"
+    }
+]

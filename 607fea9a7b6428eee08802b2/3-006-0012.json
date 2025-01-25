@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "1",
+        "Nomi": "Kiyim-kechak, oziq ovqat hamda dori darmonlar/Одежда, еда и лекарства/Clothing, food and medicine",
+        "Jamixarajatmablagisomda": "46611589000",
+        "Bolalarsoni": "5077",
+        "biroquvchigaharajatortatalimsomda": "9180931.455584006",
+        "path_id": "6110c918db32b99538e0818c"
+    },
+    {
+        "ID": "2",
+        "Nomi": "Shundan",
+        "Jamixarajatmablagisomda": "-",
+        "Bolalarsoni": "-",
+        "biroquvchigaharajatortatalimsomda": "-",
+        "path_id": "6110c918db32b99538e0818c"
+    },
+    {
+        "ID": "3",
+        "Nomi": "Oziq ovqat/Еда/Food",
+        "Jamixarajatmablagisomda": "39658047000",
+        "Bolalarsoni": "5077",
+        "biroquvchigaharajatortatalimsomda": "7811315.146740201",
+        "path_id": "6110c918db32b99538e0818c"
+    }
+]

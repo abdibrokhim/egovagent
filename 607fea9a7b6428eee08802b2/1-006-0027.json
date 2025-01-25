@@ -1,0 +1,260 @@
+[
+    {
+        "Indikatornomi": "Primary school starting age (years)",
+        "Korsatkich": "7",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "1"
+    },
+    {
+        "Indikatornomi": "Primary education, duration (years)",
+        "Korsatkich": "4",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "2"
+    },
+    {
+        "Indikatornomi": "Adjusted net enrollment rate, primary (% of primary school age children)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "3"
+    },
+    {
+        "Indikatornomi": "Adjusted net enrollment rate, primary, female (% of primary school age children)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "4"
+    },
+    {
+        "Indikatornomi": "Adjusted net enrollment rate, primary, male (% of primary school age children)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "5"
+    },
+    {
+        "Indikatornomi": "Children out of school, female (% of female primary school age)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "6"
+    },
+    {
+        "Indikatornomi": "Children out of school, male (% of male primary school age)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "7"
+    },
+    {
+        "Indikatornomi": "Children out of school, primary, female",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "8"
+    },
+    {
+        "Indikatornomi": "Children out of school, primary, male",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "9"
+    },
+    {
+        "Indikatornomi": "Gross intake ratio in first grade of primary education, female (% of relevant age group)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "10"
+    },
+    {
+        "Indikatornomi": "Gross intake ratio in first grade of primary education, male (% of relevant age group)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "11"
+    },
+    {
+        "Indikatornomi": "Gross intake ratio in first grade of primary education, total (% of relevant age group)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "12"
+    },
+    {
+        "Indikatornomi": "Net intake rate in grade 1 (% of official school-age population)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "13"
+    },
+    {
+        "Indikatornomi": "Net intake rate in grade 1, female (% of official school-age population)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "14"
+    },
+    {
+        "Indikatornomi": "Net intake rate in grade 1, male (% of official school-age population)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "15"
+    },
+    {
+        "Indikatornomi": "Over-age students, primary (% of enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "16"
+    },
+    {
+        "Indikatornomi": "Over-age students, primary, female (% of female enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "17"
+    },
+    {
+        "Indikatornomi": "Over-age students, primary, male (% of male enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "18"
+    },
+    {
+        "Indikatornomi": "Persistence to grade 5, female (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "19"
+    },
+    {
+        "Indikatornomi": "Persistence to grade 5, male (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "20"
+    },
+    {
+        "Indikatornomi": "Persistence to grade 5, total (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "21"
+    },
+    {
+        "Indikatornomi": "Persistence to last grade of primary, female (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "22"
+    },
+    {
+        "Indikatornomi": "Persistence to last grade of primary, male (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "23"
+    },
+    {
+        "Indikatornomi": "Persistence to last grade of primary, total (% of cohort)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "24"
+    },
+    {
+        "Indikatornomi": "Primary education, pupils (% female)",
+        "Korsatkich": "48.5",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "25"
+    },
+    {
+        "Indikatornomi": "Progression to secondary school (%)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "26"
+    },
+    {
+        "Indikatornomi": "Progression to secondary school, female (%)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "27"
+    },
+    {
+        "Indikatornomi": "Progression to secondary school, male (%)",
+        "Korsatkich": "100",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "28"
+    },
+    {
+        "Indikatornomi": "Pupil-teacher ratio, primary",
+        "Korsatkich": "20",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "29"
+    },
+    {
+        "Indikatornomi": "Pupil-teacher ratio, lower secondary",
+        "Korsatkich": "9",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "30"
+    },
+    {
+        "Indikatornomi": "Pupil-teacher ratio, secondary",
+        "Korsatkich": "10",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "31"
+    },
+    {
+        "Indikatornomi": "Repeaters, primary, female (% of female enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "32"
+    },
+    {
+        "Indikatornomi": "Repeaters, primary, male (% of male enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "33"
+    },
+    {
+        "Indikatornomi": "Repeaters, primary, total (% of total enrollment)",
+        "Korsatkich": "0",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "34"
+    },
+    {
+        "Indikatornomi": "School enrollment, primary (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "35"
+    },
+    {
+        "Indikatornomi": "School enrollment, primary, female (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "36"
+    },
+    {
+        "Indikatornomi": "School enrollment, primary, male (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "37"
+    },
+    {
+        "Indikatornomi": "School enrollment, secondary (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "38"
+    },
+    {
+        "Indikatornomi": "School enrollment, secondary, female (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "39"
+    },
+    {
+        "Indikatornomi": "School enrollment, secondary, male (% net)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "40"
+    },
+    {
+        "Indikatornomi": "Trained teachers in lower secondary education (% of total teachers)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "41"
+    },
+    {
+        "Indikatornomi": "Trained teachers in lower secondary education, female (% of female teachers)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "42"
+    },
+    {
+        "Indikatornomi": "Trained teachers in lower secondary education, male (% of male teachers)",
+        "Korsatkich": "99.99",
+        "path_id": "61922c3d0f097f7ba50305d5",
+        "ID": "43"
+    }
+]

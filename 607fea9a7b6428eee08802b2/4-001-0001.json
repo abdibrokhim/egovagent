@@ -1,0 +1,74 @@
+[
+    {
+        "Fullname": "Tashkenbayev Ulug‘bek Negmatovich",
+        "Position": "Taʼlim sifatini nazorat qilish davlat inspeksiyasi boshligʻi",
+        "Receptiondays": "Dushanba",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1024)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "1"
+    },
+    {
+        "Fullname": "Ketmonov Xatamjon Abduraxmanovich",
+        "Position": "Ta’lim sifatini nazorat qilish davlat inspеksiyasi boshlig‘ining birinchi o‘rinbosari",
+        "Receptiondays": "Seshanba",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1065)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "2"
+    },
+    {
+        "Fullname": "Qoʻysinov Odil Almurotovich",
+        "Position": "Ta’lim sifatini nazorat qilish davlat inspеksiyasi boshlig‘i o‘rinbosari",
+        "Receptiondays": "Seshanba",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1012)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "3"
+    },
+    {
+        "Fullname": "Odilov Asliddin Axmatjonovich",
+        "Position": "Ta’lim muassasalari attestatsiyasi va davlat akreditatsiyasi bosh boshqarmasi boshlig‘i",
+        "Receptiondays": "Payshanba ",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1003)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "4"
+    },
+    {
+        "Fullname": "Temirov Dilshod Sheraliyevich",
+        "Position": "Pedagog kadrlar sifati nazorati, ta’lim hujjatlarini legallashtirish, tan olish va nostrifikatsiya qilish bosh boshqarmasi boshlig‘i v.b.",
+        "Receptiondays": "Juma",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1155)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "5"
+    },
+    {
+        "Fullname": "Maxmudov Anvarjon Zokirovich",
+        "Position": "Ta’lim sifatini monitoring qilish bosh boshqarmasi boshlig‘i",
+        "Receptiondays": "Seshanba",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (5005)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "6"
+    },
+    {
+        "Fullname": "Nasirov Abdurahim Abdimutalipovich",
+        "Position": "Boshliqning maʼnaviy-maʼrifiy ishlar samaradorligini oshirish, davlat tili toʻgʻrisidagi qonun hujjatlariga rioya etilishini taʼminlash masalalari boʻyicha maslahatchisi",
+        "Receptiondays": "Seshanba",
+        "Receptiontime": "15:00-17:00",
+        "Phone": "71 231 07 53 (1004)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "7"
+    },
+    {
+        "Fullname": "Xo‘jaqulov Shavkat Samatovich",
+        "Position": "Inspeksiya boshlig‘ining axborot siyosati bo‘yicha maslahatchisi",
+        "Receptiondays": "Seshanba",
+        "Receptiontime": "10:00-16:00",
+        "Phone": "71 231 07 53 (1088)",
+        "path_id": "61110ceddb32b99538e081f0",
+        "ID": "8"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "Til": "The English language",
+        "Daraja": "Multilevel",
+        "Soni": "132068",
+        "Success": "109558",
+        "Foiz": "82.95575006814671",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "1"
+    },
+    {
+        "Til": "The German language",
+        "Daraja": "Multilevel",
+        "Soni": "2604",
+        "Success": "2181",
+        "Foiz": "83.7557603686636",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "2"
+    },
+    {
+        "Til": "The French language",
+        "Daraja": "Multilevel",
+        "Soni": "1266",
+        "Success": "1037",
+        "Foiz": "81.91153238546603",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "3"
+    },
+    {
+        "Til": "The Spanish language",
+        "Daraja": "B1, B2, C1",
+        "Soni": "89",
+        "Success": "32",
+        "Foiz": "35.95505617977528",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "4"
+    },
+    {
+        "Til": "The Korean language",
+        "Daraja": "B2, C1",
+        "Soni": "92",
+        "Success": "26",
+        "Foiz": "28.26086956521739",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "5"
+    },
+    {
+        "Til": "The Japanese language",
+        "Daraja": "B1, B2, C1",
+        "Soni": "82",
+        "Success": "26",
+        "Foiz": "31.70731707317073",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "6"
+    },
+    {
+        "Til": "The Turkish language",
+        "Daraja": "B1, B2, C1",
+        "Soni": "10763",
+        "Success": "3992",
+        "Foiz": "37.09003066059649",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "7"
+    },
+    {
+        "Til": "The Arabic language",
+        "Daraja": "Multilevel",
+        "Soni": "4454",
+        "Success": "3270",
+        "Foiz": "73.4171531207903",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "8"
+    },
+    {
+        "Til": "The Chinese language",
+        "Daraja": "B2, C1",
+        "Soni": "230",
+        "Success": "79",
+        "Foiz": "34.34782608695652",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "9"
+    },
+    {
+        "Til": "The Persian language",
+        "Daraja": "B2, C1",
+        "Soni": "112",
+        "Success": "40",
+        "Foiz": "35.714285714285715",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "10"
+    },
+    {
+        "Til": "The Pashto language",
+        "Daraja": "B2, C1",
+        "Soni": "8",
+        "Success": "3",
+        "Foiz": "37.5",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "11"
+    },
+    {
+        "Til": "The Italian language",
+        "Daraja": "B2, C1",
+        "Soni": "18",
+        "Success": "14",
+        "Foiz": "77.77777777777777",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "12"
+    },
+    {
+        "Til": "The Dari language",
+        "Daraja": "B2, C1",
+        "Soni": "24",
+        "Success": "10",
+        "Foiz": "41.666666666666664",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "13"
+    },
+    {
+        "Til": "The Urdu language",
+        "Daraja": "B2, C1",
+        "Soni": "12",
+        "Success": "4",
+        "Foiz": "33.333333333333336",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "14"
+    },
+    {
+        "Til": "The Indian language",
+        "Daraja": "B2, C1",
+        "Soni": "16",
+        "Success": "8",
+        "Foiz": "50",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "15"
+    },
+    {
+        "Til": "The Uighur language",
+        "Daraja": "C1",
+        "Soni": "5",
+        "Success": "2",
+        "Foiz": "40",
+        "path_id": "6111246bdb32b99538e08281",
+        "ID": "16"
+    }
+]

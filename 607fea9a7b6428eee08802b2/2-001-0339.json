@@ -1,0 +1,137 @@
+[
+    {
+        "Hududlar": "The Republic of Uzbekistan",
+        "20192020talabalarsoni": "16072",
+        "20192020davlatgrantiboyicha": "5235",
+        "20202021talabalarsoni": "21307",
+        "20202021davlatgrantiboyicha": "8550",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "20192020talabalarsoni": "549",
+        "20192020davlatgrantiboyicha": "162",
+        "20202021talabalarsoni": "943",
+        "20202021davlatgrantiboyicha": "432",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "Andijan",
+        "20192020talabalarsoni": "819",
+        "20192020davlatgrantiboyicha": "282",
+        "20202021talabalarsoni": "1040",
+        "20202021davlatgrantiboyicha": "404",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Bukhara",
+        "20192020talabalarsoni": "607",
+        "20192020davlatgrantiboyicha": "184",
+        "20202021talabalarsoni": "958",
+        "20202021davlatgrantiboyicha": "444",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Jizzakh",
+        "20192020talabalarsoni": "360",
+        "20192020davlatgrantiboyicha": "79",
+        "20202021talabalarsoni": "472",
+        "20202021davlatgrantiboyicha": "166",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Kashkadarya",
+        "20192020talabalarsoni": "364",
+        "20192020davlatgrantiboyicha": "160",
+        "20202021talabalarsoni": "619",
+        "20202021davlatgrantiboyicha": "220",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Navoi",
+        "20192020talabalarsoni": "276",
+        "20192020davlatgrantiboyicha": "107",
+        "20202021talabalarsoni": "347",
+        "20202021davlatgrantiboyicha": "160",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Namangan",
+        "20192020talabalarsoni": "454",
+        "20192020davlatgrantiboyicha": "127",
+        "20202021talabalarsoni": "849",
+        "20202021davlatgrantiboyicha": "333",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Samarkand",
+        "20192020talabalarsoni": "1461",
+        "20192020davlatgrantiboyicha": "321",
+        "20202021talabalarsoni": "2140",
+        "20202021davlatgrantiboyicha": "780",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Surkhandarya",
+        "20192020talabalarsoni": "284",
+        "20192020davlatgrantiboyicha": "104",
+        "20202021talabalarsoni": "473",
+        "20202021davlatgrantiboyicha": "186",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Syrdarya",
+        "20192020talabalarsoni": "152",
+        "20192020davlatgrantiboyicha": "44",
+        "20202021talabalarsoni": "194",
+        "20202021davlatgrantiboyicha": "93",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Tashkent",
+        "20192020talabalarsoni": "408",
+        "20192020davlatgrantiboyicha": "297",
+        "20202021talabalarsoni": "677",
+        "20202021davlatgrantiboyicha": "360",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Fergana",
+        "20192020talabalarsoni": "615",
+        "20192020davlatgrantiboyicha": "227",
+        "20202021talabalarsoni": "881",
+        "20202021davlatgrantiboyicha": "384",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Khorezm",
+        "20192020talabalarsoni": "259",
+        "20192020davlatgrantiboyicha": "106",
+        "20202021talabalarsoni": "448",
+        "20202021davlatgrantiboyicha": "201",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "20192020talabalarsoni": "9464",
+        "20192020davlatgrantiboyicha": "3035",
+        "20202021talabalarsoni": "11266",
+        "20202021davlatgrantiboyicha": "4387",
+        "path_id": "610cab0d1a64fdd0373a9018",
+        "ID": "15"
+    }
+]

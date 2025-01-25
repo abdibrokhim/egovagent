@@ -1,0 +1,114 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Presidential School in Tashkent",
+        "Soni": "24",
+        "Grand": "$4 818 500",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Presidential School in Namangan",
+        "Soni": "22",
+        "Grand": "$10 554 340",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Presidential School in Nukus",
+        "Soni": "24",
+        "Grand": "$9 779 000",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "4",
+        "Maktab": "Presidential School in Khiva",
+        "Soni": "22",
+        "Grand": "$3 455 041",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "5",
+        "Maktab": "Creative school named after Abdulla Oripov",
+        "Soni": "4",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "6",
+        "Maktab": "Creative school named after Erkin Vohidov",
+        "Soni": "3",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "7",
+        "Maktab": "Creative school named after Ibrayim Yusupov",
+        "Soni": "2",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "8",
+        "Maktab": "Creative school named after Hamid Olimjon and Zulfiya",
+        "Soni": "3",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "9",
+        "Maktab": "Creative school named after Isxakhon Ibrat",
+        "Soni": "2",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "10",
+        "Maktab": "Creative school named after Halima Khudoiberdiyeva",
+        "Soni": "0",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "11",
+        "Maktab": "Creative school named after Agahi",
+        "Soni": "0",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "12",
+        "Maktab": "Creative school named after Abdulla Kodiri",
+        "Soni": "0",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "13",
+        "Maktab": "Creative school named after Muhammad Yusuf",
+        "Soni": "4",
+        "Grand": "0",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "14",
+        "Maktab": "Muhammad al-Khwarizmi Specialized IT School",
+        "Soni": "5",
+        "Grand": "376 000 $",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "15",
+        "Maktab": "Boarding school for young biologists and chemists named after Abu Ali ibn Sina",
+        "Soni": "10",
+        "Grand": "209 388 $",
+        "path_id": "6110d660db32b99538e081af"
+    },
+    {
+        "ID": "16",
+        "Maktab": "Mirzo Ulugbek State Boarding School for Physics, Mathematics, Astronomy and Informatics",
+        "Soni": "13",
+        "Grand": "6 141 700 $",
+        "path_id": "6110d660db32b99538e081af"
+    }
+]

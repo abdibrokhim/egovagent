@@ -1,0 +1,35 @@
+[
+    {
+        "OLIYTALIMMUASSASAINOMI": "Qoraqalpoq davlat universiteti",
+        "BAKALAVRIATJAMI": "24196",
+        "BAKALAVRIATERKAK": "14015",
+        "BAKALAVRIATAYOL": "10181",
+        "MAGISTRATURAJAMI": "1420",
+        "MAGISTRATURAERKAK": "658",
+        "MAGISTRATURAAYOL": "762",
+        "path_id": "637b12db4878653e5fe4129c",
+        "ID": "1"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Nukus davlat pedagogika instituti",
+        "BAKALAVRIATJAMI": "15811",
+        "BAKALAVRIATERKAK": "4601",
+        "BAKALAVRIATAYOL": "11210",
+        "MAGISTRATURAJAMI": "1057",
+        "MAGISTRATURAERKAK": "320",
+        "MAGISTRATURAAYOL": "737",
+        "path_id": "637b12db4878653e5fe4129c",
+        "ID": "2"
+    },
+    {
+        "OLIYTALIMMUASSASAINOMI": "Qoraqalpogʻiston tibbiyot instituti",
+        "BAKALAVRIATJAMI": "2264",
+        "BAKALAVRIATERKAK": "956",
+        "BAKALAVRIATAYOL": "1308",
+        "MAGISTRATURAJAMI": "8",
+        "MAGISTRATURAERKAK": "0",
+        "MAGISTRATURAAYOL": "8",
+        "path_id": "637b12db4878653e5fe4129c",
+        "ID": "3"
+    }
+]

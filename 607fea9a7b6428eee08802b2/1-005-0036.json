@@ -1,0 +1,46 @@
+[
+    {
+        "son": "1",
+        "Indikatorlarnomi": "",
+        "Indikatorkodi": "",
+        "2021yil": "1900-01-00",
+        "2022yil": "1900-01-00",
+        "2023yil": "1900-01-00",
+        "2024yil": "1900-01-00",
+        "path_id": "61bad320ae25c8ecefbe6dcb",
+        "ID": "1"
+    },
+    {
+        "son": "2",
+        "Indikatorlarnomi": "",
+        "Indikatorkodi": "",
+        "2021yil": "47701",
+        "2022yil": "55733",
+        "2023yil": "60902",
+        "2024yil": "80120",
+        "path_id": "61bad320ae25c8ecefbe6dcb",
+        "ID": "2"
+    },
+    {
+        "son": "3",
+        "Indikatorlarnomi": "",
+        "Indikatorkodi": "",
+        "2021yil": "172330",
+        "2022yil": "-",
+        "2023yil": "392895",
+        "2024yil": "396293",
+        "path_id": "61bad320ae25c8ecefbe6dcb",
+        "ID": "3"
+    },
+    {
+        "son": "4",
+        "Indikatorlarnomi": "",
+        "Indikatorkodi": "",
+        "2021yil": "80481 \r\n(46,7 %)",
+        "2022yil": "-",
+        "2023yil": "193000 (49 %)",
+        "2024yil": "124374 (31,4%)",
+        "path_id": "61bad320ae25c8ecefbe6dcb",
+        "ID": "4"
+    }
+]

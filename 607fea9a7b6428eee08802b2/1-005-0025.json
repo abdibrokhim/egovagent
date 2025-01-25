@@ -1,0 +1,86 @@
+[
+    {
+        "ID": "1",
+        "Hududlarnomi": "Andijan region",
+        "soni": "23643",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "2",
+        "Hududlarnomi": "Bukhara region",
+        "soni": "12498",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "3",
+        "Hududlarnomi": "Jizzakh region",
+        "soni": "10137",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "4",
+        "Hududlarnomi": "Kashkadarya region",
+        "soni": "18026",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "5",
+        "Hududlarnomi": "Navoi region",
+        "soni": "6599",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "6",
+        "Hududlarnomi": "Jizzakh district",
+        "soni": "14201",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "7",
+        "Hududlarnomi": "Samarkand region",
+        "soni": "29701",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "8",
+        "Hududlarnomi": "Surkhandarya region",
+        "soni": "12105",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "9",
+        "Hududlarnomi": "Syrdarya region",
+        "soni": "5202",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "10",
+        "Hududlarnomi": "Tashkent city",
+        "soni": "10954",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "11",
+        "Hududlarnomi": "Tashkent region",
+        "soni": "14090",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "12",
+        "Hududlarnomi": "Fergana region",
+        "soni": "29324",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "13",
+        "Hududlarnomi": "Khorezm region",
+        "soni": "8615",
+        "path_id": "610293502a2e256d868e835e"
+    },
+    {
+        "ID": "14",
+        "Hududlarnomi": "Republic of Corakalpogiston",
+        "soni": "12873",
+        "path_id": "610293502a2e256d868e835e"
+    }
+]

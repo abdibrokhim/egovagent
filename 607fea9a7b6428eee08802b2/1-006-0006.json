@@ -1,0 +1,382 @@
+[
+    {
+        "Hududlar": "Republic of Karakalpakstan",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of the Republic of Karakalpakstan",
+        "Kodi": "998",
+        "Telefonraqami": "93-920-01-51",
+        "Elektronpochta": " ",
+        "Rektor": "Dilanov Bekmurza Gulimbetovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "1"
+    },
+    {
+        "Hududlar": "Andijan region",
+        "Nomi": "Andijan regional center for retraining workers of public education and advanced training",
+        "Kodi": "998",
+        "Telefonraqami": "90-256-93-66",
+        "Elektronpochta": "andijon_moi@xtv.uz",
+        "Rektor": "Abdullayeva Mukhtasarkhan Abdulkhamitovna",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "2"
+    },
+    {
+        "Hududlar": "Bukhara region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of the Bukhara Region",
+        "Kodi": "998",
+        "Telefonraqami": "90-613-17-17",
+        "Elektronpochta": "buxoro_moi@xtv.uz",
+        "Rektor": "Safarov Amrillo Kamolovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "3"
+    },
+    {
+        "Hududlar": "Jizzakh region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of Jizzakh Region",
+        "Kodi": "998",
+        "Telefonraqami": "90-998-26-14",
+        "Elektronpochta": "jizzax_moi@xtv.uz",
+        "Rektor": "Kholmurodoa Akhzam Shakhriyorovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "4"
+    },
+    {
+        "Hududlar": "Kashkadarya region",
+        "Nomi": "Regional center for retraining workers of public education of Kashkadarya region and improving their skills",
+        "Kodi": "998",
+        "Telefonraqami": "97-382-29-19",
+        "Elektronpochta": "qashqadaryo_moi@xtv.uz",
+        "Rektor": "Mallayev Amin Sayfullayevich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "5"
+    },
+    {
+        "Hududlar": "Navoi region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of Navoi Region",
+        "Kodi": "998",
+        "Telefonraqami": "98-778-03-33",
+        "Elektronpochta": "navoiy_moi@xtv.uz",
+        "Rektor": "Fakhriddin Rasulovich Roziklov",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "6"
+    },
+    {
+        "Hududlar": "Namangan region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of Namangan Region",
+        "Kodi": "998",
+        "Telefonraqami": "99-972-12-72",
+        "Elektronpochta": "namangan_moi@xtv.uz",
+        "Rektor": "Rakhimov Ilkhomjon Abdullayevich v.v.b.",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "7"
+    },
+    {
+        "Hududlar": "Samarkand region",
+        "Nomi": "Regional center for retraining public education workers of the Samarkand region and improving their skills",
+        "Kodi": "998",
+        "Telefonraqami": "99-074-11-91",
+        "Elektronpochta": "samarqand_moi@xtv.uz",
+        "Rektor": "Ibragimov Alamjon Amrilloyevich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "8"
+    },
+    {
+        "Hududlar": "Surkhandarya region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of the Syrdarya Region",
+        "Kodi": "998",
+        "Telefonraqami": "97-350-74-00",
+        "Elektronpochta": "surxondaryo_moi@xtv.uz",
+        "Rektor": "Kadyrov Umarali Dostkobilovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "9"
+    },
+    {
+        "Hududlar": "Sirdarya region",
+        "Nomi": "Regional Center for Retraining and Advanced Training of Public Education Workers of Surkhandarya Region",
+        "Kodi": "998",
+        "Telefonraqami": "90-970-01-22",
+        "Elektronpochta": "sirdaryo_moi@xtv.uz",
+        "Rektor": "Berdaliyeva Gulasal Abduqunduzovna",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "10"
+    },
+    {
+        "Hududlar": "Tashkent region",
+        "Nomi": "Regional center for retraining and advanced training of public education workers of the Tashkent region",
+        "Kodi": "998",
+        "Telefonraqami": "99-335-36-21",
+        "Elektronpochta": " ",
+        "Rektor": "Khurramov Sanjar Ravshanovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "11"
+    },
+    {
+        "Hududlar": "Fergana region",
+        "Nomi": "Regional center for retraining workers of public education and advanced training of the Fergana region",
+        "Kodi": "998",
+        "Telefonraqami": "97-944-79-00",
+        "Elektronpochta": "fargona_moi@xtv.uz",
+        "Rektor": "Sakhibova Feruza Askerovna",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "12"
+    },
+    {
+        "Hududlar": "Khorezm region",
+        "Nomi": "Khorezm regional center for retraining workers of public education and improving their skills",
+        "Kodi": "998",
+        "Telefonraqami": "97-458-89-57",
+        "Elektronpochta": "xorazm_moi@xtv.uz",
+        "Rektor": "Saidov Yuldash Razzakovich",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "13"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "Nomi": "Regional center for retraining and advanced training of public education workers in Tashkent",
+        "Kodi": "998",
+        "Telefonraqami": "97-775-59-47",
+        "Elektronpochta": "toshkent_moi@xtv.uz",
+        "Rektor": "Khalikova Mokhira Kundibayevna",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "14"
+    },
+    {
+        "Hududlar": "Tashkent city",
+        "Nomi": "A. Avloni Scientific Research Institute for Teaching and Identifying Prospects of Public Education Problems",
+        "Kodi": "998",
+        "Telefonraqami": "71-227-16-45",
+        "Elektronpochta": "avloniy@xtv.uz",
+        "Rektor": "Исмаилов Абдували Абдумаликович",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "15"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "16"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "17"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "18"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "19"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "20"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "21"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "22"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "23"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "24"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "25"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "26"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "27"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "28"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "29"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "30"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "31"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "32"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "33"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "34"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "35"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "36"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "37"
+    },
+    {
+        "Hududlar": " ",
+        "Nomi": " ",
+        "Kodi": " ",
+        "Telefonraqami": " ",
+        "Elektronpochta": " ",
+        "Rektor": " ",
+        "path_id": "611515e2114fbfdc20c35ae7",
+        "ID": "38"
+    }
+]

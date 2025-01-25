@@ -1,85 +1,210 @@
 [
     {
-        "path_id": "610cc9081a64fdd0373a906e"
+        "Hududlar": "Republic of Uzbekistan",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "1"
     },
     {
-        "Hududlar": "Republic of Uzbekistan"
+        "Hududlar": "Republic of Karakalpakstan",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "2"
     },
     {
-        "Hududlar": "Republic of Karakalpakstan"
+        "Hududlar": "Andijan",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "3"
     },
     {
-        "Hududlar": "Andijan"
+        "Hududlar": "Bukhara",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "4"
     },
     {
-        "Hududlar": "Bukhara"
+        "Hududlar": "Jizzakh",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "5"
     },
     {
-        "Hududlar": "Jizzakh"
+        "Hududlar": "Kashkadarya",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "6"
     },
     {
-        "Hududlar": "Kashkadarya"
+        "Hududlar": "Navoi",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "7"
     },
     {
-        "Hududlar": "Navoi"
+        "Hududlar": "Namangan",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "8"
     },
     {
-        "Hududlar": "Namangan"
+        "Hududlar": "Samarkand",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "9"
     },
     {
-        "Hududlar": "Samarkand"
+        "Hududlar": "Surkhandarya",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "10"
     },
     {
-        "Hududlar": "Surkhandarya"
+        "Hududlar": "Syrdarya",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "11"
     },
     {
-        "Hududlar": "Syrdarya"
+        "Hududlar": "Tashkent",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "12"
     },
     {
-        "Hududlar": "Tashkent"
+        "Hududlar": "Fergana",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "13"
     },
     {
-        "Hududlar": "Fergana"
+        "Hududlar": "Khorezm",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "14"
     },
     {
-        "Hududlar": "Khorezm"
+        "Hududlar": "Tashkent city",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "15"
     },
     {
-        "Hududlar": "Tashkent city"
+        "Hududlar": "",
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "16"
     },
     {
-        "Hududlar": ""
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "17"
     },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "18"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "19"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "20"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "21"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "22"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "23"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "24"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "25"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "26"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "27"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "28"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "29"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "30"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "31"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "32"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "33"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "34"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "35"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "36"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "37"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "38"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "39"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "40"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "41"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "42"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "43"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "44"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "45"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "46"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "47"
+    },
+    {
+        "path_id": "610cc9081a64fdd0373a906e",
+        "ID": "48"
+    }
 ]

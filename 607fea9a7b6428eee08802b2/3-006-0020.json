@@ -1,0 +1,56 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Creative school named after Abdulla Oripov",
+        "Soni": "15",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Creative school named after Erkin Vohidov",
+        "Soni": "17",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Creative school named after Ibrayim Yusupov",
+        "Soni": "10",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "4",
+        "Maktab": "Creative school named after Hamid Olimjon and Zulfiya",
+        "Soni": "13",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "5",
+        "Maktab": "Creative school named after Isxakhon Ibrat",
+        "Soni": "33",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "6",
+        "Maktab": "Creative school named after Halima Khudoiberdiyeva",
+        "Soni": "7",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "7",
+        "Maktab": "Creative school named after Agahi",
+        "Soni": "6",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "8",
+        "Maktab": "Creative school named after Abdulla Kodiri",
+        "Soni": "6",
+        "path_id": "6110d3c3db32b99538e0819d"
+    },
+    {
+        "ID": "9",
+        "Maktab": "Creative school named after Muhammad Yusuf",
+        "Soni": "10",
+        "path_id": "6110d3c3db32b99538e0819d"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "SHIFR": "33",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Urganch davlat universiteti",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "1"
+    },
+    {
+        "SHIFR": "5110800",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Tasviriy sanʼat va muhandislik grafikasi",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "2"
+    },
+    {
+        "SHIFR": "5111100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Musiqa taʼlimi",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "3"
+    },
+    {
+        "SHIFR": "5111200",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Oʼzbek tili va adabiyoti",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "4"
+    },
+    {
+        "SHIFR": "5111700",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Boshlangʼich taʼlim",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "5"
+    },
+    {
+        "SHIFR": "5111800",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Maktabgacha taʼlim",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "6"
+    },
+    {
+        "SHIFR": "5112000",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Jismoniy madaniyat",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "7"
+    },
+    {
+        "SHIFR": "5112100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Texnologik taʼlim",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "8"
+    },
+    {
+        "SHIFR": "5120100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Filologiya va tillarni oʼqitish: oʼzbek tili",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "9"
+    },
+    {
+        "SHIFR": "5120300",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Tarix (mamlakatlar va yoʼnalishlar boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "10"
+    },
+    {
+        "SHIFR": "5130100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Matematika",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "11"
+    },
+    {
+        "SHIFR": "5140100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Biologiya (turlari boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "12"
+    },
+    {
+        "SHIFR": "5140600",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Geografiya",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "13"
+    },
+    {
+        "SHIFR": "5141000",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Tuproqshunoslik",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "14"
+    },
+    {
+        "SHIFR": "5210200",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Psixologiya (faoliyat turlari boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "15"
+    },
+    {
+        "SHIFR": "5230100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Iqtisodiyot (tarmoqlar va sohalar boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "16"
+    },
+    {
+        "SHIFR": "5230300",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Biznesni boshqarish (tarmoqlar boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "17"
+    },
+    {
+        "SHIFR": "5230900",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Buxgalteriya hisobi va audit (tarmoqlar boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "18"
+    },
+    {
+        "SHIFR": "5311500",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Geodeziya, kartografiya va kadastr (funktsiyalari boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "19"
+    },
+    {
+        "SHIFR": "5320400",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Kimyoviy texnologiya (ishlab chiqarish turlari boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "20"
+    },
+    {
+        "SHIFR": "5520100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Ijtimoiy ish (fuqarolarning oʼz-oʼzini boshqarish organlari)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "21"
+    },
+    {
+        "SHIFR": "5610200",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Mehmonxona xoʼjaligini tashkil etish va boshqarish",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "22"
+    },
+    {
+        "SHIFR": "5610300",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Turizm (faoliyat yoʼnalishlari boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "23"
+    },
+    {
+        "SHIFR": "5610535",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Sport faoliyati (xotin-qizlar sporti yoʼnalishi boʼyicha)",
+        "path_id": "637dc9704878653e5fe424e2",
+        "ID": "24"
+    }
+]

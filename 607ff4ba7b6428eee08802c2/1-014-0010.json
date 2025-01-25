@@ -1,8 +1,5 @@
 [
     {
-        "path_id": "6107d2a72a2e256d868e86ea"
-    },
-    {
         "ID": "1",
         "nomi": "\r\nNumber of developed regulatory legal acts",
         "2016yil": "75",
@@ -11,7 +8,8 @@
         "2019yil": "259",
         "2020yil": "199",
         "2021yil": "202",
-        "2022reja": "Anti-corruption expertise of about 2,500 draft regulatory legal acts and about 2,000 regulatory legal acts"
+        "2022reja": "Anti-corruption expertise of about 2,500 draft regulatory legal acts and about 2,000 regulatory legal acts",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "2",
@@ -22,7 +20,8 @@
         "2019yil": "-",
         "2020yil": "-",
         "2021yil": "-",
-        "2022reja": "Development of Entrepreneurship and Intellectual Property Codes, systematizing about 5,000 legal acts regulating entrepreneurial activity"
+        "2022reja": "Development of Entrepreneurship and Intellectual Property Codes, systematizing about 5,000 legal acts regulating entrepreneurial activity",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "3",
@@ -33,7 +32,8 @@
         "2019yil": "55",
         "2020yil": "44",
         "2021yil": "52",
-        "2022reja": "The number of public services provided is 11 million. optimization of procedures for 50 public services and transfer of 15 public services to electronic form"
+        "2022reja": "The number of public services provided is 11 million. optimization of procedures for 50 public services and transfer of 15 public services to electronic form",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "4",
@@ -44,7 +44,8 @@
         "2019yil": "0",
         "2020yil": "1",
         "2021yil": "1",
-        "2022reja": "implementation of public services through a mobile application"
+        "2022reja": "implementation of public services through a mobile application",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "5",
@@ -55,7 +56,8 @@
         "2019yil": "67",
         "2020yil": "48",
         "2021yil": "38",
-        "2022reja": "Creation of a system for communicating orders and orders of government bodies to the population through the gradual publication of the electronic system \"E-qaror\""
+        "2022reja": "Creation of a system for communicating orders and orders of government bodies to the population through the gradual publication of the electronic system \"E-qaror\"",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "6",
@@ -66,7 +68,8 @@
         "2019yil": "110",
         "2020yil": "81",
         "2021yil": "80",
-        "2022reja": "Implementation of a document digitization system for all schools, preschool educational institutions and family clinics of the Republic and consideration of all their documents by Legal Services Centers"
+        "2022reja": "Implementation of a document digitization system for all schools, preschool educational institutions and family clinics of the Republic and consideration of all their documents by Legal Services Centers",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "7",
@@ -77,7 +80,8 @@
         "2019yil": "27",
         "2020yil": "25",
         "2021yil": "31",
-        "2022reja": "Carrying out a legal action \"Ensuring guarantees of citizens' access to information\" within the framework of the project \"Human Rights - the Highest Value\""
+        "2022reja": "Carrying out a legal action \"Ensuring guarantees of citizens' access to information\" within the framework of the project \"Human Rights - the Highest Value\"",
+        "path_id": "6107d2a72a2e256d868e86ea"
     },
     {
         "ID": "8",
@@ -88,6 +92,7 @@
         "2019yil": "-",
         "2020yil": "-",
         "2021yil": "-",
-        "2022reja": "Carrying out a lawsuit to protect the rights of social workers."
+        "2022reja": "Carrying out a lawsuit to protect the rights of social workers.",
+        "path_id": "6107d2a72a2e256d868e86ea"
     }
 ]

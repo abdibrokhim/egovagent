@@ -1,0 +1,32 @@
+[
+    {
+        "Hudud": " Khorezm",
+        "OTMNOMI": "Урганч давлат университети",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "830",
+        "AYOL": "410",
+        "ERKAK": "420",
+        "path_id": "637b19404878653e5fe412f2",
+        "ID": "1"
+    },
+    {
+        "Hudud": " Khorezm",
+        "OTMNOMI": "Тошкент тиббиёт академияси Урганч филиали",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "252",
+        "AYOL": "128",
+        "ERKAK": "124",
+        "path_id": "637b19404878653e5fe412f2",
+        "ID": "2"
+    },
+    {
+        "Hudud": " Khorezm",
+        "OTMNOMI": "Тошкент ахборот технологиялари университети Урганч филиали",
+        "Olchovbirligi": "people",
+        "PROFESSOROQITUVCHILARNINGUMUMIYSONI": "76",
+        "AYOL": "19",
+        "ERKAK": "57",
+        "path_id": "637b19404878653e5fe412f2",
+        "ID": "3"
+    }
+]

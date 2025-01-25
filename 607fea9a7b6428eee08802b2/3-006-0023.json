@@ -1,0 +1,23 @@
+[
+    {
+        "ID": "1",
+        "Maktab": "Muhammad al-Khwarizmi Specialized IT School",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d491db32b99538e081a3"
+    },
+    {
+        "ID": "2",
+        "Maktab": "Boarding school for young biologists and chemists named after Abu Ali ibn Sina",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d491db32b99538e081a3"
+    },
+    {
+        "ID": "3",
+        "Maktab": "Mirzo Ulugbek State Boarding School for Physics, Mathematics, Astronomy and Informatics",
+        "Joylari": "-",
+        "Muddati": "-",
+        "path_id": "6110d491db32b99538e081a3"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "SHIFR": "35",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Nukus davlat pedagogika instituti",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "1"
+    },
+    {
+        "SHIFR": "5110100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Matematika va informatika",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "2"
+    },
+    {
+        "SHIFR": "5110400",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Biologiya",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "3"
+    },
+    {
+        "SHIFR": "5110500",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Geografiya va iqtisodiy bilim asoslari",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "4"
+    },
+    {
+        "SHIFR": "5110600",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Tarix",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "5"
+    },
+    {
+        "SHIFR": "5110800",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Tasviriy sanʼat va muhandislik grafikasi",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "6"
+    },
+    {
+        "SHIFR": "5110900",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Pedagogika va psixologiya",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "7"
+    },
+    {
+        "SHIFR": "5111100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Musiqa taʼlimi",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "8"
+    },
+    {
+        "SHIFR": "5111200",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Oʼzbek tili va adabiyoti",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "9"
+    },
+    {
+        "SHIFR": "5111300",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Ona tili va adabiyoti: qoraqalpoq tili va adabiyoti",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "10"
+    },
+    {
+        "SHIFR": "5111600",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Milliy gʼoya, maʼnaviyat asoslari va huquq taʼlimi",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "11"
+    },
+    {
+        "SHIFR": "5111700",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Boshlangʼich taʼlim",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "12"
+    },
+    {
+        "SHIFR": "5111800",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Maktabgacha taʼlim",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "13"
+    },
+    {
+        "SHIFR": "5112000",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Jismoniy madaniyat",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "14"
+    },
+    {
+        "SHIFR": "5112100",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Texnologik taʼlim",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "15"
+    },
+    {
+        "SHIFR": "5112500",
+        "VAZIRLIKLARIDORALAROLIYTALIMMUASSASALARIVATALIMYONALISHLARINOMI": "Oʼzga tilli guruhlarda rus tili",
+        "path_id": "637dc9074878653e5fe424d5",
+        "ID": "16"
+    }
+]

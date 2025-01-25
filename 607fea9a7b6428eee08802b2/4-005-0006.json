@@ -1,0 +1,1584 @@
+[
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Astronomiya instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.FM.15.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "1"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Buxoro muhandislik-texnologiya instituti",
+        "CouncilNumber": "PhD.03/27.02.2021.FM.101.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "2"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Ion-plazma va lazer texnologiyalari instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.FM.65.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "3"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti",
+        "CouncilNumber": "PhD.03/30.06.2020.FM.70.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "4"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti",
+        "CouncilNumber": "PhD.03/31.03.2021.FM.70.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "5"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Matematika instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.FM.86.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "6"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.FM.02.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "7"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "DSc.03/30.07.2020.FM.02.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "8"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03.30.12.2019.FM.01.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "9"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.FM.01.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "10"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.FM.01.09",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "11"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti Yarimo‘tkazgichlar fizikasi va mikroelektronika",
+        "CouncilNumber": "DSc.03/30.12.2019.FM/T.01.12",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "12"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Urganch davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.FM.55.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "13"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Urganch davlat universiteti",
+        "CouncilNumber": "PhD.03/30.09.2020.FM.55.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "14"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.FM.05.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "15"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Farg‘ona politexnika instituti",
+        "CouncilNumber": "PhD.03/27.02.2020.FM.106.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "16"
+    },
+    {
+        "CodeBranch": "01.00.00",
+        "ScientificCouncil": "Yadro fizikasi instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.FM/T.33.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "17"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Bioorganik kimyo instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.K/В.37.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "18"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.K.72.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "19"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Buxoro muhandislik-texnologiya instituti ",
+        "CouncilNumber": "PhD.03/30.12.2019.Т.101.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "20"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.Т.20.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "21"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Namangan muhandislik-texnologiya instituti ",
+        "CouncilNumber": "PhD.03/30.12.2019.К/Т.66.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "22"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Polimerlar kimyosi va fizikasi instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.K/FM/T.36.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "23"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.K.02.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "24"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Termiz davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.Т.78.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "25"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Toshkent viloyati Chirchiq davlat pedagogika instituti ",
+        "CouncilNumber": "DSc.03/30.09.2020.К.82.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "26"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti «Fan va taraqqiyot» DUK ",
+        "CouncilNumber": "DSc.03/30.12.2019.K/T.03.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "27"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Toshkent kimyo-texnologiya ilmiy-tadqiqot instituti  ",
+        "CouncilNumber": "DSc.16/30.12.2019.Т.87.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "28"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Toshkent kimyo-texnologiya instituti ",
+        "CouncilNumber": "DSc.03/30.12.2019.Т.04.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "29"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Toshkent kimyo-texnologiya instituti ",
+        "CouncilNumber": "DSc.03/30.12.2019.К/Т.04.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "30"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti ",
+        "CouncilNumber": "DSc.03/30.12.2019.К.01.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "31"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Umumiy va noorganik kimyo instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.K/T.35.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "32"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "O‘simlik moddalari kimyosi instituti ",
+        "CouncilNumber": "DSc.02/30.01.2020.К/Т.104.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "33"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.K.05.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "34"
+    },
+    {
+        "CodeBranch": "02.00.00",
+        "ScientificCouncil": "Farg‘ona politexnika instituti ",
+        "CouncilNumber": "DSc.03/30.04.2021.T.106.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "35"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Botanika instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.В.39.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "36"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.В.72.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "37"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Genetika va o‘simliklar eksperimental biologiyasi instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.В.53.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "38"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Guliston davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.B.91.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "39"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Guliston davlat universiteti ",
+        "CouncilNumber": "DSc.03/05.06.2020.В.91.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "40"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Zoologiya instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.В.52.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "41"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.06.2020.В.70.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "42"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.В.20.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "43"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Qoraqalpoq tabiiy fanlar ilmiy-tadqiqot instituti ",
+        "CouncilNumber": "DSc.02/30.04.2021.B.79.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "44"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Mikrobiologiya instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.В.38.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "45"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.B.76.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "46"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.B.02.08",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "47"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti ",
+        "CouncilNumber": "DSc.03/27.02.2020.В.01.15",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "48"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti Biofizika va biokimyo instituti ",
+        "CouncilNumber": "DSc.03/30.12.2019.В.01.13",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "49"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.B.05.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "50"
+    },
+    {
+        "CodeBranch": "03.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.06.2021.В.05.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "51"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "“O`ZLITINEFTGAZ” AJ ",
+        "CouncilNumber": "DSc.23/25.08.2021.T.136.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "52"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Geologiya va geofizika instituti ",
+        "CouncilNumber": "DSc.24/30.10.2020.GM.125.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "53"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Gidrogeologiya va injenerlik geologiyasi instituti ",
+        "CouncilNumber": "DSc.24/30.12.2019.GM.96.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "54"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Milliy texnologik tadqiqotlar universiteti «MISiS»ning Olmaliq shahridagi filiali ",
+        "CouncilNumber": "DSc.22/30.12.2019.Т.98.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "55"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Mineral resurslar instituti DK ",
+        "CouncilNumber": "DSc.24/30.12.2019.GM.40.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "56"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Navoiy davlat konchilik instituti ",
+        "CouncilNumber": "DSc.17/04.06.2021.T.06.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "57"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Navoiy davlat konchilik instituti ",
+        "CouncilNumber": "DSc.17/04.06.2021.T.06.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "58"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Neft va gaz konlari geologiyasi hamda qidiruvi instituti ",
+        "CouncilNumber": "DSc.24/30.12.2019.GM.41.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "59"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Seysmologiya instituti ",
+        "CouncilNumber": "DSc.02/30.12.2019.GM/FM.97.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "60"
+    },
+    {
+        "CodeBranch": "04.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti ",
+        "CouncilNumber": "DSc.03/05.06.2020.Т.03.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "61"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "«Fizika-Quyosh» IIChB",
+        "CouncilNumber": "DSc.02/27.02.2020.FM/T.110.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "62"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Andijon qishloq xo‘jaligi va agrotexnologiyalar instituti",
+        "CouncilNumber": "PhD.05/30.06.2021.Т. 126.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "63"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Andijon mashinasozlik instituti",
+        "CouncilNumber": "PhD.03/30.09.2020.T.124.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "64"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Jizzax politexnika instituti",
+        "CouncilNumber": "PhD.03/30.06.2020.T.115.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "65"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Qarshi muhandislik-iqtisodiyot instituti",
+        "CouncilNumber": "PhD.03/30.06.2020.T.111.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "66"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Qarshi muhandislik-iqtisodiyot instituti",
+        "CouncilNumber": "PhD.03/30.09.2020.T.111.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "67"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Qishloq xo‘jaligini mexanizatsiyalash ilmiy-tadqiqot instituti",
+        "CouncilNumber": "PhD.05/13.05.2020.T.112.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "68"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Qoraqalpoq tabiiy fanlar ilmiy-tadqiqot instituti",
+        "CouncilNumber": "PhD.02/30.04.2021.Т.79.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "69"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Mexanika va inshootlar seysmik mustahkamligi instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Т/FM.61.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "70"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Namangan muhandislik-qurilish instituti",
+        "CouncilNumber": "PhD.03/30.12.2019.Т.90.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "71"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Namangan muhandislik-texnologiya instituti",
+        "CouncilNumber": "PhD.03.30.12.2019.Т.66.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "72"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Rossiya davlat neft va gaz universitetining Toshkent shahridagi filiali",
+        "CouncilNumber": "DSc.22/30.12.2019.T/Ped.99.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "73"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Samarqand davlat arxitektura-qurilish instituti",
+        "CouncilNumber": "PhD.26/27.02.2020.Т.109.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "74"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.FM/Т.02.09",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "75"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent arxitektura-qurilish instituti",
+        "CouncilNumber": "DSc.26/30.12.2019.Т.11.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "76"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent axborot texnologiyalari universiteti",
+        "CouncilNumber": "DSc.13/30.12.2019.Т.07.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "77"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent axborot texnologiyalari universiteti",
+        "CouncilNumber": "DSc.13/30.12.2019.Т.07.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "78"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Т.03.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "79"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti",
+        "CouncilNumber": "DSc.03/10.12.2019.Т.03.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "80"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti",
+        "CouncilNumber": "DSc.03/10.12.2019.Т.03.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "81"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat transport universiteti",
+        "CouncilNumber": "DSc.18/30.12.2019.Т.09.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "82"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat transport universiteti",
+        "CouncilNumber": "PhD.15/30.12.2019.Т.73.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "83"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent davlat transport universiteti",
+        "CouncilNumber": "DSc.15/27.02.2020.T.73.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "84"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.Т.10.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "85"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.Т.10.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "86"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Toshkent to‘qimachilik va yengil sanoat instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.Т.08.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "87"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Favqulodda vaziyatlar vazirligi Akademiyasi",
+        "CouncilNumber": "PhD.40/30.12.2020.T.129.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "88"
+    },
+    {
+        "CodeBranch": "05.00.00",
+        "ScientificCouncil": "Farg‘ona politexnika instituti",
+        "CouncilNumber": "PhD.03/27.02.2020.Т.106.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "89"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Andijon davlat universiteti",
+        "CouncilNumber": "DSc.03/31.12.2020.Tar.60.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "90"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "PhD.03/27.02.2020.Tar.72.07",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "91"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti",
+        "CouncilNumber": "PhD.03/27.02.2021.Tar.70.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "92"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Tar.20.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "93"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Milliy arxeologiya markazi",
+        "CouncilNumber": "DSс.02/02.30.12.2019. Tar.45.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "94"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Tar.02.10",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "95"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Termiz davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Tar.78.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "96"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc 03/30.12.2019.Tar.01.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "97"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Urganch davlat universiteti",
+        "CouncilNumber": "PhD.03/30.06.2021.Tar.55.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "98"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Fanlar akademiyasi Tarix instituti",
+        "CouncilNumber": "DSc.02/30.12.2019. Tar.56.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "99"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti",
+        "CouncilNumber": "PhD.03/31.03.2021.Tar.05.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "100"
+    },
+    {
+        "CodeBranch": "07.00.00",
+        "ScientificCouncil": "Sharqshunoslik instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Tar.44.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "101"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Andijon davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.I.60.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "102"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Biznes va tadbirkorlik oliy maktabi ",
+        "CouncilNumber": "DSc.19/30.12.2019.I.88.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "103"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "G.V.Plexanov nomidagi Rossiya iqtisodiyot universitetining Toshkent shahridagi filiali ",
+        "CouncilNumber": "DSc.22/30.12.2019.I.100.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "104"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Kadrlar malakasini oshirish va statistik tadqiqotlar instituti ",
+        "CouncilNumber": "DSc.29/30.12.2019.I.92.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "105"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti ",
+        "CouncilNumber": "РhD.03/30.01.2020.I.20.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "106"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Qo‘qon universiteti ",
+        "CouncilNumber": "PhD.03/31.12.2020.I.130.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "107"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Namangan muhandislik-texnologiya instituti  ",
+        "CouncilNumber": "PhD.03/27.05.2020.I.66.03  ",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "108"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Prognozlashtirish va makroiqtisodiy tadqiqotlar instituti ",
+        "CouncilNumber": "DSc.14/30.12.2019. I.84.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "109"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Samarqand iqtisodiyot va servis instituti ",
+        "CouncilNumber": "DSс.30/03.2019.I.18.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "110"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent davlat iqtisodiyot universiteti ",
+        "CouncilNumber": "DSc.03/10.12.2019.I.16.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "111"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent davlat iqtisodiyot universiteti ",
+        "CouncilNumber": "DSc.03/31.12.2020.I.16.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "112"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent davlat iqtisodiyot universiteti ",
+        "CouncilNumber": "DSc.03/30.01.2021.I.16.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "113"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent davlat texnika universiteti ",
+        "CouncilNumber": "DSC.03/30.12.2019.I.03.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "114"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent davlat transport universiteti ",
+        "CouncilNumber": "DSc.15/31.12.2020.I.09.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "115"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent irrigatsiya va qishloq xo‘jaligini mexanizatsiyalash muhandislari instituti ",
+        "CouncilNumber": "DSc.03/30.01.2020.I.10.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "116"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent moliya instituti  ",
+        "CouncilNumber": "DSc.03/30.12.2019.I.17.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "117"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent shahridagi Yodju texnika instituti  ",
+        "CouncilNumber": "PhD.03/04.06.2021.I.133.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "118"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Toshkent shahridagi Xalqaro Vestminster universiteti ",
+        "CouncilNumber": "DSc.22/30.12.2019.I.85.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "119"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "O‘zbekiston Milliy universiteti  ",
+        "CouncilNumber": "DSc.03/30.12.2019.I.01.11",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "120"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Prezidenti huzuridagi Davlat boshqaruvi akademiyasi ",
+        "CouncilNumber": "DSc.20/13.05.2020.I.23.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "121"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Urganch davlat universiteti ",
+        "CouncilNumber": "PhD.03/28.08.2020.1.55.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "122"
+    },
+    {
+        "CodeBranch": "08.00.00",
+        "ScientificCouncil": "Farg‘ona politexnika instituti ",
+        "CouncilNumber": "PhD.03/27.02.2020.I.106.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "123"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "Andijon davlat universiteti",
+        "CouncilNumber": "PhD.03/30.06.2020.F.60.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "124"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "PhD.03/27.02.2020.F.72.08",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "125"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti",
+        "CouncilNumber": "PhD.03/30.04.2021.F.76.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "126"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "Respublika ma’naviyat va ma’rifat markazi huzuridagi Ijtimoiy-ma’naviy tadqiqotlar instituti",
+        "CouncilNumber": "DSc.03/30.06.2021.F.135.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "127"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Ғ.02.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "128"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.F.01.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "129"
+    },
+    {
+        "CodeBranch": "09.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.F.01.14",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "130"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Andijon davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Fil.60.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "131"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "DSc.03/04.06.2021.Fil.72.09",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "132"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "DSc.03/04.06.2021.Fil.72.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "133"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Guliston davlat universiteti",
+        "CouncilNumber": "PhD.03/27.02.2020.F.91.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "134"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Jizzax davlat pedagogika instituti",
+        "CouncilNumber": "PhD.03/04.06.2020.Fil.113.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "135"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Fil.70.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "136"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Qoraqalpoq gumanitar fanlar ilmiy-tadqiqot instituti",
+        "CouncilNumber": "DSc.02/25.08.2021.Fil.137.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "137"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti",
+        "CouncilNumber": "DSc.03/30.04.2021.Fil.20.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "138"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Qo‘qon davlat pedagogika instituti",
+        "CouncilNumber": "PhD.03/04.05.2021.Fil.132.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "139"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti",
+        "CouncilNumber": "PhD.03/04.06.2020.Fil.76.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "140"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti",
+        "CouncilNumber": "PhD.03/31.03.2021.Fil.76.05",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "141"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil.02.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "142"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Samarqand davlat chet tillar instituti",
+        "CouncilNumber": "PhD.03/30.12.2019.Fil/Ped.83.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "143"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Termiz davlat universiteti",
+        "CouncilNumber": "PhD.03/31.03.2021.Fil.78.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "144"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Toshkent davlat o‘zbek tili va adabiyoti universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil.19.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "145"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Toshkent davlat sharqshunoslik universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil/Tar.21.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "146"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbek tili, adabiyoti va folklori instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Fil.46.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "147"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbek tili, adabiyoti va folklori instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Fil.46.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "148"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbek tili, adabiyoti va folklori instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Fil.46.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "149"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbekiston davlat jahon tillari universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil/Ped.27.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "150"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbekiston jurnalistika va ommaviy kommunikatsiyalar universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Fil.14.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "151"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil.01.10",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "152"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/25.08.2021.Fil.01.16",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "153"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Urganch davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Fil.55.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "154"
+    },
+    {
+        "CodeBranch": "10.00.00",
+        "ScientificCouncil": "Farg‘ona davlat universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Fil.05.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "155"
+    },
+    {
+        "CodeBranch": "11.00.00",
+        "ScientificCouncil": "Gidrometeorologiya ilmiy-tekshirish instituti ",
+        "CouncilNumber": "DSc.27/30.12.2019.Gr.47.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "156"
+    },
+    {
+        "CodeBranch": "11.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti ",
+        "CouncilNumber": "DSc.03/30.12.2019.Gr.02.07",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "157"
+    },
+    {
+        "CodeBranch": "11.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti ",
+        "CouncilNumber": "DSc.03/30.12.2019.Gr.01.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "158"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Jahon iqtisodiyoti va diplomatiya universiteti ",
+        "CouncilNumber": "DSc.11/30.12.2019/Tar/Yu/I/S/24/01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "159"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Inson huquqlari bo‘yicha O‘zbekiston Respublikasining Milliy markazi ",
+        "CouncilNumber": "DSc.39/30.11.2020.Yu/S.128.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "160"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Qoraqalpoq davlat universiteti ",
+        "CouncilNumber": "PhD.03/30.12.2019.Yu.20.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "161"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Toshkent davlat yuridik universiteti ",
+        "CouncilNumber": "DSc.07/30.12.2019.Yu.22.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "162"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Toshkent davlat yuridik universiteti ",
+        "CouncilNumber": "DSc.07/30.12.2019.Yu.22.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "163"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Toshkent davlat yuridik universiteti ",
+        "CouncilNumber": "DSc.07/13.05.2020.Yu.22.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "164"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "Toshkent davlat yuridik universitetining Ixtisoslashtirilgan filiali ",
+        "CouncilNumber": "PhD.07/28.08.2020.Yu.22a.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "165"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Adliya vazirligi qoshidagi Yuristlar malakasini oshirish markazi huzuridagi",
+        "CouncilNumber": "DSc.07/27.02.2020.Yu.108.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "166"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Bosh prokuraturasi ",
+        "CouncilNumber": "DSc. 31/31.12.2020.Yu.67.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "167"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Jamoat xavsizligi universiteti ",
+        "CouncilNumber": "DSc. 32/30.12.2020.Yu/74.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "168"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Ichki ishlar vazirligi akademiyasi  ",
+        "CouncilNumber": "DSc.31/30.12.2019.Yu.25.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "169"
+    },
+    {
+        "CodeBranch": "12.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Sudyalar oliy kengashi huzuridagi Sudyalar oliy maktabi  ",
+        "CouncilNumber": "PhD.37/27.02.2020.Yu.107.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "170"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Ped.72.04",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "171"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Jizzax davlat pedagogika instituti",
+        "CouncilNumber": "PhD.03/04.06.2020.Ped.113.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "172"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Qarshi davlat universiteti",
+        "CouncilNumber": "PhD.03/04.06.2020.Ped.70.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "173"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Maktabgacha ta’lim tashkilotlari direktor va mutaxassislarini qayta tayyorlash va ularning malakasini oshirish instituti",
+        "CouncilNumber": "PhD.12/30.12.2019.Ped.80.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "174"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Mahalla va oila ilmiy-tadqiqot instituti",
+        "CouncilNumber": "PhD.21/30.10.2020.Ped/S.127.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "175"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti",
+        "CouncilNumber": "PhD.03/04.06.2020.Ped.76.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "176"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Namangan davlat universiteti",
+        "CouncilNumber": "PhD.03/04.06.2020.Ped.76.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "177"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Nukus davlat pedagogika instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.Ped.34.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "178"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Pedagogik innovatsiyalar, kasb-hunar ta’limi boshqaruv hamda pedagog kadrlarni qayta tayyorlash va ularning malakasini oshirish instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.Ped.48.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "179"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Samarqand davlat universiteti",
+        "CouncilNumber": "PhD.03/30.01.2020.Ped.02.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "180"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Termiz davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12/2019.Ped.78.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "181"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Toshkent viloyati Chirchiq davlat pedagogika instituti",
+        "CouncilNumber": "PhD.03/30.12.2019.Ped.82.0",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "182"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Toshkent davlat pedagogika universiteti",
+        "CouncilNumber": "DSc.03/30.01.2020.Ped.26.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "183"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "O‘zbekiston davlat jismoniy tarbiya va sport universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Ped.28.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "184"
+    },
+    {
+        "CodeBranch": "13.00.00",
+        "ScientificCouncil": "Xalq ta’limi tizimi rahbar va mutaxassis xodimlarini qayta tayyorlash va malakasini oshirish instituti",
+        "CouncilNumber": "DSc.28/30.12.2019.Ред.68.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "185"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Andijon davlat tibbiyot instituti",
+        "CouncilNumber": "PhD.04/30.12.2019.Tib.95.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "186"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Buxoro davlat tibbiyot instituti",
+        "CouncilNumber": "DSc/PhD.04/30.12.2019.Tib.93.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "187"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Buxoro davlat tibbiyot instituti",
+        "CouncilNumber": "PhD.04/13.05.2020.Tib.93.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "188"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Immunologiya va inson genomikasi instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.Tib.50.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "189"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Korakalpogiston tibbiyot instituti",
+        "CouncilNumber": "PhD.04/30.06.2020.Tib.116.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "190"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtioslashtirilgan travmatologiya va ortopediya ilmiy amaliy tibbiyot markazi",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.62.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "191"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtisoslashtirilgan akusherlik va ginekologiya ilmiy-amaliy tibbiyot markazi",
+        "CouncilNumber": "PhD.04/05.06.2020.Tib.114",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "192"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtisoslashtirilgan kardiologiya ilmiy-amaliy tibbiyot markazi",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.64.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "193"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtisoslashtirilgan kuz mikroxirurgiyasi ilmiy-amaliy tibbiyot markazi",
+        "CouncilNumber": "PhD.04/30.01.2020.Tib.105.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "194"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtisoslashtirilgan onkologiya va radiologiya ilmiy-amaliy tibbiyot markazi",
+        "CouncilNumber": "DSc.04/30.01.2019. Tib.77.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "195"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika ixtisoslashtirilgan xirurgiya ilmiy-amaliy tibbiyot markazi",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.49.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "196"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika sport tibbiyoti ilmiy-amaliy markazi",
+        "CouncilNumber": "PhD.10/30.12.2019.Tib.69.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "197"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Respublika shoshilinch tibbiy yordam ilmiy markazi",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.63.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "198"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Samarkand davlat tibbiyot instituti",
+        "CouncilNumber": "PhD.04/30.12.2019.Tib.102.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "199"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Samarkand davlat tibbiyot instituti",
+        "CouncilNumber": "DSc.04/05.06.2020.Tib.102.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "200"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent vaksina va zardoblar ilmiy-tadqiqot instituti",
+        "CouncilNumber": "DSc.04/04.06.2021.Tib.134.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "201"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent vrachlar malakasini oshirish instituti",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.31.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "202"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent davlat stomatologiya instituti",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.59.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "203"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent pediatriya tibbiyot instituti",
+        "CouncilNumber": "DSc.04/30.12.2019.Tib.29.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "204"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent tibbiyot akademiyasi",
+        "CouncilNumber": "DSc.04/30.12.2019.Тib.30.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "205"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent tibbiyot akademiyasi",
+        "CouncilNumber": "DSc.04/30.12.2019.Тib.30.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "206"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent tibbiyot akademiyasi",
+        "CouncilNumber": "DSc.04/30.12.2019.Тib.30.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "207"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Toshkent tibbiyot akademiyasi Urganch filiali",
+        "CouncilNumber": "PhD.04/30.09.2020.Tib.123.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "208"
+    },
+    {
+        "CodeBranch": "14.00.00",
+        "ScientificCouncil": "Farg‘ona jamoat salomatligi tibbiyot instituti",
+        "CouncilNumber": "PhD.04/30.09.2020.Tib.122.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "209"
+    },
+    {
+        "CodeBranch": "15.00.00",
+        "ScientificCouncil": "Toshkent farmasevtika instituti ",
+        "CouncilNumber": "DSc.04/30.12.2019.Far.32.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "210"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "Milliy rassomlik va dizayn instituti",
+        "CouncilNumber": "PhD.38/09.07.2020.San.119.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "211"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "San’atshunoslik instituti",
+        "CouncilNumber": "DSc.02/30.12.2019.San.51.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "212"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "O‘zbekiston davlat konservatoriyasi",
+        "CouncilNumber": "PhD.03/30.12.2019.San.54.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "213"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "O‘zbekiston davlat san’at va madaniyat instituti",
+        "CouncilNumber": "PhD.08/28.08.2020.San.121.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "214"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "O‘zbekiston davlat san’at muzeyi",
+        "CouncilNumber": "PhD.08/09.07.2020.San.118.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "215"
+    },
+    {
+        "CodeBranch": "17.00.00",
+        "ScientificCouncil": "O‘zbekiston tarixi davlat muzeyi",
+        "CouncilNumber": "PhD.02/09.07.2020.Tar.120.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "216"
+    },
+    {
+        "CodeBranch": "18.00.00",
+        "ScientificCouncil": "Toshkent arxitektura-qurilish instituti",
+        "CouncilNumber": "DSc.03/30.12.2019.А.11.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "217"
+    },
+    {
+        "CodeBranch": "19.00.00",
+        "ScientificCouncil": "Buxoro davlat universiteti",
+        "CouncilNumber": "PhD.03/30.12.2019.Psi.72.06",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "218"
+    },
+    {
+        "CodeBranch": "19.00.00",
+        "ScientificCouncil": "Toshkent davlat pedagogika universiteti",
+        "CouncilNumber": "DSc.03/30.01.2020.P.26.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "219"
+    },
+    {
+        "CodeBranch": "19.00.00",
+        "ScientificCouncil": "O‘zbekiston milliy universiteti",
+        "CouncilNumber": "DSc.03/30.12.2019.Р.01.07",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "220"
+    },
+    {
+        "CodeBranch": "22.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Prezidenti huzuridagi Davlat boshqaruvi akademiyasi ",
+        "CouncilNumber": "DSc.20/30.12.2019.S.23.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "221"
+    },
+    {
+        "CodeBranch": "23.00.00",
+        "ScientificCouncil": "Toshkent davlat sharqshunoslik universiteti  ",
+        "CouncilNumber": "DSc/03/30.12.2019/Ss/Tar.21.02",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "222"
+    },
+    {
+        "CodeBranch": "23.00.00",
+        "ScientificCouncil": "O‘zbekiston Milliy universiteti ",
+        "CouncilNumber": "DSc.03/30.12.2019.Ss.01.08",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "223"
+    },
+    {
+        "CodeBranch": "23.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Prezidenti huzuridagi Davlat boshqaruvi akademiyasi ",
+        "CouncilNumber": "DSc.20/13.05.2020.Ss.23.03",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "224"
+    },
+    {
+        "CodeBranch": "24.00.00",
+        "ScientificCouncil": "O‘zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi O‘zbekistondagi Islom sivilizatsiyasi markazi ",
+        "CouncilNumber": "DSc.18.11.2019.I/Tar. 94.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "225"
+    },
+    {
+        "CodeBranch": "24.00.00",
+        "ScientificCouncil": "O‘zbekiston xalqaro islom akademiyasi huzuridagi ",
+        "CouncilNumber": "DSc. 35/30.12.2019.Isl/Tar/F.57.01",
+        "path_id": "611127eddb32b99538e0828e",
+        "ID": "226"
+    }
+]
