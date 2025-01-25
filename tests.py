@@ -8,7 +8,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 pc = Pinecone(api_key=os.getenv("MY_PINECONE_API_KEY"))
 
-index_name = "607ff4227b6428eee08802c0"
+index_name = "607ff03a7b6428eee08802b8"
 
 index = pc.Index(index_name)
 
@@ -22,7 +22,7 @@ def embed(docs: list[str]) -> list[list[float]]:
 
 
 ### Query
-query = "Tell me email of Abduraxmonov Ibroxim Yulchiyevch"
+query = "Deputy Minister of Tourism and Sports phone number"
 
 x = embed([query])
 
